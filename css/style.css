@@ -1,0 +1,38 @@
+body {
+    font-family: 'Inter', 'Noto Sans Thai', sans-serif;
+    touch-action: none; /* Prevents browser handling of touch events like scrolling */
+}
+.card {
+    touch-action: pan-y; /* Allow vertical scroll but not horizontal */
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    cursor: grab;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    will-change: transform;
+}
+.card.dragging {
+    transition: none;
+    cursor: grabbing;
+}
+.card-inner {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    border-radius: 1.5rem;
+    overflow: hidden; /* Ensures the colored div doesn't bleed out of the rounded corners */
+}
+.card-inner.learn-mode-card:active {
+    transform: scale(0.98);
+    transition: transform 0.1s ease;
+}
+.section-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1rem;
+}

@@ -204,6 +204,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const diffX = (e.clientX || e.changedTouches[0].clientX) - startX;
             const timeElapsed = Date.now() - startTime;
+            const velocity = Math.abs(diffX) / timeElapsed;
 
             if (isLearnMode && Math.abs(diffX) < 10 && timeElapsed < 200) {
                 speak(currentLanguage === 'english' ? cardData.english : cardData.chinese);
@@ -211,8 +212,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 return;
             }
 
-            if (Math.abs(diffX) > 100) {
-                card.style.transform = `translateX(${diffX > 0 ? 500 : -500}px) rotate(${diffX > 0 ? 30 : -30}deg)`;
+            // Check for a swipe based on distance or velocity
+            if (Math.abs(diffX) > 100 || velocity > 0.5) {
+                card.style.transform = `translateX(${diffX > 0 ? 500 : -500}px) rotate(${diffX > 0 ? 30 : -30}deg) translateZ(0)`;
                 card.style.opacity = '0';
                 setTimeout(() => {
                     cardIndex++;

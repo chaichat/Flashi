@@ -63,7 +63,7 @@
         { "english": "Competitor", "thai": "คู่แข่ง", "phonetic": "คอม-เพ-ทิ-เทอร์" },
         { "english": "Promotion", "thai": "การส่งเสริมการขาย", "phonetic": "โปร-โม-ชั่น" },
         { "english": "Retail", "thai": "ค้าปลีก", "phonetic": "รี-เทล" },
-        { "english": "Wholesale", "phonetic": "โฮล-เซล" },
+        { "english": "Wholesale", "thai": "ค้าส่ง", "phonetic": "โฮล-เซล" },
         { "english": "Commission", "thai": "ค่านายหน้า", "phonetic": "คอม-มิช-ชั่น" },
         { "english": "Lead", "thai": "ผู้ที่สนใจ", "phonetic": "ลีด" }
       ],
@@ -116,24 +116,24 @@
       "Everyday 1: Greetings & Basic Phrases": [
         { "english": "Hello", "thai": "สวัสดี", "phonetic": "ฮัล-โหล" },
         { "english": "Goodbye", "thai": "ลาก่อน", "phonetic": "กู๊ด-บาย" },
-        { "english": "Thank you", "thai": "ขอบคุณ", "phonetic": "แธงค์-คิว" },
+        { "english": "Thanks", "thai": "ขอบคุณ", "phonetic": "แธงค์ส" },
         { "english": "Please", "thai": "โปรด", "phonetic": "พลีส" },
-        { "english": "Excuse me", "thai": "ขอโทษ", "phonetic": "เอ็กซ์-คิวส์-มี" },
-        { "english": "How are you?", "thai": "สบายดีไหม", "phonetic": "ฮาว-อาร์-ยู" },
-        { "english": "I don't understand", "thai": "ฉันไม่เข้าใจ", "phonetic": "ไอ-โดนท์-อัน-เดอร์-สแตนด์" },
+        { "english": "Excuse", "thai": "ขอโทษ", "phonetic": "เอ็กซ์-คิวส์" },
+        { "english": "How", "thai": "อย่างไร", "phonetic": "ฮาว" },
+        { "english": "Understand", "thai": "เข้าใจ", "phonetic": "อัน-เดอร์-สแตนด์" },
         { "english": "Yes", "thai": "ใช่", "phonetic": "เยส" },
         { "english": "No", "thai": "ไม่", "phonetic": "โน" },
         { "english": "Maybe", "thai": "อาจจะ", "phonetic": "เม-บี" },
         { "english": "Help", "thai": "ช่วยด้วย", "phonetic": "เฮลพ์" },
         { "english": "Sorry", "thai": "เสียใจ", "phonetic": "ซอรี่" },
-        { "english": "Good morning", "thai": "อรุณสวัสดิ์", "phonetic": "กู๊ด-มอร์-นิ่ง" },
-        { "english": "Good night", "thai": "ราตรีสวัสดิ์", "phonetic": "กู๊ด-ไนท์" },
-        { "english": "See you later", "thai": "แล้วพบกันใหม่", "phonetic": "ซี-ยู-เล-เทอร์" },
-        { "english": "What is this?", "thai": "นี่คืออะไร", "phonetic": "วอท-อิส-ดิส" },
-        { "english": "How much?", "thai": "เท่าไหร่", "phonetic": "ฮาว-มัช" },
-        { "english": "Where is...?", "thai": "...อยู่ที่ไหน", "phonetic": "แวร์-อิส" },
-        { "english": "I need help", "thai": "ฉันต้องการความช่วยเหลือ", "phonetic": "ไอ-นีด-เฮลพ์" },
-        { "english": "Can you speak English?", "thai": "คุณพูดภาษาอังกฤษได้ไหม", "phonetic": "แคน-ยู-สปีค-อิง-ลิช" }
+        { "english": "Morning", "thai": "เช้า", "phonetic": "มอร์-นิ่ง" },
+        { "english": "Night", "thai": "กลางคืน", "phonetic": "ไนท์" },
+        { "english": "See", "thai": "เห็น", "phonetic": "ซี" },
+        { "english": "What", "thai": "อะไร", "phonetic": "วอท" },
+        { "english": "Much", "thai": "มาก", "phonetic": "มัช" },
+        { "english": "Where", "thai": "ที่ไหน", "phonetic": "แวร์" },
+        { "english": "Need", "thai": "ต้องการ", "phonetic": "นีด" },
+        { "english": "Speak", "thai": "พูด", "phonetic": "สปีค" }
       ],
       "Everyday 2: Food & Dining": [
         { "english": "Water", "thai": "น้ำ", "phonetic": "วอ-เทอร์" },
@@ -155,7 +155,7 @@
         { "english": "Salty", "thai": "เค็ม", "phonetic": "ซอล-ตี้" },
         { "english": "Sour", "thai": "เปรี้ยว", "phonetic": "ซาว-เออร์" },
         { "english": "Bitter", "thai": "ขม", "phonetic": "บิท-เทอร์" },
-        { "english": "Full (satisfied)", "thai": "อิ่ม", "phonetic": "ฟูล" }
+        { "english": "Full", "thai": "อิ่ม", "phonetic": "ฟูล" }
       ],
       "Everyday 3: Shopping": [
         { "english": "Shop", "thai": "ร้านค้า", "phonetic": "ช็อป" },
@@ -169,15 +169,15 @@
         { "english": "Cash", "thai": "เงินสด", "phonetic": "แคช" },
         { "english": "Credit card", "thai": "บัตรเครดิต", "phonetic": "เคร-ดิท-คาร์ด" },
         { "english": "Receipt", "thai": "ใบเสร็จ", "phonetic": "รี-ซีท" },
-        { "english": "Change (money)", "thai": "เงินทอน", "phonetic": "เชนจ์" },
+        { "english": "Change", "thai": "เงินทอน", "phonetic": "เชนจ์" },
         { "english": "Market", "thai": "ตลาด", "phonetic": "มาร์-เก็ต" },
         { "english": "Supermarket", "thai": "ซูเปอร์มาร์เก็ต", "phonetic": "ซู-เปอร์-มาร์-เก็ต" },
         { "english": "Department store", "thai": "ห้างสรรพสินค้า", "phonetic": "ดี-พาร์ท-เมนท์-สโตร์" },
-        { "english": "How much does it cost?", "thai": "ราคาเท่าไหร่", "phonetic": "ฮาว-มัช-ดาส-อิท-คอสท์" },
-        { "english": "Can I try this on?", "thai": "ฉันลองได้ไหม", "phonetic": "แคน-ไอ-ทราย-ดิส-ออน" },
-        { "english": "Too expensive", "thai": "แพงเกินไป", "phonetic": "ทู-เอ็กซ์-เพน-ซีฟ" },
+        { "english": "Cost", "thai": "ราคา", "phonetic": "คอสท์" },
+        { "english": "Try", "thai": "ลอง", "phonetic": "ทราย" },
+        { "english": "Expensive", "thai": "แพง", "phonetic": "เอ็กซ์-เพน-ซีฟ" },
         { "english": "Cheap", "thai": "ถูก", "phonetic": "ชีพ" },
-        { "english": "I'll take it", "thai": "ฉันเอาอันนี้", "phonetic": "ไอ-วิล-เทค-อิท" }
+        { "english": "Take", "thai": "เอา", "phonetic": "เทค" }
       ],
       "Everyday 4: Travel & Directions": [
         { "english": "Map", "thai": "แผนที่", "phonetic": "แมพ" },
@@ -202,7 +202,7 @@
         { "english": "There", "thai": "ที่นั่น", "phonetic": "แธร์" }
       ],
       "Everyday 5: Daily Activities": [
-        { "english": "Wake up", "thai": "ตื่นนอน", "phonetic": "เวค-อัพ" },
+        { "english": "Wake", "thai": "ตื่นนอน", "phonetic": "เวค" },
         { "english": "Sleep", "thai": "นอน", "phonetic": "สลีพ" },
         { "english": "Work", "thai": "ทำงาน", "phonetic": "เวิร์ค" },
         { "english": "Study", "thai": "เรียน", "phonetic": "สตั๊ด-ดี้" },
@@ -215,12 +215,12 @@
         { "english": "Cook", "thai": "ทำอาหาร", "phonetic": "คุก" },
         { "english": "Clean", "thai": "ทำความสะอาด", "phonetic": "คลีน" },
         { "english": "Shower", "thai": "อาบน้ำ", "phonetic": "ชาว-เวอร์" },
-        { "english": "Brush teeth", "thai": "แปรงฟัน", "phonetic": "บรัช-ทีธ" },
+        { "english": "Brush", "thai": "แปรง", "phonetic": "บรัช" },
         { "english": "Exercise", "thai": "ออกกำลังกาย", "phonetic": "เอ็ก-เซอร์-ไซส์" },
-        { "english": "Go to bed", "thai": "เข้านอน", "phonetic": "โก-ทู-เบด" },
-        { "english": "Have breakfast", "thai": "กินอาหารเช้า", "phonetic": "แฮฟ-เบรค-ฟาสท์" },
-        { "english": "Have lunch", "thai": "กินอาหารกลางวัน", "phonetic": "แฮฟ-ลันช์" },
-        { "english": "Have dinner", "thai": "กินอาหารเย็น", "phonetic": "แฮฟ-ดิน-เนอร์" },
+        { "english": "Bed", "thai": "เตียง", "phonetic": "เบด" },
+        { "english": "Breakfast", "thai": "อาหารเช้า", "phonetic": "เบรค-ฟาสท์" },
+        { "english": "Lunch", "thai": "อาหารกลางวัน", "phonetic": "ลันช์" },
+        { "english": "Dinner", "thai": "อาหารเย็น", "phonetic": "ดิน-เนอร์" },
         { "english": "Relax", "thai": "พักผ่อน", "phonetic": "รี-แลกซ์" }
       ]
     }

@@ -195,6 +195,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const currentX = e.clientX || e.touches[0].clientX;
             const diffX = currentX - startX;
             card.style.transform = `translateX(${diffX}px) rotate(${diffX / 20}deg) translateZ(0)`;
+            e.preventDefault(); // Prevent default scrolling
         }
 
         function onPointerUp(e) {
@@ -206,16 +207,19 @@ document.addEventListener('DOMContentLoaded', () => {
             const timeElapsed = Date.now() - startTime;
             const velocity = Math.abs(diffX) / timeElapsed;
 
+            // Define swipe thresholds
+            const minSwipeDistance = 50; // pixels
+            const minSwipeVelocity = 0.2; // pixels per millisecond
+
             if (isLearnMode && Math.abs(diffX) < 10 && timeElapsed < 200) {
                 speak(currentLanguage === 'english' ? cardData.english : cardData.chinese);
                 card.style.transform = '';
                 return;
             }
 
-            // Check for a swipe based on distance or velocity
-            if (Math.abs(diffX) > 100 || velocity > 0.5) {
+            // Check for a swipe based on distance OR velocity
+            if (Math.abs(diffX) > minSwipeDistance || velocity > minSwipeVelocity) {
                 card.style.transform = `translateX(${diffX > 0 ? 500 : -500}px) rotate(${diffX > 0 ? 30 : -30}deg) translateZ(0)`;
-                // Rely on CSS transition for opacity change
                 setTimeout(() => {
                     cardIndex++;
                     renderDeck();

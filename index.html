@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Flashcards for Thais</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Thai:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', 'Noto Sans Thai', sans-serif;
+            touch-action: none; /* Prevents browser handling of touch events like scrolling */
+        }
+        .card {
+            touch-action: pan-y; /* Allow vertical scroll but not horizontal */
+            transition: transform 0.3s ease, opacity 0.3s ease;
+            cursor: grab;
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            will-change: transform;
+        }
+        .card.dragging {
+            transition: none;
+            cursor: grabbing;
+        }
+        .card-inner {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            backface-visibility: hidden;
+            -webkit-backface-visibility: hidden;
+            border-radius: 1.5rem;
+            overflow: hidden; /* Ensures the colored div doesn't bleed out of the rounded corners */
+        }
+        .card-inner.learn-mode-card:active {
+            transform: scale(0.98);
+            transition: transform 0.1s ease;
+        }
+        .section-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 1rem;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 flex flex-col items-center justify-center min-h-screen p-4">
+
+    <div id="app-container" class="w-full max-w-md mx-auto">
+        
+        <!-- Section Selection Screen -->
+        <div id="section-selector" class="w-full bg-white p-6 rounded-3xl shadow-lg">
+            <h1 class="text-2xl font-bold text-center text-gray-800 mb-2">เรียนภาษาอังกฤษ</h1>
+            <p class="text-center text-gray-500 mb-6">กรุณาเลือกบทเรียน</p>
+            <div id="section-grid" class="section-grid">
+                <!-- Sections will be populated by JavaScript -->
+            </div>
+        </div>
+
+        <!-- Flashcard Screen -->
+        <div id="flashcard-container" class="hidden w-full">
+            <div class="flex justify-between items-center mb-4">
+                <button id="back-to-sections" class="text-blue-500 hover:text-blue-700">&larr; กลับไปหน้าหลัก</button>
+                <h2 id="section-title" class="text-xl font-bold text-gray-700"></h2>
+            </div>
+            
+            <div id="deck" class="relative w-full aspect-[3/4] mb-4">
+                <!-- Cards will be injected here -->
+            </div>
+
+            <div id="test-mode-controls" class="hidden text-center mb-4">
+                <button id="reveal-btn" class="w-full px-6 py-4 bg-green-500 text-white font-bold rounded-xl shadow-lg hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-opacity-75 text-lg">
+                    เฉลย
+                </button>
+            </div>
+
+            <div class="flex justify-center items-center space-x-4">
+                <button id="learn-mode-btn" class="px-6 py-2 bg-blue-500 text-white font-semibold rounded-full shadow-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">โหมดเรียนรู้</button>
+                <button id="test-mode-btn" class="px-6 py-2 bg-gray-200 text-gray-700 font-semibold rounded-full hover:bg-gray-300 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75">โหมดทดสอบ</button>
+            </div>
+            
+        </div>
+    </div>
+
+<script>
+    // --- DATA ---
+    const sections = {
+        "Business 1: The Office": [
+            { english: "Meeting", thai: "การประชุม", phonetic: "มีท-ทิ่ง" },
+            { english: "Email", thai: "อีเมล", phonetic: "อี-เมล" },
+            { english: "Report", thai: "รายงาน", phonetic: "รี-พอร์ท" },
+            { english: "Deadline", thai: "กำหนดส่งงาน", phonetic: "เดด-ไลน์" },
+            { english: "Presentation", thai: "การนำเสนอ", phonetic: "พรี-เซน-เท-ชั่น" },
+            { english: "Project", thai: "โครงการ", phonetic: "โปร-เจค" },
+            { english: "Task", thai: "งาน", phonetic: "ทาสค" },
+            { english: "Team", thai: "ทีม", phonetic: "ทีม" },
+            { english: "Manager", thai: "ผู้จัดการ", phonetic: "แม-เน-เจอร์" },
+            { english: "Colleague", thai: "เพื่อนร่วมงาน", phonetic: "คอล-ลีก" },
+            { english: "Client", thai: "ลูกค้า", phonetic: "ไคล-เอ็นท" },
+            { english: "Salary", thai: "เงินเดือน", phonetic: "แซล-ละ-รี่" },
+            { english: "Invoice", thai: "ใบแจ้งหนี้", phonetic: "อิน-วอยซ์" },
+            { english: "Contract", thai: "สัญญา", phonetic: "คอน-แทรค" },
+            { english: "Budget", thai: "งบประมาณ", phonetic: "บัด-เจท" },
+            { english: "Office", thai: "สำนักงาน", phonetic: "ออฟ-ฟิศ" },
+            { english: "Computer", thai: "คอมพิวเตอร์", phonetic: "คอม-พิ้ว-เตอร์" },
+            { english: "Phone", thai: "โทรศัพท์", phonetic: "โฟน" },
+            { english: "Schedule", thai: "ตารางเวลา", phonetic: "สเก-ดูล" },
+            { english: "Goal", thai: "เป้าหมาย", phonetic: "โกล" },
+        ],
+        "Business 2: Money & Finance": [
+            { english: "Profit", thai: "กำไร", phonetic: "พรอ-ฟิท" },
+            { english: "Loss", thai: "ขาดทุน", phonetic: "ลอส" },
+            { english: "Revenue", thai: "รายได้", phonetic: "เรฟ-เวน-นิว" },
+            { english: "Expense", thai: "รายจ่าย", phonetic: "เอ็กซ์-เพนซ์" },
+            { english: "Investment", thai: "การลงทุน", phonetic: "อิน-เวสท-เมนท์" },
+            { english: "Tax", thai: "ภาษี", phonetic: "แท็กซ์" },
+            { english: "Bank", thai: "ธนาคาร", phonetic: "แบงค์" },
+            { english: "Loan", thai: "เงินกู้", phonetic: "โลน" },
+            { english: "Interest", thai: "ดอกเบี้ย", phonetic: "อิน-เทอ-เรสท" },
+            { english: "Stock", thai: "หุ้น", phonetic: "สต็อก" },
+            { english: "Market", thai: "ตลาด", phonetic: "มาร์-เก็ต" },
+            { english: "Price", thai: "ราคา", phonetic: "ไพรซ์" },
+            { english: "Cost", thai: "ต้นทุน", phonetic: "คอสท" },
+            { english: "Payment", thai: "การชำระเงิน", phonetic: "เพ-เมนท์" },
+            { english: "Receipt", thai: "ใบเสร็จ", phonetic: "รี-ซีท" },
+            { english: "Discount", thai: "ส่วนลด", phonetic: "ดิส-เคาท์" },
+            { english: "Asset", thai: "สินทรัพย์", phonetic: "แอส-เซท" },
+            { english: "Liability", thai: "หนี้สิน", phonetic: "ไล-อะ-บิล-ลิ-ตี้" },
+            { english: "Capital", thai: "เงินทุน", phonetic: "แค-ปิ-ทอล" },
+            { english: "Cash", thai: "เงินสด", phonetic: "แคช" },
+        ],
+        "Business 3: Marketing & Sales": [
+            { english: "Customer", thai: "ลูกค้า", phonetic: "คัส-ตอม-เมอร์" },
+            { english: "Product", thai: "สินค้า", phonetic: "โปร-ดัคท" },
+            { english: "Service", thai: "บริการ", phonetic: "เซอ-วิส" },
+            { english: "Brand", thai: "แบรนด์", phonetic: "แบรนด์" },
+            { english: "Advertising", thai: "การโฆษณา", phonetic: "แอด-เวอร์-ไท-ซิ่ง" },
+            { english: "Campaign", thai: "แคมเปญ", phonetic: "แคม-เปญ" },
+            { english: "Sales", thai: "ยอดขาย", phonetic: "เซลส์" },
+            { english: "Target", thai: "เป้าหมาย", phonetic: "ทาร์-เก็ต" },
+            { english: "Strategy", thai: "กลยุทธ์", phonetic: "สแตร-ทิจี้" },
+            { english: "Negotiation", thai: "การเจรจาต่อรอง", phonetic: "นิ-โก-ชิ-เอ-ชั่น" },
+            { english: "Deal", thai: "ข้อตกลง", phonetic: "ดีล" },
+            { english: "Order", thai: "คำสั่งซื้อ", phonetic: "ออ-เดอร์" },
+            { english: "Delivery", thai: "การจัดส่ง", phonetic: "ดิ-ลิ-เวอ-รี่" },
+            { english: "Feedback", thai: "ความคิดเห็น", phonetic: "ฟีด-แบ็ค" },
+            { english: "Competitor", thai: "คู่แข่ง", phonetic: "คอม-เพ-ทิ-เทอร์" },
+            { english: "Promotion", thai: "การส่งเสริมการขาย", phonetic: "โปร-โม-ชั่น" },
+            { english: "Retail", thai: "ค้าปลีก", phonetic: "รี-เทล" },
+            { english: "Wholesale", thai: "ค้าส่ง", phonetic: "โฮล-เซล" },
+            { english: "Commission", thai: "ค่านายหน้า", phonetic: "คอม-มิช-ชั่น" },
+            { english: "Lead", thai: "ผู้ที่สนใจ", phonetic: "ลีด" },
+        ],
+        "Business 4: Jobs & Roles": [
+            { english: "CEO", thai: "ประธานเจ้าหน้าที่บริหาร", phonetic: "ซี-อี-โอ" },
+            { english: "Employee", thai: "พนักงาน", phonetic: "เอม-พลอย-ยี" },
+            { english: "Employer", thai: "นายจ้าง", phonetic: "เอม-พลอย-เยอร์" },
+            { english: "Assistant", thai: "ผู้ช่วย", phonetic: "แอส-ซิส-แทนท์" },
+            { english: "Accountant", thai: "นักบัญชี", phonetic: "แอค-เคาน-เทนท์" },
+            { english: "Engineer", thai: "วิศวกร", phonetic: "เอน-จิ-เนียร์" },
+            { english: "Designer", thai: "นักออกแบบ", phonetic: "ดิ-ไซ-เนอร์" },
+            { english: "Developer", thai: "นักพัฒนา", phonetic: "ดิ-เวล-ลอป-เปอร์" },
+            { english: "Consultant", thai: "ที่ปรึกษา", phonetic: "คอน-ซัล-แทนท์" },
+            { english: "Analyst", thai: "นักวิเคราะห์", phonetic: "แอน-นะ-ลิสท์" },
+            { english: "HR", thai: "ฝ่ายบุคคล", phonetic: "เอช-อาร์" },
+            { english: "Recruiter", thai: "ผู้จัดหางาน", phonetic: "รี-ครูท-เตอร์" },
+            { english: "Intern", thai: "นักศึกษาฝึกงาน", phonetic: "อิน-เทิร์น" },
+            { english: "Partner", thai: "หุ้นส่วน", phonetic: "พาร์ท-เนอร์" },
+            { english: "Founder", thai: "ผู้ก่อตั้ง", phonetic: "เฟา-เดอร์" },
+            { english: "Director", thai: "กรรมการ", phonetic: "ได-เรค-เตอร์" },
+            { english: "Executive", thai: "ผู้บริหาร", phonetic: "เอ็ก-เซ-คิว-ทีฟ" },
+            { english: "Specialist", thai: "ผู้เชี่ยวชาญ", phonetic: "สเป-เชียล-ลิสท์" },
+            { english: "Supervisor", thai: "หัวหน้างาน", phonetic: "ซู-เปอร์-ไว-เซอร์" },
+            { english: "Representative", thai: "ตัวแทน", phonetic: "เรพ-พรี-เซน-ทะ-ทีฟ" },
+        ],
+        "Business 5: Company & Growth": [
+            { english: "Company", thai: "บริษัท", phonetic: "คัม-พะ-นี" },
+            { english: "Business", thai: "ธุรกิจ", phonetic: "บิส-เนส" },
+            { english: "Startup", thai: "สตาร์ทอัพ", phonetic: "สตาร์ท-อัพ" },
+            { english: "Corporation", thai: "บรรษัท", phonetic: "คอร์-พอ-เร-ชั่น" },
+            { english: "Industry", thai: "อุตสาหกรรม", phonetic: "อิน-ดัส-ทรี้" },
+            { english: "Growth", thai: "การเติบโต", phonetic: "โกรท" },
+            { english: "Success", thai: "ความสำเร็จ", phonetic: "ซัค-เซส" },
+            { english: "Failure", thai: "ความล้มเหลว", phonetic: "เฟล-เลียร์" },
+            { english: "Risk", thai: "ความเสี่ยง", phonetic: "ริสค์" },
+            { english: "Opportunity", thai: "โอกาส", phonetic: "ออพ-พอร์-ทู-นิ-ตี้" },
+            { english: "Merger", thai: "การควบรวมกิจการ", phonetic: "เมอ-เจอร์" },
+            { english: "Acquisition", thai: "การซื้อกิจการ", phonetic: "แอค-ควิ-ซิ-ชั่น" },
+            { english: "Headquarters", thai: "สำนักงานใหญ่", phonetic: "เฮด-ควอ-เตอร์ส" },
+            { english: "Branch", thai: "สาขา", phonetic: "บรานช์" },
+            { english: "Department", thai: "แผนก", phonetic: "ดิ-พาร์ท-เมนท์" },
+            { english: "Policy", thai: "นโยบาย", phonetic: "พอ-ลิ-ซี่" },
+            { english: "Procedure", thai: "ขั้นตอน", phonetic: "โพร-ซี-เจอร์" },
+            { english: "Quality", thai: "คุณภาพ", phonetic: "ควอ-ลิ-ตี้" },
+            { english: "Quantity", thai: "ปริมาณ", phonetic: "ควอน-ทิ-ตี้" },
+            { english: "Data", thai: "ข้อมูล", phonetic: "เด-ต้า" },
+        ],
+    };
+
+    const colorPalette = [
+        'bg-blue-200', 'bg-green-200', 'bg-yellow-200', 'bg-red-200', 'bg-purple-200', 'bg-pink-200', 'bg-indigo-200'
+    ];
+
+    // --- STATE ---
+    let currentSection = null;
+    let currentDeck = [];
+    let cardIndex = 0;
+    let isLearnMode = true;
+    const synth = window.speechSynthesis;
+
+    // --- DOM ELEMENTS ---
+    const sectionSelector = document.getElementById('section-selector');
+    const flashcardContainer = document.getElementById('flashcard-container');
+    const sectionGrid = document.getElementById('section-grid');
+    const sectionTitle = document.getElementById('section-title');
+    const deck = document.getElementById('deck');
+    const learnModeBtn = document.getElementById('learn-mode-btn');
+    const testModeBtn = document.getElementById('test-mode-btn');
+    const testModeControls = document.getElementById('test-mode-controls');
+    const revealBtn = document.getElementById('reveal-btn');
+    const backToSectionsBtn = document.getElementById('back-to-sections');
+
+    // --- FUNCTIONS ---
+
+    /**
+     * Creates the HTML for a single flashcard.
+     */
+    function createCardElement(cardData, index) {
+        const card = document.createElement('div');
+        card.className = 'card shadow-lg';
+        card.style.zIndex = currentDeck.length - index;
+
+        const cardInner = document.createElement('div');
+        cardInner.className = 'card-inner bg-white';
+        
+        const bgColor = colorPalette[index % colorPalette.length];
+        
+        let topHalfHTML;
+        let bottomHalfHTML;
+
+        if (isLearnMode) {
+            cardInner.classList.add('learn-mode-card');
+            topHalfHTML = `
+                <div class="top-half w-full h-1/2 flex justify-center items-center ${bgColor}">
+                    <h3 class="text-5xl font-bold text-gray-800/80 pointer-events-none">${cardData.english}</h3>
+                </div>
+            `;
+            bottomHalfHTML = `
+                <div class="bottom-half w-full h-1/2 flex flex-col justify-center items-center p-6 pointer-events-none">
+                     <h4 class="text-3xl font-semibold text-blue-600">${cardData.thai}</h4>
+                     <p class="text-xl text-gray-500 mt-2">[${cardData.phonetic}]</p>
+                     <span class="mt-4 text-3xl">🔊</span>
+                </div>
+            `;
+        } else { // Test Mode
+            topHalfHTML = `
+                <div class="top-half w-full h-1/2 flex justify-center items-center ${bgColor} hidden">
+                    <h3 class="text-5xl font-bold text-gray-800/80 pointer-events-none">${cardData.english}</h3>
+                </div>
+            `;
+            bottomHalfHTML = `
+                 <div class="bottom-half w-full h-full flex flex-col justify-center items-center p-6">
+                    <p class="text-5xl text-blue-600 font-bold">${cardData.thai}</p>
+                    <div class="reveal-content mt-4 opacity-0 transition-opacity duration-300">
+                        <p class="text-2xl text-gray-500 mt-2">[${cardData.phonetic}]</p>
+                    </div>
+                </div>
+            `;
+        }
+
+        cardInner.innerHTML = topHalfHTML + bottomHalfHTML;
+        card.appendChild(cardInner);
+        
+        addUnifiedInputListeners(card, cardData);
+
+        return card;
+    }
+
+    /**
+     * Renders the current deck of cards to the screen.
+     */
+    function renderDeck() {
+        deck.innerHTML = '';
+        currentDeck.slice(cardIndex).forEach((cardData, index) => {
+            const cardEl = createCardElement(cardData, cardIndex + index);
+            deck.appendChild(cardEl);
+        });
+        if (cardIndex >= currentDeck.length) {
+            deck.innerHTML = `
+                <div class="w-full h-full flex flex-col items-center justify-center bg-white rounded-3xl shadow-lg p-4">
+                    <h3 class="text-2xl font-bold text-gray-700 mb-2">ยอดเยี่ยม!</h3>
+                    <p class="text-gray-600 mb-4">คุณเรียนรู้ครบทุกคำในบทนี้แล้ว</p>
+                    <button id="restart-section" class="px-6 py-2 bg-blue-500 text-white font-semibold rounded-full">เริ่มใหม่</button>
+                </div>
+            `;
+            document.getElementById('restart-section').addEventListener('click', () => {
+                startSection(currentSection);
+            });
+        }
+    }
+
+    /**
+     * Adds unified event listeners to a card to handle both tap and swipe.
+     */
+    function addUnifiedInputListeners(card, cardData) {
+        let startX = 0;
+        let isDragging = false;
+        let startTime = 0;
+
+        function onPointerDown(e) {
+            isDragging = true;
+            startX = e.clientX || e.touches[0].clientX;
+            startTime = new Date().getTime();
+            card.classList.add('dragging');
+        }
+
+        function onPointerMove(e) {
+            if (!isDragging) return;
+            const currentX = e.clientX || e.touches[0].clientX;
+            const diffX = currentX - startX;
+            card.style.transform = `translateX(${diffX}px) rotate(${diffX / 20}deg)`;
+        }
+
+        function onPointerUp(e) {
+            if (!isDragging) return;
+            isDragging = false;
+            card.classList.remove('dragging');
+
+            const finalX = e.clientX || e.changedTouches[0].clientX;
+            const diffX = finalX - startX;
+            const timeElapsed = new Date().getTime() - startTime;
+
+            if (isLearnMode && Math.abs(diffX) < 10 && timeElapsed < 200) {
+                speak(cardData.english);
+                card.style.transform = 'translateX(0) rotate(0)';
+                return;
+            }
+
+            if (Math.abs(diffX) > 100) {
+                card.style.transform = `translateX(${diffX > 0 ? 500 : -500}px) rotate(${diffX > 0 ? 30 : -30}deg)`;
+                card.style.opacity = '0';
+                setTimeout(() => {
+                    cardIndex++;
+                    renderDeck();
+                }, 300);
+            } else { 
+                card.style.transform = 'translateX(0) rotate(0)';
+            }
+        }
+        
+        card.addEventListener('mousedown', onPointerDown);
+        card.addEventListener('mousemove', onPointerMove);
+        card.addEventListener('mouseup', onPointerUp);
+        card.addEventListener('mouseleave', onPointerUp);
+        
+        card.addEventListener('touchstart', onPointerDown, { passive: true });
+        card.addEventListener('touchmove', onPointerMove, { passive: true });
+        card.addEventListener('touchend', onPointerUp);
+    }
+
+    /**
+     * Switches the app mode between Learn and Test.
+     */
+    function switchMode(toLearnMode) {
+        isLearnMode = toLearnMode;
+        if (isLearnMode) {
+            learnModeBtn.classList.replace('bg-gray-200', 'bg-blue-500');
+            learnModeBtn.classList.replace('text-gray-700', 'text-white');
+            testModeBtn.classList.replace('bg-blue-500', 'bg-gray-200');
+            testModeBtn.classList.replace('text-white', 'text-gray-700');
+            testModeControls.classList.add('hidden');
+        } else {
+            testModeBtn.classList.replace('bg-gray-200', 'bg-blue-500');
+            testModeBtn.classList.replace('text-gray-700', 'text-white');
+            learnModeBtn.classList.replace('bg-blue-500', 'bg-gray-200');
+            learnModeBtn.classList.replace('text-white', 'text-gray-700');
+            testModeControls.classList.remove('hidden');
+        }
+        startSection(currentSection);
+    }
+
+    /**
+     * Uses the Web Speech API to say a word.
+     */
+    function speak(text) {
+        if (synth.speaking) {
+            synth.cancel();
+        }
+        const utterThis = new SpeechSynthesisUtterance(text);
+        utterThis.lang = 'en-US';
+        utterThis.pitch = 1;
+        utterThis.rate = 0.9;
+        synth.speak(utterThis);
+    }
+    
+    /**
+     * Starts a flashcard section.
+     */
+    function startSection(sectionName) {
+        currentSection = sectionName;
+        
+        if (sectionName.includes("Review")) {
+            currentDeck = generateReviewDeck(sectionName);
+        } else {
+            currentDeck = sections[sectionName];
+        }
+
+        cardIndex = 0;
+        
+        sectionTitle.textContent = sectionName;
+        sectionSelector.classList.add('hidden');
+        flashcardContainer.classList.remove('hidden');
+        
+        renderDeck();
+    }
+
+    /**
+     * Generates a shuffled deck for review tests.
+     */
+    function generateReviewDeck(reviewName) {
+        let combinedDeck = [];
+        if (reviewName === "Business Review (1-5)") {
+            const reviewSections = ["Business 1: The Office", "Business 2: Money & Finance", "Business 3: Marketing & Sales", "Business 4: Jobs & Roles", "Business 5: Company & Growth"];
+            reviewSections.forEach(name => {
+                combinedDeck = combinedDeck.concat(sections[name]);
+            });
+        }
+        // Add logic for other review decks here...
+
+        // Fisher-Yates shuffle algorithm
+        for (let i = combinedDeck.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [combinedDeck[i], combinedDeck[j]] = [combinedDeck[j], combinedDeck[i]];
+        }
+
+        return combinedDeck.slice(0, 20); // Return 20 random cards
+    }
+
+    /**
+     * Initializes the section selection screen.
+     */
+    function initSectionSelector() {
+        sectionGrid.innerHTML = '';
+        const sectionNames = Object.keys(sections);
+
+        // Regular sections
+        sectionNames.forEach(sectionName => {
+            const button = document.createElement('button');
+            button.className = "p-4 bg-white border-2 border-gray-200 rounded-xl text-center shadow-sm hover:shadow-md hover:border-blue-400 transition-all duration-200";
+            button.innerHTML = `
+                <div class="text-3xl mb-2">📚</div>
+                <div class="font-semibold text-gray-700">${sectionName}</div>
+                <div class="text-sm text-gray-500">${sections[sectionName].length} words</div>
+            `;
+            button.addEventListener('click', () => startSection(sectionName));
+            sectionGrid.appendChild(button);
+        });
+
+        // Add Review Test section
+        const reviewButton = document.createElement('button');
+        reviewButton.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
+        reviewButton.innerHTML = `
+            <div class="text-3xl mb-2">⭐</div>
+            <div class="font-semibold text-gray-700">Business Review (1-5)</div>
+            <div class="text-sm text-gray-500">Test - 20 words</div>
+        `;
+        reviewButton.addEventListener('click', () => startSection("Business Review (1-5)"));
+        sectionGrid.appendChild(reviewButton);
+        
+        sectionSelector.classList.remove('hidden');
+        flashcardContainer.classList.add('hidden');
+    }
+
+    // --- EVENT LISTENERS ---
+    learnModeBtn.addEventListener('click', () => switchMode(true));
+    testModeBtn.addEventListener('click', () => switchMode(false));
+    backToSectionsBtn.addEventListener('click', initSectionSelector);
+
+    revealBtn.addEventListener('click', () => {
+        if (cardIndex >= currentDeck.length) return;
+        
+        const topCard = deck.querySelector('.card');
+        const revealContent = topCard.querySelector('.reveal-content');
+        const topHalf = topCard.querySelector('.top-half');
+        const bottomHalf = topCard.querySelector('.bottom-half');
+        
+        if (revealContent.style.opacity === '1') {
+            speak(currentDeck[cardIndex].english);
+        } else {
+            topHalf.classList.remove('hidden');
+            bottomHalf.classList.replace('h-full', 'h-1/2');
+            revealContent.style.opacity = '1';
+            speak(currentDeck[cardIndex].english);
+        }
+    });
+
+    // --- INITIALIZATION ---
+    initSectionSelector();
+
+</script>
+
+</body>
+</html>

@@ -1,6 +1,7 @@
 body {
     font-family: 'Inter', 'Noto Sans Thai', sans-serif;
     touch-action: none; /* Prevents browser handling of touch events like scrolling */
+    padding-top: env(safe-area-inset-top);
 }
 .card {
     touch-action: pan-y; /* Allow vertical scroll but not horizontal */

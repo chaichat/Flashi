@@ -10,7 +10,8 @@ document.addEventListener('DOMContentLoaded', () => {
     let isLearnMode = true;
     const synth = window.speechSynthesis;
     let voices = []; // To store available voices
-    // Populate voices when they are loaded
+    // Populate voices initially and when they are loaded
+    voices = synth.getVoices();
     synth.onvoiceschanged = () => {
         voices = synth.getVoices();
     };
@@ -348,7 +349,11 @@ document.addEventListener('DOMContentLoaded', () => {
             voice = voices.find(v => v.lang.startsWith(langPrefix));
         }
 
-        
+        // Specific check for common iOS Chinese voice (Ting-Ting)
+        if (currentLanguage === 'chinese' && !voice) {
+            const iosVoice = voices.find(v => v.name === 'Ting-Ting' && v.lang === 'zh-CN');
+            if (iosVoice) voice = iosVoice;
+        }
 
         if (voice) {
             utterThis.voice = voice;

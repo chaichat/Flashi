@@ -155,7 +155,10 @@ document.addEventListener('DOMContentLoaded', () => {
             showCompletionScreen();
             return;
         }
-        currentDeck.slice(cardIndex).forEach((cardData, index) => {
+        
+        // Render only a few cards at a time for performance
+        const cardsToRender = currentDeck.slice(cardIndex, cardIndex + 3); // Render current + next 2 cards
+        cardsToRender.forEach((cardData, index) => {
             const cardEl = createCardElement(cardData, cardIndex + index);
             deck.appendChild(cardEl);
         });

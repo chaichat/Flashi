@@ -9,6 +9,11 @@ document.addEventListener('DOMContentLoaded', () => {
     let cardIndex = 0;
     let isLearnMode = true;
     const synth = window.speechSynthesis;
+    let voices = []; // To store available voices
+    // Populate voices when they are loaded
+    synth.onvoiceschanged = () => {
+        voices = synth.getVoices();
+    };
     const colorPalette = [
         'bg-blue-200', 'bg-green-200', 'bg-yellow-200', 'bg-red-200', 'bg-purple-200', 'bg-pink-200', 'bg-indigo-200'
     ];
@@ -323,7 +328,7 @@ document.addEventListener('DOMContentLoaded', () => {
      * Uses the Web Speech API to say a word.
      */
     function speak(text) {
-        if (synth.speaking) synth.cancel();
+        if (synth.speaking && synth.cancel) synth.cancel();
         const utterThis = new SpeechSynthesisUtterance(text);
         
         utterThis.pitch = 1;
@@ -343,11 +348,7 @@ document.addEventListener('DOMContentLoaded', () => {
             voice = voices.find(v => v.lang.startsWith(langPrefix));
         }
 
-        // Specific check for common iOS Chinese voice
-        if (currentLanguage === 'chinese') {
-            const iosVoice = voices.find(v => v.name === 'Ting-Ting' && v.lang === 'zh-CN');
-            if (iosVoice) voice = iosVoice;
-        }
+        
 
         if (voice) {
             utterThis.voice = voice;

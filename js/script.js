@@ -399,7 +399,9 @@ document.addEventListener('DOMContentLoaded', () => {
     function generateReviewDeck(reviewName) {
         // This is a placeholder. You'll need to define which sections go into which review.
         const reviewMap = {
-            "Business Review (1-5)": ["Business 1: The Office", "Business 2: Money & Finance", "Business 3: Marketing & Sales", "Business 4: Jobs & Roles", "Business 5: Company & Growth"]
+            "Business Review (1-5)": ["Business 1: The Office", "Business 2: Money & Finance", "Business 3: Marketing & Sales", "Business 4: Jobs & Roles", "Business 5: Company & Growth"],
+            "HSK 1 Review (1-5)": ["HSK 1: Lesson 1", "HSK 1: Lesson 2", "HSK 1: Lesson 3", "HSK 1: Lesson 4", "HSK 1: Lesson 5"],
+            "HSK 1 Review (6-10)": ["HSK 1: Lesson 6", "HSK 1: Lesson 7", "HSK 1: Lesson 8", "HSK 1: Lesson 9", "HSK 1: Lesson 10"]
         };
 
         const lessonNames = reviewMap[reviewName] || [];
@@ -445,6 +447,29 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
             reviewButton.addEventListener('click', () => startLesson("Business Review (1-5)"));
             lessonGrid.appendChild(reviewButton);
+        } else if (currentCategory === "HSK 1") {
+            if (lessonNames.length >= 5) {
+                const reviewButton1 = document.createElement('button');
+                reviewButton1.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
+                reviewButton1.innerHTML = `
+                    <div class="text-3xl mb-2">⭐</div>
+                    <div class="font-semibold text-gray-700">HSK 1 Review (1-5)</div>
+                    <div class="text-sm text-gray-500">Test - 20 words</div>
+                `;
+                reviewButton1.addEventListener('click', () => startLesson("HSK 1 Review (1-5)"));
+                lessonGrid.appendChild(reviewButton1);
+            }
+            if (lessonNames.length >= 10) {
+                const reviewButton2 = document.createElement('button');
+                reviewButton2.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
+                reviewButton2.innerHTML = `
+                    <div class="text-3xl mb-2">⭐</div>
+                    <div class="font-semibold text-gray-700">HSK 1 Review (6-10)</div>
+                    <div class="text-sm text-gray-500">Test - 20 words</div>
+                `;
+                reviewButton2.addEventListener('click', () => startLesson("HSK 1 Review (6-10)"));
+                lessonGrid.appendChild(reviewButton2);
+            }
         }
     }
 

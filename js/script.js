@@ -211,8 +211,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const velocity = Math.abs(diffX) / timeElapsed;
 
             // Define swipe thresholds
-            const minSwipeDistance = 50; // pixels
-            const minSwipeVelocity = 0.2; // pixels per millisecond
+            const minSwipeDistance = 75; // pixels
+            const minSwipeVelocity = 0.3; // pixels per millisecond
 
             if (isLearnMode && Math.abs(diffX) < 10 && timeElapsed < 200) {
                 speak(currentLanguage === 'english' ? cardData.english : cardData.chinese);

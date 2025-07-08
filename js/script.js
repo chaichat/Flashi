@@ -401,7 +401,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const reviewMap = {
             "Business Review (1-5)": ["Business 1: The Office", "Business 2: Money & Finance", "Business 3: Marketing & Sales", "Business 4: Jobs & Roles", "Business 5: Company & Growth"],
             "HSK 1 Review (1-5)": ["HSK 1: Lesson 1", "HSK 1: Lesson 2", "HSK 1: Lesson 3", "HSK 1: Lesson 4", "HSK 1: Lesson 5"],
-            "HSK 1 Review (6-10)": ["HSK 1: Lesson 6", "HSK 1: Lesson 7", "HSK 1: Lesson 8", "HSK 1: Lesson 9", "HSK 1: Lesson 10"]
+            "HSK 1 Review (6-10)": ["HSK 1: Lesson 6", "HSK 1: Lesson 7", "HSK 1: Lesson 8", "HSK 1: Lesson 9", "HSK 1: Lesson 10"],
+            "IELTS Vocabulary Review (1-5)": ["IELTS Vocabulary: Lesson 1", "IELTS Vocabulary: Lesson 2", "IELTS Vocabulary: Lesson 3", "IELTS Vocabulary: Lesson 4", "IELTS Vocabulary: Lesson 5"]
         };
 
         const lessonNames = reviewMap[reviewName] || [];
@@ -469,6 +470,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 `;
                 reviewButton2.addEventListener('click', () => startLesson("HSK 1 Review (6-10)"));
                 lessonGrid.appendChild(reviewButton2);
+            }
+        } else if (currentCategory === "IELTS Vocabulary") {
+            if (lessonNames.length >= 5) {
+                const reviewButton = document.createElement('button');
+                reviewButton.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
+                reviewButton.innerHTML = `
+                    <div class="text-3xl mb-2">⭐</div>
+                    <div class="font-semibold text-gray-700">IELTS Vocabulary Review (1-5)</div>
+                    <div class="text-sm text-gray-500">Test - 20 words</div>
+                `;
+                reviewButton.addEventListener('click', () => startLesson("IELTS Vocabulary Review (1-5)"));
+                lessonGrid.appendChild(reviewButton);
             }
         }
     }

@@ -2,400 +2,2182 @@
   "english": {
     "Business": {
       "Business 1: The Office": [
-        { "english": "Meeting", "thai": "การประชุม", "phonetic": "มีท-ทิ่ง" },
-        { "english": "Email", "thai": "อีเมล", "phonetic": "อี-เมล" },
-        { "english": "Report", "thai": "รายงาน", "phonetic": "รี-พอร์ท" },
-        { "english": "Deadline", "thai": "กำหนดส่งงาน", "phonetic": "เดด-ไลน์" },
-        { "english": "Presentation", "thai": "การนำเสนอ", "phonetic": "พรี-เซน-เท-ชั่น" },
-        { "english": "Project", "thai": "โครงการ", "phonetic": "โปร-เจค" },
-        { "english": "Task", "thai": "งาน", "phonetic": "ทาสค" },
-        { "english": "Team", "thai": "ทีม", "phonetic": "ทีม" },
-        { "english": "Manager", "thai": "ผู้จัดการ", "phonetic": "แม-เน-เจอร์" },
-        { "english": "Colleague", "thai": "เพื่อนร่วมงาน", "phonetic": "คอล-ลีก" },
-        { "english": "Client", "thai": "ลูกค้า", "phonetic": "ไคล-เอ็นท" },
-        { "english": "Salary", "thai": "เงินเดือน", "phonetic": "แซล-ละ-รี่" },
-        { "english": "Invoice", "thai": "ใบแจ้งหนี้", "phonetic": "อิน-วอยซ์" },
-        { "english": "Contract", "thai": "สัญญา", "phonetic": "คอน-แทรค" },
-        { "english": "Budget", "thai": "งบประมาณ", "phonetic": "บัด-เจท" },
-        { "english": "Office", "thai": "สำนักงาน", "phonetic": "ออฟ-ฟิศ" },
-        { "english": "Computer", "thai": "คอมพิวเตอร์", "phonetic": "คอม-พิ้ว-เตอร์" },
-        { "english": "Phone", "thai": "โทรศัพท์", "phonetic": "โฟน" },
-        { "english": "Schedule", "thai": "ตารางเวลา", "phonetic": "สเก-ดูล" },
-        { "english": "Goal", "thai": "เป้าหมาย", "phonetic": "โกล" }
+        {
+          "english": "Meeting",
+          "thai": "การประชุม",
+          "phonetic": "มีท-ทิ่ง"
+        },
+        {
+          "english": "Email",
+          "thai": "อีเมล",
+          "phonetic": "อี-เมล"
+        },
+        {
+          "english": "Report",
+          "thai": "รายงาน",
+          "phonetic": "รี-พอร์ท"
+        },
+        {
+          "english": "Deadline",
+          "thai": "กำหนดส่งงาน",
+          "phonetic": "เดด-ไลน์"
+        },
+        {
+          "english": "Presentation",
+          "thai": "การนำเสนอ",
+          "phonetic": "พรี-เซน-เท-ชั่น"
+        },
+        {
+          "english": "Project",
+          "thai": "โครงการ",
+          "phonetic": "โปร-เจค"
+        },
+        {
+          "english": "Task",
+          "thai": "งาน",
+          "phonetic": "ทาสค"
+        },
+        {
+          "english": "Team",
+          "thai": "ทีม",
+          "phonetic": "ทีม"
+        },
+        {
+          "english": "Manager",
+          "thai": "ผู้จัดการ",
+          "phonetic": "แม-เน-เจอร์"
+        },
+        {
+          "english": "Colleague",
+          "thai": "เพื่อนร่วมงาน",
+          "phonetic": "คอล-ลีก"
+        },
+        {
+          "english": "Client",
+          "thai": "ลูกค้า",
+          "phonetic": "ไคล-เอ็นท"
+        },
+        {
+          "english": "Salary",
+          "thai": "เงินเดือน",
+          "phonetic": "แซล-ละ-รี่"
+        },
+        {
+          "english": "Invoice",
+          "thai": "ใบแจ้งหนี้",
+          "phonetic": "อิน-วอยซ์"
+        },
+        {
+          "english": "Contract",
+          "thai": "สัญญา",
+          "phonetic": "คอน-แทรค"
+        },
+        {
+          "english": "Budget",
+          "thai": "งบประมาณ",
+          "phonetic": "บัด-เจท"
+        },
+        {
+          "english": "Office",
+          "thai": "สำนักงาน",
+          "phonetic": "ออฟ-ฟิศ"
+        },
+        {
+          "english": "Computer",
+          "thai": "คอมพิวเตอร์",
+          "phonetic": "คอม-พิ้ว-เตอร์"
+        },
+        {
+          "english": "Phone",
+          "thai": "โทรศัพท์",
+          "phonetic": "โฟน"
+        },
+        {
+          "english": "Schedule",
+          "thai": "ตารางเวลา",
+          "phonetic": "สเก-ดูล"
+        },
+        {
+          "english": "Goal",
+          "thai": "เป้าหมาย",
+          "phonetic": "โกล"
+        }
       ],
       "Business 2: Money & Finance": [
-        { "english": "Profit", "thai": "กำไร", "phonetic": "พรอ-ฟิท" },
-        { "english": "Loss", "thai": "ขาดทุน", "phonetic": "ลอส" },
-        { "english": "Revenue", "thai": "รายได้", "phonetic": "เรฟ-เวน-นิว" },
-        { "english": "Expense", "thai": "รายจ่าย", "phonetic": "เอ็กซ์-เพนซ์" },
-        { "english": "Investment", "thai": "การลงทุน", "phonetic": "อิน-เวสท-เมนท์" },
-        { "english": "Tax", "thai": "ภาษี", "phonetic": "แท็กซ์" },
-        { "english": "Bank", "thai": "ธนาคาร", "phonetic": "แบงค์" },
-        { "english": "Loan", "thai": "เงินกู้", "phonetic": "โลน" },
-        { "english": "Interest", "thai": "ดอกเบี้ย", "phonetic": "อิน-เทอ-เรสท" },
-        { "english": "Stock", "thai": "หุ้น", "phonetic": "สต็อก" },
-        { "english": "Market", "thai": "ตลาด", "phonetic": "มาร์-เก็ต" },
-        { "english": "Price", "thai": "ราคา", "phonetic": "ไพรซ์" },
-        { "english": "Cost", "thai": "ต้นทุน", "phonetic": "คอสท" },
-        { "english": "Payment", "thai": "การชำระเงิน", "phonetic": "เพ-เมนท์" },
-        { "english": "Receipt", "thai": "ใบเสร็จ", "phonetic": "รี-ซีท" },
-        { "english": "Discount", "thai": "ส่วนลด", "phonetic": "ดิส-เคาท์" },
-        { "english": "Asset", "thai": "สินทรัพย์", "phonetic": "แอส-เซท" },
-        { "english": "Liability", "thai": "หนี้สิน", "phonetic": "ไล-อะ-บิล-ลิ-ตี้" },
-        { "english": "Capital", "thai": "เงินทุน", "phonetic": "แค-ปิ-ทอล" },
-        { "english": "Cash", "thai": "เงินสด", "phonetic": "แคช" }
+        {
+          "english": "Profit",
+          "thai": "กำไร",
+          "phonetic": "พรอ-ฟิท"
+        },
+        {
+          "english": "Loss",
+          "thai": "ขาดทุน",
+          "phonetic": "ลอส"
+        },
+        {
+          "english": "Revenue",
+          "thai": "รายได้",
+          "phonetic": "เรฟ-เวน-นิว"
+        },
+        {
+          "english": "Expense",
+          "thai": "รายจ่าย",
+          "phonetic": "เอ็กซ์-เพนซ์"
+        },
+        {
+          "english": "Investment",
+          "thai": "การลงทุน",
+          "phonetic": "อิน-เวสท-เมนท์"
+        },
+        {
+          "english": "Tax",
+          "thai": "ภาษี",
+          "phonetic": "แท็กซ์"
+        },
+        {
+          "english": "Bank",
+          "thai": "ธนาคาร",
+          "phonetic": "แบงค์"
+        },
+        {
+          "english": "Loan",
+          "thai": "เงินกู้",
+          "phonetic": "โลน"
+        },
+        {
+          "english": "Interest",
+          "thai": "ดอกเบี้ย",
+          "phonetic": "อิน-เทอ-เรสท"
+        },
+        {
+          "english": "Stock",
+          "thai": "หุ้น",
+          "phonetic": "สต็อก"
+        },
+        {
+          "english": "Market",
+          "thai": "ตลาด",
+          "phonetic": "มาร์-เก็ต"
+        },
+        {
+          "english": "Price",
+          "thai": "ราคา",
+          "phonetic": "ไพรซ์"
+        },
+        {
+          "english": "Cost",
+          "thai": "ต้นทุน",
+          "phonetic": "คอสท"
+        },
+        {
+          "english": "Payment",
+          "thai": "การชำระเงิน",
+          "phonetic": "เพ-เมนท์"
+        },
+        {
+          "english": "Receipt",
+          "thai": "ใบเสร็จ",
+          "phonetic": "รี-ซีท"
+        },
+        {
+          "english": "Discount",
+          "thai": "ส่วนลด",
+          "phonetic": "ดิส-เคาท์"
+        },
+        {
+          "english": "Asset",
+          "thai": "สินทรัพย์",
+          "phonetic": "แอส-เซท"
+        },
+        {
+          "english": "Liability",
+          "thai": "หนี้สิน",
+          "phonetic": "ไล-อะ-บิล-ลิ-ตี้"
+        },
+        {
+          "english": "Capital",
+          "thai": "เงินทุน",
+          "phonetic": "แค-ปิ-ทอล"
+        },
+        {
+          "english": "Cash",
+          "thai": "เงินสด",
+          "phonetic": "แคช"
+        }
       ],
       "Business 3: Marketing & Sales": [
-        { "english": "Customer", "thai": "ลูกค้า", "phonetic": "คัส-ตอม-เมอร์" },
-        { "english": "Product", "thai": "สินค้า", "phonetic": "โปร-ดัคท" },
-        { "english": "Service", "thai": "บริการ", "phonetic": "เซอ-วิส" },
-        { "english": "Brand", "thai": "แบรนด์", "phonetic": "แบรนด์" },
-        { "english": "Advertising", "thai": "การโฆษณา", "phonetic": "แอด-เวอร์-ไท-ซิ่ง" },
-        { "english": "Campaign", "thai": "แคมเปญ", "phonetic": "แคม-เปญ" },
-        { "english": "Sales", "thai": "ยอดขาย", "phonetic": "เซลส์" },
-        { "english": "Target", "thai": "เป้าหมาย", "phonetic": "ทาร์-เก็ต" },
-        { "english": "Strategy", "thai": "กลยุทธ์", "phonetic": "สแตร-ทิจี้" },
-        { "english": "Negotiation", "thai": "การเจรจาต่อรอง", "phonetic": "นิ-โก-ชิ-เอ-ชั่น" },
-        { "english": "Deal", "thai": "ข้อตกลง", "phonetic": "ดีล" },
-        { "english": "Order", "thai": "คำสั่งซื้อ", "phonetic": "ออ-เดอร์" },
-        { "english": "Delivery", "thai": "การจัดส่ง", "phonetic": "ดิ-ลิ-เวอ-รี่" },
-        { "english": "Feedback", "thai": "ความคิดเห็น", "phonetic": "ฟีด-แบ็ค" },
-        { "english": "Competitor", "thai": "คู่แข่ง", "phonetic": "คอม-เพ-ทิ-เทอร์" },
-        { "english": "Promotion", "thai": "การส่งเสริมการขาย", "phonetic": "โปร-โม-ชั่น" },
-        { "english": "Retail", "thai": "ค้าปลีก", "phonetic": "รี-เทล" },
-        { "english": "Wholesale", "thai": "ค้าส่ง", "phonetic": "โฮล-เซล" },
-        { "english": "Commission", "thai": "ค่านายหน้า", "phonetic": "คอม-มิช-ชั่น" },
-        { "english": "Lead", "thai": "ผู้ที่สนใจ", "phonetic": "ลีด" }
+        {
+          "english": "Customer",
+          "thai": "ลูกค้า",
+          "phonetic": "คัส-ตอม-เมอร์"
+        },
+        {
+          "english": "Product",
+          "thai": "สินค้า",
+          "phonetic": "โปร-ดัคท"
+        },
+        {
+          "english": "Service",
+          "thai": "บริการ",
+          "phonetic": "เซอ-วิส"
+        },
+        {
+          "english": "Brand",
+          "thai": "แบรนด์",
+          "phonetic": "แบรนด์"
+        },
+        {
+          "english": "Advertising",
+          "thai": "การโฆษณา",
+          "phonetic": "แอด-เวอร์-ไท-ซิ่ง"
+        },
+        {
+          "english": "Campaign",
+          "thai": "แคมเปญ",
+          "phonetic": "แคม-เปญ"
+        },
+        {
+          "english": "Sales",
+          "thai": "ยอดขาย",
+          "phonetic": "เซลส์"
+        },
+        {
+          "english": "Target",
+          "thai": "เป้าหมาย",
+          "phonetic": "ทาร์-เก็ต"
+        },
+        {
+          "english": "Strategy",
+          "thai": "กลยุทธ์",
+          "phonetic": "สแตร-ทิจี้"
+        },
+        {
+          "english": "Negotiation",
+          "thai": "การเจรจาต่อรอง",
+          "phonetic": "นิ-โก-ชิ-เอ-ชั่น"
+        },
+        {
+          "english": "Deal",
+          "thai": "ข้อตกลง",
+          "phonetic": "ดีล"
+        },
+        {
+          "english": "Order",
+          "thai": "คำสั่งซื้อ",
+          "phonetic": "ออ-เดอร์"
+        },
+        {
+          "english": "Delivery",
+          "thai": "การจัดส่ง",
+          "phonetic": "ดิ-ลิ-เวอ-รี่"
+        },
+        {
+          "english": "Feedback",
+          "thai": "ความคิดเห็น",
+          "phonetic": "ฟีด-แบ็ค"
+        },
+        {
+          "english": "Competitor",
+          "thai": "คู่แข่ง",
+          "phonetic": "คอม-เพ-ทิ-เทอร์"
+        },
+        {
+          "english": "Promotion",
+          "thai": "การส่งเสริมการขาย",
+          "phonetic": "โปร-โม-ชั่น"
+        },
+        {
+          "english": "Retail",
+          "thai": "ค้าปลีก",
+          "phonetic": "รี-เทล"
+        },
+        {
+          "english": "Wholesale",
+          "thai": "ค้าส่ง",
+          "phonetic": "โฮล-เซล"
+        },
+        {
+          "english": "Commission",
+          "thai": "ค่านายหน้า",
+          "phonetic": "คอม-มิช-ชั่น"
+        },
+        {
+          "english": "Lead",
+          "thai": "ผู้ที่สนใจ",
+          "phonetic": "ลีด"
+        }
       ],
       "Business 4: Jobs & Roles": [
-        { "english": "CEO", "thai": "ประธานเจ้าหน้าที่บริหาร", "phonetic": "ซี-อี-โอ" },
-        { "english": "Employee", "thai": "พนักงาน", "phonetic": "เอม-พลอย-ยี" },
-        { "english": "Employer", "thai": "นายจ้าง", "phonetic": "เอม-พลอย-เยอร์" },
-        { "english": "Assistant", "thai": "ผู้ช่วย", "phonetic": "แอส-ซิส-แทนท์" },
-        { "english": "Accountant", "thai": "นักบัญชี", "phonetic": "แอค-เคาน-เทนท์" },
-        { "english": "Engineer", "thai": "วิศวกร", "phonetic": "เอน-จิ-เนียร์" },
-        { "english": "Designer", "thai": "นักออกแบบ", "phonetic": "ดิ-ไซ-เนอร์" },
-        { "english": "Developer", "thai": "นักพัฒนา", "phonetic": "ดิ-เวล-ลอป-เปอร์" },
-        { "english": "Consultant", "thai": "ที่ปรึกษา", "phonetic": "คอน-ซัล-แทนท์" },
-        { "english": "Analyst", "thai": "นักวิเคราะห์", "phonetic": "แอน-นะ-ลิสท์" },
-        { "english": "HR", "thai": "ฝ่ายบุคคล", "phonetic": "เอช-อาร์" },
-        { "english": "Recruiter", "thai": "ผู้จัดหางาน", "phonetic": "รี-ครูท-เตอร์" },
-        { "english": "Intern", "thai": "นักศึกษาฝึกงาน", "phonetic": "อิน-เทิร์น" },
-        { "english": "Partner", "thai": "หุ้นส่วน", "phonetic": "พาร์ท-เนอร์" },
-        { "english": "Founder", "thai": "ผู้ก่อตั้ง", "phonetic": "เฟา-เดอร์" },
-        { "english": "Director", "thai": "กรรมการ", "phonetic": "ได-เรค-เตอร์" },
-        { "english": "Executive", "thai": "ผู้บริหาร", "phonetic": "เอ็ก-เซ-คิว-ทีฟ" },
-        { "english": "Specialist", "thai": "ผู้เชี่ยวชาญ", "phonetic": "สเป-เชียล-ลิสท์" },
-        { "english": "Supervisor", "thai": "หัวหน้างาน", "phonetic": "ซู-เปอร์-ไว-เซอร์" },
-        { "english": "Representative", "thai": "ตัวแทน", "phonetic": "เรพ-พรี-เซน-ทะ-ทีฟ" }
+        {
+          "english": "CEO",
+          "thai": "ประธานเจ้าหน้าที่บริหาร",
+          "phonetic": "ซี-อี-โอ"
+        },
+        {
+          "english": "Employee",
+          "thai": "พนักงาน",
+          "phonetic": "เอม-พลอย-ยี"
+        },
+        {
+          "english": "Employer",
+          "thai": "นายจ้าง",
+          "phonetic": "เอม-พลอย-เยอร์"
+        },
+        {
+          "english": "Assistant",
+          "thai": "ผู้ช่วย",
+          "phonetic": "แอส-ซิส-แทนท์"
+        },
+        {
+          "english": "Accountant",
+          "thai": "นักบัญชี",
+          "phonetic": "แอค-เคาน-เทนท์"
+        },
+        {
+          "english": "Engineer",
+          "thai": "วิศวกร",
+          "phonetic": "เอน-จิ-เนียร์"
+        },
+        {
+          "english": "Designer",
+          "thai": "นักออกแบบ",
+          "phonetic": "ดิ-ไซ-เนอร์"
+        },
+        {
+          "english": "Developer",
+          "thai": "นักพัฒนา",
+          "phonetic": "ดิ-เวล-ลอป-เปอร์"
+        },
+        {
+          "english": "Consultant",
+          "thai": "ที่ปรึกษา",
+          "phonetic": "คอน-ซัล-แทนท์"
+        },
+        {
+          "english": "Analyst",
+          "thai": "นักวิเคราะห์",
+          "phonetic": "แอน-นะ-ลิสท์"
+        },
+        {
+          "english": "HR",
+          "thai": "ฝ่ายบุคคล",
+          "phonetic": "เอช-อาร์"
+        },
+        {
+          "english": "Recruiter",
+          "thai": "ผู้จัดหางาน",
+          "phonetic": "รี-ครูท-เตอร์"
+        },
+        {
+          "english": "Intern",
+          "thai": "นักศึกษาฝึกงาน",
+          "phonetic": "อิน-เทิร์น"
+        },
+        {
+          "english": "Partner",
+          "thai": "หุ้นส่วน",
+          "phonetic": "พาร์ท-เนอร์"
+        },
+        {
+          "english": "Founder",
+          "thai": "ผู้ก่อตั้ง",
+          "phonetic": "เฟา-เดอร์"
+        },
+        {
+          "english": "Director",
+          "thai": "กรรมการ",
+          "phonetic": "ได-เรค-เตอร์"
+        },
+        {
+          "english": "Executive",
+          "thai": "ผู้บริหาร",
+          "phonetic": "เอ็ก-เซ-คิว-ทีฟ"
+        },
+        {
+          "english": "Specialist",
+          "thai": "ผู้เชี่ยวชาญ",
+          "phonetic": "สเป-เชียล-ลิสท์"
+        },
+        {
+          "english": "Supervisor",
+          "thai": "หัวหน้างาน",
+          "phonetic": "ซู-เปอร์-ไว-เซอร์"
+        },
+        {
+          "english": "Representative",
+          "thai": "ตัวแทน",
+          "phonetic": "เรพ-พรี-เซน-ทะ-ทีฟ"
+        }
       ],
       "Business 5: Company & Growth": [
-        { "english": "Company", "thai": "บริษัท", "phonetic": "คัม-พะ-นี" },
-        { "english": "Business", "thai": "ธุรกิจ", "phonetic": "บิส-เนส" },
-        { "english": "Startup", "thai": "สตาร์ทอัพ", "phonetic": "สตาร์ท-อัพ" },
-        { "english": "Corporation", "thai": "บรรษัท", "phonetic": "คอร์-พอ-เร-ชั่น" },
-        { "english": "Industry", "thai": "อุตสาหกรรม", "phonetic": "อิน-ดัส-ทรี้" },
-        { "english": "Growth", "thai": "การเติบโต", "phonetic": "โกรท" },
-        { "english": "Success", "thai": "ความสำเร็จ", "phonetic": "ซัค-เซส" },
-        { "english": "Failure", "thai": "ความล้มเหลว", "phonetic": "เฟล-เลียร์" },
-        { "english": "Risk", "thai": "ความเสี่ยง", "phonetic": "ริสค์" },
-        { "english": "Opportunity", "thai": "โอกาส", "phonetic": "ออพ-พอร์-ทู-นิ-ตี้" },
-        { "english": "Merger", "thai": "การควบรวมกิจการ", "phonetic": "เมอ-เจอร์" },
-        { "english": "Acquisition", "thai": "การซื้อกิจการ", "phonetic": "แอค-ควิ-ซิ-ชั่น" },
-        { "english": "Headquarters", "thai": "สำนักงานใหญ่", "phonetic": "เฮด-ควอ-เตอร์ส" },
-        { "english": "Branch", "thai": "สาขา", "phonetic": "บรานช์" },
-        { "english": "Department", "thai": "แผนก", "phonetic": "ดิ-พาร์ท-เมนท์" },
-        { "english": "Policy", "thai": "นโยบาย", "phonetic": "พอ-ลิ-ซี่" },
-        { "english": "Procedure", "thai": "ขั้นตอน", "phonetic": "โพร-ซี-เจอร์" },
-        { "english": "Quality", "thai": "คุณภาพ", "phonetic": "ควอ-ลิ-ตี้" },
-        { "english": "Quantity", "thai": "ปริมาณ", "phonetic": "ควอน-ทิ-ตี้" },
-        { "english": "Data", "thai": "ข้อมูล", "phonetic": "เด-ต้า" }
+        {
+          "english": "Company",
+          "thai": "บริษัท",
+          "phonetic": "คัม-พะ-นี"
+        },
+        {
+          "english": "Business",
+          "thai": "ธุรกิจ",
+          "phonetic": "บิส-เนส"
+        },
+        {
+          "english": "Startup",
+          "thai": "สตาร์ทอัพ",
+          "phonetic": "สตาร์ท-อัพ"
+        },
+        {
+          "english": "Corporation",
+          "thai": "บรรษัท",
+          "phonetic": "คอร์-พอ-เร-ชั่น"
+        },
+        {
+          "english": "Industry",
+          "thai": "อุตสาหกรรม",
+          "phonetic": "อิน-ดัส-ทรี้"
+        },
+        {
+          "english": "Growth",
+          "thai": "การเติบโต",
+          "phonetic": "โกรท"
+        },
+        {
+          "english": "Success",
+          "thai": "ความสำเร็จ",
+          "phonetic": "ซัค-เซส"
+        },
+        {
+          "english": "Failure",
+          "thai": "ความล้มเหลว",
+          "phonetic": "เฟล-เลียร์"
+        },
+        {
+          "english": "Risk",
+          "thai": "ความเสี่ยง",
+          "phonetic": "ริสค์"
+        },
+        {
+          "english": "Opportunity",
+          "thai": "โอกาส",
+          "phonetic": "ออพ-พอร์-ทู-นิ-ตี้"
+        },
+        {
+          "english": "Merger",
+          "thai": "การควบรวมกิจการ",
+          "phonetic": "เมอ-เจอร์"
+        },
+        {
+          "english": "Acquisition",
+          "thai": "การซื้อกิจการ",
+          "phonetic": "แอค-ควิ-ซิ-ชั่น"
+        },
+        {
+          "english": "Headquarters",
+          "thai": "สำนักงานใหญ่",
+          "phonetic": "เฮด-ควอ-เตอร์ส"
+        },
+        {
+          "english": "Branch",
+          "thai": "สาขา",
+          "phonetic": "บรานช์"
+        },
+        {
+          "english": "Department",
+          "thai": "แผนก",
+          "phonetic": "ดิ-พาร์ท-เมนท์"
+        },
+        {
+          "english": "Policy",
+          "thai": "นโยบาย",
+          "phonetic": "พอ-ลิ-ซี่"
+        },
+        {
+          "english": "Procedure",
+          "thai": "ขั้นตอน",
+          "phonetic": "โพร-ซี-เจอร์"
+        },
+        {
+          "english": "Quality",
+          "thai": "คุณภาพ",
+          "phonetic": "ควอ-ลิ-ตี้"
+        },
+        {
+          "english": "Quantity",
+          "thai": "ปริมาณ",
+          "phonetic": "ควอน-ทิ-ตี้"
+        },
+        {
+          "english": "Data",
+          "thai": "ข้อมูล",
+          "phonetic": "เด-ต้า"
+        }
       ]
     },
     "Everyday": {
       "Everyday 1: Greetings & Basic Phrases": [
-        { "english": "Hello", "thai": "สวัสดี", "phonetic": "ฮัล-โหล" },
-        { "english": "Goodbye", "thai": "ลาก่อน", "phonetic": "กู๊ด-บาย" },
-        { "english": "Thanks", "thai": "ขอบคุณ", "phonetic": "แธงค์ส" },
-        { "english": "Please", "thai": "โปรด", "phonetic": "พลีส" },
-        { "english": "Excuse", "thai": "ขอโทษ", "phonetic": "เอ็กซ์-คิวส์" },
-        { "english": "How", "thai": "อย่างไร", "phonetic": "ฮาว" },
-        { "english": "Understand", "thai": "เข้าใจ", "phonetic": "อัน-เดอร์-สแตนด์" },
-        { "english": "Yes", "thai": "ใช่", "phonetic": "เยส" },
-        { "english": "No", "thai": "ไม่", "phonetic": "โน" },
-        { "english": "Maybe", "thai": "อาจจะ", "phonetic": "เม-บี" },
-        { "english": "Help", "thai": "ช่วยด้วย", "phonetic": "เฮลพ์" },
-        { "english": "Sorry", "thai": "เสียใจ", "phonetic": "ซอรี่" },
-        { "english": "Morning", "thai": "เช้า", "phonetic": "มอร์-นิ่ง" },
-        { "english": "Night", "thai": "กลางคืน", "phonetic": "ไนท์" },
-        { "english": "See", "thai": "เห็น", "phonetic": "ซี" },
-        { "english": "What", "thai": "อะไร", "phonetic": "วอท" },
-        { "english": "Much", "thai": "มาก", "phonetic": "มัช" },
-        { "english": "Where", "thai": "ที่ไหน", "phonetic": "แวร์" },
-        { "english": "Need", "thai": "ต้องการ", "phonetic": "นีด" },
-        { "english": "Speak", "thai": "พูด", "phonetic": "สปีค" }
+        {
+          "english": "Hello",
+          "thai": "สวัสดี",
+          "phonetic": "ฮัล-โหล"
+        },
+        {
+          "english": "Goodbye",
+          "thai": "ลาก่อน",
+          "phonetic": "กู๊ด-บาย"
+        },
+        {
+          "english": "Thanks",
+          "thai": "ขอบคุณ",
+          "phonetic": "แธงค์ส"
+        },
+        {
+          "english": "Please",
+          "thai": "โปรด",
+          "phonetic": "พลีส"
+        },
+        {
+          "english": "Excuse",
+          "thai": "ขอโทษ",
+          "phonetic": "เอ็กซ์-คิวส์"
+        },
+        {
+          "english": "How",
+          "thai": "อย่างไร",
+          "phonetic": "ฮาว"
+        },
+        {
+          "english": "Understand",
+          "thai": "เข้าใจ",
+          "phonetic": "อัน-เดอร์-สแตนด์"
+        },
+        {
+          "english": "Yes",
+          "thai": "ใช่",
+          "phonetic": "เยส"
+        },
+        {
+          "english": "No",
+          "thai": "ไม่",
+          "phonetic": "โน"
+        },
+        {
+          "english": "Maybe",
+          "thai": "อาจจะ",
+          "phonetic": "เม-บี"
+        },
+        {
+          "english": "Help",
+          "thai": "ช่วยด้วย",
+          "phonetic": "เฮลพ์"
+        },
+        {
+          "english": "Sorry",
+          "thai": "เสียใจ",
+          "phonetic": "ซอรี่"
+        },
+        {
+          "english": "Morning",
+          "thai": "เช้า",
+          "phonetic": "มอร์-นิ่ง"
+        },
+        {
+          "english": "Night",
+          "thai": "กลางคืน",
+          "phonetic": "ไนท์"
+        },
+        {
+          "english": "See",
+          "thai": "เห็น",
+          "phonetic": "ซี"
+        },
+        {
+          "english": "What",
+          "thai": "อะไร",
+          "phonetic": "วอท"
+        },
+        {
+          "english": "Much",
+          "thai": "มาก",
+          "phonetic": "มัช"
+        },
+        {
+          "english": "Where",
+          "thai": "ที่ไหน",
+          "phonetic": "แวร์"
+        },
+        {
+          "english": "Need",
+          "thai": "ต้องการ",
+          "phonetic": "นีด"
+        },
+        {
+          "english": "Speak",
+          "thai": "พูด",
+          "phonetic": "สปีค"
+        }
       ],
       "Everyday 2: Food & Dining": [
-        { "english": "Water", "thai": "น้ำ", "phonetic": "วอ-เทอร์" },
-        { "english": "Coffee", "thai": "กาแฟ", "phonetic": "คอฟ-ฟี่" },
-        { "english": "Tea", "thai": "ชา", "phonetic": "ที" },
-        { "english": "Food", "thai": "อาหาร", "phonetic": "ฟู้ด" },
-        { "english": "Restaurant", "thai": "ร้านอาหาร", "phonetic": "เรส-เตอ-รอง" },
-        { "english": "Menu", "thai": "เมนู", "phonetic": "เม-นู" },
-        { "english": "Order", "thai": "สั่ง", "phonetic": "ออร์-เดอร์" },
-        { "english": "Bill", "thai": "บิล", "phonetic": "บิล" },
-        { "english": "Delicious", "thai": "อร่อย", "phonetic": "ดิ-ลิ-เชียส" },
-        { "english": "Breakfast", "thai": "อาหารเช้า", "phonetic": "เบรค-ฟาสท์" },
-        { "english": "Lunch", "thai": "อาหารกลางวัน", "phonetic": "ลันช์" },
-        { "english": "Dinner", "thai": "อาหารเย็น", "phonetic": "ดิน-เนอร์" },
-        { "english": "Eat", "thai": "กิน", "phonetic": "อีท" },
-        { "english": "Drink", "thai": "ดื่ม", "phonetic": "ดริ้งค์" },
-        { "english": "Sweet", "thai": "หวาน", "phonetic": "สวีท" },
-        { "english": "Spicy", "thai": "เผ็ด", "phonetic": "สไป-ซี่" },
-        { "english": "Salty", "thai": "เค็ม", "phonetic": "ซอล-ตี้" },
-        { "english": "Sour", "thai": "เปรี้ยว", "phonetic": "ซาว-เออร์" },
-        { "english": "Bitter", "thai": "ขม", "phonetic": "บิท-เทอร์" },
-        { "english": "Full", "thai": "อิ่ม", "phonetic": "ฟูล" }
+        {
+          "english": "Water",
+          "thai": "น้ำ",
+          "phonetic": "วอ-เทอร์"
+        },
+        {
+          "english": "Coffee",
+          "thai": "กาแฟ",
+          "phonetic": "คอฟ-ฟี่"
+        },
+        {
+          "english": "Tea",
+          "thai": "ชา",
+          "phonetic": "ที"
+        },
+        {
+          "english": "Food",
+          "thai": "อาหาร",
+          "phonetic": "ฟู้ด"
+        },
+        {
+          "english": "Restaurant",
+          "thai": "ร้านอาหาร",
+          "phonetic": "เรส-เตอ-รอง"
+        },
+        {
+          "english": "Menu",
+          "thai": "เมนู",
+          "phonetic": "เม-นู"
+        },
+        {
+          "english": "Order",
+          "thai": "สั่ง",
+          "phonetic": "ออร์-เดอร์"
+        },
+        {
+          "english": "Bill",
+          "thai": "บิล",
+          "phonetic": "บิล"
+        },
+        {
+          "english": "Delicious",
+          "thai": "อร่อย",
+          "phonetic": "ดิ-ลิ-เชียส"
+        },
+        {
+          "english": "Breakfast",
+          "thai": "อาหารเช้า",
+          "phonetic": "เบรค-ฟาสท์"
+        },
+        {
+          "english": "Lunch",
+          "thai": "อาหารกลางวัน",
+          "phonetic": "ลันช์"
+        },
+        {
+          "english": "Dinner",
+          "thai": "อาหารเย็น",
+          "phonetic": "ดิน-เนอร์"
+        },
+        {
+          "english": "Eat",
+          "thai": "กิน",
+          "phonetic": "อีท"
+        },
+        {
+          "english": "Drink",
+          "thai": "ดื่ม",
+          "phonetic": "ดริ้งค์"
+        },
+        {
+          "english": "Sweet",
+          "thai": "หวาน",
+          "phonetic": "สวีท"
+        },
+        {
+          "english": "Spicy",
+          "thai": "เผ็ด",
+          "phonetic": "สไป-ซี่"
+        },
+        {
+          "english": "Salty",
+          "thai": "เค็ม",
+          "phonetic": "ซอล-ตี้"
+        },
+        {
+          "english": "Sour",
+          "thai": "เปรี้ยว",
+          "phonetic": "ซาว-เออร์"
+        },
+        {
+          "english": "Bitter",
+          "thai": "ขม",
+          "phonetic": "บิท-เทอร์"
+        },
+        {
+          "english": "Full",
+          "thai": "อิ่ม",
+          "phonetic": "ฟูล"
+        }
       ],
       "Everyday 3: Shopping": [
-        { "english": "Shop", "thai": "ร้านค้า", "phonetic": "ช็อป" },
-        { "english": "Price", "thai": "ราคา", "phonetic": "ไพรซ์" },
-        { "english": "Money", "thai": "เงิน", "phonetic": "มัน-นี่" },
-        { "english": "Discount", "thai": "ส่วนลด", "phonetic": "ดิส-เคาท์" },
-        { "english": "Buy", "thai": "ซื้อ", "phonetic": "บาย" },
-        { "english": "Sell", "thai": "ขาย", "phonetic": "เซลล์" },
-        { "english": "Clothes", "thai": "เสื้อผ้า", "phonetic": "โคลธส์" },
-        { "english": "Size", "thai": "ขนาด", "phonetic": "ไซส์" },
-        { "english": "Cash", "thai": "เงินสด", "phonetic": "แคช" },
-        { "english": "Credit card", "thai": "บัตรเครดิต", "phonetic": "เคร-ดิท-คาร์ด" },
-        { "english": "Receipt", "thai": "ใบเสร็จ", "phonetic": "รี-ซีท" },
-        { "english": "Change", "thai": "เงินทอน", "phonetic": "เชนจ์" },
-        { "english": "Market", "thai": "ตลาด", "phonetic": "มาร์-เก็ต" },
-        { "english": "Supermarket", "thai": "ซูเปอร์มาร์เก็ต", "phonetic": "ซู-เปอร์-มาร์-เก็ต" },
-        { "english": "Department store", "thai": "ห้างสรรพสินค้า", "phonetic": "ดี-พาร์ท-เมนท์-สโตร์" },
-        { "english": "Cost", "thai": "ราคา", "phonetic": "คอสท์" },
-        { "english": "Try", "thai": "ลอง", "phonetic": "ทราย" },
-        { "english": "Expensive", "thai": "แพง", "phonetic": "เอ็กซ์-เพน-ซีฟ" },
-        { "english": "Cheap", "thai": "ถูก", "phonetic": "ชีพ" },
-        { "english": "Take", "thai": "เอา", "phonetic": "เทค" }
+        {
+          "english": "Shop",
+          "thai": "ร้านค้า",
+          "phonetic": "ช็อป"
+        },
+        {
+          "english": "Price",
+          "thai": "ราคา",
+          "phonetic": "ไพรซ์"
+        },
+        {
+          "english": "Money",
+          "thai": "เงิน",
+          "phonetic": "มัน-นี่"
+        },
+        {
+          "english": "Discount",
+          "thai": "ส่วนลด",
+          "phonetic": "ดิส-เคาท์"
+        },
+        {
+          "english": "Buy",
+          "thai": "ซื้อ",
+          "phonetic": "บาย"
+        },
+        {
+          "english": "Sell",
+          "thai": "ขาย",
+          "phonetic": "เซลล์"
+        },
+        {
+          "english": "Clothes",
+          "thai": "เสื้อผ้า",
+          "phonetic": "โคลธส์"
+        },
+        {
+          "english": "Size",
+          "thai": "ขนาด",
+          "phonetic": "ไซส์"
+        },
+        {
+          "english": "Cash",
+          "thai": "เงินสด",
+          "phonetic": "แคช"
+        },
+        {
+          "english": "Credit card",
+          "thai": "บัตรเครดิต",
+          "phonetic": "เคร-ดิท-คาร์ด"
+        },
+        {
+          "english": "Receipt",
+          "thai": "ใบเสร็จ",
+          "phonetic": "รี-ซีท"
+        },
+        {
+          "english": "Change",
+          "thai": "เงินทอน",
+          "phonetic": "เชนจ์"
+        },
+        {
+          "english": "Market",
+          "thai": "ตลาด",
+          "phonetic": "มาร์-เก็ต"
+        },
+        {
+          "english": "Supermarket",
+          "thai": "ซูเปอร์มาร์เก็ต",
+          "phonetic": "ซู-เปอร์-มาร์-เก็ต"
+        },
+        {
+          "english": "Department store",
+          "thai": "ห้างสรรพสินค้า",
+          "phonetic": "ดี-พาร์ท-เมนท์-สโตร์"
+        },
+        {
+          "english": "Cost",
+          "thai": "ราคา",
+          "phonetic": "คอสท์"
+        },
+        {
+          "english": "Try",
+          "thai": "ลอง",
+          "phonetic": "ทราย"
+        },
+        {
+          "english": "Expensive",
+          "thai": "แพง",
+          "phonetic": "เอ็กซ์-เพน-ซีฟ"
+        },
+        {
+          "english": "Cheap",
+          "thai": "ถูก",
+          "phonetic": "ชีพ"
+        },
+        {
+          "english": "Take",
+          "thai": "เอา",
+          "phonetic": "เทค"
+        }
       ],
       "Everyday 4: Travel & Directions": [
-        { "english": "Map", "thai": "แผนที่", "phonetic": "แมพ" },
-        { "english": "Train", "thai": "รถไฟ", "phonetic": "เทรน" },
-        { "english": "Bus", "thai": "รถบัส", "phonetic": "บัส" },
-        { "english": "Taxi", "thai": "แท็กซี่", "phonetic": "แท็ก-ซี่" },
-        { "english": "Airport", "thai": "สนามบิน", "phonetic": "แอร์-พอร์ท" },
-        { "english": "Hotel", "thai": "โรงแรม", "phonetic": "โฮ-เทล" },
-        { "english": "Left", "thai": "ซ้าย", "phonetic": "เลฟท์" },
-        { "english": "Right", "thai": "ขวา", "phonetic": "ไรท์" },
-        { "english": "Straight", "thai": "ตรงไป", "phonetic": "สเตรท" },
-        { "english": "Ticket", "thai": "ตั๋ว", "phonetic": "ทิค-เก็ต" },
-        { "english": "Station", "thai": "สถานี", "phonetic": "สเต-ชั่น" },
-        { "english": "Road", "thai": "ถนน", "phonetic": "โรด" },
-        { "english": "Street", "thai": "ถนน", "phonetic": "สตรีท" },
-        { "english": "Turn", "thai": "เลี้ยว", "phonetic": "เทิร์น" },
-        { "english": "Go", "thai": "ไป", "phonetic": "โก" },
-        { "english": "Stop", "thai": "หยุด", "phonetic": "สต็อป" },
-        { "english": "Near", "thai": "ใกล้", "phonetic": "เนียร์" },
-        { "english": "Far", "thai": "ไกล", "phonetic": "ฟาร์" },
-        { "english": "Here", "thai": "ที่นี่", "phonetic": "เฮียร์" },
-        { "english": "There", "thai": "ที่นั่น", "phonetic": "แธร์" }
+        {
+          "english": "Map",
+          "thai": "แผนที่",
+          "phonetic": "แมพ"
+        },
+        {
+          "english": "Train",
+          "thai": "รถไฟ",
+          "phonetic": "เทรน"
+        },
+        {
+          "english": "Bus",
+          "thai": "รถบัส",
+          "phonetic": "บัส"
+        },
+        {
+          "english": "Taxi",
+          "thai": "แท็กซี่",
+          "phonetic": "แท็ก-ซี่"
+        },
+        {
+          "english": "Airport",
+          "thai": "สนามบิน",
+          "phonetic": "แอร์-พอร์ท"
+        },
+        {
+          "english": "Hotel",
+          "thai": "โรงแรม",
+          "phonetic": "โฮ-เทล"
+        },
+        {
+          "english": "Left",
+          "thai": "ซ้าย",
+          "phonetic": "เลฟท์"
+        },
+        {
+          "english": "Right",
+          "thai": "ขวา",
+          "phonetic": "ไรท์"
+        },
+        {
+          "english": "Straight",
+          "thai": "ตรงไป",
+          "phonetic": "สเตรท"
+        },
+        {
+          "english": "Ticket",
+          "thai": "ตั๋ว",
+          "phonetic": "ทิค-เก็ต"
+        },
+        {
+          "english": "Station",
+          "thai": "สถานี",
+          "phonetic": "สเต-ชั่น"
+        },
+        {
+          "english": "Road",
+          "thai": "ถนน",
+          "phonetic": "โรด"
+        },
+        {
+          "english": "Street",
+          "thai": "ถนน",
+          "phonetic": "สตรีท"
+        },
+        {
+          "english": "Turn",
+          "thai": "เลี้ยว",
+          "phonetic": "เทิร์น"
+        },
+        {
+          "english": "Go",
+          "thai": "ไป",
+          "phonetic": "โก"
+        },
+        {
+          "english": "Stop",
+          "thai": "หยุด",
+          "phonetic": "สต็อป"
+        },
+        {
+          "english": "Near",
+          "thai": "ใกล้",
+          "phonetic": "เนียร์"
+        },
+        {
+          "english": "Far",
+          "thai": "ไกล",
+          "phonetic": "ฟาร์"
+        },
+        {
+          "english": "Here",
+          "thai": "ที่นี่",
+          "phonetic": "เฮียร์"
+        },
+        {
+          "english": "There",
+          "thai": "ที่นั่น",
+          "phonetic": "แธร์"
+        }
       ],
       "Everyday 5: Daily Activities": [
-        { "english": "Wake", "thai": "ตื่นนอน", "phonetic": "เวค" },
-        { "english": "Sleep", "thai": "นอน", "phonetic": "สลีพ" },
-        { "english": "Work", "thai": "ทำงาน", "phonetic": "เวิร์ค" },
-        { "english": "Study", "thai": "เรียน", "phonetic": "สตั๊ด-ดี้" },
-        { "english": "Read", "thai": "อ่าน", "phonetic": "รีด" },
-        { "english": "Write", "thai": "เขียน", "phonetic": "ไรท์" },
-        { "english": "Talk", "thai": "พูด", "phonetic": "ทอล์ค" },
-        { "english": "Listen", "thai": "ฟัง", "phonetic": "ลิส-เซ่น" },
-        { "english": "Watch", "thai": "ดู", "phonetic": "วอทช์" },
-        { "english": "Play", "thai": "เล่น", "phonetic": "เพลย์" },
-        { "english": "Cook", "thai": "ทำอาหาร", "phonetic": "คุก" },
-        { "english": "Clean", "thai": "ทำความสะอาด", "phonetic": "คลีน" },
-        { "english": "Shower", "thai": "อาบน้ำ", "phonetic": "ชาว-เวอร์" },
-        { "english": "Brush", "thai": "แปรง", "phonetic": "บรัช" },
-        { "english": "Exercise", "thai": "ออกกำลังกาย", "phonetic": "เอ็ก-เซอร์-ไซส์" },
-        { "english": "Bed", "thai": "เตียง", "phonetic": "เบด" },
-        { "english": "Breakfast", "thai": "อาหารเช้า", "phonetic": "เบรค-ฟาสท์" },
-        { "english": "Lunch", "thai": "อาหารกลางวัน", "phonetic": "ลันช์" },
-        { "english": "Dinner", "thai": "อาหารเย็น", "phonetic": "ดิน-เนอร์" },
-        { "english": "Relax", "thai": "พักผ่อน", "phonetic": "รี-แลกซ์" }
+        {
+          "english": "Wake",
+          "thai": "ตื่นนอน",
+          "phonetic": "เวค"
+        },
+        {
+          "english": "Sleep",
+          "thai": "นอน",
+          "phonetic": "สลีพ"
+        },
+        {
+          "english": "Work",
+          "thai": "ทำงาน",
+          "phonetic": "เวิร์ค"
+        },
+        {
+          "english": "Study",
+          "thai": "เรียน",
+          "phonetic": "สตั๊ด-ดี้"
+        },
+        {
+          "english": "Read",
+          "thai": "อ่าน",
+          "phonetic": "รีด"
+        },
+        {
+          "english": "Write",
+          "thai": "เขียน",
+          "phonetic": "ไรท์"
+        },
+        {
+          "english": "Talk",
+          "thai": "พูด",
+          "phonetic": "ทอล์ค"
+        },
+        {
+          "english": "Listen",
+          "thai": "ฟัง",
+          "phonetic": "ลิส-เซ่น"
+        },
+        {
+          "english": "Watch",
+          "thai": "ดู",
+          "phonetic": "วอทช์"
+        },
+        {
+          "english": "Play",
+          "thai": "เล่น",
+          "phonetic": "เพลย์"
+        },
+        {
+          "english": "Cook",
+          "thai": "ทำอาหาร",
+          "phonetic": "คุก"
+        },
+        {
+          "english": "Clean",
+          "thai": "ทำความสะอาด",
+          "phonetic": "คลีน"
+        },
+        {
+          "english": "Shower",
+          "thai": "อาบน้ำ",
+          "phonetic": "ชาว-เวอร์"
+        },
+        {
+          "english": "Brush",
+          "thai": "แปรง",
+          "phonetic": "บรัช"
+        },
+        {
+          "english": "Exercise",
+          "thai": "ออกกำลังกาย",
+          "phonetic": "เอ็ก-เซอร์-ไซส์"
+        },
+        {
+          "english": "Bed",
+          "thai": "เตียง",
+          "phonetic": "เบด"
+        },
+        {
+          "english": "Breakfast",
+          "thai": "อาหารเช้า",
+          "phonetic": "เบรค-ฟาสท์"
+        },
+        {
+          "english": "Lunch",
+          "thai": "อาหารกลางวัน",
+          "phonetic": "ลันช์"
+        },
+        {
+          "english": "Dinner",
+          "thai": "อาหารเย็น",
+          "phonetic": "ดิน-เนอร์"
+        },
+        {
+          "english": "Relax",
+          "thai": "พักผ่อน",
+          "phonetic": "รี-แลกซ์"
+        }
+      ]
+    },
+    "IELTS Vocabulary": {
+      "IELTS Vocabulary: Lesson 1": [
+        {
+          "english": "accommodate",
+          "thai": "รองรับ",
+          "phonetic": "uh-KOM-uh-dayt"
+        },
+        {
+          "english": "achieve",
+          "thai": "บรรลุ",
+          "phonetic": "uh-CHEEV"
+        },
+        {
+          "english": "acquire",
+          "thai": "ได้มา",
+          "phonetic": "uh-KWY-er"
+        },
+        {
+          "english": "adapt",
+          "thai": "ปรับตัว",
+          "phonetic": "uh-DAPT"
+        },
+        {
+          "english": "adequate",
+          "thai": "เพียงพอ",
+          "phonetic": "AD-uh-kwit"
+        },
+        {
+          "english": "adjust",
+          "thai": "ปรับ",
+          "phonetic": "uh-JUST"
+        },
+        {
+          "english": "advocate",
+          "thai": "สนับสนุน",
+          "phonetic": "AD-vuh-kayt"
+        },
+        {
+          "english": "alter",
+          "thai": "เปลี่ยนแปลง",
+          "phonetic": "AWL-ter"
+        },
+        {
+          "english": "analyze",
+          "thai": "วิเคราะห์",
+          "phonetic": "AN-uh-lyz"
+        },
+        {
+          "english": "anticipate",
+          "thai": "คาดการณ์",
+          "phonetic": "an-TIS-uh-payt"
+        },
+        {
+          "english": "apparent",
+          "thai": "ชัดเจน",
+          "phonetic": "uh-PAIR-uhnt"
+        },
+        {
+          "english": "approach",
+          "thai": "แนวทาง",
+          "phonetic": "uh-PROHCH"
+        },
+        {
+          "english": "appropriate",
+          "thai": "เหมาะสม",
+          "phonetic": "uh-PROH-pree-it"
+        },
+        {
+          "english": "approximate",
+          "thai": "ประมาณ",
+          "phonetic": "uh-PROK-suh-mit"
+        },
+        {
+          "english": "arbitrary",
+          "thai": "ตามอำเภอใจ",
+          "phonetic": "AHR-bi-trayr-ee"
+        }
+      ],
+      "IELTS Vocabulary: Lesson 2": [
+        {
+          "english": "assess",
+          "thai": "ประเมิน",
+          "phonetic": "uh-SES"
+        },
+        {
+          "english": "assume",
+          "thai": "สมมติ",
+          "phonetic": "uh-SOOM"
+        },
+        {
+          "english": "attain",
+          "thai": "บรรลุ",
+          "phonetic": "uh-TAYN"
+        },
+        {
+          "english": "attribute",
+          "thai": "คุณลักษณะ",
+          "phonetic": "AT-ruh-byoot"
+        },
+        {
+          "english": "bias",
+          "thai": "อคติ",
+          "phonetic": "BY-uhs"
+        },
+        {
+          "english": "brief",
+          "thai": "สั้นๆ",
+          "phonetic": "BREEF"
+        },
+        {
+          "english": "capable",
+          "thai": "สามารถ",
+          "phonetic": "KAY-puh-buhl"
+        },
+        {
+          "english": "capacity",
+          "thai": "ความจุ",
+          "phonetic": "kuh-PAS-uh-tee"
+        },
+        {
+          "english": "challenge",
+          "thai": "ท้าทาย",
+          "phonetic": "CHAL-inj"
+        },
+        {
+          "english": "cite",
+          "thai": "อ้างอิง",
+          "phonetic": "SYT"
+        },
+        {
+          "english": "clarify",
+          "thai": "ชี้แจง",
+          "phonetic": "KLAIR-uh-fy"
+        },
+        {
+          "english": "cohesive",
+          "thai": "เหนียวแน่น",
+          "phonetic": "koh-HEE-siv"
+        },
+        {
+          "english": "commence",
+          "thai": "เริ่มต้น",
+          "phonetic": "kuh-MENS"
+        },
+        {
+          "english": "compensate",
+          "thai": "ชดเชย",
+          "phonetic": "KOM-puhn-sayt"
+        },
+        {
+          "english": "compile",
+          "thai": "รวบรวม",
+          "phonetic": "kuhm-PYL"
+        }
+      ],
+      "IELTS Vocabulary: Lesson 3": [
+        {
+          "english": "complement",
+          "thai": "ส่วนเติมเต็ม",
+          "phonetic": "KOM-pluh-ment"
+        },
+        {
+          "english": "comprehensive",
+          "thai": "ครอบคลุม",
+          "phonetic": "kom-pri-HEN-siv"
+        },
+        {
+          "english": "comprise",
+          "thai": "ประกอบด้วย",
+          "phonetic": "kuhm-PRYZ"
+        },
+        {
+          "english": "conceive",
+          "thai": "คิดขึ้น",
+          "phonetic": "kuhn-SEEV"
+        },
+        {
+          "english": "conclude",
+          "thai": "สรุป",
+          "phonetic": "kuhn-KLOOD"
+        },
+        {
+          "english": "concurrent",
+          "thai": "พร้อมกัน",
+          "phonetic": "kuhn-KUR-uhnt"
+        },
+        {
+          "english": "conduct",
+          "thai": "ดำเนินการ",
+          "phonetic": "kuhn-DUKT"
+        },
+        {
+          "english": "confine",
+          "thai": "จำกัด",
+          "phonetic": "kuhn-FYN"
+        },
+        {
+          "english": "confirm",
+          "thai": "ยืนยัน",
+          "phonetic": "kuhn-FURM"
+        },
+        {
+          "english": "conform",
+          "thai": "ปฏิบัติตาม",
+          "phonetic": "kuhn-FORM"
+        },
+        {
+          "english": "consecutive",
+          "thai": "ต่อเนื่อง",
+          "phonetic": "kuhn-SEK-yuh-tiv"
+        },
+        {
+          "english": "consequently",
+          "thai": "ดังนั้น",
+          "phonetic": "KON-suh-kwent-lee"
+        },
+        {
+          "english": "considerable",
+          "thai": "มากพอสมควร",
+          "phonetic": "kuhn-SID-er-uh-buhl"
+        },
+        {
+          "english": "consistent",
+          "thai": "สอดคล้องกัน",
+          "phonetic": "kuhn-SIS-tuhnt"
+        },
+        {
+          "english": "constrain",
+          "thai": "จำกัด",
+          "phonetic": "kuhn-STRAYN"
+        }
+      ],
+      "IELTS Vocabulary: Lesson 4": [
+        {
+          "english": "constructive",
+          "thai": "สร้างสรรค์",
+          "phonetic": "kuhn-STRUK-tiv"
+        },
+        {
+          "english": "consume",
+          "thai": "บริโภค",
+          "phonetic": "kuhn-SOOM"
+        },
+        {
+          "english": "contemporary",
+          "thai": "ร่วมสมัย",
+          "phonetic": "kuhn-TEM-puh-rer-ee"
+        },
+        {
+          "english": "context",
+          "thai": "บริบท",
+          "phonetic": "KON-tekst"
+        },
+        {
+          "english": "contradict",
+          "thai": "ขัดแย้ง",
+          "phonetic": "kon-truh-DIKT"
+        },
+        {
+          "english": "contribute",
+          "thai": "มีส่วนร่วม",
+          "phonetic": "kuhn-TRIB-yoot"
+        },
+        {
+          "english": "controversy",
+          "thai": "ข้อโต้แย้ง",
+          "phonetic": "KON-truh-vur-see"
+        },
+        {
+          "english": "convene",
+          "thai": "เรียกประชุม",
+          "phonetic": "kuhn-VEEN"
+        },
+        {
+          "english": "conventional",
+          "thai": "ตามธรรมเนียม",
+          "phonetic": "kuhn-VEN-shuh-nuhl"
+        },
+        {
+          "english": "convert",
+          "thai": "แปลง",
+          "phonetic": "kuhn-VURT"
+        },
+        {
+          "english": "correspond",
+          "thai": "สอดคล้อง",
+          "phonetic": "kor-uh-SPOND"
+        },
+        {
+          "english": "crucial",
+          "thai": "สำคัญมาก",
+          "phonetic": "KROO-shuhl"
+        },
+        {
+          "english": "deduce",
+          "thai": "อนุมาน",
+          "phonetic": "di-DOOS"
+        },
+        {
+          "english": "define",
+          "thai": "นิยาม",
+          "phonetic": "di-FYN"
+        }
+      ],
+      "IELTS Vocabulary: Lesson 5": [
+        {
+          "english": "demonstrate",
+          "thai": "สาธิต",
+          "phonetic": "DEM-uhn-strayt"
+        },
+        {
+          "english": "denote",
+          "thai": "แสดงถึง",
+          "phonetic": "di-NOHT"
+        },
+        {
+          "english": "derive",
+          "thai": "ได้มาจาก",
+          "phonetic": "di-RYV"
+        },
+        {
+          "english": "designate",
+          "thai": "กำหนด",
+          "phonetic": "DEZ-ig-nayt"
+        },
+        {
+          "english": "detect",
+          "thai": "ตรวจจับ",
+          "phonetic": "di-TEKT"
+        },
+        {
+          "english": "deviate",
+          "thai": "เบี่ยงเบน",
+          "phonetic": "DEE-vee-ayt"
+        },
+        {
+          "english": "devise",
+          "thai": "ประดิษฐ์",
+          "phonetic": "di-VYZ"
+        },
+        {
+          "english": "differentiate",
+          "thai": "แยกแยะ",
+          "phonetic": "dif-uh-REN-shee-ayt"
+        },
+        {
+          "english": "diminish",
+          "thai": "ลดลง",
+          "phonetic": "di-MIN-ish"
+        },
+        {
+          "english": "discrete",
+          "thai": "แยกจากกัน",
+          "phonetic": "di-SKREET"
+        },
+        {
+          "english": "displace",
+          "thai": "แทนที่",
+          "phonetic": "dis-PLAYS"
+        },
+        {
+          "english": "dispose",
+          "thai": "กำจัด",
+          "phonetic": "dis-POHZ"
+        },
+        {
+          "english": "distinct",
+          "thai": "แตกต่าง",
+          "phonetic": "di-STINKT"
+        },
+        {
+          "english": "distort",
+          "thai": "บิดเบือน",
+          "phonetic": "dis-TORT"
+        },
+        {
+          "english": "diverse",
+          "thai": "หลากหลาย",
+          "phonetic": "di-VURS"
+        }
       ]
     }
   },
   "chinese": {
     "HSK 1": {
       "HSK 1: Part 1": [
-        { "chinese": "我", "thai": "ฉัน", "pinyin": "wǒ" },
-        { "chinese": "你", "thai": "คุณ", "pinyin": "nǐ" },
-        { "chinese": "他", "thai": "เขา (ผู้ชาย)", "pinyin": "tā" },
-        { "chinese": "她", "thai": "เขา (ผู้หญิง)", "pinyin": "tā" },
-        { "chinese": "好", "thai": "ดี", "pinyin": "hǎo" },
-        { "chinese": "是", "thai": "เป็น/คือ/ใช่", "pinyin": "shì" },
-        { "chinese": "不", "thai": "ไม่", "pinyin": "bù" },
-        { "chinese": "口", "thai": "ปาก", "pinyin": "kǒu" },
-        { "chinese": "日", "thai": "วัน", "pinyin": "rì" },
-        { "chinese": "月", "thai": "เดือน", "pinyin": "yuè" },
-        { "chinese": "水", "thai": "น้ำ", "pinyin": "shuǐ" },
-        { "chinese": "火", "thai": "ไฟ", "pinyin": "huǒ" },
-        { "chinese": "山", "thai": "ภูเขา", "pinyin": "shān" },
-        { "chinese": "田", "thai": "ทุ่งนา", "pinyin": "tián" },
-        { "chinese": "人", "thai": "คน", "pinyin": "rén" }
+        {
+          "chinese": "我",
+          "thai": "ฉัน",
+          "pinyin": "wǒ"
+        },
+        {
+          "chinese": "你",
+          "thai": "คุณ",
+          "pinyin": "nǐ"
+        },
+        {
+          "chinese": "他",
+          "thai": "เขา (ผู้ชาย)",
+          "pinyin": "tā"
+        },
+        {
+          "chinese": "她",
+          "thai": "เขา (ผู้หญิง)",
+          "pinyin": "tā"
+        },
+        {
+          "chinese": "好",
+          "thai": "ดี",
+          "pinyin": "hǎo"
+        },
+        {
+          "chinese": "是",
+          "thai": "เป็น/คือ/ใช่",
+          "pinyin": "shì"
+        },
+        {
+          "chinese": "不",
+          "thai": "ไม่",
+          "pinyin": "bù"
+        },
+        {
+          "chinese": "口",
+          "thai": "ปาก",
+          "pinyin": "kǒu"
+        },
+        {
+          "chinese": "日",
+          "thai": "วัน",
+          "pinyin": "rì"
+        },
+        {
+          "chinese": "月",
+          "thai": "เดือน",
+          "pinyin": "yuè"
+        },
+        {
+          "chinese": "水",
+          "thai": "น้ำ",
+          "pinyin": "shuǐ"
+        },
+        {
+          "chinese": "火",
+          "thai": "ไฟ",
+          "pinyin": "huǒ"
+        },
+        {
+          "chinese": "山",
+          "thai": "ภูเขา",
+          "pinyin": "shān"
+        },
+        {
+          "chinese": "田",
+          "thai": "ทุ่งนา",
+          "pinyin": "tián"
+        },
+        {
+          "chinese": "人",
+          "thai": "คน",
+          "pinyin": "rén"
+        }
       ],
       "HSK 1: Lesson 2": [
-        { "chinese": "大", "thai": "ใหญ่", "pinyin": "dà" },
-        { "chinese": "小", "thai": "เล็ก", "pinyin": "xiǎo" },
-        { "chinese": "们", "thai": "พวก (คำเสริมท้าย)", "pinyin": "men" },
-        { "chinese": "很", "thai": "มาก", "pinyin": "hěn" },
-        { "chinese": "吗", "thai": "ไหม (คำถาม)", "pinyin": "ma" },
-        { "chinese": "呢", "thai": "ล่ะ (คำถาม)", "pinyin": "ne" },
-        { "chinese": "这", "thai": "นี่", "pinyin": "zhè" },
-        { "chinese": "那", "thai": "นั่น", "pinyin": "nà" },
-        { "chinese": "有", "thai": "มี", "pinyin": "yǒu" },
-        { "chinese": "没有", "thai": "ไม่มี", "pinyin": "méiyǒu" },
-        { "chinese": "个", "thai": "ตัว/อัน (ลักษณะนาม)", "pinyin": "gè" },
-        { "chinese": "谁", "thai": "ใคร", "pinyin": "shéi" },
-        { "chinese": "什么", "thai": "อะไร", "pinyin": "shénme" },
-        { "chinese": "多少", "thai": "เท่าไหร่", "pinyin": "duōshao" },
-        { "chinese": "几", "thai": "กี่ (จำนวนน้อย)", "pinyin": "jǐ" }
+        {
+          "chinese": "大",
+          "thai": "ใหญ่",
+          "pinyin": "dà"
+        },
+        {
+          "chinese": "小",
+          "thai": "เล็ก",
+          "pinyin": "xiǎo"
+        },
+        {
+          "chinese": "们",
+          "thai": "พวก (คำเสริมท้าย)",
+          "pinyin": "men"
+        },
+        {
+          "chinese": "很",
+          "thai": "มาก",
+          "pinyin": "hěn"
+        },
+        {
+          "chinese": "吗",
+          "thai": "ไหม (คำถาม)",
+          "pinyin": "ma"
+        },
+        {
+          "chinese": "呢",
+          "thai": "ล่ะ (คำถาม)",
+          "pinyin": "ne"
+        },
+        {
+          "chinese": "这",
+          "thai": "นี่",
+          "pinyin": "zhè"
+        },
+        {
+          "chinese": "那",
+          "thai": "นั่น",
+          "pinyin": "nà"
+        },
+        {
+          "chinese": "有",
+          "thai": "มี",
+          "pinyin": "yǒu"
+        },
+        {
+          "chinese": "没有",
+          "thai": "ไม่มี",
+          "pinyin": "méiyǒu"
+        },
+        {
+          "chinese": "个",
+          "thai": "ตัว/อัน (ลักษณะนาม)",
+          "pinyin": "gè"
+        },
+        {
+          "chinese": "谁",
+          "thai": "ใคร",
+          "pinyin": "shéi"
+        },
+        {
+          "chinese": "什么",
+          "thai": "อะไร",
+          "pinyin": "shénme"
+        },
+        {
+          "chinese": "多少",
+          "thai": "เท่าไหร่",
+          "pinyin": "duōshao"
+        },
+        {
+          "chinese": "几",
+          "thai": "กี่ (จำนวนน้อย)",
+          "pinyin": "jǐ"
+        }
       ],
       "HSK 1: Lesson 3": [
-        { "chinese": "吃", "thai": "กิน", "pinyin": "chī" },
-        { "chinese": "喝", "thai": "ดื่ม", "pinyin": "hē" },
-        { "chinese": "饭", "thai": "ข้าว", "pinyin": "fàn" },
-        { "chinese": "茶", "thai": "ชา", "pinyin": "chá" },
-        { "chinese": "菜", "thai": "กับข้าว/ผัก", "pinyin": "cài" },
-        { "chinese": "水果", "thai": "ผลไม้", "pinyin": "shuǐguǒ" },
-        { "chinese": "苹果", "thai": "แอปเปิ้ล", "pinyin": "píngguǒ" },
-        { "chinese": "香蕉", "thai": "กล้วย", "pinyin": "xiāngjiāo" },
-        { "chinese": "牛奶", "thai": "นม", "pinyin": "niúnǎi" },
-        { "chinese": "鸡蛋", "thai": "ไข่", "pinyin": "jīdàn" },
-        { "chinese": "面条", "thai": "บะหมี่", "pinyin": "miàntiáo" },
-        { "chinese": "米饭", "thai": "ข้าวสวย", "pinyin": "mǐfàn" },
-        { "chinese": "面包", "thai": "ขนมปัง", "pinyin": "miànbāo" },
-        { "chinese": "鱼", "thai": "ปลา", "pinyin": "yú" },
-        { "chinese": "肉", "thai": "เนื้อ", "pinyin": "ròu" }
+        {
+          "chinese": "吃",
+          "thai": "กิน",
+          "pinyin": "chī"
+        },
+        {
+          "chinese": "喝",
+          "thai": "ดื่ม",
+          "pinyin": "hē"
+        },
+        {
+          "chinese": "饭",
+          "thai": "ข้าว",
+          "pinyin": "fàn"
+        },
+        {
+          "chinese": "茶",
+          "thai": "ชา",
+          "pinyin": "chá"
+        },
+        {
+          "chinese": "菜",
+          "thai": "กับข้าว/ผัก",
+          "pinyin": "cài"
+        },
+        {
+          "chinese": "水果",
+          "thai": "ผลไม้",
+          "pinyin": "shuǐguǒ"
+        },
+        {
+          "chinese": "苹果",
+          "thai": "แอปเปิ้ล",
+          "pinyin": "píngguǒ"
+        },
+        {
+          "chinese": "香蕉",
+          "thai": "กล้วย",
+          "pinyin": "xiāngjiāo"
+        },
+        {
+          "chinese": "牛奶",
+          "thai": "นม",
+          "pinyin": "niúnǎi"
+        },
+        {
+          "chinese": "鸡蛋",
+          "thai": "ไข่",
+          "pinyin": "jīdàn"
+        },
+        {
+          "chinese": "面条",
+          "thai": "บะหมี่",
+          "pinyin": "miàntiáo"
+        },
+        {
+          "chinese": "米饭",
+          "thai": "ข้าวสวย",
+          "pinyin": "mǐfàn"
+        },
+        {
+          "chinese": "面包",
+          "thai": "ขนมปัง",
+          "pinyin": "miànbāo"
+        },
+        {
+          "chinese": "鱼",
+          "thai": "ปลา",
+          "pinyin": "yú"
+        },
+        {
+          "chinese": "肉",
+          "thai": "เนื้อ",
+          "pinyin": "ròu"
+        }
       ],
       "HSK 1: Lesson 4": [
-        { "chinese": "咖啡", "thai": "กาแฟ", "pinyin": "kāfēi" },
-        { "chinese": "啤酒", "thai": "เบียร์", "pinyin": "píjiǔ" },
-        { "chinese": "可乐", "thai": "โค้ก", "pinyin": "kělè" },
-        { "chinese": "果汁", "thai": "น้ำผลไม้", "pinyin": "guǒzhī" },
-        { "chinese": "去", "thai": "ไป", "pinyin": "qù" },
-        { "chinese": "来", "thai": "มา", "pinyin": "lái" },
-        { "chinese": "家", "thai": "บ้าน", "pinyin": "jiā" },
-        { "chinese": "学校", "thai": "โรงเรียน", "pinyin": "xuéxiào" },
-        { "chinese": "商店", "thai": "ร้านค้า", "pinyin": "shāngdiàn" },
-        { "chinese": "医院", "thai": "โรงพยาบาล", "pinyin": "yīyuàn" },
-        { "chinese": "饭店", "thai": "ร้านอาหาร/โรงแรม", "pinyin": "fàndiàn" },
-        { "chinese": "火车站", "thai": "สถานีรถไฟ", "pinyin": "huǒchēzhàn" },
-        { "chinese": "飞机场", "thai": "สนามบิน", "pinyin": "fēijīchǎng" },
-        { "chinese": "北京", "thai": "ปักกิ่ง", "pinyin": "Běijīng" },
-        { "chinese": "中国", "thai": "ประเทศจีน", "pinyin": "Zhōngguó" }
+        {
+          "chinese": "咖啡",
+          "thai": "กาแฟ",
+          "pinyin": "kāfēi"
+        },
+        {
+          "chinese": "啤酒",
+          "thai": "เบียร์",
+          "pinyin": "píjiǔ"
+        },
+        {
+          "chinese": "可乐",
+          "thai": "โค้ก",
+          "pinyin": "kělè"
+        },
+        {
+          "chinese": "果汁",
+          "thai": "น้ำผลไม้",
+          "pinyin": "guǒzhī"
+        },
+        {
+          "chinese": "去",
+          "thai": "ไป",
+          "pinyin": "qù"
+        },
+        {
+          "chinese": "来",
+          "thai": "มา",
+          "pinyin": "lái"
+        },
+        {
+          "chinese": "家",
+          "thai": "บ้าน",
+          "pinyin": "jiā"
+        },
+        {
+          "chinese": "学校",
+          "thai": "โรงเรียน",
+          "pinyin": "xuéxiào"
+        },
+        {
+          "chinese": "商店",
+          "thai": "ร้านค้า",
+          "pinyin": "shāngdiàn"
+        },
+        {
+          "chinese": "医院",
+          "thai": "โรงพยาบาล",
+          "pinyin": "yīyuàn"
+        },
+        {
+          "chinese": "饭店",
+          "thai": "ร้านอาหาร/โรงแรม",
+          "pinyin": "fàndiàn"
+        },
+        {
+          "chinese": "火车站",
+          "thai": "สถานีรถไฟ",
+          "pinyin": "huǒchēzhàn"
+        },
+        {
+          "chinese": "飞机场",
+          "thai": "สนามบิน",
+          "pinyin": "fēijīchǎng"
+        },
+        {
+          "chinese": "北京",
+          "thai": "ปักกิ่ง",
+          "pinyin": "Běijīng"
+        },
+        {
+          "chinese": "中国",
+          "thai": "ประเทศจีน",
+          "pinyin": "Zhōngguó"
+        }
       ],
       "HSK 1: Lesson 5": [
-        { "chinese": "美国", "thai": "ประเทศอเมริกา", "pinyin": "Měiguó" },
-        { "chinese": "泰国", "thai": "ประเทศไทย", "pinyin": "Tàiguó" },
-        { "chinese": "哪儿", "thai": "ที่ไหน", "pinyin": "nǎr" },
-        { "chinese": "这儿", "thai": "ที่นี่", "pinyin": "zhèr" },
-        { "chinese": "那儿", "thai": "ที่นั่น", "pinyin": "nàr" },
-        { "chinese": "上", "thai": "บน", "pinyin": "shàng" },
-        { "chinese": "下", "thai": "ล่าง", "pinyin": "xià" },
-        { "chinese": "前", "thai": "หน้า", "pinyin": "qián" },
-        { "chinese": "后", "thai": "หลัง", "pinyin": "hòu" },
-        { "chinese": "看", "thai": "ดู", "pinyin": "kàn" },
-        { "chinese": "听", "thai": "ฟัง", "pinyin": "tīng" },
-        { "chinese": "说", "thai": "พูด", "pinyin": "shuō" },
-        { "chinese": "读", "thai": "อ่าน", "pinyin": "dú" },
-        { "chinese": "写", "thai": "เขียน", "pinyin": "xiě" },
-        { "chinese": "学习", "thai": "เรียน", "pinyin": "xuéxí" }
+        {
+          "chinese": "美国",
+          "thai": "ประเทศอเมริกา",
+          "pinyin": "Měiguó"
+        },
+        {
+          "chinese": "泰国",
+          "thai": "ประเทศไทย",
+          "pinyin": "Tàiguó"
+        },
+        {
+          "chinese": "哪儿",
+          "thai": "ที่ไหน",
+          "pinyin": "nǎr"
+        },
+        {
+          "chinese": "这儿",
+          "thai": "ที่นี่",
+          "pinyin": "zhèr"
+        },
+        {
+          "chinese": "那儿",
+          "thai": "ที่นั่น",
+          "pinyin": "nàr"
+        },
+        {
+          "chinese": "上",
+          "thai": "บน",
+          "pinyin": "shàng"
+        },
+        {
+          "chinese": "下",
+          "thai": "ล่าง",
+          "pinyin": "xià"
+        },
+        {
+          "chinese": "前",
+          "thai": "หน้า",
+          "pinyin": "qián"
+        },
+        {
+          "chinese": "后",
+          "thai": "หลัง",
+          "pinyin": "hòu"
+        },
+        {
+          "chinese": "看",
+          "thai": "ดู",
+          "pinyin": "kàn"
+        },
+        {
+          "chinese": "听",
+          "thai": "ฟัง",
+          "pinyin": "tīng"
+        },
+        {
+          "chinese": "说",
+          "thai": "พูด",
+          "pinyin": "shuō"
+        },
+        {
+          "chinese": "读",
+          "thai": "อ่าน",
+          "pinyin": "dú"
+        },
+        {
+          "chinese": "写",
+          "thai": "เขียน",
+          "pinyin": "xiě"
+        },
+        {
+          "chinese": "学习",
+          "thai": "เรียน",
+          "pinyin": "xuéxí"
+        }
       ],
       "HSK 1: Lesson 6": [
-        { "chinese": "汉语", "thai": "ภาษาจีน", "pinyin": "Hànyǔ" },
-        { "chinese": "英语", "thai": "ภาษาอังกฤษ", "pinyin": "Yīngyǔ" },
-        { "chinese": "书", "thai": "หนังสือ", "pinyin": "shū" },
-        { "chinese": "报纸", "thai": "หนังสือพิมพ์", "pinyin": "bàozhǐ" },
-        { "chinese": "电影", "thai": "ภาพยนตร์", "pinyin": "diànyǐng" },
-        { "chinese": "电视", "thai": "โทรทัศน์", "pinyin": "diànshì" },
-        { "chinese": "电脑", "thai": "คอมพิวเตอร์", "pinyin": "diànnǎo" },
-        { "chinese": "手机", "thai": "โทรศัพท์มือถือ", "pinyin": "shǒujī" },
-        { "chinese": "打电话", "thai": "โทรศัพท์", "pinyin": "dǎ diànhuà" },
-        { "chinese": "睡觉", "thai": "นอน", "pinyin": "shuìjiào" },
-        { "chinese": "起床", "thai": "ตื่นนอน", "pinyin": "qǐchuáng" },
-        { "chinese": "工作", "thai": "ทำงาน", "pinyin": "gōngzuò" },
-        { "chinese": "休息", "thai": "พักผ่อน", "pinyin": "xiūxi" },
-        { "chinese": "运动", "thai": "ออกกำลังกาย", "pinyin": "yùndòng" },
-        { "chinese": "今天", "thai": "วันนี้", "pinyin": "jīntiān" }
+        {
+          "chinese": "汉语",
+          "thai": "ภาษาจีน",
+          "pinyin": "Hànyǔ"
+        },
+        {
+          "chinese": "英语",
+          "thai": "ภาษาอังกฤษ",
+          "pinyin": "Yīngyǔ"
+        },
+        {
+          "chinese": "书",
+          "thai": "หนังสือ",
+          "pinyin": "shū"
+        },
+        {
+          "chinese": "报纸",
+          "thai": "หนังสือพิมพ์",
+          "pinyin": "bàozhǐ"
+        },
+        {
+          "chinese": "电影",
+          "thai": "ภาพยนตร์",
+          "pinyin": "diànyǐng"
+        },
+        {
+          "chinese": "电视",
+          "thai": "โทรทัศน์",
+          "pinyin": "diànshì"
+        },
+        {
+          "chinese": "电脑",
+          "thai": "คอมพิวเตอร์",
+          "pinyin": "diànnǎo"
+        },
+        {
+          "chinese": "手机",
+          "thai": "โทรศัพท์มือถือ",
+          "pinyin": "shǒujī"
+        },
+        {
+          "chinese": "打电话",
+          "thai": "โทรศัพท์",
+          "pinyin": "dǎ diànhuà"
+        },
+        {
+          "chinese": "睡觉",
+          "thai": "นอน",
+          "pinyin": "shuìjiào"
+        },
+        {
+          "chinese": "起床",
+          "thai": "ตื่นนอน",
+          "pinyin": "qǐchuáng"
+        },
+        {
+          "chinese": "工作",
+          "thai": "ทำงาน",
+          "pinyin": "gōngzuò"
+        },
+        {
+          "chinese": "休息",
+          "thai": "พักผ่อน",
+          "pinyin": "xiūxi"
+        },
+        {
+          "chinese": "运动",
+          "thai": "ออกกำลังกาย",
+          "pinyin": "yùndòng"
+        },
+        {
+          "chinese": "今天",
+          "thai": "วันนี้",
+          "pinyin": "jīntiān"
+        }
       ],
       "HSK 1: Lesson 7": [
-        { "chinese": "明天", "thai": "พรุ่งนี้", "pinyin": "míngtiān" },
-        { "chinese": "昨天", "thai": "เมื่อวานนี้", "pinyin": "zuótiān" },
-        { "chinese": "现在", "thai": "ตอนนี้", "pinyin": "xiànzài" },
-        { "chinese": "点", "thai": "โมง (เวลา)", "pinyin": "diǎn" },
-        { "chinese": "分", "thai": "นาที", "pinyin": "fēn" },
-        { "chinese": "年", "thai": "ปี", "pinyin": "nián" },
-        { "chinese": "月", "thai": "เดือน", "pinyin": "yuè" },
-        { "chinese": "日", "thai": "วัน", "pinyin": "rì" },
-        { "chinese": "星期", "thai": "สัปดาห์", "pinyin": "xīngqī" },
-        { "chinese": "上午", "thai": "ตอนเช้า", "pinyin": "shàngwǔ" },
-        { "chinese": "中午", "thai": "ตอนเที่ยง", "pinyin": "zhōngwǔ" },
-        { "chinese": "下午", "thai": "ตอนบ่าย", "pinyin": "xiàwǔ" },
-        { "chinese": "晚上", "thai": "ตอนเย็น/กลางคืน", "pinyin": "wǎnshang" },
-        { "chinese": "时候", "thai": "เวลา", "pinyin": "shíhou" },
-        { "chinese": "多长时间", "thai": "นานเท่าไหร่", "pinyin": "duō cháng shíjiān" }
+        {
+          "chinese": "明天",
+          "thai": "พรุ่งนี้",
+          "pinyin": "míngtiān"
+        },
+        {
+          "chinese": "昨天",
+          "thai": "เมื่อวานนี้",
+          "pinyin": "zuótiān"
+        },
+        {
+          "chinese": "现在",
+          "thai": "ตอนนี้",
+          "pinyin": "xiànzài"
+        },
+        {
+          "chinese": "点",
+          "thai": "โมง (เวลา)",
+          "pinyin": "diǎn"
+        },
+        {
+          "chinese": "分",
+          "thai": "นาที",
+          "pinyin": "fēn"
+        },
+        {
+          "chinese": "年",
+          "thai": "ปี",
+          "pinyin": "nián"
+        },
+        {
+          "chinese": "月",
+          "thai": "เดือน",
+          "pinyin": "yuè"
+        },
+        {
+          "chinese": "日",
+          "thai": "วัน",
+          "pinyin": "rì"
+        },
+        {
+          "chinese": "星期",
+          "thai": "สัปดาห์",
+          "pinyin": "xīngqī"
+        },
+        {
+          "chinese": "上午",
+          "thai": "ตอนเช้า",
+          "pinyin": "shàngwǔ"
+        },
+        {
+          "chinese": "中午",
+          "thai": "ตอนเที่ยง",
+          "pinyin": "zhōngwǔ"
+        },
+        {
+          "chinese": "下午",
+          "thai": "ตอนบ่าย",
+          "pinyin": "xiàwǔ"
+        },
+        {
+          "chinese": "晚上",
+          "thai": "ตอนเย็น/กลางคืน",
+          "pinyin": "wǎnshang"
+        },
+        {
+          "chinese": "时候",
+          "thai": "เวลา",
+          "pinyin": "shíhou"
+        },
+        {
+          "chinese": "多长时间",
+          "thai": "นานเท่าไหร่",
+          "pinyin": "duō cháng shíjiān"
+        }
       ],
       "HSK 1: Lesson 8": [
-        { "chinese": "爸爸", "thai": "พ่อ", "pinyin": "bàba" },
-        { "chinese": "妈妈", "thai": "แม่", "pinyin": "māma" },
-        { "chinese": "哥哥", "thai": "พี่ชาย", "pinyin": "gēge" },
-        { "chinese": "姐姐", "thai": "พี่สาว", "pinyin": "jiějie" },
-        { "chinese": "弟弟", "thai": "น้องชาย", "pinyin": "dìdi" },
-        { "chinese": "妹妹", "thai": "น้องสาว", "pinyin": "mèimei" },
-        { "chinese": "儿子", "thai": "ลูกชาย", "pinyin": "érzi" },
-        { "chinese": "女儿", "thai": "ลูกสาว", "pinyin": "nǚ'ér" },
-        { "chinese": "老师", "thai": "ครู", "pinyin": "lǎoshī" },
-        { "chinese": "学生", "thai": "นักเรียน", "pinyin": "xuésheng" },
-        { "chinese": "医生", "thai": "หมอ", "pinyin": "yīshēng" },
-        { "chinese": "朋友", "thai": "เพื่อน", "pinyin": "péngyou" },
-        { "chinese": "同学", "thai": "เพื่อนร่วมชั้น", "pinyin": "tóngxué" },
-        { "chinese": "先生", "thai": "คุณผู้ชาย", "pinyin": "xiānsheng" },
-        { "chinese": "小姐", "thai": "คุณผู้หญิง", "pinyin": "xiǎojiě" }
+        {
+          "chinese": "爸爸",
+          "thai": "พ่อ",
+          "pinyin": "bàba"
+        },
+        {
+          "chinese": "妈妈",
+          "thai": "แม่",
+          "pinyin": "māma"
+        },
+        {
+          "chinese": "哥哥",
+          "thai": "พี่ชาย",
+          "pinyin": "gēge"
+        },
+        {
+          "chinese": "姐姐",
+          "thai": "พี่สาว",
+          "pinyin": "jiějie"
+        },
+        {
+          "chinese": "弟弟",
+          "thai": "น้องชาย",
+          "pinyin": "dìdi"
+        },
+        {
+          "chinese": "妹妹",
+          "thai": "น้องสาว",
+          "pinyin": "mèimei"
+        },
+        {
+          "chinese": "儿子",
+          "thai": "ลูกชาย",
+          "pinyin": "érzi"
+        },
+        {
+          "chinese": "女儿",
+          "thai": "ลูกสาว",
+          "pinyin": "nǚ'ér"
+        },
+        {
+          "chinese": "老师",
+          "thai": "ครู",
+          "pinyin": "lǎoshī"
+        },
+        {
+          "chinese": "学生",
+          "thai": "นักเรียน",
+          "pinyin": "xuésheng"
+        },
+        {
+          "chinese": "医生",
+          "thai": "หมอ",
+          "pinyin": "yīshēng"
+        },
+        {
+          "chinese": "朋友",
+          "thai": "เพื่อน",
+          "pinyin": "péngyou"
+        },
+        {
+          "chinese": "同学",
+          "thai": "เพื่อนร่วมชั้น",
+          "pinyin": "tóngxué"
+        },
+        {
+          "chinese": "先生",
+          "thai": "คุณผู้ชาย",
+          "pinyin": "xiānsheng"
+        },
+        {
+          "chinese": "小姐",
+          "thai": "คุณผู้หญิง",
+          "pinyin": "xiǎojiě"
+        }
       ],
       "HSK 1: Lesson 9": [
-        { "chinese": "名字", "thai": "ชื่อ", "pinyin": "míngzi" },
-        { "chinese": "姓", "thai": "นามสกุล", "pinyin": "xìng" },
-        { "chinese": "叫", "thai": "เรียก/ชื่อว่า", "pinyin": "jiào" },
-        { "chinese": "认识", "thai": "รู้จัก", "pinyin": "rènshi" },
-        { "chinese": "高兴", "thai": "ดีใจ", "pinyin": "gāoxìng" },
-        { "chinese": "买", "thai": "ซื้อ", "pinyin": "mǎi" },
-        { "chinese": "卖", "thai": "ขาย", "pinyin": "mài" },
-        { "chinese": "钱", "thai": "เงิน", "pinyin": "qián" },
-        { "chinese": "多少钱", "thai": "ราคาเท่าไหร่", "pinyin": "duōshao qián" },
-        { "chinese": "元", "thai": "หยวน", "pinyin": "yuán" },
-        { "chinese": "块", "thai": "หยวน (ภาษาพูด)", "pinyin": "kuài" },
-        { "chinese": "毛", "thai": "เหมา (10 เฟิน)", "pinyin": "máo" },
-        { "chinese": "分", "thai": "เฟิน (1/100 หยวน)", "pinyin": "fēn" },
-        { "chinese": "衣服", "thai": "เสื้อผ้า", "pinyin": "yīfu" },
-        { "chinese": "件", "thai": "ตัว/ชิ้น (ลักษณะนามเสื้อผ้า)", "pinyin": "jiàn" }
+        {
+          "chinese": "名字",
+          "thai": "ชื่อ",
+          "pinyin": "míngzi"
+        },
+        {
+          "chinese": "姓",
+          "thai": "นามสกุล",
+          "pinyin": "xìng"
+        },
+        {
+          "chinese": "叫",
+          "thai": "เรียก/ชื่อว่า",
+          "pinyin": "jiào"
+        },
+        {
+          "chinese": "认识",
+          "thai": "รู้จัก",
+          "pinyin": "rènshi"
+        },
+        {
+          "chinese": "高兴",
+          "thai": "ดีใจ",
+          "pinyin": "gāoxìng"
+        },
+        {
+          "chinese": "买",
+          "thai": "ซื้อ",
+          "pinyin": "mǎi"
+        },
+        {
+          "chinese": "卖",
+          "thai": "ขาย",
+          "pinyin": "mài"
+        },
+        {
+          "chinese": "钱",
+          "thai": "เงิน",
+          "pinyin": "qián"
+        },
+        {
+          "chinese": "多少钱",
+          "thai": "ราคาเท่าไหร่",
+          "pinyin": "duōshao qián"
+        },
+        {
+          "chinese": "元",
+          "thai": "หยวน",
+          "pinyin": "yuán"
+        },
+        {
+          "chinese": "块",
+          "thai": "หยวน (ภาษาพูด)",
+          "pinyin": "kuài"
+        },
+        {
+          "chinese": "毛",
+          "thai": "เหมา (10 เฟิน)",
+          "pinyin": "máo"
+        },
+        {
+          "chinese": "分",
+          "thai": "เฟิน (1/100 หยวน)",
+          "pinyin": "fēn"
+        },
+        {
+          "chinese": "衣服",
+          "thai": "เสื้อผ้า",
+          "pinyin": "yīfu"
+        },
+        {
+          "chinese": "件",
+          "thai": "ตัว/ชิ้น (ลักษณะนามเสื้อผ้า)",
+          "pinyin": "jiàn"
+        }
       ],
       "HSK 1: Lesson 10": [
-        { "chinese": "颜色", "thai": "สี", "pinyin": "yánsè" },
-        { "chinese": "红", "thai": "แดง", "pinyin": "hóng" },
-        { "chinese": "绿", "thai": "เขียว", "pinyin": "lǜ" },
-        { "chinese": "白", "thai": "ขาว", "pinyin": "bái" },
-        { "chinese": "黑", "thai": "ดำ", "pinyin": "hēi" },
-        { "chinese": "蓝", "thai": "น้ำเงิน", "pinyin": "lán" },
-        { "chinese": "黄", "thai": "เหลือง", "pinyin": "huáng" },
-        { "chinese": "漂亮", "thai": "สวย", "pinyin": "piàoliang" },
-        { "chinese": "喜欢", "thai": "ชอบ", "pinyin": "xǐhuan" },
-        { "chinese": "穿", "thai": "ใส่ (เสื้อผ้า)", "pinyin": "chuān" },
-        { "chinese": "坐", "thai": "นั่ง", "pinyin": "zuò" },
-        { "chinese": "站", "thai": "ยืน", "pinyin": "zhàn" },
-        { "chinese": "走", "thai": "เดิน", "pinyin": "zǒu" },
-        { "chinese": "跑", "thai": "วิ่ง", "pinyin": "pǎo" },
-        { "chinese": "开车", "thai": "ขับรถ", "pinyin": "kāichē" }
+        {
+          "chinese": "颜色",
+          "thai": "สี",
+          "pinyin": "yánsè"
+        },
+        {
+          "chinese": "红",
+          "thai": "แดง",
+          "pinyin": "hóng"
+        },
+        {
+          "chinese": "绿",
+          "thai": "เขียว",
+          "pinyin": "lǜ"
+        },
+        {
+          "chinese": "白",
+          "thai": "ขาว",
+          "pinyin": "bái"
+        },
+        {
+          "chinese": "黑",
+          "thai": "ดำ",
+          "pinyin": "hēi"
+        },
+        {
+          "chinese": "蓝",
+          "thai": "น้ำเงิน",
+          "pinyin": "lán"
+        },
+        {
+          "chinese": "黄",
+          "thai": "เหลือง",
+          "pinyin": "huáng"
+        },
+        {
+          "chinese": "漂亮",
+          "thai": "สวย",
+          "pinyin": "piàoliang"
+        },
+        {
+          "chinese": "喜欢",
+          "thai": "ชอบ",
+          "pinyin": "xǐhuan"
+        },
+        {
+          "chinese": "穿",
+          "thai": "ใส่ (เสื้อผ้า)",
+          "pinyin": "chuān"
+        },
+        {
+          "chinese": "坐",
+          "thai": "นั่ง",
+          "pinyin": "zuò"
+        },
+        {
+          "chinese": "站",
+          "thai": "ยืน",
+          "pinyin": "zhàn"
+        },
+        {
+          "chinese": "走",
+          "thai": "เดิน",
+          "pinyin": "zǒu"
+        },
+        {
+          "chinese": "跑",
+          "thai": "วิ่ง",
+          "pinyin": "pǎo"
+        },
+        {
+          "chinese": "开车",
+          "thai": "ขับรถ",
+          "pinyin": "kāichē"
+        }
       ]
     }
   }

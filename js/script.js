@@ -339,7 +339,19 @@ document.addEventListener('DOMContentLoaded', () => {
         utterThis.lang = targetLang;
 
         // Find a suitable voice. iOS requires a voice to be set.
-        let voice = voices.find(v => v.lang === targetLang && v.name.includes('Google')); // Prefer Google voices
+        let voice = null;
+
+        // Prioritize female Chinese voices
+        if (currentLanguage === 'chinese') {
+            voice = voices.find(v => v.lang === 'zh-CN' && (v.name.includes('Female') || v.name.includes('F') || v.name.includes('Xiaoxiao')));
+        }
+
+        // Prefer Google voices if no specific female voice found or for English
+        if (!voice) {
+            voice = voices.find(v => v.lang === targetLang && v.name.includes('Google'));
+        }
+        
+        // General fallback for the target language
         if (!voice) {
             voice = voices.find(v => v.lang === targetLang);
         }
@@ -349,7 +361,7 @@ document.addEventListener('DOMContentLoaded', () => {
             voice = voices.find(v => v.lang.startsWith(langPrefix));
         }
 
-        // Specific check for common iOS Chinese voice (Ting-Ting)
+        // Specific check for common iOS Chinese voice (Ting-Ting) as a last resort
         if (currentLanguage === 'chinese' && !voice) {
             const iosVoice = voices.find(v => v.name === 'Ting-Ting' && v.lang === 'zh-CN');
             if (iosVoice) voice = iosVoice;

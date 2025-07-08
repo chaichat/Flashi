@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const lessonSelector = document.getElementById('lesson-selector'); // Renamed from sectionSelector
     const lessonGrid = document.getElementById('lesson-grid'); // Renamed from sectionGrid
     const lessonCategoryTitle = document.getElementById('lesson-category-title'); // Renamed from sectionTitle
-    const backToCategoriesBtn = document.getElementById('back-to-categories'); // Renamed from backToSectionsBtn
+    const backToLessonsBtn = document.getElementById('back-to-lessons'); // Renamed from backToSectionsBtn
     const changeLanguageFromLessonBtn = document.getElementById('change-language-from-lesson'); // Renamed from changeLangBtn
 
     const flashcardContainer = document.getElementById('flashcard-container');
@@ -408,7 +408,7 @@ document.addEventListener('DOMContentLoaded', () => {
     testModeBtn.addEventListener('click', () => switchMode(false));
     
     // Updated navigation buttons
-    backToCategoriesBtn.addEventListener('click', showCategorySelector);
+        backToLessonsBtn.addEventListener('click', () => showLessonSelector(currentCategory));
     changeLanguageFromCategoryBtn.addEventListener('click', showLanguageSelector);
     changeLanguageFromLessonBtn.addEventListener('click', showLanguageSelector);
 

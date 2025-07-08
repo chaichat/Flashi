@@ -215,7 +215,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Check for a swipe based on distance or velocity
             if (Math.abs(diffX) > 100 || velocity > 0.5) {
                 card.style.transform = `translateX(${diffX > 0 ? 500 : -500}px) rotate(${diffX > 0 ? 30 : -30}deg) translateZ(0)`;
-                card.style.opacity = '0';
+                // Rely on CSS transition for opacity change
                 setTimeout(() => {
                     cardIndex++;
                     renderDeck();

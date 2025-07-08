@@ -194,7 +194,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!isDragging) return;
             const currentX = e.clientX || e.touches[0].clientX;
             const diffX = currentX - startX;
-            card.style.transform = `translateX(${diffX}px) rotate(${diffX / 20}deg)`;
+            card.style.transform = `translateX(${diffX}px) rotate(${diffX / 20}deg) translateZ(0)`;
         }
 
         function onPointerUp(e) {

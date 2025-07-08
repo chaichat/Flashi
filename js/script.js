@@ -2,8 +2,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- STATE ---
     let allData = {};
     let currentLanguage = localStorage.getItem('flashi_language') || null;
-    let currentSections = {};
-    let currentSection = null;
+    let currentCategory = null; // New state variable for selected category
+    let currentLessons = {}; // Renamed from currentSections
+    let currentLesson = null; // Renamed from currentSection
     let currentDeck = [];
     let cardIndex = 0;
     let isLearnMode = true;
@@ -15,17 +16,24 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- DOM ELEMENTS ---
     const appContainer = document.getElementById('app-container');
     const languageSelector = document.getElementById('language-selector');
-    const sectionSelector = document.getElementById('section-selector');
+    const categorySelector = document.getElementById('category-selector'); // New element
+    const categoryGrid = document.getElementById('category-grid'); // New element
+    const categoryLanguageTitle = document.getElementById('category-language-title'); // New element
+    const changeLanguageFromCategoryBtn = document.getElementById('change-language-from-category'); // New element
+
+    const lessonSelector = document.getElementById('lesson-selector'); // Renamed from sectionSelector
+    const lessonGrid = document.getElementById('lesson-grid'); // Renamed from sectionGrid
+    const lessonCategoryTitle = document.getElementById('lesson-category-title'); // Renamed from sectionTitle
+    const backToCategoriesBtn = document.getElementById('back-to-categories'); // Renamed from backToSectionsBtn
+    const changeLanguageFromLessonBtn = document.getElementById('change-language-from-lesson'); // Renamed from changeLangBtn
+
     const flashcardContainer = document.getElementById('flashcard-container');
-    const sectionGrid = document.getElementById('section-grid');
-    const sectionTitle = document.getElementById('section-title');
+    const sectionTitle = document.getElementById('section-title'); // This is the title on the flashcard screen
     const deck = document.getElementById('deck');
     const learnModeBtn = document.getElementById('learn-mode-btn');
     const testModeBtn = document.getElementById('test-mode-btn');
     const testModeControls = document.getElementById('test-mode-controls');
     const revealBtn = document.getElementById('reveal-btn');
-    const backToSectionsBtn = document.getElementById('back-to-sections');
-    const changeLangBtn = document.getElementById('change-language');
 
     // --- FUNCTIONS ---
 
@@ -51,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
      */
     function initializeApp() {
         if (currentLanguage && allData[currentLanguage]) {
-            showSectionSelector();
+            showCategorySelector();
         } else {
             showLanguageSelector();
         }
@@ -62,7 +70,8 @@ document.addEventListener('DOMContentLoaded', () => {
      */
     function showLanguageSelector() {
         languageSelector.classList.remove('hidden');
-        sectionSelector.classList.add('hidden');
+        categorySelector.classList.add('hidden');
+        lessonSelector.classList.add('hidden');
         flashcardContainer.classList.add('hidden');
 
         document.getElementById('select-english').addEventListener('click', () => selectLanguage('english'));
@@ -70,24 +79,60 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     /**
-     * Sets the current language and shows the section selector.
+     * Sets the current language and shows the category selector.
      */
     function selectLanguage(language) {
         currentLanguage = language;
         localStorage.setItem('flashi_language', language);
-        showSectionSelector();
+        showCategorySelector();
     }
     
     /**
-     * Shows the section selection screen for the current language.
+     * Shows the category selection screen for the current language.
      */
-    function showSectionSelector() {
-        currentSections = allData[currentLanguage];
+    function showCategorySelector() {
+        if (!currentLanguage || !allData[currentLanguage]) {
+            showLanguageSelector(); // Fallback if no language selected or data missing
+            return;
+        }
         languageSelector.classList.add('hidden');
+        lessonSelector.classList.add('hidden');
         flashcardContainer.classList.add('hidden');
-        sectionSelector.classList.remove('hidden');
-        document.getElementById('language-title').textContent = `เรียน${currentLanguage === 'english' ? 'ภาษาอังกฤษ' : 'ภาษาจีน'}`;
-        initSectionGrid();
+        categorySelector.classList.remove('hidden');
+        categoryLanguageTitle.textContent = `เรียน${currentLanguage === 'english' ? 'ภาษาอังกฤษ' : 'ภาษาจีน'}`;
+        initCategoryGrid();
+    }
+
+    /**
+     * Initializes the category selection grid.
+     */
+    function initCategoryGrid() {
+        categoryGrid.innerHTML = '';
+        const categoryNames = Object.keys(allData[currentLanguage]);
+
+        categoryNames.forEach(categoryName => {
+            const button = document.createElement('button');
+            button.className = "p-4 bg-white border-2 border-gray-200 rounded-xl text-center shadow-sm hover:shadow-md hover:border-blue-400 transition-all duration-200";
+            button.innerHTML = `
+                <div class="text-3xl mb-2">📁</div>
+                <div class="font-semibold text-gray-700">${categoryName}</div>
+            `;
+            button.addEventListener('click', () => showLessonSelector(categoryName));
+            categoryGrid.appendChild(button);
+        });
+    }
+
+    /**
+     * Shows the lesson selection screen for the current category.
+     */
+    function showLessonSelector(categoryName) {
+        currentCategory = categoryName;
+        currentLessons = allData[currentLanguage][currentCategory];
+        categorySelector.classList.add('hidden');
+        flashcardContainer.classList.add('hidden');
+        lessonSelector.classList.remove('hidden');
+        lessonCategoryTitle.textContent = currentCategory;
+        initLessonGrid();
     }
 
     /**
@@ -176,7 +221,7 @@ document.addEventListener('DOMContentLoaded', () => {
             </div>
         `;
         document.getElementById('restart-section').addEventListener('click', () => {
-            startSection(currentSection);
+            startLesson(currentLesson);
         });
     }
 
@@ -271,7 +316,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         testModeControls.classList.toggle('hidden', isLearnMode);
         
-        startSection(currentSection);
+        startLesson(currentLesson);
     }
 
     /**
@@ -287,17 +332,17 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     
     /**
-     * Starts a flashcard section.
+     * Starts a flashcard lesson.
      */
-    function startSection(sectionName) {
-        currentSection = sectionName;
-        currentDeck = sectionName.includes("Review") 
-            ? generateReviewDeck(sectionName) 
-            : currentSections[sectionName];
+    function startLesson(lessonName) {
+        currentLesson = lessonName;
+        currentDeck = lessonName.includes("Review") 
+            ? generateReviewDeck(lessonName) 
+            : currentLessons[lessonName];
         cardIndex = 0;
         
-        sectionTitle.textContent = sectionName;
-        sectionSelector.classList.add('hidden');
+        sectionTitle.textContent = currentLesson;
+        lessonSelector.classList.add('hidden');
         flashcardContainer.classList.remove('hidden');
         
         renderDeck();
@@ -312,8 +357,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "Business Review (1-5)": ["Business 1: The Office", "Business 2: Money & Finance", "Business 3: Marketing & Sales", "Business 4: Jobs & Roles", "Business 5: Company & Growth"]
         };
 
-        const sectionNames = reviewMap[reviewName] || [];
-        let combinedDeck = sectionNames.flatMap(name => currentSections[name] || []);
+        const lessonNames = reviewMap[reviewName] || [];
+        let combinedDeck = lessonNames.flatMap(name => allData[currentLanguage][currentCategory][name] || []);
 
         // Fisher-Yates shuffle
         for (let i = combinedDeck.length - 1; i > 0; i--) {
@@ -325,26 +370,27 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     /**
-     * Initializes the section selection grid.
+     * Initializes the lesson selection grid.
      */
-    function initSectionGrid() {
-        sectionGrid.innerHTML = '';
-        const sectionNames = Object.keys(currentSections);
+    function initLessonGrid() {
+        lessonGrid.innerHTML = '';
+        const lessonNames = Object.keys(currentLessons);
 
-        sectionNames.forEach(sectionName => {
+        lessonNames.forEach(lessonName => {
             const button = document.createElement('button');
             button.className = "p-4 bg-white border-2 border-gray-200 rounded-xl text-center shadow-sm hover:shadow-md hover:border-blue-400 transition-all duration-200";
             button.innerHTML = `
                 <div class="text-3xl mb-2">📚</div>
-                <div class="font-semibold text-gray-700">${sectionName}</div>
-                <div class="text-sm text-gray-500">${currentSections[sectionName].length} words</div>
+                <div class="font-semibold text-gray-700">${lessonName}</div>
+                <div class="text-sm text-gray-500">${currentLessons[lessonName].length} words</div>
             `;
-            button.addEventListener('click', () => startSection(sectionName));
-            sectionGrid.appendChild(button);
+            button.addEventListener('click', () => startLesson(lessonName));
+            lessonGrid.appendChild(button);
         });
 
         // Example of adding a review test button
-        if (sectionNames.length >= 5) { // Only show review if there are enough sections
+        // This logic needs to be updated to be category-aware
+        if (currentCategory === "Business" && lessonNames.length >= 5) { 
             const reviewButton = document.createElement('button');
             reviewButton.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
             reviewButton.innerHTML = `
@@ -352,16 +398,19 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="font-semibold text-gray-700">Business Review (1-5)</div>
                 <div class="text-sm text-gray-500">Test - 20 words</div>
             `;
-            reviewButton.addEventListener('click', () => startSection("Business Review (1-5)"));
-            sectionGrid.appendChild(reviewButton);
+            reviewButton.addEventListener('click', () => startLesson("Business Review (1-5)"));
+            lessonGrid.appendChild(reviewButton);
         }
     }
 
     // --- EVENT LISTENERS ---
     learnModeBtn.addEventListener('click', () => switchMode(true));
     testModeBtn.addEventListener('click', () => switchMode(false));
-    backToSectionsBtn.addEventListener('click', showSectionSelector);
-    changeLangBtn.addEventListener('click', showLanguageSelector);
+    
+    // Updated navigation buttons
+    backToCategoriesBtn.addEventListener('click', showCategorySelector);
+    changeLanguageFromCategoryBtn.addEventListener('click', showLanguageSelector);
+    changeLanguageFromLessonBtn.addEventListener('click', showLanguageSelector);
 
     revealBtn.addEventListener('click', () => {
         if (cardIndex >= currentDeck.length) return;

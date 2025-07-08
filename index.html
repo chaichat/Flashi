@@ -22,15 +22,28 @@
             </div>
         </div>
         
-        <!-- Section Selection Screen -->
-        <div id="section-selector" class="w-full bg-white p-6 rounded-3xl shadow-lg hidden flex flex-col h-full">
+        <!-- Category Selection Screen -->
+        <div id="category-selector" class="w-full bg-white p-6 rounded-3xl shadow-lg text-center hidden flex flex-col h-full">
             <div class="flex justify-between items-center mb-6">
-                 <h1 id="language-title" class="text-2xl font-bold text-center text-gray-800"></h1>
-                 <button id="change-language" class="text-sm text-blue-500 hover:underline">Change</button>
+                 <h1 id="category-language-title" class="text-2xl font-bold text-center text-gray-800"></h1>
+                 <button id="change-language-from-category" class="text-sm text-blue-500 hover:underline">Change</button>
+            </div>
+            <p class="text-center text-gray-500 mb-6">กรุณาเลือกหมวดหมู่</p>
+            <div id="category-grid" class="section-grid overflow-y-auto flex-grow grid-cols-2">
+                <!-- Categories will be populated by JavaScript -->
+            </div>
+        </div>
+        
+        <!-- Lesson Selection Screen (formerly Section Selection) -->
+        <div id="lesson-selector" class="w-full bg-white p-6 rounded-3xl shadow-lg hidden flex flex-col h-full">
+            <div class="flex justify-between items-center mb-6">
+                 <button id="back-to-categories" class="text-blue-500 hover:text-blue-700">&larr; กลับไปหมวดหมู่</button>
+                 <h1 id="lesson-category-title" class="text-2xl font-bold text-center text-gray-800"></h1>
+                 <button id="change-language-from-lesson" class="text-sm text-blue-500 hover:underline">Change</button>
             </div>
             <p class="text-center text-gray-500 mb-6">กรุณาเลือกบทเรียน</p>
-            <div id="section-grid" class="section-grid overflow-y-auto flex-grow grid-cols-2">
-                <!-- Sections will be populated by JavaScript -->
+            <div id="lesson-grid" class="section-grid overflow-y-auto flex-grow grid-cols-2">
+                <!-- Lessons will be populated by JavaScript -->
             </div>
         </div>
 

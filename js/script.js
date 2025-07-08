@@ -325,9 +325,36 @@ document.addEventListener('DOMContentLoaded', () => {
     function speak(text) {
         if (synth.speaking) synth.cancel();
         const utterThis = new SpeechSynthesisUtterance(text);
-        utterThis.lang = currentLanguage === 'english' ? 'en-US' : 'zh-CN';
+        
         utterThis.pitch = 1;
         utterThis.rate = 0.9;
+        
+        const targetLang = currentLanguage === 'english' ? 'en-US' : 'zh-CN';
+        utterThis.lang = targetLang;
+
+        // Find a suitable voice. iOS requires a voice to be set.
+        let voice = voices.find(v => v.lang === targetLang && v.name.includes('Google')); // Prefer Google voices
+        if (!voice) {
+            voice = voices.find(v => v.lang === targetLang);
+        }
+        // Fallback for different language code formats (e.g., 'en_US')
+        if (!voice) {
+            const langPrefix = targetLang.split('-')[0];
+            voice = voices.find(v => v.lang.startsWith(langPrefix));
+        }
+
+        // Specific check for common iOS Chinese voice
+        if (currentLanguage === 'chinese') {
+            const iosVoice = voices.find(v => v.name === 'Ting-Ting' && v.lang === 'zh-CN');
+            if (iosVoice) voice = iosVoice;
+        }
+
+        if (voice) {
+            utterThis.voice = voice;
+        } else {
+            console.warn(`Voice for ${targetLang} not found. Using default.`);
+        }
+
         synth.speak(utterThis);
     }
     

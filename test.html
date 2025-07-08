@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iOS Speech Synthesis Test</title>
+</head>
+<body>
+    <h1>iOS Speech Synthesis Test</h1>
+    <p>Open the developer console to see the list of available voices.</p>
+    <button id="speak-btn">Speak Chinese (你好世界)</button>
+
+    <script>
+        const synth = window.speechSynthesis;
+        let voices = [];
+
+        function populateVoiceList() {
+            voices = synth.getVoices();
+            console.log("Available voices:", voices);
+        }
+
+        populateVoiceList();
+        if (speechSynthesis.onvoiceschanged !== undefined) {
+            speechSynthesis.onvoiceschanged = populateVoiceList;
+        }
+
+        function speak() {
+            if (synth.speaking) {
+                synth.cancel();
+            }
+
+            const text = "你好世界";
+            const utterThis = new SpeechSynthesisUtterance(text);
+            utterThis.lang = 'zh-CN';
+
+            let voice = voices.find(v => v.lang === 'zh-CN');
+
+            // Fallback for different language code formats
+            if (!voice) {
+                voice = voices.find(v => v.lang.startsWith('zh'));
+            }
+
+            // Specific check for common iOS Chinese voice
+            if (!voice) {
+                voice = voices.find(v => v.name === 'Ting-Ting' && v.lang === 'zh-CN');
+            }
+            
+            if (voice) {
+                utterThis.voice = voice;
+                console.log("Using voice:", voice.name, voice.lang);
+            } else {
+                console.warn("Chinese voice not found. Using default.");
+            }
+
+            synth.speak(utterThis);
+        }
+
+        document.getElementById('speak-btn').addEventListener('click', speak);
+    </script>
+</body>
+</html>

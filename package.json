@@ -1,0 +1,21 @@
+{
+  "name": "flashi",
+  "version": "1.0.0",
+  "description": "A flashcard application for language learning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "add-everyday": "node scripts/addEverydayLessons.js",
+    "add-ielts": "node scripts/addIELTSLessons.js",
+    "translate": "node scripts/populateTranslations.js",
+    "word-lists": "node scripts/generateWordLists.js",
+    "clean-list": "node scripts/cleanWordList.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^8.3.0",
+    "dotenv": "^16.4.5"
+  }
+}

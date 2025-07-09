@@ -1,20 +1,5 @@
-# Dependencies
-/node_modules
+# Ignore Node.js dependencies
+node_modules
 
-# Build files
-/build
-/dist
-
-# Environment variables
+# Ignore environment variables file
 .env
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Other
-.DS_Store
-
-# Gemini CLI
-.gemini/

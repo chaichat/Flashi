@@ -31,6 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const lessonGrid = document.getElementById('lesson-grid'); // Renamed from sectionGrid
     const lessonCategoryTitle = document.getElementById('lesson-category-title'); // Renamed from sectionTitle
     const backToLessonsBtn = document.getElementById('back-to-lessons'); // Renamed from backToSectionsBtn
+    const backToCategoriesBtn = document.getElementById('back-to-categories');
     const changeLanguageFromLessonBtn = document.getElementById('change-language-from-lesson'); // Renamed from changeLangBtn
 
     const flashcardContainer = document.getElementById('flashcard-container');
@@ -397,16 +398,35 @@ document.addEventListener('DOMContentLoaded', () => {
      * Generates a shuffled deck for review tests.
      */
     function generateReviewDeck(reviewName) {
-        // This is a placeholder. You'll need to define which sections go into which review.
-        const reviewMap = {
-            "Business Review (1-5)": ["Business 1: The Office", "Business 2: Money & Finance", "Business 3: Marketing & Sales", "Business 4: Jobs & Roles", "Business 5: Company & Growth"],
-            "HSK 1 Review (1-5)": ["HSK 1: Lesson 1", "HSK 1: Lesson 2", "HSK 1: Lesson 3", "HSK 1: Lesson 4", "HSK 1: Lesson 5"],
-            "HSK 1 Review (6-10)": ["HSK 1: Lesson 6", "HSK 1: Lesson 7", "HSK 1: Lesson 8", "HSK 1: Lesson 9", "HSK 1: Lesson 10"],
-            "IELTS Vocabulary Review (1-5)": ["IELTS Vocabulary: Lesson 1", "IELTS Vocabulary: Lesson 2", "IELTS Vocabulary: Lesson 3", "IELTS Vocabulary: Lesson 4", "IELTS Vocabulary: Lesson 5"]
-        };
+        let combinedDeck = [];
 
-        const lessonNames = reviewMap[reviewName] || [];
-        let combinedDeck = lessonNames.flatMap(name => allData[currentLanguage][currentCategory][name] || []);
+        // Special case for old "Business" review format which has unique lesson names
+        if (reviewName === "Business Review (1-5)") {
+            const lessonNames = ["Business 1: The Office", "Business 2: Money & Finance", "Business 3: Marketing & Sales", "Business 4: Jobs & Roles", "Business 5: Company & Growth"];
+            combinedDeck = lessonNames.flatMap(name => allData[currentLanguage]["Business"][name] || []);
+        } else {
+            // Dynamic generation for reviews like "Category Review (X-Y)"
+            const match = reviewName.match(/(.+) Review \((\d+)-(\d+)\)/);
+
+            if (match) {
+                const category = match[1].trim();
+                const start = parseInt(match[2], 10);
+                const end = parseInt(match[3], 10);
+
+                // Find the correct category key in the data, which might differ from the review name's casing
+                const categoryKey = Object.keys(allData[currentLanguage]).find(k => k.toLowerCase() === category.toLowerCase());
+
+                if (categoryKey) {
+                    for (let i = start; i <= end; i++) {
+                        const lessonName = `${categoryKey}: Lesson ${i}`;
+                        const lessonCards = allData[currentLanguage][categoryKey][lessonName];
+                        if (lessonCards) {
+                            combinedDeck.push(...lessonCards);
+                        }
+                    }
+                }
+            }
+        }
 
         // Fisher-Yates shuffle
         for (let i = combinedDeck.length - 1; i > 0; i--) {
@@ -417,6 +437,29 @@ document.addEventListener('DOMContentLoaded', () => {
         return combinedDeck.slice(0, 20);
     }
 
+    /**
+     * Dynamically adds review buttons for categories with enough lessons.
+     */
+    function addReviewButtons(categoryName, totalLessons) {
+        for (let i = 1; i <= totalLessons; i += 5) {
+            const endLesson = i + 4;
+            // Only create a review button if a full block of 5 lessons exists
+            if (endLesson > totalLessons) {
+                continue;
+            }
+
+            const reviewName = `${categoryName} Review (${i}-${endLesson})`;
+            const reviewButton = document.createElement('button');
+            reviewButton.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
+            reviewButton.innerHTML = `
+                <div class="text-3xl mb-2">⭐</div>
+                <div class="font-semibold text-gray-700">${reviewName}</div>
+                <div class="text-sm text-gray-500">Test - 20 words</div>
+            `;
+            reviewButton.addEventListener('click', () => startLesson(reviewName));
+            lessonGrid.appendChild(reviewButton);
+        }
+    }
     /**
      * Initializes the lesson selection grid.
      */
@@ -436,9 +479,11 @@ document.addEventListener('DOMContentLoaded', () => {
             lessonGrid.appendChild(button);
         });
 
-        // Example of adding a review test button
-        // This logic needs to be updated to be category-aware
-        if (currentCategory === "Business" && lessonNames.length >= 5) { 
+        const lessonKeys = lessonNames.filter(name => !name.includes("Review"));
+        const totalLessons = lessonKeys.length;
+
+        // Add review buttons
+        if (currentCategory === "Business" && totalLessons >= 5) {
             const reviewButton = document.createElement('button');
             reviewButton.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
             reviewButton.innerHTML = `
@@ -448,41 +493,9 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
             reviewButton.addEventListener('click', () => startLesson("Business Review (1-5)"));
             lessonGrid.appendChild(reviewButton);
-        } else if (currentCategory === "HSK 1") {
-            if (lessonNames.length >= 5) {
-                const reviewButton1 = document.createElement('button');
-                reviewButton1.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
-                reviewButton1.innerHTML = `
-                    <div class="text-3xl mb-2">⭐</div>
-                    <div class="font-semibold text-gray-700">HSK 1 Review (1-5)</div>
-                    <div class="text-sm text-gray-500">Test - 20 words</div>
-                `;
-                reviewButton1.addEventListener('click', () => startLesson("HSK 1 Review (1-5)"));
-                lessonGrid.appendChild(reviewButton1);
-            }
-            if (lessonNames.length >= 10) {
-                const reviewButton2 = document.createElement('button');
-                reviewButton2.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
-                reviewButton2.innerHTML = `
-                    <div class="text-3xl mb-2">⭐</div>
-                    <div class="font-semibold text-gray-700">HSK 1 Review (6-10)</div>
-                    <div class="text-sm text-gray-500">Test - 20 words</div>
-                `;
-                reviewButton2.addEventListener('click', () => startLesson("HSK 1 Review (6-10)"));
-                lessonGrid.appendChild(reviewButton2);
-            }
-        } else if (currentCategory === "IELTS Vocabulary") {
-            if (lessonNames.length >= 5) {
-                const reviewButton = document.createElement('button');
-                reviewButton.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
-                reviewButton.innerHTML = `
-                    <div class="text-3xl mb-2">⭐</div>
-                    <div class="font-semibold text-gray-700">IELTS Vocabulary Review (1-5)</div>
-                    <div class="text-sm text-gray-500">Test - 20 words</div>
-                `;
-                reviewButton.addEventListener('click', () => startLesson("IELTS Vocabulary Review (1-5)"));
-                lessonGrid.appendChild(reviewButton);
-            }
+        } else if (["HSK 1", "IELTS Vocabulary", "Everyday"].includes(currentCategory)) {
+            // Dynamically add review buttons for these categories
+            addReviewButtons(currentCategory, totalLessons);
         }
     }
 
@@ -491,7 +504,8 @@ document.addEventListener('DOMContentLoaded', () => {
     testModeBtn.addEventListener('click', () => switchMode(false));
     
     // Updated navigation buttons
-        backToLessonsBtn.addEventListener('click', () => showLessonSelector(currentCategory));
+    backToLessonsBtn.addEventListener('click', () => showLessonSelector(currentCategory));
+    backToCategoriesBtn.addEventListener('click', showCategorySelector);
     changeLanguageFromCategoryBtn.addEventListener('click', showLanguageSelector);
     changeLanguageFromLessonBtn.addEventListener('click', showLanguageSelector);
 

@@ -9,7 +9,9 @@
     "add-ielts": "node scripts/addIELTSLessons.js",
     "translate": "node scripts/populateTranslations.js",
     "word-lists": "node scripts/generateWordLists.js",
-    "clean-list": "node scripts/cleanWordList.js"
+    "clean-list": "node scripts/cleanWordList.js",
+    "phonetics": "node scripts/populatePhonetics.js",
+    "reset-everyday": "node scripts/resetEverydayLessons.js"
   },
   "keywords": [],
   "author": "",

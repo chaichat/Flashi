@@ -91,6 +91,11 @@ document.addEventListener('DOMContentLoaded', () => {
     function selectLanguage(language) {
         currentLanguage = language;
         localStorage.setItem('flashi_language', language);
+        // "Warm up" the speech synthesis engine on a user gesture, which is required by some browsers (e.g., mobile Safari).
+        if (synth && !synth.speaking) {
+            const warmUpUtterance = new SpeechSynthesisUtterance('');
+            synth.speak(warmUpUtterance);
+        }
         showCategorySelector();
     }
     
@@ -157,6 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
         
         const targetLang = currentLanguage === 'english' ? cardData.english : cardData.chinese;
         const phonetic = currentLanguage === 'english' ? cardData.phonetic : cardData.pinyin;
+        const phoneticHTML = phonetic ? `<p class="text-xl text-gray-500 mt-2">[${phonetic}]</p>` : '';
 
         let topHalfHTML, bottomHalfHTML;
 
@@ -170,11 +176,12 @@ document.addEventListener('DOMContentLoaded', () => {
             bottomHalfHTML = `
                 <div class="bottom-half w-full h-1/2 flex flex-col justify-center items-center p-6 pointer-events-none">
                      <h4 class="text-3xl font-semibold text-blue-600">${cardData.thai}</h4>
-                     <p class="text-xl text-gray-500 mt-2">[${phonetic}]</p>
+                     ${phoneticHTML}
                      <span class="mt-4 text-3xl">🔊</span>
                 </div>
             `;
         } else { // Test Mode
+            const testPhoneticHTML = phonetic ? `<p class="text-2xl text-gray-500 mt-2">[${phonetic}]</p>` : '';
             topHalfHTML = `
                 <div class="top-half w-full h-1/2 flex justify-center items-center ${bgColor} hidden">
                     <h3 class="text-5xl font-bold text-gray-800/80 pointer-events-none">${targetLang}</h3>
@@ -184,7 +191,7 @@ document.addEventListener('DOMContentLoaded', () => {
                  <div class="bottom-half w-full h-full flex flex-col justify-center items-center p-6">
                     <p class="text-5xl text-blue-600 font-bold">${cardData.thai}</p>
                     <div class="reveal-content mt-4 opacity-0 transition-opacity duration-300">
-                        <p class="text-2xl text-gray-500 mt-2">[${phonetic}]</p>
+                        ${testPhoneticHTML}
                     </div>
                 </div>
             `;
@@ -290,7 +297,7 @@ document.addEventListener('DOMContentLoaded', () => {
         card.addEventListener('mouseleave', onPointerUp);
         
         card.addEventListener('touchstart', onPointerDown, { passive: true });
-        card.addEventListener('touchmove', onPointerMove, { passive: true });
+        card.addEventListener('touchmove', onPointerMove, { passive: false });
         card.addEventListener('touchend', onPointerUp);
     }
 

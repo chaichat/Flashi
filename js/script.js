@@ -343,42 +343,34 @@ document.addEventListener('DOMContentLoaded', () => {
         utterThis.pitch = 1;
         utterThis.rate = 0.9;
         
-        const targetLang = currentLanguage === 'english' ? 'en-US' : 'zh-CN';
-        utterThis.lang = targetLang;
+        const targetLangCode = currentLanguage === 'english' ? 'en-US' : 'zh-CN';
+        utterThis.lang = targetLangCode;
 
         // Find a suitable voice. iOS requires a voice to be set.
         let voice = null;
 
-        // Prioritize female Chinese voices
-        if (currentLanguage === 'chinese') {
-            voice = voices.find(v => v.lang === 'zh-CN' && (v.name.includes('Female') || v.name.includes('F') || v.name.includes('Xiaoxiao')));
-        }
-
-        // Prefer Google voices if no specific female voice found or for English
-        if (!voice) {
-            voice = voices.find(v => v.lang === targetLang && v.name.includes('Google'));
+        // --- Smart Voice Selection Logic ---
+        // 1. Prioritize known high-quality voices for specific platforms.
+        if (currentLanguage === 'english') {
+            voice = voices.find(v => v.lang === 'en-US' && v.name === 'Alex'); // High-quality iOS voice
+        } else { // Chinese
+            voice = voices.find(v => v.lang === 'zh-CN' && v.name === 'Ting-Ting'); // Common iOS voice
         }
         
-        // General fallback for the target language
+        // 2. If no specific voice was found, look for a high-quality Google voice.
         if (!voice) {
-            voice = voices.find(v => v.lang === targetLang);
+            voice = voices.find(v => v.lang === targetLangCode && v.name.includes('Google'));
         }
-        // Fallback for different language code formats (e.g., 'en_US')
+        
+        // 3. As a general fallback, find the first available voice for the language.
         if (!voice) {
-            const langPrefix = targetLang.split('-')[0];
-            voice = voices.find(v => v.lang.startsWith(langPrefix));
-        }
-
-        // Specific check for common iOS Chinese voice (Ting-Ting) as a last resort
-        if (currentLanguage === 'chinese' && !voice) {
-            const iosVoice = voices.find(v => v.name === 'Ting-Ting' && v.lang === 'zh-CN');
-            if (iosVoice) voice = iosVoice;
+            voice = voices.find(v => v.lang === targetLangCode);
         }
 
         if (voice) {
             utterThis.voice = voice;
         } else {
-            console.warn(`Voice for ${targetLang} not found. Using default.`);
+            console.warn(`Voice for ${targetLangCode} not found. Using default.`);
         }
 
         synth.speak(utterThis);

@@ -7,55 +7,95 @@
 </head>
 <body>
     <h1>iOS Speech Synthesis Test</h1>
-    <p>Open the developer console to see the list of available voices.</p>
-    <button id="speak-btn">Speak Chinese (你好世界)</button>
+    <p>Open the developer console to see voice selection logs.</p>
+    <button id="speak-en-btn" style="margin-right: 10px;">Speak English</button>
+    <button id="speak-zh-btn">Speak Chinese</button>
 
     <script>
+        // ----------------------------------------------------------------
+        // 1. SETUP & VOICE LOADING
+        // ----------------------------------------------------------------
         const synth = window.speechSynthesis;
         let voices = [];
 
+        // This function populates the `voices` array. It's called both
+        // immediately and whenever the voice list changes.
         function populateVoiceList() {
             voices = synth.getVoices();
-            console.log("Available voices:", voices);
+            // Log voices for debugging, but you can remove this in production.
+            console.log("Available voices: ", voices);
         }
 
+        // Populate the voices immediately on script load.
         populateVoiceList();
+        // The 'voiceschanged' event is crucial for some browsers, especially on mobile,
+        // where the voice list is loaded asynchronously.
         if (speechSynthesis.onvoiceschanged !== undefined) {
             speechSynthesis.onvoiceschanged = populateVoiceList;
         }
 
-        function speak() {
+        // ----------------------------------------------------------------
+        // 2. REFACTORED, LANGUAGE-AWARE `speak` FUNCTION
+        // ----------------------------------------------------------------
+
+        /**
+         * Speaks a given text in a specified language, with intelligent voice selection.
+         * @param {string} text The text to be spoken.
+         * @param {string} lang The BCP 47 language code (e.g., 'en-US', 'zh-CN').
+         */
+        function speak(text, lang) {
+            // If the synth is already speaking, cancel it to avoid overlap.
             if (synth.speaking) {
+                console.warn('SpeechSynthesis is already speaking. Cancelling previous utterance.');
                 synth.cancel();
             }
 
-            const text = "你好世界";
             const utterThis = new SpeechSynthesisUtterance(text);
-            utterThis.lang = 'zh-CN';
+            utterThis.lang = lang;
+            utterThis.pitch = 1;
+            utterThis.rate = 1;
 
-            let voice = voices.find(v => v.lang === 'zh-CN');
+            let voice = null;
 
-            // Fallback for different language code formats
-            if (!voice) {
-                voice = voices.find(v => v.lang.startsWith('zh'));
+            // REQUIREMENT 3 & 4: iOS-specific voice selection with fallbacks.
+            if (lang.startsWith('en')) {
+                // For English, prioritize 'Samantha' (high-quality iOS voice).
+                voice = voices.find(v => v.name === 'Samantha' && v.lang.startsWith('en'));
+                // Fallback to a high-quality Google voice.
+                if (!voice) {
+                    voice = voices.find(v => v.name === 'Google US English' && v.lang.startsWith('en'));
+                }
+            } else if (lang.startsWith('zh')) {
+                // For Chinese, prioritize 'Ting-Ting' (common iOS voice).
+                voice = voices.find(v => v.name === 'Ting-Ting' && v.lang.startsWith('zh'));
             }
 
-            // Specific check for common iOS Chinese voice
+            // Generic fallback: Find the first available voice for the exact language code.
             if (!voice) {
-                voice = voices.find(v => v.name === 'Ting-Ting' && v.lang === 'zh-CN');
+                voice = voices.find(v => v.lang === lang);
             }
-            
+
+            // Broader fallback: Find a voice that starts with the language code (e.g., 'en' for 'en-GB').
+            if (!voice) {
+                const langPrefix = lang.split('-')[0];
+                voice = voices.find(v => v.lang.startsWith(langPrefix));
+            }
+
             if (voice) {
                 utterThis.voice = voice;
-                console.log("Using voice:", voice.name, voice.lang);
+                console.log(`Using voice: ${voice.name} (${voice.lang})`);
             } else {
-                console.warn("Chinese voice not found. Using default.");
+                console.warn(`Voice for lang '${lang}' not found. Using default.`);
             }
 
             synth.speak(utterThis);
         }
 
-        document.getElementById('speak-btn').addEventListener('click', speak);
+        // ----------------------------------------------------------------
+        // 3. USAGE EXAMPLE
+        // ----------------------------------------------------------------
+        document.getElementById('speak-en-btn').addEventListener('click', () => speak("Hello, this is a test in English.", "en-US"));
+        document.getElementById('speak-zh-btn').addEventListener('click', () => speak("这是一个中文测试。", "zh-CN"));
     </script>
 </body>
 </html>

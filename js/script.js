@@ -9,12 +9,18 @@ document.addEventListener('DOMContentLoaded', () => {
     let cardIndex = 0;
     let isLearnMode = true;
     const synth = window.speechSynthesis;
-    let voices = []; // To store available voices
-    // Populate voices initially and when they are loaded
-    voices = synth.getVoices();
-    synth.onvoiceschanged = () => {
+    let voices = [];
+
+    // This function populates the `voices` array. It's called both
+    // immediately and whenever the voice list changes.
+    function populateVoiceList() {
         voices = synth.getVoices();
-    };
+        console.log("Available voices: ", voices);
+    }
+    populateVoiceList();
+    if (speechSynthesis.onvoiceschanged !== undefined) {
+        speechSynthesis.onvoiceschanged = populateVoiceList;
+    }
     const colorPalette = [
         'bg-blue-200', 'bg-green-200', 'bg-yellow-200', 'bg-red-200', 'bg-purple-200', 'bg-pink-200', 'bg-indigo-200'
     ];
@@ -41,6 +47,19 @@ document.addEventListener('DOMContentLoaded', () => {
     const testModeBtn = document.getElementById('test-mode-btn');
     const testModeControls = document.getElementById('test-mode-controls');
     const revealBtn = document.getElementById('reveal-btn');
+
+    // --- HELPER FUNCTIONS ---
+
+    /**
+     * Gets the text and language code for the current card based on the selected language.
+     * @param {object} cardData The data for the current flashcard.
+     * @returns {{text: string, lang: string}}
+     */
+    function getSpeechParametersForCard(cardData) {
+        return currentLanguage === 'english'
+            ? { text: cardData.english, lang: 'en-US' }
+            : { text: cardData.chinese, lang: 'zh-CN' };
+    }
 
     // --- FUNCTIONS ---
 
@@ -274,7 +293,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const minSwipeVelocity = 0.3; // pixels per millisecond
 
             if (isLearnMode && Math.abs(diffX) < 10 && timeElapsed < 200) {
-                speak(currentLanguage === 'english' ? cardData.english : cardData.chinese);
+                const { text, lang } = getSpeechParametersForCard(cardData);
+                speak(text, lang);
                 card.style.transform = '';
                 return;
             }
@@ -336,41 +356,49 @@ document.addEventListener('DOMContentLoaded', () => {
     /**
      * Uses the Web Speech API to say a word.
      */
-    function speak(text) {
-        if (synth.speaking && synth.cancel) synth.cancel();
+    function speak(text, lang) {
+        // If the synth is already speaking, cancel it to avoid overlap.
+        if (synth.speaking) {
+            console.warn('SpeechSynthesis is already speaking. Cancelling previous utterance.');
+            synth.cancel();
+        }
+
         const utterThis = new SpeechSynthesisUtterance(text);
-        
+        utterThis.lang = lang;
         utterThis.pitch = 1;
         utterThis.rate = 0.9;
-        
-        const targetLangCode = currentLanguage === 'english' ? 'en-US' : 'zh-CN';
-        utterThis.lang = targetLangCode;
 
-        // Find a suitable voice. iOS requires a voice to be set.
         let voice = null;
 
-        // --- Smart Voice Selection Logic ---
-        // 1. Prioritize known high-quality voices for specific platforms.
-        if (currentLanguage === 'english') {
-            voice = voices.find(v => v.lang === 'en-US' && v.name === 'Alex'); // High-quality iOS voice
-        } else { // Chinese
-            voice = voices.find(v => v.lang === 'zh-CN' && v.name === 'Ting-Ting'); // Common iOS voice
+        // iOS-specific voice selection with fallbacks, as per your requirements.
+        if (lang.startsWith('en')) {
+            // For English, prioritize 'Samantha' (high-quality iOS voice).
+            voice = voices.find(v => v.name === 'Samantha' && v.lang.startsWith('en'));
+            // Fallback to a high-quality Google voice.
+            if (!voice) {
+                voice = voices.find(v => v.name === 'Google US English' && v.lang.startsWith('en'));
+            }
+        } else if (lang.startsWith('zh')) {
+            // For Chinese, prioritize 'Ting-Ting' (common iOS voice).
+            voice = voices.find(v => v.name === 'Ting-Ting' && v.lang.startsWith('zh'));
         }
-        
-        // 2. If no specific voice was found, look for a high-quality Google voice.
+
+        // Generic fallback: Find the first available voice for the exact language code.
         if (!voice) {
-            voice = voices.find(v => v.lang === targetLangCode && v.name.includes('Google'));
+            voice = voices.find(v => v.lang === lang);
         }
-        
-        // 3. As a general fallback, find the first available voice for the language.
+
+        // Broader fallback: Find a voice that starts with the language code (e.g., 'en' for 'en-GB').
         if (!voice) {
-            voice = voices.find(v => v.lang === targetLangCode);
+            const langPrefix = lang.split('-')[0];
+            voice = voices.find(v => v.lang.startsWith(langPrefix));
         }
 
         if (voice) {
             utterThis.voice = voice;
+            console.log(`Using voice: ${voice.name} (${voice.lang})`);
         } else {
-            console.warn(`Voice for ${targetLangCode} not found. Using default.`);
+            console.warn(`Voice for lang '${lang}' not found. Using default.`);
         }
 
         synth.speak(utterThis);
@@ -519,13 +547,15 @@ document.addEventListener('DOMContentLoaded', () => {
         const bottomHalf = topCard.querySelector('.bottom-half');
         const cardData = currentDeck[cardIndex];
         
+        const { text, lang } = getSpeechParametersForCard(cardData);
+
         if (revealContent.style.opacity === '1') {
-            speak(currentLanguage === 'english' ? cardData.english : cardData.chinese);
+            speak(text, lang);
         } else {
             topHalf.classList.remove('hidden');
             bottomHalf.classList.replace('h-full', 'h-1/2');
             revealContent.style.opacity = '1';
-            speak(currentLanguage === 'english' ? cardData.english : cardData.chinese);
+            speak(text, lang);
         }
     });
 

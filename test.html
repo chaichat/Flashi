@@ -66,8 +66,21 @@
                     voice = voices.find(v => v.name === 'Google US English' && v.lang.startsWith('en'));
                 }
             } else if (lang.startsWith('zh')) {
-                // For Chinese, prioritize 'Ting-Ting' (common iOS voice).
-                voice = voices.find(v => v.name === 'Ting-Ting' && v.lang.startsWith('zh'));
+                // For Chinese, we'll try a few strategies to find the high-quality iOS voice.
+                // The name can be "Tingting" or "Ting-Ting" depending on the iOS version.
+
+                // 1. Look for "Tingting" (no hyphen), as observed on some devices.
+                voice = voices.find(v => v.name === 'Tingting' && v.lang.startsWith('zh'));
+
+                // 2. Fallback to "Ting-Ting" (with hyphen).
+                if (!voice) {
+                    voice = voices.find(v => v.name === 'Ting-Ting' && v.lang.startsWith('zh'));
+                }
+
+                // 3. As a further fallback, find the first available NON-DEFAULT Chinese voice.
+                if (!voice) {
+                    voice = voices.find(v => v.lang.startsWith('zh') && !v.default);
+                }
             }
 
             // Generic fallback: Find the first available voice for the exact language code.

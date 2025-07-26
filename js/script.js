@@ -422,7 +422,9 @@ document.addEventListener('DOMContentLoaded', () => {
      */
     function startLesson(lessonName) {
         currentLesson = lessonName;
-        currentDeck = currentLessons[lessonName] || [];
+        currentDeck = lessonName.toLowerCase().includes('review') 
+            ? currentLessons[lessonName] 
+            : currentLessons[lessonName] || [];
         cardIndex = 0;
         
         sectionTitle.textContent = currentLesson;

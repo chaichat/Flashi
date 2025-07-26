@@ -1023,6 +1023,508 @@
           "phonetic": "รี-แลกซ์"
         }
       ],
+      "Everyday Review: Lessons 1-5": [
+        {
+          "english": "Bitter",
+          "thai": "ขม",
+          "phonetic": "บิท-เทอร์"
+        },
+        {
+          "english": "No",
+          "thai": "ไม่",
+          "phonetic": "โน"
+        },
+        {
+          "english": "Hello",
+          "thai": "สวัสดี",
+          "phonetic": "ฮัล-โหล"
+        },
+        {
+          "english": "Sorry",
+          "thai": "เสียใจ",
+          "phonetic": "ซอรี่"
+        },
+        {
+          "english": "Yes",
+          "thai": "ใช่",
+          "phonetic": "เยส"
+        },
+        {
+          "english": "Goodbye",
+          "thai": "ลาก่อน",
+          "phonetic": "กู๊ด-บาย"
+        },
+        {
+          "english": "Lunch",
+          "thai": "อาหารกลางวัน",
+          "phonetic": "ลันช์"
+        },
+        {
+          "english": "Much",
+          "thai": "มาก",
+          "phonetic": "มัช"
+        },
+        {
+          "english": "Morning",
+          "thai": "เช้า",
+          "phonetic": "มอร์-นิ่ง"
+        },
+        {
+          "english": "Buy",
+          "thai": "ซื้อ",
+          "phonetic": "บาย"
+        },
+        {
+          "english": "How",
+          "thai": "อย่างไร",
+          "phonetic": "ฮาว"
+        },
+        {
+          "english": "Sweet",
+          "thai": "หวาน",
+          "phonetic": "สวีท"
+        },
+        {
+          "english": "Shop",
+          "thai": "ร้านค้า",
+          "phonetic": "ช็อป"
+        },
+        {
+          "english": "Stop",
+          "thai": "หยุด",
+          "phonetic": "สต็อป"
+        },
+        {
+          "english": "See",
+          "thai": "เห็น",
+          "phonetic": "ซี"
+        },
+        {
+          "english": "What",
+          "thai": "อะไร",
+          "phonetic": "วอท"
+        },
+        {
+          "english": "Thanks",
+          "thai": "ขอบคุณ",
+          "phonetic": "แธงค์ส"
+        },
+        {
+          "english": "Need",
+          "thai": "ต้องการ",
+          "phonetic": "นีด"
+        },
+        {
+          "english": "Drink",
+          "thai": "ดื่ม",
+          "phonetic": "ดริ้งค์"
+        },
+        {
+          "english": "Sour",
+          "thai": "เปรี้ยว",
+          "phonetic": "ซาว-เออร์"
+        },
+        {
+          "english": "Delicious",
+          "thai": "อร่อย",
+          "phonetic": "ดิ-ลิ-เชียส"
+        },
+        {
+          "english": "Price",
+          "thai": "ราคา",
+          "phonetic": "ไพรซ์"
+        },
+        {
+          "english": "Maybe",
+          "thai": "อาจจะ",
+          "phonetic": "เม-บี"
+        },
+        {
+          "english": "Order",
+          "thai": "สั่ง",
+          "phonetic": "ออร์-เดอร์"
+        },
+        {
+          "english": "Please",
+          "thai": "โปรด",
+          "phonetic": "พลีส"
+        },
+        {
+          "english": "Night",
+          "thai": "กลางคืน",
+          "phonetic": "ไนท์"
+        },
+        {
+          "english": "Water",
+          "thai": "น้ำ",
+          "phonetic": "วอ-เทอร์"
+        },
+        {
+          "english": "Understand",
+          "thai": "เข้าใจ",
+          "phonetic": "อัน-เดอร์-สแตนด์"
+        },
+        {
+          "english": "Excuse",
+          "thai": "ขอโทษ",
+          "phonetic": "เอ็กซ์-คิวส์"
+        },
+        {
+          "english": "Eat",
+          "thai": "กิน",
+          "phonetic": "อีท"
+        },
+        {
+          "english": "Full",
+          "thai": "อิ่ม",
+          "phonetic": "ฟูล"
+        },
+        {
+          "english": "Breakfast",
+          "thai": "อาหารเช้า",
+          "phonetic": "เบรค-ฟาสท์"
+        },
+        {
+          "english": "Money",
+          "thai": "เงิน",
+          "phonetic": "มัน-นี่"
+        },
+        {
+          "english": "Bill",
+          "thai": "บิล",
+          "phonetic": "บิล"
+        },
+        {
+          "english": "Spicy",
+          "thai": "เผ็ด",
+          "phonetic": "สไป-ซี่"
+        },
+        {
+          "english": "Credit card",
+          "thai": "บัตรเครดิต",
+          "phonetic": "เคร-ดิท-คาร์ด"
+        },
+        {
+          "english": "Lunch",
+          "thai": "อาหารกลางวัน",
+          "phonetic": "ลันช์"
+        },
+        {
+          "english": "Turn",
+          "thai": "เลี้ยว",
+          "phonetic": "เทิร์น"
+        },
+        {
+          "english": "Here",
+          "thai": "ที่นี่",
+          "phonetic": "เฮียร์"
+        },
+        {
+          "english": "There",
+          "thai": "ที่นั่น",
+          "phonetic": "แธร์"
+        },
+        {
+          "english": "Where",
+          "thai": "ที่ไหน",
+          "phonetic": "แวร์"
+        },
+        {
+          "english": "Relax",
+          "thai": "พักผ่อน",
+          "phonetic": "รี-แลกซ์"
+        },
+        {
+          "english": "Help",
+          "thai": "ช่วยด้วย",
+          "phonetic": "เฮลพ์"
+        },
+        {
+          "english": "Salty",
+          "thai": "เค็ม",
+          "phonetic": "ซอล-ตี้"
+        },
+        {
+          "english": "Restaurant",
+          "thai": "ร้านอาหาร",
+          "phonetic": "เรส-เตอ-รอง"
+        },
+        {
+          "english": "Airport",
+          "thai": "สนามบิน",
+          "phonetic": "แอร์-พอร์ท"
+        },
+        {
+          "english": "Dinner",
+          "thai": "อาหารเย็น",
+          "phonetic": "ดิน-เนอร์"
+        },
+        {
+          "english": "Write",
+          "thai": "เขียน",
+          "phonetic": "ไรท์"
+        },
+        {
+          "english": "Cheap",
+          "thai": "ถูก",
+          "phonetic": "ชีพ"
+        },
+        {
+          "english": "Expensive",
+          "thai": "แพง",
+          "phonetic": "เอ็กซ์-เพน-ซีฟ"
+        },
+        {
+          "english": "Cash",
+          "thai": "เงินสด",
+          "phonetic": "แคช"
+        },
+        {
+          "english": "Exercise",
+          "thai": "ออกกำลังกาย",
+          "phonetic": "เอ็ก-เซอร์-ไซส์"
+        },
+        {
+          "english": "Read",
+          "thai": "อ่าน",
+          "phonetic": "รีด"
+        },
+        {
+          "english": "Road",
+          "thai": "ถนน",
+          "phonetic": "โรด"
+        },
+        {
+          "english": "Coffee",
+          "thai": "กาแฟ",
+          "phonetic": "คอฟ-ฟี่"
+        },
+        {
+          "english": "Sell",
+          "thai": "ขาย",
+          "phonetic": "เซลล์"
+        },
+        {
+          "english": "Brush",
+          "thai": "แปรง",
+          "phonetic": "บรัช"
+        },
+        {
+          "english": "Far",
+          "thai": "ไกล",
+          "phonetic": "ฟาร์"
+        },
+        {
+          "english": "Tea",
+          "thai": "ชา",
+          "phonetic": "ที"
+        },
+        {
+          "english": "Change",
+          "thai": "เงินทอน",
+          "phonetic": "เชนจ์"
+        },
+        {
+          "english": "Clothes",
+          "thai": "เสื้อผ้า",
+          "phonetic": "โคลธส์"
+        },
+        {
+          "english": "Size",
+          "thai": "ขนาด",
+          "phonetic": "ไซส์"
+        },
+        {
+          "english": "Food",
+          "thai": "อาหาร",
+          "phonetic": "ฟู้ด"
+        },
+        {
+          "english": "Dinner",
+          "thai": "อาหารเย็น",
+          "phonetic": "ดิน-เนอร์"
+        },
+        {
+          "english": "Speak",
+          "thai": "พูด",
+          "phonetic": "สปีค"
+        },
+        {
+          "english": "Supermarket",
+          "thai": "ซูเปอร์มาร์เก็ต",
+          "phonetic": "ซู-เปอร์-มาร์-เก็ต"
+        },
+        {
+          "english": "Work",
+          "thai": "ทำงาน",
+          "phonetic": "เวิร์ค"
+        },
+        {
+          "english": "Menu",
+          "thai": "เมนู",
+          "phonetic": "เม-นู"
+        },
+        {
+          "english": "Street",
+          "thai": "ถนน",
+          "phonetic": "สตรีท"
+        },
+        {
+          "english": "Discount",
+          "thai": "ส่วนลด",
+          "phonetic": "ดิส-เคาท์"
+        },
+        {
+          "english": "Sleep",
+          "thai": "นอน",
+          "phonetic": "สลีพ"
+        },
+        {
+          "english": "Study",
+          "thai": "เรียน",
+          "phonetic": "สตั๊ด-ดี้"
+        },
+        {
+          "english": "Receipt",
+          "thai": "ใบเสร็จ",
+          "phonetic": "รี-ซีท"
+        },
+        {
+          "english": "Take",
+          "thai": "เอา",
+          "phonetic": "เทค"
+        },
+        {
+          "english": "Clean",
+          "thai": "ทำความสะอาด",
+          "phonetic": "คลีน"
+        },
+        {
+          "english": "Station",
+          "thai": "สถานี",
+          "phonetic": "สเต-ชั่น"
+        },
+        {
+          "english": "Hotel",
+          "thai": "โรงแรม",
+          "phonetic": "โฮ-เทล"
+        },
+        {
+          "english": "Department store",
+          "thai": "ห้างสรรพสินค้า",
+          "phonetic": "ดี-พาร์ท-เมนท์-สโตร์"
+        },
+        {
+          "english": "Left",
+          "thai": "ซ้าย",
+          "phonetic": "เลฟท์"
+        },
+        {
+          "english": "Play",
+          "thai": "เล่น",
+          "phonetic": "เพลย์"
+        },
+        {
+          "english": "Bus",
+          "thai": "รถบัส",
+          "phonetic": "บัส"
+        },
+        {
+          "english": "Cook",
+          "thai": "ทำอาหาร",
+          "phonetic": "คุก"
+        },
+        {
+          "english": "Shower",
+          "thai": "อาบน้ำ",
+          "phonetic": "ชาว-เวอร์"
+        },
+        {
+          "english": "Listen",
+          "thai": "ฟัง",
+          "phonetic": "ลิส-เซ่น"
+        },
+        {
+          "english": "Breakfast",
+          "thai": "อาหารเช้า",
+          "phonetic": "เบรค-ฟาสท์"
+        },
+        {
+          "english": "Near",
+          "thai": "ใกล้",
+          "phonetic": "เนียร์"
+        },
+        {
+          "english": "Try",
+          "thai": "ลอง",
+          "phonetic": "ทราย"
+        },
+        {
+          "english": "Watch",
+          "thai": "ดู",
+          "phonetic": "วอทช์"
+        },
+        {
+          "english": "Go",
+          "thai": "ไป",
+          "phonetic": "โก"
+        },
+        {
+          "english": "Ticket",
+          "thai": "ตั๋ว",
+          "phonetic": "ทิค-เก็ต"
+        },
+        {
+          "english": "Bed",
+          "thai": "เตียง",
+          "phonetic": "เบด"
+        },
+        {
+          "english": "Talk",
+          "thai": "พูด",
+          "phonetic": "ทอล์ค"
+        },
+        {
+          "english": "Train",
+          "thai": "รถไฟ",
+          "phonetic": "เทรน"
+        },
+        {
+          "english": "Map",
+          "thai": "แผนที่",
+          "phonetic": "แมพ"
+        },
+        {
+          "english": "Wake",
+          "thai": "ตื่นนอน",
+          "phonetic": "เวค"
+        },
+        {
+          "english": "Market",
+          "thai": "ตลาด",
+          "phonetic": "มาร์-เก็ต"
+        },
+        {
+          "english": "Straight",
+          "thai": "ตรงไป",
+          "phonetic": "สเตรท"
+        },
+        {
+          "english": "Cost",
+          "thai": "ราคา",
+          "phonetic": "คอสท์"
+        },
+        {
+          "english": "Taxi",
+          "thai": "แท็กซี่",
+          "phonetic": "แท็ก-ซี่"
+        },
+        {
+          "english": "Right",
+          "thai": "ขวา",
+          "phonetic": "ไรท์"
+        }
+      ],
       "Everyday: Lesson 6": [
         {
           "english": "able",
@@ -1533,6 +2035,508 @@
           "phonetic": ""
         }
       ],
+      "Everyday Review: Lessons 6-10": [
+        {
+          "english": "about",
+          "thai": "เกี่ยวกับ",
+          "phonetic": "อะเบาท์"
+        },
+        {
+          "english": "beyond",
+          "thai": "เกิน",
+          "phonetic": ""
+        },
+        {
+          "english": "already",
+          "thai": "เรียบร้อยแล้ว",
+          "phonetic": "ออลเรดี้"
+        },
+        {
+          "english": "ball",
+          "thai": "ลูกบอล",
+          "phonetic": ""
+        },
+        {
+          "english": "away",
+          "thai": "ห่างออกไป",
+          "phonetic": ""
+        },
+        {
+          "english": "anyway",
+          "thai": "ถึงอย่างไร",
+          "phonetic": "เอนี่เวย์"
+        },
+        {
+          "english": "any",
+          "thai": "ใดๆ",
+          "phonetic": "เอนี่"
+        },
+        {
+          "english": "able",
+          "thai": "สามารถ",
+          "phonetic": "เอเบิ้ล"
+        },
+        {
+          "english": "benefit",
+          "thai": "ผลประโยชน์",
+          "phonetic": ""
+        },
+        {
+          "english": "board",
+          "thai": "กระดาน",
+          "phonetic": ""
+        },
+        {
+          "english": "big",
+          "thai": "ใหญ่",
+          "phonetic": ""
+        },
+        {
+          "english": "beat",
+          "thai": "ตี",
+          "phonetic": ""
+        },
+        {
+          "english": "anyone",
+          "thai": "ใครก็ได้",
+          "phonetic": "เอนี่วัน"
+        },
+        {
+          "english": "art",
+          "thai": "ศิลปะ",
+          "phonetic": ""
+        },
+        {
+          "english": "back",
+          "thai": "กลับ",
+          "phonetic": ""
+        },
+        {
+          "english": "above",
+          "thai": "ข้างบน",
+          "phonetic": "อะบอฟ"
+        },
+        {
+          "english": "before",
+          "thai": "ก่อน",
+          "phonetic": ""
+        },
+        {
+          "english": "argue",
+          "thai": "โต้แย้ง",
+          "phonetic": "อาร์กิว"
+        },
+        {
+          "english": "always",
+          "thai": "เสมอ",
+          "phonetic": "ออลเวยส์"
+        },
+        {
+          "english": "afford",
+          "thai": "จ่ายได้",
+          "phonetic": "แอฟฟอร์ด"
+        },
+        {
+          "english": "animal",
+          "thai": "สัตว์",
+          "phonetic": "แอนิม่อล"
+        },
+        {
+          "english": "and",
+          "thai": "และ",
+          "phonetic": "แอนด์"
+        },
+        {
+          "english": "almost",
+          "thai": "เกือบ",
+          "phonetic": "ออลมอสท์"
+        },
+        {
+          "english": "but",
+          "thai": "แต่",
+          "phonetic": ""
+        },
+        {
+          "english": "bar",
+          "thai": "บาร์",
+          "phonetic": ""
+        },
+        {
+          "english": "account",
+          "thai": "บัญชี",
+          "phonetic": "แอคเค้านท์"
+        },
+        {
+          "english": "all",
+          "thai": "ทั้งหมด",
+          "phonetic": "ออล"
+        },
+        {
+          "english": "across",
+          "thai": "ข้าม",
+          "phonetic": "อะครอส"
+        },
+        {
+          "english": "age",
+          "thai": "อายุ",
+          "phonetic": "เอจ"
+        },
+        {
+          "english": "against",
+          "thai": "ขัดต่อ",
+          "phonetic": "อะเก๊นสท์"
+        },
+        {
+          "english": "act",
+          "thai": "กระทำ",
+          "phonetic": "แอ๊คท์"
+        },
+        {
+          "english": "beautiful",
+          "thai": "สวย",
+          "phonetic": ""
+        },
+        {
+          "english": "action",
+          "thai": "การกระทำ",
+          "phonetic": "แอคชั่น"
+        },
+        {
+          "english": "bad",
+          "thai": "แย่",
+          "phonetic": ""
+        },
+        {
+          "english": "better",
+          "thai": "ดีกว่า",
+          "phonetic": ""
+        },
+        {
+          "english": "analysis",
+          "thai": "การวิเคราะห์",
+          "phonetic": "อะนาลิสิส"
+        },
+        {
+          "english": "apply",
+          "thai": "นำมาใช้",
+          "phonetic": "แอพพลาย"
+        },
+        {
+          "english": "amount",
+          "thai": "จำนวน",
+          "phonetic": "อะเม้านท์"
+        },
+        {
+          "english": "as",
+          "thai": "เช่น",
+          "phonetic": ""
+        },
+        {
+          "english": "around",
+          "thai": "รอบๆ",
+          "phonetic": "อะราวนด์"
+        },
+        {
+          "english": "answer",
+          "thai": "คำตอบ",
+          "phonetic": "แอ๊นเซ่อร์"
+        },
+        {
+          "english": "be",
+          "thai": "เป็น",
+          "phonetic": ""
+        },
+        {
+          "english": "admit",
+          "thai": "ยอมรับ",
+          "phonetic": "แอ๊ดมิท"
+        },
+        {
+          "english": "also",
+          "thai": "อีกด้วย",
+          "phonetic": "ออลโซ"
+        },
+        {
+          "english": "arm",
+          "thai": "แขน",
+          "phonetic": "อาร์ม"
+        },
+        {
+          "english": "among",
+          "thai": "ท่ามกลาง",
+          "phonetic": "อะมอง"
+        },
+        {
+          "english": "behind",
+          "thai": "ด้านหลัง",
+          "phonetic": ""
+        },
+        {
+          "english": "attention",
+          "thai": "ความสนใจ",
+          "phonetic": ""
+        },
+        {
+          "english": "bit",
+          "thai": "นิดหน่อย",
+          "phonetic": ""
+        },
+        {
+          "english": "allow",
+          "thai": "อนุญาต",
+          "phonetic": "อัลลาว"
+        },
+        {
+          "english": "box",
+          "thai": "กล่อง",
+          "phonetic": ""
+        },
+        {
+          "english": "alone",
+          "thai": "ตามลำพัง",
+          "phonetic": "อะโลน"
+        },
+        {
+          "english": "add",
+          "thai": "เพิ่ม",
+          "phonetic": "แอ๊ด"
+        },
+        {
+          "english": "another",
+          "thai": "อื่น",
+          "phonetic": "อะนาเด้อ"
+        },
+        {
+          "english": "brother",
+          "thai": "พี่ชาย",
+          "phonetic": ""
+        },
+        {
+          "english": "boy",
+          "thai": "เด็กผู้ชาย",
+          "phonetic": ""
+        },
+        {
+          "english": "address",
+          "thai": "ที่อยู่",
+          "phonetic": "แอ๊ดเดร้ส"
+        },
+        {
+          "english": "after",
+          "thai": "หลังจาก",
+          "phonetic": "อาฟเตอร์"
+        },
+        {
+          "english": "break",
+          "thai": "หยุดพัก",
+          "phonetic": ""
+        },
+        {
+          "english": "agree",
+          "thai": "เห็นด้วย",
+          "phonetic": "อะกรี"
+        },
+        {
+          "english": "accept",
+          "thai": "ยอมรับ",
+          "phonetic": "แอคเซ็พ"
+        },
+        {
+          "english": "blood",
+          "thai": "เลือด",
+          "phonetic": ""
+        },
+        {
+          "english": "author",
+          "thai": "ผู้เขียน",
+          "phonetic": ""
+        },
+        {
+          "english": "available",
+          "thai": "มีอยู่",
+          "phonetic": ""
+        },
+        {
+          "english": "average",
+          "thai": "เฉลี่ย",
+          "phonetic": ""
+        },
+        {
+          "english": "actually",
+          "thai": "จริงๆ แล้ว",
+          "phonetic": "แอคชั่วลลี่"
+        },
+        {
+          "english": "attorney",
+          "thai": "ทนายความ",
+          "phonetic": ""
+        },
+        {
+          "english": "body",
+          "thai": "ร่างกาย",
+          "phonetic": ""
+        },
+        {
+          "english": "believe",
+          "thai": "เชื่อ",
+          "phonetic": ""
+        },
+        {
+          "english": "ago",
+          "thai": "ที่ผ่านมา",
+          "phonetic": "อะโก"
+        },
+        {
+          "english": "ask",
+          "thai": "ถาม",
+          "phonetic": ""
+        },
+        {
+          "english": "according",
+          "thai": "ตาม",
+          "phonetic": "แอคคอร์ดิ้ง"
+        },
+        {
+          "english": "agency",
+          "thai": "หน่วยงาน",
+          "phonetic": "เอเจ้นซี่"
+        },
+        {
+          "english": "agent",
+          "thai": "ตัวแทน",
+          "phonetic": "เอเจ้นท์"
+        },
+        {
+          "english": "although",
+          "thai": "แม้ว่า",
+          "phonetic": "ออลโด่"
+        },
+        {
+          "english": "air",
+          "thai": "อากาศ",
+          "phonetic": "แอร์"
+        },
+        {
+          "english": "area",
+          "thai": "พื้นที่",
+          "phonetic": "แอเรีย"
+        },
+        {
+          "english": "black",
+          "thai": "สีดำ",
+          "phonetic": ""
+        },
+        {
+          "english": "base",
+          "thai": "ฐาน",
+          "phonetic": ""
+        },
+        {
+          "english": "become",
+          "thai": "กลายเป็น",
+          "phonetic": ""
+        },
+        {
+          "english": "blue",
+          "thai": "สีฟ้า",
+          "phonetic": ""
+        },
+        {
+          "english": "book",
+          "thai": "หนังสือ",
+          "phonetic": ""
+        },
+        {
+          "english": "anything",
+          "thai": "อะไรก็ตาม",
+          "phonetic": "เอนี่ติง"
+        },
+        {
+          "english": "billion",
+          "thai": "พันล้าน",
+          "phonetic": ""
+        },
+        {
+          "english": "again",
+          "thai": "อีกครั้ง",
+          "phonetic": "อะเกน"
+        },
+        {
+          "english": "approve",
+          "thai": "อนุมัติ",
+          "phonetic": "แอพพรู้ฟ"
+        },
+        {
+          "english": "because",
+          "thai": "เพราะ",
+          "phonetic": ""
+        },
+        {
+          "english": "along",
+          "thai": "ตาม",
+          "phonetic": "อะลอง"
+        },
+        {
+          "english": "avoid",
+          "thai": "หลีกเลี่ยง",
+          "phonetic": ""
+        },
+        {
+          "english": "both",
+          "thai": "ทั้งคู่",
+          "phonetic": ""
+        },
+        {
+          "english": "at",
+          "thai": "ที่",
+          "phonetic": ""
+        },
+        {
+          "english": "between",
+          "thai": "ระหว่าง",
+          "phonetic": ""
+        },
+        {
+          "english": "attack",
+          "thai": "จู่โจม",
+          "phonetic": ""
+        },
+        {
+          "english": "audience",
+          "thai": "ผู้ชม",
+          "phonetic": ""
+        },
+        {
+          "english": "bring",
+          "thai": "นำมา",
+          "phonetic": ""
+        },
+        {
+          "english": "begin",
+          "thai": "เริ่ม",
+          "phonetic": ""
+        },
+        {
+          "english": "build",
+          "thai": "สร้าง",
+          "phonetic": ""
+        },
+        {
+          "english": "best",
+          "thai": "ดีที่สุด",
+          "phonetic": ""
+        },
+        {
+          "english": "behavior",
+          "thai": "พฤติกรรม",
+          "phonetic": ""
+        },
+        {
+          "english": "affect",
+          "thai": "ส่งผลกระทบ",
+          "phonetic": "แอฟเฟคท์"
+        }
+      ],
       "Everyday: Lesson 11": [
         {
           "english": "by",
@@ -2040,6 +3044,508 @@
         {
           "english": "do",
           "thai": "ทำ",
+          "phonetic": ""
+        }
+      ],
+      "Everyday Review: Lessons 11-15": [
+        {
+          "english": "by",
+          "thai": "โดย",
+          "phonetic": ""
+        },
+        {
+          "english": "contain",
+          "thai": "บรรจุ",
+          "phonetic": ""
+        },
+        {
+          "english": "claim",
+          "thai": "เรียกร้อง",
+          "phonetic": ""
+        },
+        {
+          "english": "can",
+          "thai": "สามารถ",
+          "phonetic": ""
+        },
+        {
+          "english": "conference",
+          "thai": "การประชุม",
+          "phonetic": ""
+        },
+        {
+          "english": "certainly",
+          "thai": "แน่นอน",
+          "phonetic": ""
+        },
+        {
+          "english": "care",
+          "thai": "การดูแล",
+          "phonetic": ""
+        },
+        {
+          "english": "chair",
+          "thai": "เก้าอี้",
+          "phonetic": ""
+        },
+        {
+          "english": "different",
+          "thai": "แตกต่าง",
+          "phonetic": ""
+        },
+        {
+          "english": "center",
+          "thai": "ศูนย์",
+          "phonetic": ""
+        },
+        {
+          "english": "clearly",
+          "thai": "ชัดเจน",
+          "phonetic": ""
+        },
+        {
+          "english": "college",
+          "thai": "วิทยาลัย",
+          "phonetic": ""
+        },
+        {
+          "english": "condition",
+          "thai": "เงื่อนไข",
+          "phonetic": ""
+        },
+        {
+          "english": "discover",
+          "thai": "ค้นพบ",
+          "phonetic": ""
+        },
+        {
+          "english": "career",
+          "thai": "อาชีพ",
+          "phonetic": ""
+        },
+        {
+          "english": "class",
+          "thai": "ระดับ",
+          "phonetic": ""
+        },
+        {
+          "english": "determine",
+          "thai": "กำหนด",
+          "phonetic": ""
+        },
+        {
+          "english": "congress",
+          "thai": "รัฐสภา",
+          "phonetic": ""
+        },
+        {
+          "english": "die",
+          "thai": "เดอะ",
+          "phonetic": ""
+        },
+        {
+          "english": "culture",
+          "thai": "วัฒนธรรม",
+          "phonetic": ""
+        },
+        {
+          "english": "decision",
+          "thai": "การตัดสินใจ",
+          "phonetic": ""
+        },
+        {
+          "english": "carry",
+          "thai": "พก",
+          "phonetic": ""
+        },
+        {
+          "english": "direction",
+          "thai": "ทิศทาง",
+          "phonetic": ""
+        },
+        {
+          "english": "coach",
+          "thai": "โค้ช",
+          "phonetic": ""
+        },
+        {
+          "english": "compare",
+          "thai": "เปรียบเทียบ",
+          "phonetic": ""
+        },
+        {
+          "english": "debate",
+          "thai": "อภิปราย",
+          "phonetic": ""
+        },
+        {
+          "english": "close",
+          "thai": "ปิด",
+          "phonetic": ""
+        },
+        {
+          "english": "check",
+          "thai": "ตรวจสอบ",
+          "phonetic": ""
+        },
+        {
+          "english": "court",
+          "thai": "ศาล",
+          "phonetic": ""
+        },
+        {
+          "english": "defense",
+          "thai": "การป้องกัน",
+          "phonetic": ""
+        },
+        {
+          "english": "discussion",
+          "thai": "การอภิปราย",
+          "phonetic": ""
+        },
+        {
+          "english": "cause",
+          "thai": "สาเหตุ",
+          "phonetic": ""
+        },
+        {
+          "english": "current",
+          "thai": "ปัจจุบัน",
+          "phonetic": ""
+        },
+        {
+          "english": "cell",
+          "thai": "เซลล์",
+          "phonetic": ""
+        },
+        {
+          "english": "cover",
+          "thai": "ปิดบัง",
+          "phonetic": ""
+        },
+        {
+          "english": "crime",
+          "thai": "อาชญากรรม",
+          "phonetic": ""
+        },
+        {
+          "english": "depend",
+          "thai": "ขึ้นอยู่กับ",
+          "phonetic": ""
+        },
+        {
+          "english": "citizen",
+          "thai": "พลเมือง",
+          "phonetic": ""
+        },
+        {
+          "english": "do",
+          "thai": "ทำ",
+          "phonetic": ""
+        },
+        {
+          "english": "catch",
+          "thai": "จับ",
+          "phonetic": ""
+        },
+        {
+          "english": "despite",
+          "thai": "ถึงอย่างไรก็ตาม",
+          "phonetic": ""
+        },
+        {
+          "english": "decide",
+          "thai": "ตัดสินใจ",
+          "phonetic": ""
+        },
+        {
+          "english": "common",
+          "thai": "ทั่วไป",
+          "phonetic": ""
+        },
+        {
+          "english": "democratic",
+          "thai": "ประชาธิปไตย",
+          "phonetic": ""
+        },
+        {
+          "english": "difficult",
+          "thai": "ยาก",
+          "phonetic": ""
+        },
+        {
+          "english": "church",
+          "thai": "คริสตจักร",
+          "phonetic": ""
+        },
+        {
+          "english": "city",
+          "thai": "เมือง",
+          "phonetic": ""
+        },
+        {
+          "english": "commercial",
+          "thai": "ทางการค้า",
+          "phonetic": ""
+        },
+        {
+          "english": "disease",
+          "thai": "โรค",
+          "phonetic": ""
+        },
+        {
+          "english": "country",
+          "thai": "ประเทศ",
+          "phonetic": ""
+        },
+        {
+          "english": "choice",
+          "thai": "ทางเลือก",
+          "phonetic": ""
+        },
+        {
+          "english": "control",
+          "thai": "ควบคุม",
+          "phonetic": ""
+        },
+        {
+          "english": "call",
+          "thai": "เรียก",
+          "phonetic": ""
+        },
+        {
+          "english": "cultural",
+          "thai": "ทางวัฒนธรรม",
+          "phonetic": ""
+        },
+        {
+          "english": "consumer",
+          "thai": "ผู้บริโภค",
+          "phonetic": ""
+        },
+        {
+          "english": "discuss",
+          "thai": "หารือ",
+          "phonetic": ""
+        },
+        {
+          "english": "choose",
+          "thai": "เลือก",
+          "phonetic": ""
+        },
+        {
+          "english": "color",
+          "thai": "สี",
+          "phonetic": ""
+        },
+        {
+          "english": "daughter",
+          "thai": "ลูกสาว",
+          "phonetic": ""
+        },
+        {
+          "english": "camera",
+          "thai": "กล้อง",
+          "phonetic": ""
+        },
+        {
+          "english": "charge",
+          "thai": "ค่าใช้จ่าย",
+          "phonetic": ""
+        },
+        {
+          "english": "describe",
+          "thai": "อธิบาย",
+          "phonetic": ""
+        },
+        {
+          "english": "circle",
+          "thai": "วงกลม",
+          "phonetic": ""
+        },
+        {
+          "english": "candidate",
+          "thai": "ผู้สมัคร",
+          "phonetic": ""
+        },
+        {
+          "english": "could",
+          "thai": "สามารถ",
+          "phonetic": ""
+        },
+        {
+          "english": "degree",
+          "thai": "ระดับ",
+          "phonetic": ""
+        },
+        {
+          "english": "come",
+          "thai": "มา",
+          "phonetic": ""
+        },
+        {
+          "english": "child",
+          "thai": "เด็ก",
+          "phonetic": ""
+        },
+        {
+          "english": "character",
+          "thai": "อักขระ",
+          "phonetic": ""
+        },
+        {
+          "english": "dark",
+          "thai": "มืด",
+          "phonetic": ""
+        },
+        {
+          "english": "clear",
+          "thai": "ชัดเจน",
+          "phonetic": ""
+        },
+        {
+          "english": "collection",
+          "thai": "ของสะสม",
+          "phonetic": ""
+        },
+        {
+          "english": "concern",
+          "thai": "กังวล",
+          "phonetic": ""
+        },
+        {
+          "english": "democrat",
+          "thai": "ประชาธิปัตย์",
+          "phonetic": ""
+        },
+        {
+          "english": "course",
+          "thai": "คอร์ส",
+          "phonetic": ""
+        },
+        {
+          "english": "chance",
+          "thai": "โอกาส",
+          "phonetic": ""
+        },
+        {
+          "english": "case",
+          "thai": "กรณี",
+          "phonetic": ""
+        },
+        {
+          "english": "certain",
+          "thai": "แน่ใจ",
+          "phonetic": ""
+        },
+        {
+          "english": "decade",
+          "thai": "ทศวรรษ",
+          "phonetic": ""
+        },
+        {
+          "english": "central",
+          "thai": "ส่วนกลาง",
+          "phonetic": ""
+        },
+        {
+          "english": "develop",
+          "thai": "พัฒนา",
+          "phonetic": ""
+        },
+        {
+          "english": "consider",
+          "thai": "พิจารณา",
+          "phonetic": ""
+        },
+        {
+          "english": "deep",
+          "thai": "ลึก",
+          "phonetic": ""
+        },
+        {
+          "english": "cold",
+          "thai": "เย็น",
+          "phonetic": ""
+        },
+        {
+          "english": "cut",
+          "thai": "ตัด",
+          "phonetic": ""
+        },
+        {
+          "english": "cup",
+          "thai": "ถ้วย",
+          "phonetic": ""
+        },
+        {
+          "english": "continue",
+          "thai": "ดำเนินการต่อ",
+          "phonetic": ""
+        },
+        {
+          "english": "death",
+          "thai": "ความตาย",
+          "phonetic": ""
+        },
+        {
+          "english": "community",
+          "thai": "ชุมชน",
+          "phonetic": ""
+        },
+        {
+          "english": "difference",
+          "thai": "ความแตกต่าง",
+          "phonetic": ""
+        },
+        {
+          "english": "create",
+          "thai": "สร้าง",
+          "phonetic": ""
+        },
+        {
+          "english": "cancer",
+          "thai": "มะเร็ง",
+          "phonetic": ""
+        },
+        {
+          "english": "design",
+          "thai": "ออกแบบ",
+          "phonetic": ""
+        },
+        {
+          "english": "car",
+          "thai": "รถ",
+          "phonetic": ""
+        },
+        {
+          "english": "century",
+          "thai": "ศตวรรษ",
+          "phonetic": ""
+        },
+        {
+          "english": "detail",
+          "thai": "รายละเอียด",
+          "phonetic": ""
+        },
+        {
+          "english": "dead",
+          "thai": "ตาย",
+          "phonetic": ""
+        },
+        {
+          "english": "development",
+          "thai": "การพัฒนา",
+          "phonetic": ""
+        },
+        {
+          "english": "day",
+          "thai": "วัน",
+          "phonetic": ""
+        },
+        {
+          "english": "couple",
+          "thai": "คู่",
           "phonetic": ""
         }
       ],
@@ -2553,6 +4059,508 @@
           "phonetic": ""
         }
       ],
+      "Everyday Review: Lessons 16-20": [
+        {
+          "english": "evidence",
+          "thai": "หลักฐาน",
+          "phonetic": ""
+        },
+        {
+          "english": "eight",
+          "thai": "แปด",
+          "phonetic": ""
+        },
+        {
+          "english": "financial",
+          "thai": "การเงิน",
+          "phonetic": ""
+        },
+        {
+          "english": "drop",
+          "thai": "หยด",
+          "phonetic": ""
+        },
+        {
+          "english": "everything",
+          "thai": "ทุกอย่าง",
+          "phonetic": ""
+        },
+        {
+          "english": "fast",
+          "thai": "เร็ว",
+          "phonetic": ""
+        },
+        {
+          "english": "free",
+          "thai": "ฟรี",
+          "phonetic": ""
+        },
+        {
+          "english": "fine",
+          "thai": "ดี",
+          "phonetic": ""
+        },
+        {
+          "english": "find",
+          "thai": "หา",
+          "phonetic": ""
+        },
+        {
+          "english": "feel",
+          "thai": "รู้สึก",
+          "phonetic": ""
+        },
+        {
+          "english": "fly",
+          "thai": "บิน",
+          "phonetic": ""
+        },
+        {
+          "english": "economic",
+          "thai": "ทางเศรษฐกิจ",
+          "phonetic": ""
+        },
+        {
+          "english": "expect",
+          "thai": "คาดหวัง",
+          "phonetic": ""
+        },
+        {
+          "english": "door",
+          "thai": "ประตู",
+          "phonetic": ""
+        },
+        {
+          "english": "foot",
+          "thai": "เท้า",
+          "phonetic": ""
+        },
+        {
+          "english": "drug",
+          "thai": "ยา",
+          "phonetic": ""
+        },
+        {
+          "english": "finally",
+          "thai": "ในที่สุด",
+          "phonetic": ""
+        },
+        {
+          "english": "future",
+          "thai": "อนาคต",
+          "phonetic": ""
+        },
+        {
+          "english": "effort",
+          "thai": "ความพยายาม",
+          "phonetic": ""
+        },
+        {
+          "english": "follow",
+          "thai": "ติดตาม",
+          "phonetic": ""
+        },
+        {
+          "english": "edge",
+          "thai": "ขอบ",
+          "phonetic": ""
+        },
+        {
+          "english": "fact",
+          "thai": "ข้อเท็จจริง",
+          "phonetic": ""
+        },
+        {
+          "english": "drive",
+          "thai": "ขับ",
+          "phonetic": ""
+        },
+        {
+          "english": "everyone",
+          "thai": "ทุกคน",
+          "phonetic": ""
+        },
+        {
+          "english": "east",
+          "thai": "ทิศตะวันออก",
+          "phonetic": ""
+        },
+        {
+          "english": "forward",
+          "thai": "ซึ่งไปข้างหน้า",
+          "phonetic": ""
+        },
+        {
+          "english": "early",
+          "thai": "แต่แรก",
+          "phonetic": ""
+        },
+        {
+          "english": "fire",
+          "thai": "ไฟ",
+          "phonetic": ""
+        },
+        {
+          "english": "foreign",
+          "thai": "ต่างชาติ",
+          "phonetic": ""
+        },
+        {
+          "english": "entire",
+          "thai": "ทั้งหมด",
+          "phonetic": ""
+        },
+        {
+          "english": "event",
+          "thai": "เหตุการณ์",
+          "phonetic": ""
+        },
+        {
+          "english": "front",
+          "thai": "ด้านหน้า",
+          "phonetic": ""
+        },
+        {
+          "english": "exist",
+          "thai": "มีอยู่",
+          "phonetic": ""
+        },
+        {
+          "english": "fund",
+          "thai": "กองทุน",
+          "phonetic": ""
+        },
+        {
+          "english": "fail",
+          "thai": "ล้มเหลว",
+          "phonetic": ""
+        },
+        {
+          "english": "everybody",
+          "thai": "ทุกคน",
+          "phonetic": ""
+        },
+        {
+          "english": "expert",
+          "thai": "ผู้เชี่ยวชาญ",
+          "phonetic": ""
+        },
+        {
+          "english": "environment",
+          "thai": "สิ่งแวดล้อม",
+          "phonetic": ""
+        },
+        {
+          "english": "doctor",
+          "thai": "หมอ",
+          "phonetic": ""
+        },
+        {
+          "english": "during",
+          "thai": "ในระหว่าง",
+          "phonetic": ""
+        },
+        {
+          "english": "fish",
+          "thai": "ปลา",
+          "phonetic": ""
+        },
+        {
+          "english": "enter",
+          "thai": "เข้า",
+          "phonetic": ""
+        },
+        {
+          "english": "education",
+          "thai": "การศึกษา",
+          "phonetic": ""
+        },
+        {
+          "english": "for",
+          "thai": "สำหรับ",
+          "phonetic": ""
+        },
+        {
+          "english": "easy",
+          "thai": "ง่าย",
+          "phonetic": ""
+        },
+        {
+          "english": "fall",
+          "thai": "ตก",
+          "phonetic": ""
+        },
+        {
+          "english": "figure",
+          "thai": "รูป",
+          "phonetic": ""
+        },
+        {
+          "english": "factor",
+          "thai": "ปัจจัย",
+          "phonetic": ""
+        },
+        {
+          "english": "else",
+          "thai": "อื่น",
+          "phonetic": ""
+        },
+        {
+          "english": "each",
+          "thai": "แต่ละ",
+          "phonetic": ""
+        },
+        {
+          "english": "experience",
+          "thai": "ประสบการณ์",
+          "phonetic": ""
+        },
+        {
+          "english": "feeling",
+          "thai": "ความรู้สึก",
+          "phonetic": ""
+        },
+        {
+          "english": "enough",
+          "thai": "เพียงพอ",
+          "phonetic": ""
+        },
+        {
+          "english": "forget",
+          "thai": "ลืม",
+          "phonetic": ""
+        },
+        {
+          "english": "election",
+          "thai": "การเลือกตั้ง",
+          "phonetic": ""
+        },
+        {
+          "english": "economy",
+          "thai": "เศรษฐกิจ",
+          "phonetic": ""
+        },
+        {
+          "english": "exactly",
+          "thai": "อย่างแน่นอน",
+          "phonetic": ""
+        },
+        {
+          "english": "finish",
+          "thai": "เสร็จ",
+          "phonetic": ""
+        },
+        {
+          "english": "eye",
+          "thai": "ดวงตา",
+          "phonetic": ""
+        },
+        {
+          "english": "effect",
+          "thai": "ผล",
+          "phonetic": ""
+        },
+        {
+          "english": "four",
+          "thai": "สี่",
+          "phonetic": ""
+        },
+        {
+          "english": "down",
+          "thai": "ลง",
+          "phonetic": ""
+        },
+        {
+          "english": "five",
+          "thai": "ห้า",
+          "phonetic": ""
+        },
+        {
+          "english": "floor",
+          "thai": "พื้น",
+          "phonetic": ""
+        },
+        {
+          "english": "dog",
+          "thai": "สุนัข",
+          "phonetic": ""
+        },
+        {
+          "english": "force",
+          "thai": "บังคับ",
+          "phonetic": ""
+        },
+        {
+          "english": "draw",
+          "thai": "วาด",
+          "phonetic": ""
+        },
+        {
+          "english": "every",
+          "thai": "ทั้งหมด",
+          "phonetic": ""
+        },
+        {
+          "english": "face",
+          "thai": "ใบหน้า",
+          "phonetic": ""
+        },
+        {
+          "english": "dream",
+          "thai": "ฝัน",
+          "phonetic": ""
+        },
+        {
+          "english": "father",
+          "thai": "พ่อ",
+          "phonetic": ""
+        },
+        {
+          "english": "either",
+          "thai": "ทั้ง",
+          "phonetic": ""
+        },
+        {
+          "english": "first",
+          "thai": "อันดับแรก",
+          "phonetic": ""
+        },
+        {
+          "english": "fear",
+          "thai": "กลัว",
+          "phonetic": ""
+        },
+        {
+          "english": "form",
+          "thai": "รูปร่าง",
+          "phonetic": ""
+        },
+        {
+          "english": "fight",
+          "thai": "ต่อสู้",
+          "phonetic": ""
+        },
+        {
+          "english": "family",
+          "thai": "ตระกูล",
+          "phonetic": ""
+        },
+        {
+          "english": "end",
+          "thai": "จบ",
+          "phonetic": ""
+        },
+        {
+          "english": "finger",
+          "thai": "นิ้ว",
+          "phonetic": ""
+        },
+        {
+          "english": "energy",
+          "thai": "พลังงาน",
+          "phonetic": ""
+        },
+        {
+          "english": "ever",
+          "thai": "เคย",
+          "phonetic": ""
+        },
+        {
+          "english": "friend",
+          "thai": "เพื่อน",
+          "phonetic": ""
+        },
+        {
+          "english": "focus",
+          "thai": "จุดสนใจ",
+          "phonetic": ""
+        },
+        {
+          "english": "environmental",
+          "thai": "ด้านสิ่งแวดล้อม",
+          "phonetic": ""
+        },
+        {
+          "english": "final",
+          "thai": "สุดท้าย",
+          "phonetic": ""
+        },
+        {
+          "english": "enjoy",
+          "thai": "สนุก",
+          "phonetic": ""
+        },
+        {
+          "english": "even",
+          "thai": "สม่ำเสมอ",
+          "phonetic": ""
+        },
+        {
+          "english": "federal",
+          "thai": "รัฐบาลกลาง",
+          "phonetic": ""
+        },
+        {
+          "english": "evening",
+          "thai": "ตอนเย็น",
+          "phonetic": ""
+        },
+        {
+          "english": "establish",
+          "thai": "สร้าง",
+          "phonetic": ""
+        },
+        {
+          "english": "firm",
+          "thai": "บริษัท",
+          "phonetic": ""
+        },
+        {
+          "english": "from",
+          "thai": "จาก",
+          "phonetic": ""
+        },
+        {
+          "english": "example",
+          "thai": "ตัวอย่าง",
+          "phonetic": ""
+        },
+        {
+          "english": "explain",
+          "thai": "อธิบาย",
+          "phonetic": ""
+        },
+        {
+          "english": "few",
+          "thai": "น้อย",
+          "phonetic": ""
+        },
+        {
+          "english": "field",
+          "thai": "สนาม",
+          "phonetic": ""
+        },
+        {
+          "english": "former",
+          "thai": "อดีต",
+          "phonetic": ""
+        },
+        {
+          "english": "film",
+          "thai": "ฟิล์ม",
+          "phonetic": ""
+        },
+        {
+          "english": "especially",
+          "thai": "โดยเฉพาะ",
+          "phonetic": ""
+        },
+        {
+          "english": "fill",
+          "thai": "เติม",
+          "phonetic": ""
+        }
+      ],
       "Everyday: Lesson 21": [
         {
           "english": "game",
@@ -3060,6 +5068,508 @@
         {
           "english": "large",
           "thai": "ใหญ่",
+          "phonetic": ""
+        }
+      ],
+      "Everyday Review: Lessons 21-25": [
+        {
+          "english": "individual",
+          "thai": "รายบุคคล",
+          "phonetic": ""
+        },
+        {
+          "english": "increase",
+          "thai": "เพิ่มขึ้น",
+          "phonetic": ""
+        },
+        {
+          "english": "keep",
+          "thai": "เก็บ",
+          "phonetic": ""
+        },
+        {
+          "english": "guy",
+          "thai": "ผู้ชาย",
+          "phonetic": ""
+        },
+        {
+          "english": "huge",
+          "thai": "ใหญ่",
+          "phonetic": ""
+        },
+        {
+          "english": "hold",
+          "thai": "ถือ",
+          "phonetic": ""
+        },
+        {
+          "english": "involve",
+          "thai": "มีส่วนร่วม",
+          "phonetic": ""
+        },
+        {
+          "english": "hard",
+          "thai": "แข็ง",
+          "phonetic": ""
+        },
+        {
+          "english": "ground",
+          "thai": "พื้น",
+          "phonetic": ""
+        },
+        {
+          "english": "game",
+          "thai": "เกม",
+          "phonetic": ""
+        },
+        {
+          "english": "king",
+          "thai": "กษัตริย์",
+          "phonetic": ""
+        },
+        {
+          "english": "its",
+          "thai": "ของมัน",
+          "phonetic": ""
+        },
+        {
+          "english": "heart",
+          "thai": "หัวใจ",
+          "phonetic": ""
+        },
+        {
+          "english": "land",
+          "thai": "ที่ดิน",
+          "phonetic": ""
+        },
+        {
+          "english": "hour",
+          "thai": "ชั่วโมง",
+          "phonetic": ""
+        },
+        {
+          "english": "inside",
+          "thai": "ข้างใน",
+          "phonetic": ""
+        },
+        {
+          "english": "glass",
+          "thai": "กระจก",
+          "phonetic": ""
+        },
+        {
+          "english": "group",
+          "thai": "กลุ่ม",
+          "phonetic": ""
+        },
+        {
+          "english": "important",
+          "thai": "สำคัญ",
+          "phonetic": ""
+        },
+        {
+          "english": "hear",
+          "thai": "ได้ยิน",
+          "phonetic": ""
+        },
+        {
+          "english": "human",
+          "thai": "มนุษย์",
+          "phonetic": ""
+        },
+        {
+          "english": "good",
+          "thai": "ดี",
+          "phonetic": ""
+        },
+        {
+          "english": "girl",
+          "thai": "สาว",
+          "phonetic": ""
+        },
+        {
+          "english": "hundred",
+          "thai": "ร้อย",
+          "phonetic": ""
+        },
+        {
+          "english": "hand",
+          "thai": "มือ",
+          "phonetic": ""
+        },
+        {
+          "english": "information",
+          "thai": "ข้อมูล",
+          "phonetic": ""
+        },
+        {
+          "english": "hope",
+          "thai": "หวัง",
+          "phonetic": ""
+        },
+        {
+          "english": "garden",
+          "thai": "สวน",
+          "phonetic": ""
+        },
+        {
+          "english": "impact",
+          "thai": "ผลกระทบ",
+          "phonetic": ""
+        },
+        {
+          "english": "general",
+          "thai": "ทั่วไป",
+          "phonetic": ""
+        },
+        {
+          "english": "item",
+          "thai": "รายการ",
+          "phonetic": ""
+        },
+        {
+          "english": "history",
+          "thai": "ประวัติศาสตร์",
+          "phonetic": ""
+        },
+        {
+          "english": "his",
+          "thai": "ของเขา",
+          "phonetic": ""
+        },
+        {
+          "english": "happen",
+          "thai": "เกิดขึ้น",
+          "phonetic": ""
+        },
+        {
+          "english": "heat",
+          "thai": "ความร้อน",
+          "phonetic": ""
+        },
+        {
+          "english": "gas",
+          "thai": "แก๊ส",
+          "phonetic": ""
+        },
+        {
+          "english": "however",
+          "thai": "อย่างไรก็ตาม",
+          "phonetic": ""
+        },
+        {
+          "english": "itself",
+          "thai": "ตัวมันเอง",
+          "phonetic": ""
+        },
+        {
+          "english": "have",
+          "thai": "มี",
+          "phonetic": ""
+        },
+        {
+          "english": "into",
+          "thai": "เข้าไปข้างใน",
+          "phonetic": ""
+        },
+        {
+          "english": "if",
+          "thai": "ถ้า",
+          "phonetic": ""
+        },
+        {
+          "english": "imagine",
+          "thai": "จินตนาการ",
+          "phonetic": ""
+        },
+        {
+          "english": "head",
+          "thai": "ศีรษะ",
+          "phonetic": ""
+        },
+        {
+          "english": "husband",
+          "thai": "สามี",
+          "phonetic": ""
+        },
+        {
+          "english": "guess",
+          "thai": "เดา",
+          "phonetic": ""
+        },
+        {
+          "english": "hospital",
+          "thai": "โรงพยาบาล",
+          "phonetic": ""
+        },
+        {
+          "english": "job",
+          "thai": "งาน",
+          "phonetic": ""
+        },
+        {
+          "english": "kill",
+          "thai": "ฆ่า",
+          "phonetic": ""
+        },
+        {
+          "english": "join",
+          "thai": "เข้าร่วม",
+          "phonetic": ""
+        },
+        {
+          "english": "image",
+          "thai": "ภาพ",
+          "phonetic": ""
+        },
+        {
+          "english": "himself",
+          "thai": "ตัวเขาเอง",
+          "phonetic": ""
+        },
+        {
+          "english": "great",
+          "thai": "ยอดเยี่ยม",
+          "phonetic": ""
+        },
+        {
+          "english": "is",
+          "thai": "เป็น",
+          "phonetic": ""
+        },
+        {
+          "english": "he",
+          "thai": "เขา",
+          "phonetic": ""
+        },
+        {
+          "english": "just",
+          "thai": "แค่",
+          "phonetic": ""
+        },
+        {
+          "english": "it",
+          "thai": "มัน",
+          "phonetic": ""
+        },
+        {
+          "english": "include",
+          "thai": "รวม",
+          "phonetic": ""
+        },
+        {
+          "english": "institution",
+          "thai": "สถาบัน",
+          "phonetic": ""
+        },
+        {
+          "english": "kitchen",
+          "thai": "ครัว",
+          "phonetic": ""
+        },
+        {
+          "english": "gun",
+          "thai": "ปืน",
+          "phonetic": ""
+        },
+        {
+          "english": "grow",
+          "thai": "เติบโต",
+          "phonetic": ""
+        },
+        {
+          "english": "heavy",
+          "thai": "หนัก",
+          "phonetic": ""
+        },
+        {
+          "english": "half",
+          "thai": "ครึ่ง",
+          "phonetic": ""
+        },
+        {
+          "english": "hang",
+          "thai": "แขวน",
+          "phonetic": ""
+        },
+        {
+          "english": "hot",
+          "thai": "ร้อน",
+          "phonetic": ""
+        },
+        {
+          "english": "large",
+          "thai": "ใหญ่",
+          "phonetic": ""
+        },
+        {
+          "english": "hit",
+          "thai": "ตี",
+          "phonetic": ""
+        },
+        {
+          "english": "him",
+          "thai": "เขา",
+          "phonetic": ""
+        },
+        {
+          "english": "interesting",
+          "thai": "น่าสนใจ",
+          "phonetic": ""
+        },
+        {
+          "english": "high",
+          "thai": "สูง",
+          "phonetic": ""
+        },
+        {
+          "english": "issue",
+          "thai": "ปัญหา",
+          "phonetic": ""
+        },
+        {
+          "english": "know",
+          "thai": "ทราบ",
+          "phonetic": ""
+        },
+        {
+          "english": "improve",
+          "thai": "ทำให้ดีขึ้น",
+          "phonetic": ""
+        },
+        {
+          "english": "i",
+          "thai": "ฉัน",
+          "phonetic": ""
+        },
+        {
+          "english": "key",
+          "thai": "สำคัญ",
+          "phonetic": ""
+        },
+        {
+          "english": "generation",
+          "thai": "รุ่น",
+          "phonetic": ""
+        },
+        {
+          "english": "kind",
+          "thai": "ใจดี",
+          "phonetic": ""
+        },
+        {
+          "english": "happy",
+          "thai": "มีความสุข",
+          "phonetic": ""
+        },
+        {
+          "english": "indicate",
+          "thai": "ระบุ",
+          "phonetic": ""
+        },
+        {
+          "english": "including",
+          "thai": "รวมทั้ง",
+          "phonetic": ""
+        },
+        {
+          "english": "knowledge",
+          "thai": "ความรู้",
+          "phonetic": ""
+        },
+        {
+          "english": "house",
+          "thai": "บ้าน",
+          "phonetic": ""
+        },
+        {
+          "english": "home",
+          "thai": "บ้าน",
+          "phonetic": ""
+        },
+        {
+          "english": "hair",
+          "thai": "ผม",
+          "phonetic": ""
+        },
+        {
+          "english": "give",
+          "thai": "ให้",
+          "phonetic": ""
+        },
+        {
+          "english": "green",
+          "thai": "สีเขียว",
+          "phonetic": ""
+        },
+        {
+          "english": "idea",
+          "thai": "ความคิด",
+          "phonetic": ""
+        },
+        {
+          "english": "indeed",
+          "thai": "อย่างแท้จริง",
+          "phonetic": ""
+        },
+        {
+          "english": "identify",
+          "thai": "แยกแยะ",
+          "phonetic": ""
+        },
+        {
+          "english": "instead",
+          "thai": "แทน",
+          "phonetic": ""
+        },
+        {
+          "english": "interview",
+          "thai": "สัมภาษณ์",
+          "phonetic": ""
+        },
+        {
+          "english": "language",
+          "thai": "ภาษา",
+          "phonetic": ""
+        },
+        {
+          "english": "her",
+          "thai": "ของเธอ",
+          "phonetic": ""
+        },
+        {
+          "english": "herself",
+          "thai": "ตัวเธอเอง",
+          "phonetic": ""
+        },
+        {
+          "english": "kid",
+          "thai": "เด็ก",
+          "phonetic": ""
+        },
+        {
+          "english": "international",
+          "thai": "ระหว่างประเทศ",
+          "phonetic": ""
+        },
+        {
+          "english": "get",
+          "thai": "รับ",
+          "phonetic": ""
+        },
+        {
+          "english": "government",
+          "thai": "รัฐบาล",
+          "phonetic": ""
+        },
+        {
+          "english": "health",
+          "thai": "สุขภาพ",
+          "phonetic": ""
+        },
+        {
+          "english": "in",
+          "thai": "ใน",
           "phonetic": ""
         }
       ],
@@ -3573,6 +6083,508 @@
           "phonetic": ""
         }
       ],
+      "Everyday Review: Lessons 26-30": [
+        {
+          "english": "light",
+          "thai": "แสงสว่าง",
+          "phonetic": ""
+        },
+        {
+          "english": "mention",
+          "thai": "กล่าวถึง",
+          "phonetic": ""
+        },
+        {
+          "english": "movement",
+          "thai": "ความเคลื่อนไหว",
+          "phonetic": ""
+        },
+        {
+          "english": "million",
+          "thai": "ล้าน",
+          "phonetic": ""
+        },
+        {
+          "english": "national",
+          "thai": "ระดับชาติ",
+          "phonetic": ""
+        },
+        {
+          "english": "line",
+          "thai": "เส้น",
+          "phonetic": ""
+        },
+        {
+          "english": "natural",
+          "thai": "เป็นธรรมชาติ",
+          "phonetic": ""
+        },
+        {
+          "english": "laugh",
+          "thai": "หัวเราะ",
+          "phonetic": ""
+        },
+        {
+          "english": "necessary",
+          "thai": "จำเป็น",
+          "phonetic": ""
+        },
+        {
+          "english": "military",
+          "thai": "ทหาร",
+          "phonetic": ""
+        },
+        {
+          "english": "less",
+          "thai": "น้อย",
+          "phonetic": ""
+        },
+        {
+          "english": "memory",
+          "thai": "หน่วยความจำ",
+          "phonetic": ""
+        },
+        {
+          "english": "mission",
+          "thai": "ภารกิจ",
+          "phonetic": ""
+        },
+        {
+          "english": "likely",
+          "thai": "มีแนวโน้ม",
+          "phonetic": ""
+        },
+        {
+          "english": "main",
+          "thai": "หลัก",
+          "phonetic": ""
+        },
+        {
+          "english": "material",
+          "thai": "วัสดุ",
+          "phonetic": ""
+        },
+        {
+          "english": "music",
+          "thai": "ดนตรี",
+          "phonetic": ""
+        },
+        {
+          "english": "lawyer",
+          "thai": "ทนายความ",
+          "phonetic": ""
+        },
+        {
+          "english": "love",
+          "thai": "รัก",
+          "phonetic": ""
+        },
+        {
+          "english": "little",
+          "thai": "เล็กน้อย",
+          "phonetic": ""
+        },
+        {
+          "english": "might",
+          "thai": "อาจ",
+          "phonetic": ""
+        },
+        {
+          "english": "name",
+          "thai": "ชื่อ",
+          "phonetic": ""
+        },
+        {
+          "english": "news",
+          "thai": "ข่าว",
+          "phonetic": ""
+        },
+        {
+          "english": "later",
+          "thai": "ภายหลัง",
+          "phonetic": ""
+        },
+        {
+          "english": "may",
+          "thai": "อาจ",
+          "phonetic": ""
+        },
+        {
+          "english": "late",
+          "thai": "ช้า",
+          "phonetic": ""
+        },
+        {
+          "english": "long",
+          "thai": "ยาว",
+          "phonetic": ""
+        },
+        {
+          "english": "let",
+          "thai": "อนุญาต",
+          "phonetic": ""
+        },
+        {
+          "english": "leg",
+          "thai": "ขา",
+          "phonetic": ""
+        },
+        {
+          "english": "matter",
+          "thai": "วัตถุ",
+          "phonetic": ""
+        },
+        {
+          "english": "law",
+          "thai": "กฎ",
+          "phonetic": ""
+        },
+        {
+          "english": "make",
+          "thai": "ทำ",
+          "phonetic": ""
+        },
+        {
+          "english": "lot",
+          "thai": "มาก",
+          "phonetic": ""
+        },
+        {
+          "english": "movie",
+          "thai": "ภาพยนตร์",
+          "phonetic": ""
+        },
+        {
+          "english": "naturally",
+          "thai": "ตามธรรมชาติ",
+          "phonetic": ""
+        },
+        {
+          "english": "learn",
+          "thai": "เรียนรู้",
+          "phonetic": ""
+        },
+        {
+          "english": "lay",
+          "thai": "วาง",
+          "phonetic": ""
+        },
+        {
+          "english": "maintain",
+          "thai": "บำรุงรักษา",
+          "phonetic": ""
+        },
+        {
+          "english": "myself",
+          "thai": "ตัวฉันเอง",
+          "phonetic": ""
+        },
+        {
+          "english": "majority",
+          "thai": "ส่วนใหญ่",
+          "phonetic": ""
+        },
+        {
+          "english": "many",
+          "thai": "มากมาย",
+          "phonetic": ""
+        },
+        {
+          "english": "magazine",
+          "thai": "นิตยสาร",
+          "phonetic": ""
+        },
+        {
+          "english": "mother",
+          "thai": "แม่",
+          "phonetic": ""
+        },
+        {
+          "english": "never",
+          "thai": "ไม่เคย",
+          "phonetic": ""
+        },
+        {
+          "english": "member",
+          "thai": "สมาชิก",
+          "phonetic": ""
+        },
+        {
+          "english": "level",
+          "thai": "ระดับ",
+          "phonetic": ""
+        },
+        {
+          "english": "minute",
+          "thai": "นาที",
+          "phonetic": ""
+        },
+        {
+          "english": "lie",
+          "thai": "โกหก",
+          "phonetic": ""
+        },
+        {
+          "english": "nation",
+          "thai": "ชาติ",
+          "phonetic": ""
+        },
+        {
+          "english": "look",
+          "thai": "ดู",
+          "phonetic": ""
+        },
+        {
+          "english": "leader",
+          "thai": "ผู้นำ",
+          "phonetic": ""
+        },
+        {
+          "english": "most",
+          "thai": "ที่สุด",
+          "phonetic": ""
+        },
+        {
+          "english": "network",
+          "thai": "เครือข่าย",
+          "phonetic": ""
+        },
+        {
+          "english": "method",
+          "thai": "วิธี",
+          "phonetic": ""
+        },
+        {
+          "english": "model",
+          "thai": "แบบอย่าง",
+          "phonetic": ""
+        },
+        {
+          "english": "new",
+          "thai": "ใหม่",
+          "phonetic": ""
+        },
+        {
+          "english": "like",
+          "thai": "ชอบ",
+          "phonetic": ""
+        },
+        {
+          "english": "last",
+          "thai": "ล่าสุด",
+          "phonetic": ""
+        },
+        {
+          "english": "move",
+          "thai": "เคลื่อนไหว",
+          "phonetic": ""
+        },
+        {
+          "english": "lose",
+          "thai": "สูญเสีย",
+          "phonetic": ""
+        },
+        {
+          "english": "low",
+          "thai": "ต่ำ",
+          "phonetic": ""
+        },
+        {
+          "english": "manage",
+          "thai": "จัดการ",
+          "phonetic": ""
+        },
+        {
+          "english": "mind",
+          "thai": "จิตใจ",
+          "phonetic": ""
+        },
+        {
+          "english": "major",
+          "thai": "วิชาเอก",
+          "phonetic": ""
+        },
+        {
+          "english": "nearly",
+          "thai": "เกือบ",
+          "phonetic": ""
+        },
+        {
+          "english": "next",
+          "thai": "ต่อไป",
+          "phonetic": ""
+        },
+        {
+          "english": "machine",
+          "thai": "เครื่องจักร",
+          "phonetic": ""
+        },
+        {
+          "english": "letter",
+          "thai": "จดหมาย",
+          "phonetic": ""
+        },
+        {
+          "english": "nature",
+          "thai": "ธรรมชาติ",
+          "phonetic": ""
+        },
+        {
+          "english": "marriage",
+          "thai": "การแต่งงาน",
+          "phonetic": ""
+        },
+        {
+          "english": "meet",
+          "thai": "พบปะ",
+          "phonetic": ""
+        },
+        {
+          "english": "legal",
+          "thai": "ถูกกฎหมาย",
+          "phonetic": ""
+        },
+        {
+          "english": "me",
+          "thai": "ฉัน",
+          "phonetic": ""
+        },
+        {
+          "english": "mean",
+          "thai": "หมายถึง",
+          "phonetic": ""
+        },
+        {
+          "english": "life",
+          "thai": "ชีวิต",
+          "phonetic": ""
+        },
+        {
+          "english": "newspaper",
+          "thai": "หนังสือพิมพ์",
+          "phonetic": ""
+        },
+        {
+          "english": "nice",
+          "thai": "ดี",
+          "phonetic": ""
+        },
+        {
+          "english": "mouth",
+          "thai": "ปาก",
+          "phonetic": ""
+        },
+        {
+          "english": "management",
+          "thai": "การจัดการ",
+          "phonetic": ""
+        },
+        {
+          "english": "live",
+          "thai": "สด",
+          "phonetic": ""
+        },
+        {
+          "english": "least",
+          "thai": "น้อยที่สุด",
+          "phonetic": ""
+        },
+        {
+          "english": "man",
+          "thai": "ผู้ชาย",
+          "phonetic": ""
+        },
+        {
+          "english": "medical",
+          "thai": "ทางการแพทย์",
+          "phonetic": ""
+        },
+        {
+          "english": "local",
+          "thai": "ท้องถิ่น",
+          "phonetic": ""
+        },
+        {
+          "english": "message",
+          "thai": "ข้อความ",
+          "phonetic": ""
+        },
+        {
+          "english": "leave",
+          "thai": "ออกจาก",
+          "phonetic": ""
+        },
+        {
+          "english": "mr",
+          "thai": "นาย",
+          "phonetic": ""
+        },
+        {
+          "english": "middle",
+          "thai": "กลาง",
+          "phonetic": ""
+        },
+        {
+          "english": "modern",
+          "thai": "ทันสมัย",
+          "phonetic": ""
+        },
+        {
+          "english": "media",
+          "thai": "สื่อ",
+          "phonetic": ""
+        },
+        {
+          "english": "measure",
+          "thai": "วัด",
+          "phonetic": ""
+        },
+        {
+          "english": "miss",
+          "thai": "นางสาว",
+          "phonetic": ""
+        },
+        {
+          "english": "more",
+          "thai": "มากกว่า",
+          "phonetic": ""
+        },
+        {
+          "english": "must",
+          "thai": "ต้อง",
+          "phonetic": ""
+        },
+        {
+          "english": "moment",
+          "thai": "ช่วงเวลา",
+          "phonetic": ""
+        },
+        {
+          "english": "my",
+          "thai": "ของฉัน",
+          "phonetic": ""
+        },
+        {
+          "english": "month",
+          "thai": "เดือน",
+          "phonetic": ""
+        },
+        {
+          "english": "none",
+          "thai": "ไม่มี",
+          "phonetic": ""
+        },
+        {
+          "english": "list",
+          "thai": "รายการ",
+          "phonetic": ""
+        },
+        {
+          "english": "mrs",
+          "thai": "นาง",
+          "phonetic": ""
+        }
+      ],
       "Everyday: Lesson 31": [
         {
           "english": "nor",
@@ -4080,6 +7092,508 @@
         {
           "english": "protect",
           "thai": "ปกป้อง",
+          "phonetic": ""
+        }
+      ],
+      "Everyday Review: Lessons 31-35": [
+        {
+          "english": "party",
+          "thai": "งานสังสรรค์",
+          "phonetic": ""
+        },
+        {
+          "english": "our",
+          "thai": "ของเรา",
+          "phonetic": ""
+        },
+        {
+          "english": "part",
+          "thai": "ส่วนหนึ่ง",
+          "phonetic": ""
+        },
+        {
+          "english": "physical",
+          "thai": "ทางกายภาพ",
+          "phonetic": ""
+        },
+        {
+          "english": "peace",
+          "thai": "ความสงบ",
+          "phonetic": ""
+        },
+        {
+          "english": "political",
+          "thai": "ทางการเมือง",
+          "phonetic": ""
+        },
+        {
+          "english": "perhaps",
+          "thai": "บางที",
+          "phonetic": ""
+        },
+        {
+          "english": "property",
+          "thai": "คุณสมบัติ",
+          "phonetic": ""
+        },
+        {
+          "english": "occur",
+          "thai": "เกิดขึ้น",
+          "phonetic": ""
+        },
+        {
+          "english": "people",
+          "thai": "ประชากร",
+          "phonetic": ""
+        },
+        {
+          "english": "post",
+          "thai": "โพสต์",
+          "phonetic": ""
+        },
+        {
+          "english": "production",
+          "thai": "การผลิต",
+          "phonetic": ""
+        },
+        {
+          "english": "piece",
+          "thai": "ชิ้นส่วน",
+          "phonetic": ""
+        },
+        {
+          "english": "now",
+          "thai": "ตอนนี้",
+          "phonetic": ""
+        },
+        {
+          "english": "present",
+          "thai": "ปัจจุบัน",
+          "phonetic": ""
+        },
+        {
+          "english": "particular",
+          "thai": "โดยเฉพาะ",
+          "phonetic": ""
+        },
+        {
+          "english": "page",
+          "thai": "หน้าหนังสือ",
+          "phonetic": ""
+        },
+        {
+          "english": "particularly",
+          "thai": "โดยเฉพาะ",
+          "phonetic": ""
+        },
+        {
+          "english": "point",
+          "thai": "จุด",
+          "phonetic": ""
+        },
+        {
+          "english": "pain",
+          "thai": "ความเจ็บปวด",
+          "phonetic": ""
+        },
+        {
+          "english": "pick",
+          "thai": "เลือก",
+          "phonetic": ""
+        },
+        {
+          "english": "personal",
+          "thai": "ส่วนตัว",
+          "phonetic": ""
+        },
+        {
+          "english": "note",
+          "thai": "บันทึก",
+          "phonetic": ""
+        },
+        {
+          "english": "nor",
+          "thai": "ก็ไม่เช่นกัน",
+          "phonetic": ""
+        },
+        {
+          "english": "of",
+          "thai": "ของ",
+          "phonetic": ""
+        },
+        {
+          "english": "plant",
+          "thai": "ปลูก",
+          "phonetic": ""
+        },
+        {
+          "english": "pay",
+          "thai": "จ่าย",
+          "phonetic": ""
+        },
+        {
+          "english": "place",
+          "thai": "สถานที่",
+          "phonetic": ""
+        },
+        {
+          "english": "professional",
+          "thai": "มืออาชีพ",
+          "phonetic": ""
+        },
+        {
+          "english": "practice",
+          "thai": "ฝึกฝน",
+          "phonetic": ""
+        },
+        {
+          "english": "one",
+          "thai": "หนึ่ง",
+          "phonetic": ""
+        },
+        {
+          "english": "or",
+          "thai": "หรือ",
+          "phonetic": ""
+        },
+        {
+          "english": "pressure",
+          "thai": "ความดัน",
+          "phonetic": ""
+        },
+        {
+          "english": "other",
+          "thai": "อื่น",
+          "phonetic": ""
+        },
+        {
+          "english": "president",
+          "thai": "ประธาน",
+          "phonetic": ""
+        },
+        {
+          "english": "poor",
+          "thai": "ยากจน",
+          "phonetic": ""
+        },
+        {
+          "english": "often",
+          "thai": "บ่อยครั้ง",
+          "phonetic": ""
+        },
+        {
+          "english": "picture",
+          "thai": "รูปภาพ",
+          "phonetic": ""
+        },
+        {
+          "english": "period",
+          "thai": "ระยะเวลา",
+          "phonetic": ""
+        },
+        {
+          "english": "private",
+          "thai": "ส่วนตัว",
+          "phonetic": ""
+        },
+        {
+          "english": "offer",
+          "thai": "เสนอ",
+          "phonetic": ""
+        },
+        {
+          "english": "program",
+          "thai": "โปรแกรม",
+          "phonetic": ""
+        },
+        {
+          "english": "plan",
+          "thai": "วางแผน",
+          "phonetic": ""
+        },
+        {
+          "english": "problem",
+          "thai": "ปัญหา",
+          "phonetic": ""
+        },
+        {
+          "english": "politics",
+          "thai": "การเมือง",
+          "phonetic": ""
+        },
+        {
+          "english": "pm",
+          "thai": "บ่าย",
+          "phonetic": ""
+        },
+        {
+          "english": "paper",
+          "thai": "กระดาษ",
+          "phonetic": ""
+        },
+        {
+          "english": "per",
+          "thai": "ต่อ",
+          "phonetic": ""
+        },
+        {
+          "english": "official",
+          "thai": "เป็นทางการ",
+          "phonetic": ""
+        },
+        {
+          "english": "organization",
+          "thai": "องค์กร",
+          "phonetic": ""
+        },
+        {
+          "english": "pattern",
+          "thai": "ลวดลาย",
+          "phonetic": ""
+        },
+        {
+          "english": "out",
+          "thai": "ออก",
+          "phonetic": ""
+        },
+        {
+          "english": "nothing",
+          "thai": "ไม่มีอะไร",
+          "phonetic": ""
+        },
+        {
+          "english": "possible",
+          "thai": "เป็นไปได้",
+          "phonetic": ""
+        },
+        {
+          "english": "oh",
+          "thai": "โอ้",
+          "phonetic": ""
+        },
+        {
+          "english": "professor",
+          "thai": "ศาสตราจารย์",
+          "phonetic": ""
+        },
+        {
+          "english": "player",
+          "thai": "ผู้เล่น",
+          "phonetic": ""
+        },
+        {
+          "english": "others",
+          "thai": "คนอื่น",
+          "phonetic": ""
+        },
+        {
+          "english": "north",
+          "thai": "ทิศเหนือ",
+          "phonetic": ""
+        },
+        {
+          "english": "open",
+          "thai": "เปิด",
+          "phonetic": ""
+        },
+        {
+          "english": "pretty",
+          "thai": "สวย",
+          "phonetic": ""
+        },
+        {
+          "english": "not",
+          "thai": "ไม่",
+          "phonetic": ""
+        },
+        {
+          "english": "population",
+          "thai": "ประชากร",
+          "phonetic": ""
+        },
+        {
+          "english": "perform",
+          "thai": "ดำเนินการ",
+          "phonetic": ""
+        },
+        {
+          "english": "patient",
+          "thai": "อดทน",
+          "phonetic": ""
+        },
+        {
+          "english": "popular",
+          "thai": "เป็นที่นิยม",
+          "phonetic": ""
+        },
+        {
+          "english": "operation",
+          "thai": "การดำเนินการ",
+          "phonetic": ""
+        },
+        {
+          "english": "power",
+          "thai": "พลัง",
+          "phonetic": ""
+        },
+        {
+          "english": "prevent",
+          "thai": "ป้องกัน",
+          "phonetic": ""
+        },
+        {
+          "english": "off",
+          "thai": "ปิด",
+          "phonetic": ""
+        },
+        {
+          "english": "probably",
+          "thai": "อาจจะ",
+          "phonetic": ""
+        },
+        {
+          "english": "process",
+          "thai": "กระบวนการ",
+          "phonetic": ""
+        },
+        {
+          "english": "own",
+          "thai": "เป็นเจ้าของ",
+          "phonetic": ""
+        },
+        {
+          "english": "over",
+          "thai": "เกิน",
+          "phonetic": ""
+        },
+        {
+          "english": "performance",
+          "thai": "ผลงาน",
+          "phonetic": ""
+        },
+        {
+          "english": "person",
+          "thai": "บุคคล",
+          "phonetic": ""
+        },
+        {
+          "english": "police",
+          "thai": "ตำรวจ",
+          "phonetic": ""
+        },
+        {
+          "english": "position",
+          "thai": "ตำแหน่ง",
+          "phonetic": ""
+        },
+        {
+          "english": "positive",
+          "thai": "เชิงบวก",
+          "phonetic": ""
+        },
+        {
+          "english": "prepare",
+          "thai": "เตรียมตัว",
+          "phonetic": ""
+        },
+        {
+          "english": "produce",
+          "thai": "ผลิต",
+          "phonetic": ""
+        },
+        {
+          "english": "protect",
+          "thai": "ปกป้อง",
+          "phonetic": ""
+        },
+        {
+          "english": "once",
+          "thai": "ครั้งหนึ่ง",
+          "phonetic": ""
+        },
+        {
+          "english": "owner",
+          "thai": "เจ้าของ",
+          "phonetic": ""
+        },
+        {
+          "english": "painting",
+          "thai": "จิตรกรรม",
+          "phonetic": ""
+        },
+        {
+          "english": "number",
+          "thai": "ตัวเลข",
+          "phonetic": ""
+        },
+        {
+          "english": "officer",
+          "thai": "เจ้าหน้าที่",
+          "phonetic": ""
+        },
+        {
+          "english": "onto",
+          "thai": "ขึ้นไป",
+          "phonetic": ""
+        },
+        {
+          "english": "participant",
+          "thai": "ผู้เข้าร่วม",
+          "phonetic": ""
+        },
+        {
+          "english": "parent",
+          "thai": "พ่อแม่",
+          "phonetic": ""
+        },
+        {
+          "english": "option",
+          "thai": "ตัวเลือก",
+          "phonetic": ""
+        },
+        {
+          "english": "outside",
+          "thai": "ข้างนอก",
+          "phonetic": ""
+        },
+        {
+          "english": "only",
+          "thai": "เท่านั้น",
+          "phonetic": ""
+        },
+        {
+          "english": "ok",
+          "thai": "ตกลง",
+          "phonetic": ""
+        },
+        {
+          "english": "oil",
+          "thai": "น้ำมัน",
+          "phonetic": ""
+        },
+        {
+          "english": "pass",
+          "thai": "ผ่าน",
+          "phonetic": ""
+        },
+        {
+          "english": "on",
+          "thai": "บน",
+          "phonetic": ""
+        },
+        {
+          "english": "old",
+          "thai": "เก่า",
+          "phonetic": ""
+        },
+        {
+          "english": "notice",
+          "thai": "สังเกต",
+          "phonetic": ""
+        },
+        {
+          "english": "past",
+          "thai": "อดีต",
           "phonetic": ""
         }
       ],
@@ -4593,6 +8107,508 @@
           "phonetic": ""
         }
       ],
+      "Everyday Review: Lessons 36-40": [
+        {
+          "english": "run",
+          "thai": "วิ่ง",
+          "phonetic": ""
+        },
+        {
+          "english": "response",
+          "thai": "การตอบสนอง",
+          "phonetic": ""
+        },
+        {
+          "english": "reduce",
+          "thai": "ลด",
+          "phonetic": ""
+        },
+        {
+          "english": "put",
+          "thai": "ใส่",
+          "phonetic": ""
+        },
+        {
+          "english": "radio",
+          "thai": "วิทยุ",
+          "phonetic": ""
+        },
+        {
+          "english": "remain",
+          "thai": "ยังคง",
+          "phonetic": ""
+        },
+        {
+          "english": "prove",
+          "thai": "พิสูจน์",
+          "phonetic": ""
+        },
+        {
+          "english": "religious",
+          "thai": "เคร่งศาสนา",
+          "phonetic": ""
+        },
+        {
+          "english": "ready",
+          "thai": "พร้อม",
+          "phonetic": ""
+        },
+        {
+          "english": "provide",
+          "thai": "จัดเตรียม",
+          "phonetic": ""
+        },
+        {
+          "english": "realize",
+          "thai": "ตระหนัก",
+          "phonetic": ""
+        },
+        {
+          "english": "require",
+          "thai": "จำเป็นต้อง",
+          "phonetic": ""
+        },
+        {
+          "english": "region",
+          "thai": "ภูมิภาค",
+          "phonetic": ""
+        },
+        {
+          "english": "rather",
+          "thai": "ค่อนข้าง",
+          "phonetic": ""
+        },
+        {
+          "english": "relate",
+          "thai": "เกี่ยวข้อง",
+          "phonetic": ""
+        },
+        {
+          "english": "share",
+          "thai": "แบ่งปัน",
+          "phonetic": ""
+        },
+        {
+          "english": "resource",
+          "thai": "ทรัพยากร",
+          "phonetic": ""
+        },
+        {
+          "english": "security",
+          "thai": "ความปลอดภัย",
+          "phonetic": ""
+        },
+        {
+          "english": "save",
+          "thai": "บันทึก",
+          "phonetic": ""
+        },
+        {
+          "english": "public",
+          "thai": "สาธารณะ",
+          "phonetic": ""
+        },
+        {
+          "english": "pull",
+          "thai": "ดึง",
+          "phonetic": ""
+        },
+        {
+          "english": "question",
+          "thai": "คำถาม",
+          "phonetic": ""
+        },
+        {
+          "english": "shot",
+          "thai": "ยิง",
+          "phonetic": ""
+        },
+        {
+          "english": "science",
+          "thai": "ศาสตร์",
+          "phonetic": ""
+        },
+        {
+          "english": "simple",
+          "thai": "เรียบง่าย",
+          "phonetic": ""
+        },
+        {
+          "english": "series",
+          "thai": "ชุด",
+          "phonetic": ""
+        },
+        {
+          "english": "shoot",
+          "thai": "ยิง",
+          "phonetic": ""
+        },
+        {
+          "english": "seat",
+          "thai": "ที่นั่ง",
+          "phonetic": ""
+        },
+        {
+          "english": "quickly",
+          "thai": "อย่างรวดเร็ว",
+          "phonetic": ""
+        },
+        {
+          "english": "recognize",
+          "thai": "จำได้",
+          "phonetic": ""
+        },
+        {
+          "english": "reach",
+          "thai": "เข้าถึง",
+          "phonetic": ""
+        },
+        {
+          "english": "republican",
+          "thai": "พรรครีพับลิกัน",
+          "phonetic": ""
+        },
+        {
+          "english": "quite",
+          "thai": "ค่อนข้าง",
+          "phonetic": ""
+        },
+        {
+          "english": "scientist",
+          "thai": "นักวิทยาศาสตร์",
+          "phonetic": ""
+        },
+        {
+          "english": "rich",
+          "thai": "รวย",
+          "phonetic": ""
+        },
+        {
+          "english": "race",
+          "thai": "แข่ง",
+          "phonetic": ""
+        },
+        {
+          "english": "reason",
+          "thai": "เหตุผล",
+          "phonetic": ""
+        },
+        {
+          "english": "serve",
+          "thai": "ให้บริการ",
+          "phonetic": ""
+        },
+        {
+          "english": "reality",
+          "thai": "ความเป็นจริง",
+          "phonetic": ""
+        },
+        {
+          "english": "second",
+          "thai": "ที่สอง",
+          "phonetic": ""
+        },
+        {
+          "english": "raise",
+          "thai": "ยก",
+          "phonetic": ""
+        },
+        {
+          "english": "range",
+          "thai": "พิสัย",
+          "phonetic": ""
+        },
+        {
+          "english": "room",
+          "thai": "ห้อง",
+          "phonetic": ""
+        },
+        {
+          "english": "receive",
+          "thai": "รับ",
+          "phonetic": ""
+        },
+        {
+          "english": "send",
+          "thai": "ส่ง",
+          "phonetic": ""
+        },
+        {
+          "english": "sea",
+          "thai": "ทะเล",
+          "phonetic": ""
+        },
+        {
+          "english": "say",
+          "thai": "พูด",
+          "phonetic": ""
+        },
+        {
+          "english": "side",
+          "thai": "ด้านข้าง",
+          "phonetic": ""
+        },
+        {
+          "english": "recent",
+          "thai": "ล่าสุด",
+          "phonetic": ""
+        },
+        {
+          "english": "sense",
+          "thai": "ความรู้สึก",
+          "phonetic": ""
+        },
+        {
+          "english": "sexual",
+          "thai": "ทางเพศ",
+          "phonetic": ""
+        },
+        {
+          "english": "shake",
+          "thai": "เขย่า",
+          "phonetic": ""
+        },
+        {
+          "english": "senior",
+          "thai": "อาวุโส",
+          "phonetic": ""
+        },
+        {
+          "english": "role",
+          "thai": "บทบาท",
+          "phonetic": ""
+        },
+        {
+          "english": "scene",
+          "thai": "ฉาก",
+          "phonetic": ""
+        },
+        {
+          "english": "record",
+          "thai": "บันทึก",
+          "phonetic": ""
+        },
+        {
+          "english": "respond",
+          "thai": "ตอบกลับ",
+          "phonetic": ""
+        },
+        {
+          "english": "rest",
+          "thai": "พักผ่อน",
+          "phonetic": ""
+        },
+        {
+          "english": "represent",
+          "thai": "แทน",
+          "phonetic": ""
+        },
+        {
+          "english": "red",
+          "thai": "สีแดง",
+          "phonetic": ""
+        },
+        {
+          "english": "research",
+          "thai": "วิจัย",
+          "phonetic": ""
+        },
+        {
+          "english": "recently",
+          "thai": "ล่าสุด",
+          "phonetic": ""
+        },
+        {
+          "english": "she",
+          "thai": "เธอ",
+          "phonetic": ""
+        },
+        {
+          "english": "score",
+          "thai": "คะแนน",
+          "phonetic": ""
+        },
+        {
+          "english": "really",
+          "thai": "จริงหรือ",
+          "phonetic": ""
+        },
+        {
+          "english": "serious",
+          "thai": "จริงจัง",
+          "phonetic": ""
+        },
+        {
+          "english": "sex",
+          "thai": "เพศ",
+          "phonetic": ""
+        },
+        {
+          "english": "seek",
+          "thai": "แสวงหา",
+          "phonetic": ""
+        },
+        {
+          "english": "season",
+          "thai": "ฤดูกาล",
+          "phonetic": ""
+        },
+        {
+          "english": "rate",
+          "thai": "ประเมิน",
+          "phonetic": ""
+        },
+        {
+          "english": "similar",
+          "thai": "คล้ายกัน",
+          "phonetic": ""
+        },
+        {
+          "english": "return",
+          "thai": "กลับ",
+          "phonetic": ""
+        },
+        {
+          "english": "same",
+          "thai": "เดียวกัน",
+          "phonetic": ""
+        },
+        {
+          "english": "seven",
+          "thai": "เจ็ด",
+          "phonetic": ""
+        },
+        {
+          "english": "remove",
+          "thai": "ลบ",
+          "phonetic": ""
+        },
+        {
+          "english": "shoulder",
+          "thai": "ไหล่",
+          "phonetic": ""
+        },
+        {
+          "english": "real",
+          "thai": "จริง",
+          "phonetic": ""
+        },
+        {
+          "english": "set",
+          "thai": "ชุด",
+          "phonetic": ""
+        },
+        {
+          "english": "remember",
+          "thai": "จดจำ",
+          "phonetic": ""
+        },
+        {
+          "english": "rule",
+          "thai": "กฎ",
+          "phonetic": ""
+        },
+        {
+          "english": "reflect",
+          "thai": "สะท้อน",
+          "phonetic": ""
+        },
+        {
+          "english": "section",
+          "thai": "ส่วน",
+          "phonetic": ""
+        },
+        {
+          "english": "several",
+          "thai": "หลาย",
+          "phonetic": ""
+        },
+        {
+          "english": "purpose",
+          "thai": "วัตถุประสงค์",
+          "phonetic": ""
+        },
+        {
+          "english": "short",
+          "thai": "สั้น",
+          "phonetic": ""
+        },
+        {
+          "english": "show",
+          "thai": "แสดง",
+          "phonetic": ""
+        },
+        {
+          "english": "quiet",
+          "thai": "เงียบ",
+          "phonetic": ""
+        },
+        {
+          "english": "relationship",
+          "thai": "ความสัมพันธ์",
+          "phonetic": ""
+        },
+        {
+          "english": "rise",
+          "thai": "ลุกขึ้น",
+          "phonetic": ""
+        },
+        {
+          "english": "responsibility",
+          "thai": "ความรับผิดชอบ",
+          "phonetic": ""
+        },
+        {
+          "english": "push",
+          "thai": "ดัน",
+          "phonetic": ""
+        },
+        {
+          "english": "rock",
+          "thai": "หิน",
+          "phonetic": ""
+        },
+        {
+          "english": "safe",
+          "thai": "ปลอดภัย",
+          "phonetic": ""
+        },
+        {
+          "english": "result",
+          "thai": "ผลลัพธ์",
+          "phonetic": ""
+        },
+        {
+          "english": "seem",
+          "thai": "ดูเหมือน",
+          "phonetic": ""
+        },
+        {
+          "english": "school",
+          "thai": "โรงเรียน",
+          "phonetic": ""
+        },
+        {
+          "english": "reveal",
+          "thai": "เปิดเผย",
+          "phonetic": ""
+        },
+        {
+          "english": "sign",
+          "thai": "เข้าสู่ระบบ",
+          "phonetic": ""
+        },
+        {
+          "english": "significant",
+          "thai": "สำคัญ",
+          "phonetic": ""
+        },
+        {
+          "english": "should",
+          "thai": "ควร",
+          "phonetic": ""
+        }
+      ],
       "Everyday: Lesson 41": [
         {
           "english": "simply",
@@ -5103,6 +9119,508 @@
           "phonetic": ""
         }
       ],
+      "Everyday Review: Lessons 41-45": [
+        {
+          "english": "situation",
+          "thai": "สถานการณ์",
+          "phonetic": ""
+        },
+        {
+          "english": "still",
+          "thai": "นิ่ง",
+          "phonetic": ""
+        },
+        {
+          "english": "song",
+          "thai": "เพลง",
+          "phonetic": ""
+        },
+        {
+          "english": "story",
+          "thai": "เรื่องราว",
+          "phonetic": ""
+        },
+        {
+          "english": "specific",
+          "thai": "เฉพาะเจาะจง",
+          "phonetic": ""
+        },
+        {
+          "english": "sing",
+          "thai": "ที่",
+          "phonetic": ""
+        },
+        {
+          "english": "threat",
+          "thai": "ภัยคุกคาม",
+          "phonetic": ""
+        },
+        {
+          "english": "term",
+          "thai": "ภาคเรียน",
+          "phonetic": ""
+        },
+        {
+          "english": "sometimes",
+          "thai": "บางครั้ง",
+          "phonetic": ""
+        },
+        {
+          "english": "third",
+          "thai": "ที่สาม",
+          "phonetic": ""
+        },
+        {
+          "english": "them",
+          "thai": "พวกเขา",
+          "phonetic": ""
+        },
+        {
+          "english": "suddenly",
+          "thai": "กะทันหัน",
+          "phonetic": ""
+        },
+        {
+          "english": "thing",
+          "thai": "สิ่ง",
+          "phonetic": ""
+        },
+        {
+          "english": "these",
+          "thai": "เหล่านี้",
+          "phonetic": ""
+        },
+        {
+          "english": "they",
+          "thai": "พวกเขา",
+          "phonetic": ""
+        },
+        {
+          "english": "their",
+          "thai": "ของพวกเขา",
+          "phonetic": ""
+        },
+        {
+          "english": "store",
+          "thai": "เก็บ",
+          "phonetic": ""
+        },
+        {
+          "english": "through",
+          "thai": "ผ่าน",
+          "phonetic": ""
+        },
+        {
+          "english": "somebody",
+          "thai": "ใครสักคน",
+          "phonetic": ""
+        },
+        {
+          "english": "three",
+          "thai": "สาม",
+          "phonetic": ""
+        },
+        {
+          "english": "state",
+          "thai": "สถานะ",
+          "phonetic": ""
+        },
+        {
+          "english": "something",
+          "thai": "บางสิ่งบางอย่าง",
+          "phonetic": ""
+        },
+        {
+          "english": "special",
+          "thai": "พิเศษ",
+          "phonetic": ""
+        },
+        {
+          "english": "since",
+          "thai": "เนื่องจาก",
+          "phonetic": ""
+        },
+        {
+          "english": "staff",
+          "thai": "พนักงาน",
+          "phonetic": ""
+        },
+        {
+          "english": "skill",
+          "thai": "ทักษะ",
+          "phonetic": ""
+        },
+        {
+          "english": "small",
+          "thai": "เล็ก",
+          "phonetic": ""
+        },
+        {
+          "english": "single",
+          "thai": "เดี่ยว",
+          "phonetic": ""
+        },
+        {
+          "english": "strong",
+          "thai": "แข็งแกร่ง",
+          "phonetic": ""
+        },
+        {
+          "english": "soldier",
+          "thai": "ทหาร",
+          "phonetic": ""
+        },
+        {
+          "english": "standard",
+          "thai": "มาตรฐาน",
+          "phonetic": ""
+        },
+        {
+          "english": "surface",
+          "thai": "พื้นผิว",
+          "phonetic": ""
+        },
+        {
+          "english": "six",
+          "thai": "หก",
+          "phonetic": ""
+        },
+        {
+          "english": "stand",
+          "thai": "ยืน",
+          "phonetic": ""
+        },
+        {
+          "english": "someone",
+          "thai": "บางคน",
+          "phonetic": ""
+        },
+        {
+          "english": "source",
+          "thai": "แหล่งที่มา",
+          "phonetic": ""
+        },
+        {
+          "english": "support",
+          "thai": "สนับสนุน",
+          "phonetic": ""
+        },
+        {
+          "english": "teacher",
+          "thai": "ครู",
+          "phonetic": ""
+        },
+        {
+          "english": "simply",
+          "thai": "อย่างง่าย",
+          "phonetic": ""
+        },
+        {
+          "english": "test",
+          "thai": "ทดสอบ",
+          "phonetic": ""
+        },
+        {
+          "english": "suggest",
+          "thai": "แนะนำ",
+          "phonetic": ""
+        },
+        {
+          "english": "sport",
+          "thai": "กีฬา",
+          "phonetic": ""
+        },
+        {
+          "english": "ten",
+          "thai": "สิบ",
+          "phonetic": ""
+        },
+        {
+          "english": "successful",
+          "thai": "ประสบความสำเร็จ",
+          "phonetic": ""
+        },
+        {
+          "english": "throw",
+          "thai": "โยน",
+          "phonetic": ""
+        },
+        {
+          "english": "so",
+          "thai": "ดังนั้น",
+          "phonetic": ""
+        },
+        {
+          "english": "son",
+          "thai": "ลูกชาย",
+          "phonetic": ""
+        },
+        {
+          "english": "south",
+          "thai": "ใต้",
+          "phonetic": ""
+        },
+        {
+          "english": "student",
+          "thai": "นักเรียน",
+          "phonetic": ""
+        },
+        {
+          "english": "social",
+          "thai": "ทางสังคม",
+          "phonetic": ""
+        },
+        {
+          "english": "summer",
+          "thai": "ฤดูร้อน",
+          "phonetic": ""
+        },
+        {
+          "english": "speech",
+          "thai": "คำพูด",
+          "phonetic": ""
+        },
+        {
+          "english": "thought",
+          "thai": "คิด",
+          "phonetic": ""
+        },
+        {
+          "english": "thousand",
+          "thai": "พัน",
+          "phonetic": ""
+        },
+        {
+          "english": "star",
+          "thai": "ดาว",
+          "phonetic": ""
+        },
+        {
+          "english": "sort",
+          "thai": "เรียงลำดับ",
+          "phonetic": ""
+        },
+        {
+          "english": "that",
+          "thai": "ที่",
+          "phonetic": ""
+        },
+        {
+          "english": "suffer",
+          "thai": "ทุกข์ทรมาน",
+          "phonetic": ""
+        },
+        {
+          "english": "teach",
+          "thai": "สอน",
+          "phonetic": ""
+        },
+        {
+          "english": "spring",
+          "thai": "ฤดูใบไม้ผลิ",
+          "phonetic": ""
+        },
+        {
+          "english": "space",
+          "thai": "ช่องว่าง",
+          "phonetic": ""
+        },
+        {
+          "english": "sister",
+          "thai": "น้องสาว",
+          "phonetic": ""
+        },
+        {
+          "english": "such",
+          "thai": "เช่น",
+          "phonetic": ""
+        },
+        {
+          "english": "subject",
+          "thai": "เรื่อง",
+          "phonetic": ""
+        },
+        {
+          "english": "television",
+          "thai": "โทรทัศน์",
+          "phonetic": ""
+        },
+        {
+          "english": "style",
+          "thai": "สไตล์",
+          "phonetic": ""
+        },
+        {
+          "english": "soon",
+          "thai": "เร็วๆ นี้",
+          "phonetic": ""
+        },
+        {
+          "english": "then",
+          "thai": "แล้ว",
+          "phonetic": ""
+        },
+        {
+          "english": "throughout",
+          "thai": "ตลอดทั้ง",
+          "phonetic": ""
+        },
+        {
+          "english": "those",
+          "thai": "เหล่านั้น",
+          "phonetic": ""
+        },
+        {
+          "english": "table",
+          "thai": "โต๊ะ",
+          "phonetic": ""
+        },
+        {
+          "english": "statement",
+          "thai": "คำแถลง",
+          "phonetic": ""
+        },
+        {
+          "english": "this",
+          "thai": "นี้",
+          "phonetic": ""
+        },
+        {
+          "english": "thank",
+          "thai": "ขอบคุณ",
+          "phonetic": ""
+        },
+        {
+          "english": "smile",
+          "thai": "รอยยิ้ม",
+          "phonetic": ""
+        },
+        {
+          "english": "stone",
+          "thai": "หิน",
+          "phonetic": ""
+        },
+        {
+          "english": "system",
+          "thai": "ระบบ",
+          "phonetic": ""
+        },
+        {
+          "english": "sound",
+          "thai": "เสียง",
+          "phonetic": ""
+        },
+        {
+          "english": "site",
+          "thai": "เว็บไซต์",
+          "phonetic": ""
+        },
+        {
+          "english": "southern",
+          "thai": "ภาคใต้",
+          "phonetic": ""
+        },
+        {
+          "english": "society",
+          "thai": "สังคม",
+          "phonetic": ""
+        },
+        {
+          "english": "stage",
+          "thai": "เวที",
+          "phonetic": ""
+        },
+        {
+          "english": "tend",
+          "thai": "มีแนวโน้ม",
+          "phonetic": ""
+        },
+        {
+          "english": "structure",
+          "thai": "โครงสร้าง",
+          "phonetic": ""
+        },
+        {
+          "english": "stay",
+          "thai": "อยู่",
+          "phonetic": ""
+        },
+        {
+          "english": "technology",
+          "thai": "เทคโนโลยี",
+          "phonetic": ""
+        },
+        {
+          "english": "themselves",
+          "thai": "ตัวพวกเขาเอง",
+          "phonetic": ""
+        },
+        {
+          "english": "stuff",
+          "thai": "สิ่งของ",
+          "phonetic": ""
+        },
+        {
+          "english": "think",
+          "thai": "คิด",
+          "phonetic": ""
+        },
+        {
+          "english": "skin",
+          "thai": "ผิว",
+          "phonetic": ""
+        },
+        {
+          "english": "spend",
+          "thai": "ใช้จ่าย",
+          "phonetic": ""
+        },
+        {
+          "english": "than",
+          "thai": "กว่า",
+          "phonetic": ""
+        },
+        {
+          "english": "sit",
+          "thai": "นั่ง",
+          "phonetic": ""
+        },
+        {
+          "english": "tell",
+          "thai": "บอก",
+          "phonetic": ""
+        },
+        {
+          "english": "sure",
+          "thai": "แน่นอน",
+          "phonetic": ""
+        },
+        {
+          "english": "step",
+          "thai": "ก้าว",
+          "phonetic": ""
+        },
+        {
+          "english": "though",
+          "thai": "แม้ว่า",
+          "phonetic": ""
+        },
+        {
+          "english": "theory",
+          "thai": "ทฤษฎี",
+          "phonetic": ""
+        },
+        {
+          "english": "start",
+          "thai": "เริ่ม",
+          "phonetic": ""
+        },
+        {
+          "english": "some",
+          "thai": "บาง",
+          "phonetic": ""
+        }
+      ],
       "Everyday: Lesson 46": [
         {
           "english": "thus",
@@ -5610,6 +10128,508 @@
         {
           "english": "yeah",
           "thai": "ใช่",
+          "phonetic": ""
+        }
+      ],
+      "Everyday Review: Lessons 46-50": [
+        {
+          "english": "tough",
+          "thai": "ยาก",
+          "phonetic": ""
+        },
+        {
+          "english": "today",
+          "thai": "วันนี้",
+          "phonetic": ""
+        },
+        {
+          "english": "wide",
+          "thai": "กว้าง",
+          "phonetic": ""
+        },
+        {
+          "english": "two",
+          "thai": "สอง",
+          "phonetic": ""
+        },
+        {
+          "english": "walk",
+          "thai": "เดิน",
+          "phonetic": ""
+        },
+        {
+          "english": "to",
+          "thai": "ถึง",
+          "phonetic": ""
+        },
+        {
+          "english": "view",
+          "thai": "ดู",
+          "phonetic": ""
+        },
+        {
+          "english": "tire",
+          "thai": "ยาง",
+          "phonetic": ""
+        },
+        {
+          "english": "upon",
+          "thai": "เมื่อ",
+          "phonetic": ""
+        },
+        {
+          "english": "trip",
+          "thai": "การเดินทาง",
+          "phonetic": ""
+        },
+        {
+          "english": "under",
+          "thai": "ภายใต้",
+          "phonetic": ""
+        },
+        {
+          "english": "us",
+          "thai": "เรา",
+          "phonetic": ""
+        },
+        {
+          "english": "very",
+          "thai": "มาก",
+          "phonetic": ""
+        },
+        {
+          "english": "wait",
+          "thai": "รอ",
+          "phonetic": ""
+        },
+        {
+          "english": "vote",
+          "thai": "โหวต",
+          "phonetic": ""
+        },
+        {
+          "english": "voice",
+          "thai": "เสียง",
+          "phonetic": ""
+        },
+        {
+          "english": "total",
+          "thai": "ทั้งหมด",
+          "phonetic": ""
+        },
+        {
+          "english": "various",
+          "thai": "หลากหลาย",
+          "phonetic": ""
+        },
+        {
+          "english": "weapon",
+          "thai": "อาวุธ",
+          "phonetic": ""
+        },
+        {
+          "english": "war",
+          "thai": "สงคราม",
+          "phonetic": ""
+        },
+        {
+          "english": "word",
+          "thai": "คำ",
+          "phonetic": ""
+        },
+        {
+          "english": "wonderful",
+          "thai": "มหัศจรรย์",
+          "phonetic": ""
+        },
+        {
+          "english": "too",
+          "thai": "ด้วย",
+          "phonetic": ""
+        },
+        {
+          "english": "with",
+          "thai": "กับ",
+          "phonetic": ""
+        },
+        {
+          "english": "tonight",
+          "thai": "คืนนี้",
+          "phonetic": ""
+        },
+        {
+          "english": "wonder",
+          "thai": "สิ่งมหัศจรรย์",
+          "phonetic": ""
+        },
+        {
+          "english": "tv",
+          "thai": "ทีวี",
+          "phonetic": ""
+        },
+        {
+          "english": "whether",
+          "thai": "ไม่ว่า",
+          "phonetic": ""
+        },
+        {
+          "english": "tiny",
+          "thai": "ขนาดเล็ก",
+          "phonetic": ""
+        },
+        {
+          "english": "would",
+          "thai": "จะ",
+          "phonetic": ""
+        },
+        {
+          "english": "white",
+          "thai": "สีขาว",
+          "phonetic": ""
+        },
+        {
+          "english": "world",
+          "thai": "โลก",
+          "phonetic": ""
+        },
+        {
+          "english": "woman",
+          "thai": "ผู้หญิง",
+          "phonetic": ""
+        },
+        {
+          "english": "welcome",
+          "thai": "ยินดีต้อนรับ",
+          "phonetic": ""
+        },
+        {
+          "english": "up",
+          "thai": "ขึ้น",
+          "phonetic": ""
+        },
+        {
+          "english": "treat",
+          "thai": "รักษา",
+          "phonetic": ""
+        },
+        {
+          "english": "treatment",
+          "thai": "การรักษา",
+          "phonetic": ""
+        },
+        {
+          "english": "well",
+          "thai": "ดี",
+          "phonetic": ""
+        },
+        {
+          "english": "whom",
+          "thai": "ใคร",
+          "phonetic": ""
+        },
+        {
+          "english": "time",
+          "thai": "เวลา",
+          "phonetic": ""
+        },
+        {
+          "english": "writer",
+          "thai": "นักเขียน",
+          "phonetic": ""
+        },
+        {
+          "english": "visit",
+          "thai": "เยี่ยม",
+          "phonetic": ""
+        },
+        {
+          "english": "together",
+          "thai": "ด้วยกัน",
+          "phonetic": ""
+        },
+        {
+          "english": "while",
+          "thai": "ในขณะที่",
+          "phonetic": ""
+        },
+        {
+          "english": "toward",
+          "thai": "ไปทาง",
+          "phonetic": ""
+        },
+        {
+          "english": "yard",
+          "thai": "ลาน",
+          "phonetic": ""
+        },
+        {
+          "english": "weigh",
+          "thai": "ชั่งน้ำหนัก",
+          "phonetic": ""
+        },
+        {
+          "english": "why",
+          "thai": "ทำไม",
+          "phonetic": ""
+        },
+        {
+          "english": "want",
+          "thai": "ต้องการ",
+          "phonetic": ""
+        },
+        {
+          "english": "within",
+          "thai": "ภายใน",
+          "phonetic": ""
+        },
+        {
+          "english": "wing",
+          "thai": "ปีก",
+          "phonetic": ""
+        },
+        {
+          "english": "window",
+          "thai": "หน้าต่าง",
+          "phonetic": ""
+        },
+        {
+          "english": "type",
+          "thai": "พิมพ์",
+          "phonetic": ""
+        },
+        {
+          "english": "traditional",
+          "thai": "แบบดั้งเดิม",
+          "phonetic": ""
+        },
+        {
+          "english": "true",
+          "thai": "จริง",
+          "phonetic": ""
+        },
+        {
+          "english": "worker",
+          "thai": "คนงาน",
+          "phonetic": ""
+        },
+        {
+          "english": "without",
+          "thai": "ปราศจาก",
+          "phonetic": ""
+        },
+        {
+          "english": "town",
+          "thai": "เมือง",
+          "phonetic": ""
+        },
+        {
+          "english": "will",
+          "thai": "จะ",
+          "phonetic": ""
+        },
+        {
+          "english": "tree",
+          "thai": "ต้นไม้",
+          "phonetic": ""
+        },
+        {
+          "english": "trouble",
+          "thai": "ปัญหา",
+          "phonetic": ""
+        },
+        {
+          "english": "victim",
+          "thai": "เหยื่อ",
+          "phonetic": ""
+        },
+        {
+          "english": "thus",
+          "thai": "ดังนั้น",
+          "phonetic": ""
+        },
+        {
+          "english": "whatever",
+          "thai": "อะไรก็ตาม",
+          "phonetic": ""
+        },
+        {
+          "english": "worth",
+          "thai": "คุณค่า",
+          "phonetic": ""
+        },
+        {
+          "english": "way",
+          "thai": "ทาง",
+          "phonetic": ""
+        },
+        {
+          "english": "wall",
+          "thai": "กำแพง",
+          "phonetic": ""
+        },
+        {
+          "english": "travel",
+          "thai": "การท่องเที่ยว",
+          "phonetic": ""
+        },
+        {
+          "english": "unit",
+          "thai": "หน่วย",
+          "phonetic": ""
+        },
+        {
+          "english": "we",
+          "thai": "เรา",
+          "phonetic": ""
+        },
+        {
+          "english": "violence",
+          "thai": "ความรุนแรง",
+          "phonetic": ""
+        },
+        {
+          "english": "worry",
+          "thai": "กังวล",
+          "phonetic": ""
+        },
+        {
+          "english": "wear",
+          "thai": "สวมใส่",
+          "phonetic": ""
+        },
+        {
+          "english": "truth",
+          "thai": "ความจริง",
+          "phonetic": ""
+        },
+        {
+          "english": "week",
+          "thai": "สัปดาห์",
+          "phonetic": ""
+        },
+        {
+          "english": "training",
+          "thai": "การฝึกอบรม",
+          "phonetic": ""
+        },
+        {
+          "english": "wrong",
+          "thai": "ผิด",
+          "phonetic": ""
+        },
+        {
+          "english": "value",
+          "thai": "ค่า",
+          "phonetic": ""
+        },
+        {
+          "english": "whole",
+          "thai": "ทั้งหมด",
+          "phonetic": ""
+        },
+        {
+          "english": "use",
+          "thai": "ใช้",
+          "phonetic": ""
+        },
+        {
+          "english": "wind",
+          "thai": "ลม",
+          "phonetic": ""
+        },
+        {
+          "english": "trial",
+          "thai": "การทดลอง",
+          "phonetic": ""
+        },
+        {
+          "english": "trade",
+          "thai": "ซื้อขาย",
+          "phonetic": ""
+        },
+        {
+          "english": "when",
+          "thai": "เมื่อไร",
+          "phonetic": ""
+        },
+        {
+          "english": "wine",
+          "thai": "ไวน์",
+          "phonetic": ""
+        },
+        {
+          "english": "top",
+          "thai": "สูงสุด",
+          "phonetic": ""
+        },
+        {
+          "english": "west",
+          "thai": "ตะวันตก",
+          "phonetic": ""
+        },
+        {
+          "english": "which",
+          "thai": "ที่",
+          "phonetic": ""
+        },
+        {
+          "english": "western",
+          "thai": "ทางทิศตะวันตก",
+          "phonetic": ""
+        },
+        {
+          "english": "whose",
+          "thai": "ของใคร",
+          "phonetic": ""
+        },
+        {
+          "english": "until",
+          "thai": "จนกระทั่ง",
+          "phonetic": ""
+        },
+        {
+          "english": "yeah",
+          "thai": "ใช่",
+          "phonetic": ""
+        },
+        {
+          "english": "usually",
+          "thai": "โดยปกติ",
+          "phonetic": ""
+        },
+        {
+          "english": "winner",
+          "thai": "ผู้ชนะ",
+          "phonetic": ""
+        },
+        {
+          "english": "winter",
+          "thai": "ฤดูหนาว",
+          "phonetic": ""
+        },
+        {
+          "english": "wish",
+          "thai": "ปรารถนา",
+          "phonetic": ""
+        },
+        {
+          "english": "wound",
+          "thai": "แผล",
+          "phonetic": ""
+        },
+        {
+          "english": "win",
+          "thai": "ชนะ",
+          "phonetic": ""
+        },
+        {
+          "english": "wife",
+          "thai": "ภรรยา",
+          "phonetic": ""
+        },
+        {
+          "english": "who",
+          "thai": "WHO",
           "phonetic": ""
         }
       ],

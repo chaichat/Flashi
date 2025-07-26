@@ -52,7 +52,7 @@ function addEverydayLessons() {
         // 5. Remove all existing review stacks for the "Everyday" category
         const everydayLessons = lessonsData.english[CATEGORY_NAME];
         for (const key in everydayLessons) {
-            if (key.includes("Review")) {
+            if (key.toLowerCase().includes("review")) {
                 delete everydayLessons[key];
             }
         }
@@ -76,7 +76,7 @@ function addEverydayLessons() {
             if ((i + 1) % REVIEW_STACK_SIZE === 0) {
                 const startLessonNum = parseInt(lessonKeys[i - REVIEW_STACK_SIZE + 1].match(/(\d+)/)[0]);
                 const endLessonNum = parseInt(lessonKeys[i].match(/(\d+)/)[0]);
-                const reviewName = `${CATEGORY_NAME} Review: Lessons ${startLessonNum}-${endLessonNum}`;
+                const reviewName = `${CATEGORY_NAME} Review (${startLessonNum}-${endLessonNum})`;
 
                 let reviewWords = [];
                 for (let j = i - REVIEW_STACK_SIZE + 1; j <= i; j++) {

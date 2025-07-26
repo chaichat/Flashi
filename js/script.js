@@ -422,9 +422,7 @@ document.addEventListener('DOMContentLoaded', () => {
      */
     function startLesson(lessonName) {
         currentLesson = lessonName;
-        currentDeck = lessonName.includes("Review") 
-            ? generateReviewDeck(lessonName) 
-            : currentLessons[lessonName];
+        currentDeck = currentLessons[lessonName] || [];
         cardIndex = 0;
         
         sectionTitle.textContent = currentLesson;
@@ -435,72 +433,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     /**
-     * Generates a shuffled deck for review tests.
-     */
-    function generateReviewDeck(reviewName) {
-        let combinedDeck = [];
-
-        // Special case for old "Business" review format which has unique lesson names
-        if (reviewName === "Business Review (1-5)") {
-            const lessonNames = ["Business 1: The Office", "Business 2: Money & Finance", "Business 3: Marketing & Sales", "Business 4: Jobs & Roles", "Business 5: Company & Growth"];
-            combinedDeck = lessonNames.flatMap(name => allData[currentLanguage]["Business"][name] || []);
-        } else {
-            // Dynamic generation for reviews like "Category Review (X-Y)"
-            const match = reviewName.match(/(.+) Review \((\d+)-(\d+)\)/);
-
-            if (match) {
-                const category = match[1].trim();
-                const start = parseInt(match[2], 10);
-                const end = parseInt(match[3], 10);
-
-                // Find the correct category key in the data, which might differ from the review name's casing
-                const categoryKey = Object.keys(allData[currentLanguage]).find(k => k.toLowerCase() === category.toLowerCase());
-
-                if (categoryKey) {
-                    for (let i = start; i <= end; i++) {
-                        const lessonName = `${categoryKey}: Lesson ${i}`;
-                        const lessonCards = allData[currentLanguage][categoryKey][lessonName];
-                        if (lessonCards) {
-                            combinedDeck.push(...lessonCards);
-                        }
-                    }
-                }
-            }
-        }
-
-        // Fisher-Yates shuffle
-        for (let i = combinedDeck.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [combinedDeck[i], combinedDeck[j]] = [combinedDeck[j], combinedDeck[i]];
-        }
-
-        return combinedDeck.slice(0, 20);
-    }
-
-    /**
-     * Dynamically adds review buttons for categories with enough lessons.
-     */
-    function addReviewButtons(categoryName, totalLessons) {
-        for (let i = 1; i <= totalLessons; i += 5) {
-            const endLesson = i + 4;
-            // Only create a review button if a full block of 5 lessons exists
-            if (endLesson > totalLessons) {
-                continue;
-            }
-
-            const reviewName = `${categoryName} Review (${i}-${endLesson})`;
-            const reviewButton = document.createElement('button');
-            reviewButton.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
-            reviewButton.innerHTML = `
-                <div class="text-3xl mb-2">⭐</div>
-                <div class="font-semibold text-gray-700">${reviewName}</div>
-                <div class="text-sm text-gray-500">Test - 20 words</div>
-            `;
-            reviewButton.addEventListener('click', () => startLesson(reviewName));
-            lessonGrid.appendChild(reviewButton);
-        }
-    }
-    /**
      * Initializes the lesson selection grid.
      */
     function initLessonGrid() {
@@ -508,35 +440,28 @@ document.addEventListener('DOMContentLoaded', () => {
         const lessonNames = Object.keys(currentLessons);
 
         lessonNames.forEach(lessonName => {
+            const isReview = lessonName.toLowerCase().includes('review');
             const button = document.createElement('button');
-            button.className = "p-4 bg-white border-2 border-gray-200 rounded-xl text-center shadow-sm hover:shadow-md hover:border-blue-400 transition-all duration-200";
-            button.innerHTML = `
-                <div class="text-3xl mb-2">📚</div>
-                <div class="font-semibold text-gray-700">${lessonName}</div>
-                <div class="text-sm text-gray-500">${currentLessons[lessonName].length} words</div>
-            `;
+            
+            if (isReview) {
+                button.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
+                button.innerHTML = `
+                    <div class="text-3xl mb-2">⭐</div>
+                    <div class="font-semibold text-gray-700">${lessonName}</div>
+                    <div class="text-sm text-gray-500">Test - ${currentLessons[lessonName].length} words</div>
+                `;
+            } else {
+                button.className = "p-4 bg-white border-2 border-gray-200 rounded-xl text-center shadow-sm hover:shadow-md hover:border-blue-400 transition-all duration-200";
+                button.innerHTML = `
+                    <div class="text-3xl mb-2">📚</div>
+                    <div class="font-semibold text-gray-700">${lessonName}</div>
+                    <div class="text-sm text-gray-500">${currentLessons[lessonName].length} words</div>
+                `;
+            }
+            
             button.addEventListener('click', () => startLesson(lessonName));
             lessonGrid.appendChild(button);
         });
-
-        const lessonKeys = lessonNames.filter(name => !name.includes("Review"));
-        const totalLessons = lessonKeys.length;
-
-        // Add review buttons
-        if (currentCategory === "Business" && totalLessons >= 5) {
-            const reviewButton = document.createElement('button');
-            reviewButton.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
-            reviewButton.innerHTML = `
-                <div class="text-3xl mb-2">⭐</div>
-                <div class="font-semibold text-gray-700">Business Review (1-5)</div>
-                <div class="text-sm text-gray-500">Test - 20 words</div>
-            `;
-            reviewButton.addEventListener('click', () => startLesson("Business Review (1-5)"));
-            lessonGrid.appendChild(reviewButton);
-        } else if (["HSK 1", "IELTS Vocabulary", "Everyday"].includes(currentCategory)) {
-            // Dynamically add review buttons for these categories
-            addReviewButtons(currentCategory, totalLessons);
-        }
     }
 
     // --- EVENT LISTENERS ---

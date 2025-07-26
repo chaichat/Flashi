@@ -49,8 +49,15 @@ function addEverydayLessons() {
             console.log(`Successfully added ${wordsForNewLessons.length} new words across ${lessonsCreatedCount} new lessons in the \"${CATEGORY_NAME}\" category.`);
         }
 
-        // 5. Create and position review stacks
+        // 5. Remove all existing review stacks for the "Everyday" category
         const everydayLessons = lessonsData.english[CATEGORY_NAME];
+        for (const key in everydayLessons) {
+            if (key.includes("Review")) {
+                delete everydayLessons[key];
+            }
+        }
+
+        // 6. Create and position review stacks
         const lessonKeys = Object.keys(everydayLessons)
             .filter(k => !k.includes("Review"))
             .sort((a, b) => {
@@ -71,36 +78,25 @@ function addEverydayLessons() {
                 const endLessonNum = parseInt(lessonKeys[i].match(/(\d+)/)[0]);
                 const reviewName = `${CATEGORY_NAME} Review: Lessons ${startLessonNum}-${endLessonNum}`;
 
-                if (!everydayLessons[reviewName]) {
-                    let reviewWords = [];
-                    for (let j = i - REVIEW_STACK_SIZE + 1; j <= i; j++) {
-                        reviewWords = reviewWords.concat(everydayLessons[lessonKeys[j]]);
-                    }
-                    reviewWords.sort(() => Math.random() - 0.5); // Shuffle words
-                    newEverydayLessons[reviewName] = reviewWords;
-                    reviewStacksCreated++;
-                } else {
-                    newEverydayLessons[reviewName] = everydayLessons[reviewName];
+                let reviewWords = [];
+                for (let j = i - REVIEW_STACK_SIZE + 1; j <= i; j++) {
+                    reviewWords = reviewWords.concat(everydayLessons[lessonKeys[j]]);
                 }
-            }
-        }
-        
-        // Add any remaining review stacks that might not fit the 5-lesson block structure
-        for (const key in everydayLessons) {
-            if (key.includes("Review") && !newEverydayLessons[key]) {
-                newEverydayLessons[key] = everydayLessons[key];
+                reviewWords.sort(() => Math.random() - 0.5); // Shuffle words
+                newEverydayLessons[reviewName] = reviewWords;
+                reviewStacksCreated++;
             }
         }
 
         lessonsData.english[CATEGORY_NAME] = newEverydayLessons;
 
-        // 6. Write the updated data back to the file
+        // 7. Write the updated data back to the file
         fs.writeFileSync(lessonsFilePath, JSON.stringify(lessonsData, null, 2), 'utf8');
         
         if (reviewStacksCreated > 0) {
             console.log(`Successfully created and positioned ${reviewStacksCreated} new review stacks.`);
         } else {
-            console.log("No new review stacks were created. They may already exist and are now correctly positioned.");
+            console.log("No new review stacks were created.");
         }
 
         console.log("\nNext step: Run 'node scripts/populateTranslations.js' to add the Thai translations.");

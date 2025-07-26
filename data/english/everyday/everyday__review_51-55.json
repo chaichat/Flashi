@@ -1,0 +1,502 @@
+[
+  {
+    "english": "Suit",
+    "thai": "สูท",
+    "phonetic": ""
+  },
+  {
+    "english": "Blouse",
+    "thai": "เสื้อผู้หญิง",
+    "phonetic": ""
+  },
+  {
+    "english": "Bow tie",
+    "thai": "โบว์ไท",
+    "phonetic": ""
+  },
+  {
+    "english": "Vest",
+    "thai": "เสื้อกั๊ก",
+    "phonetic": ""
+  },
+  {
+    "english": "Cardigan",
+    "thai": "เสื้อคาร์ดิแกน",
+    "phonetic": ""
+  },
+  {
+    "english": "Hoodie",
+    "thai": "เสื้อฮู้ด",
+    "phonetic": ""
+  },
+  {
+    "english": "Sweatshirt",
+    "thai": "เสื้อสเวตเตอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Pajamas",
+    "thai": "ชุดนอน",
+    "phonetic": ""
+  },
+  {
+    "english": "Robe",
+    "thai": "เสื้อคลุม",
+    "phonetic": ""
+  },
+  {
+    "english": "Slippers",
+    "thai": "รองเท้าแตะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sandals",
+    "thai": "รองเท้าแตะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sneakers",
+    "thai": "รองเท้าผ้าใบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Heels",
+    "thai": "รองเท้าส้นสูง",
+    "phonetic": ""
+  },
+  {
+    "english": "Flats",
+    "thai": "แฟลต",
+    "phonetic": ""
+  },
+  {
+    "english": "Wallet",
+    "thai": "กระเป๋าสตางค์",
+    "phonetic": ""
+  },
+  {
+    "english": "Purse",
+    "thai": "กระเป๋าเงิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Backpack",
+    "thai": "กระเป๋าเป้สะพายหลัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Necklace",
+    "thai": "สร้อยคอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Bracelet",
+    "thai": "สร้อยข้อมือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Earrings",
+    "thai": "ต่างหู",
+    "phonetic": ""
+  },
+  {
+    "english": "Ring",
+    "thai": "แหวน",
+    "phonetic": ""
+  },
+  {
+    "english": "Brooch",
+    "thai": "เข็มกลัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Pin",
+    "thai": "เข็มหมุด",
+    "phonetic": ""
+  },
+  {
+    "english": "Cufflinks",
+    "thai": "กระดุมข้อมือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Handkerchief",
+    "thai": "ผ้าเช็ดหน้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Cane",
+    "thai": "อ้อย",
+    "phonetic": ""
+  },
+  {
+    "english": "Helmet",
+    "thai": "หมวกนิรภัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Goggles",
+    "thai": "แว่นตาว่ายน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Mask",
+    "thai": "หน้ากาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Apron",
+    "thai": "ผ้ากันเปื้อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Uniform",
+    "thai": "เครื่องแบบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Costume",
+    "thai": "เครื่องแต่งกาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Swimsuit",
+    "thai": "ชุดว่ายน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Bikini",
+    "thai": "บิกินี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Trunks",
+    "thai": "ลำต้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Wetsuit",
+    "thai": "ชุดดำน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Drysuit",
+    "thai": "ชุดดำน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Life jacket",
+    "thai": "เสื้อชูชีพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Tuxedo",
+    "thai": "ทักซิโด้",
+    "phonetic": ""
+  },
+  {
+    "english": "Gown",
+    "thai": "ชุดราตรี",
+    "phonetic": ""
+  },
+  {
+    "english": "Fabric",
+    "thai": "ผ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Material",
+    "thai": "วัสดุ",
+    "phonetic": ""
+  },
+  {
+    "english": "Cotton",
+    "thai": "ฝ้าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Linen",
+    "thai": "ผ้าลินิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Silk",
+    "thai": "ผ้าไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Wool",
+    "thai": "ขนสัตว์",
+    "phonetic": ""
+  },
+  {
+    "english": "Leather",
+    "thai": "หนัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Denim",
+    "thai": "เดนิม",
+    "phonetic": ""
+  },
+  {
+    "english": "Velvet",
+    "thai": "กำมะหยี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Suede",
+    "thai": "หนังกลับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Polyester",
+    "thai": "โพลีเอสเตอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Nylon",
+    "thai": "ไนลอน",
+    "phonetic": ""
+  },
+  {
+    "english": "Rayon",
+    "thai": "เขต",
+    "phonetic": ""
+  },
+  {
+    "english": "Spandex",
+    "thai": "สแปนเด็กซ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Stripes",
+    "thai": "ลายทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Polka dots",
+    "thai": "ลายจุด",
+    "phonetic": ""
+  },
+  {
+    "english": "Plaid",
+    "thai": "ลายสก็อต",
+    "phonetic": ""
+  },
+  {
+    "english": "Floral",
+    "thai": "ดอกไม้",
+    "phonetic": ""
+  },
+  {
+    "english": "Solid",
+    "thai": "แข็ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Checkered",
+    "thai": "ตาหมากรุก",
+    "phonetic": ""
+  },
+  {
+    "english": "Fit",
+    "thai": "พอดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Loose",
+    "thai": "หลวม",
+    "phonetic": ""
+  },
+  {
+    "english": "Tight",
+    "thai": "แน่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Long",
+    "thai": "ยาว",
+    "phonetic": ""
+  },
+  {
+    "english": "Short",
+    "thai": "สั้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Sleeve",
+    "thai": "ปลอกหุ้ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Collar",
+    "thai": "ปลอกคอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Pocket",
+    "thai": "กระเป๋า",
+    "phonetic": ""
+  },
+  {
+    "english": "Button",
+    "thai": "ปุ่ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Zipper",
+    "thai": "ซิป",
+    "phonetic": ""
+  },
+  {
+    "english": "Snap",
+    "thai": "สแนป",
+    "phonetic": ""
+  },
+  {
+    "english": "Buckle",
+    "thai": "หัวเข็มขัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Lace",
+    "thai": "ลูกไม้",
+    "phonetic": ""
+  },
+  {
+    "english": "Hem",
+    "thai": "ทั้งคู่",
+    "phonetic": ""
+  },
+  {
+    "english": "Seam",
+    "thai": "ตะเข็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Stitch",
+    "thai": "เย็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Thread",
+    "thai": "ด้าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Needle",
+    "thai": "เข็ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Thimble",
+    "thai": "ปลอกนิ้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Scissors",
+    "thai": "กรรไกร",
+    "phonetic": ""
+  },
+  {
+    "english": "Red",
+    "thai": "สีแดง",
+    "phonetic": ""
+  },
+  {
+    "english": "Green",
+    "thai": "สีเขียว",
+    "phonetic": ""
+  },
+  {
+    "english": "Blue",
+    "thai": "สีฟ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Yellow",
+    "thai": "สีเหลือง",
+    "phonetic": ""
+  },
+  {
+    "english": "Orange",
+    "thai": "ส้ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Purple",
+    "thai": "สีม่วง",
+    "phonetic": ""
+  },
+  {
+    "english": "Pink",
+    "thai": "สีชมพู",
+    "phonetic": ""
+  },
+  {
+    "english": "Brown",
+    "thai": "สีน้ำตาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Black",
+    "thai": "สีดำ",
+    "phonetic": ""
+  },
+  {
+    "english": "White",
+    "thai": "สีขาว",
+    "phonetic": ""
+  },
+  {
+    "english": "Gray",
+    "thai": "สีเทา",
+    "phonetic": ""
+  },
+  {
+    "english": "Circle",
+    "thai": "วงกลม",
+    "phonetic": ""
+  },
+  {
+    "english": "Square",
+    "thai": "สี่เหลี่ยม",
+    "phonetic": ""
+  },
+  {
+    "english": "Triangle",
+    "thai": "สามเหลี่ยม",
+    "phonetic": ""
+  },
+  {
+    "english": "Rectangle",
+    "thai": "สี่เหลี่ยมผืนผ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Star",
+    "thai": "ดาว",
+    "phonetic": ""
+  },
+  {
+    "english": "Oval",
+    "thai": "วงรี",
+    "phonetic": ""
+  },
+  {
+    "english": "Diamond",
+    "thai": "เพชร",
+    "phonetic": ""
+  },
+  {
+    "english": "Line",
+    "thai": "เส้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Curve",
+    "thai": "เส้นโค้ง",
+    "phonetic": ""
+  }
+]

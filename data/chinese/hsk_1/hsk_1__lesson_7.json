@@ -1,0 +1,77 @@
+[
+  {
+    "chinese": "明天",
+    "thai": "พรุ่งนี้",
+    "pinyin": "míngtiān"
+  },
+  {
+    "chinese": "昨天",
+    "thai": "เมื่อวานนี้",
+    "pinyin": "zuótiān"
+  },
+  {
+    "chinese": "现在",
+    "thai": "ตอนนี้",
+    "pinyin": "xiànzài"
+  },
+  {
+    "chinese": "点",
+    "thai": "โมง (เวลา)",
+    "pinyin": "diǎn"
+  },
+  {
+    "chinese": "分",
+    "thai": "นาที",
+    "pinyin": "fēn"
+  },
+  {
+    "chinese": "年",
+    "thai": "ปี",
+    "pinyin": "nián"
+  },
+  {
+    "chinese": "月",
+    "thai": "เดือน",
+    "pinyin": "yuè"
+  },
+  {
+    "chinese": "日",
+    "thai": "วัน",
+    "pinyin": "rì"
+  },
+  {
+    "chinese": "星期",
+    "thai": "สัปดาห์",
+    "pinyin": "xīngqī"
+  },
+  {
+    "chinese": "上午",
+    "thai": "ตอนเช้า",
+    "pinyin": "shàngwǔ"
+  },
+  {
+    "chinese": "中午",
+    "thai": "ตอนเที่ยง",
+    "pinyin": "zhōngwǔ"
+  },
+  {
+    "chinese": "下午",
+    "thai": "ตอนบ่าย",
+    "pinyin": "xiàwǔ"
+  },
+  {
+    "chinese": "晚上",
+    "thai": "ตอนเย็น/กลางคืน",
+    "pinyin": "wǎnshang"
+  },
+  {
+    "chinese": "时候",
+    "thai": "เวลา",
+    "pinyin": "shíhou"
+  },
+  {
+    "chinese": "多长时间",
+    "thai": "นานเท่าไหร่",
+    "pinyin": "duō cháng shíjiān"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Sunny",
+    "thai": "แดดจัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Cloudy",
+    "thai": "เมฆมาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Rainy",
+    "thai": "ฝนตก",
+    "phonetic": ""
+  },
+  {
+    "english": "Windy",
+    "thai": "ลมแรง",
+    "phonetic": ""
+  },
+  {
+    "english": "Snowy",
+    "thai": "สโนวี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Warm",
+    "thai": "อบอุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Cool",
+    "thai": "เย็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Humid",
+    "thai": "ชื้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Dry",
+    "thai": "แห้ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Forecast",
+    "thai": "พยากรณ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Climate",
+    "thai": "ภูมิอากาศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Season",
+    "thai": "ฤดูกาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Spring",
+    "thai": "ฤดูใบไม้ผลิ",
+    "phonetic": ""
+  },
+  {
+    "english": "Summer",
+    "thai": "ฤดูร้อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Autumn",
+    "thai": "ฤดูใบไม้ร่วง",
+    "phonetic": ""
+  },
+  {
+    "english": "Winter",
+    "thai": "ฤดูหนาว",
+    "phonetic": ""
+  },
+  {
+    "english": "Storm",
+    "thai": "พายุ",
+    "phonetic": ""
+  },
+  {
+    "english": "Thunder",
+    "thai": "ฟ้าร้อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Lightning",
+    "thai": "ฟ้าผ่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Rainbow",
+    "thai": "รุ้ง",
+    "phonetic": ""
+  }
+]

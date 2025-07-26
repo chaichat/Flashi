@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Browser",
+    "thai": "เบราว์เซอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Search engine",
+    "thai": "เครื่องมือค้นหา",
+    "phonetic": ""
+  },
+  {
+    "english": "Link",
+    "thai": "ลิงค์",
+    "phonetic": ""
+  },
+  {
+    "english": "Uniform Resource Locator",
+    "thai": "ตัวระบุตำแหน่งทรัพยากรสากล",
+    "phonetic": ""
+  },
+  {
+    "english": "Download",
+    "thai": "ดาวน์โหลด",
+    "phonetic": ""
+  },
+  {
+    "english": "Upload",
+    "thai": "อัพโหลด",
+    "phonetic": ""
+  },
+  {
+    "english": "File",
+    "thai": "ไฟล์",
+    "phonetic": ""
+  },
+  {
+    "english": "Folder",
+    "thai": "โฟลเดอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Cloud",
+    "thai": "คลาวด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Server",
+    "thai": "เซิร์ฟเวอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Database",
+    "thai": "ฐานข้อมูล",
+    "phonetic": ""
+  },
+  {
+    "english": "Algorithm",
+    "thai": "อัลกอริทึม",
+    "phonetic": ""
+  },
+  {
+    "english": "Developer",
+    "thai": "นักพัฒนา",
+    "phonetic": ""
+  },
+  {
+    "english": "Engineer",
+    "thai": "วิศวกร",
+    "phonetic": ""
+  },
+  {
+    "english": "Designer",
+    "thai": "นักออกแบบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Interface",
+    "thai": "อินเทอร์เฟซ",
+    "phonetic": ""
+  },
+  {
+    "english": "Experience",
+    "thai": "ประสบการณ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Artificial Intelligence",
+    "thai": "ปัญญาประดิษฐ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Machine Learning",
+    "thai": "การเรียนรู้ของเครื่องจักร",
+    "phonetic": ""
+  },
+  {
+    "english": "Deep Learning",
+    "thai": "การเรียนรู้เชิงลึก",
+    "phonetic": ""
+  }
+]

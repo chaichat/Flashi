@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Booking",
+    "thai": "การจอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Confirmation",
+    "thai": "การยืนยัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Cancellation",
+    "thai": "การยกเลิก",
+    "phonetic": ""
+  },
+  {
+    "english": "Vacancy",
+    "thai": "ตำแหน่งงานว่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Room service",
+    "thai": "บริการรูมเซอร์วิส",
+    "phonetic": ""
+  },
+  {
+    "english": "Concierge",
+    "thai": "พนักงานต้อนรับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Lobby",
+    "thai": "ล็อบบี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Elevator",
+    "thai": "ลิฟต์",
+    "phonetic": ""
+  },
+  {
+    "english": "Stairs",
+    "thai": "บันได",
+    "phonetic": ""
+  },
+  {
+    "english": "Keycard",
+    "thai": "คีย์การ์ด",
+    "phonetic": ""
+  },
+  {
+    "english": "Reception",
+    "thai": "แผนกต้อนรับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Bellhop",
+    "thai": "พนักงานยกกระเป๋า",
+    "phonetic": ""
+  },
+  {
+    "english": "Housekeeping",
+    "thai": "การดูแลบ้าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Minibar",
+    "thai": "มินิบาร์",
+    "phonetic": ""
+  },
+  {
+    "english": "View",
+    "thai": "ดู",
+    "phonetic": ""
+  },
+  {
+    "english": "Suite",
+    "thai": "ห้องชุด",
+    "phonetic": ""
+  },
+  {
+    "english": "Single room",
+    "thai": "ห้องเดี่ยว",
+    "phonetic": ""
+  },
+  {
+    "english": "Double room",
+    "thai": "ห้องคู่",
+    "phonetic": ""
+  },
+  {
+    "english": "Twin room",
+    "thai": "ห้องเตียงคู่",
+    "phonetic": ""
+  },
+  {
+    "english": "King",
+    "thai": "กษัตริย์",
+    "phonetic": ""
+  }
+]

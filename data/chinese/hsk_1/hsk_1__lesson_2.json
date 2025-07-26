@@ -1,0 +1,77 @@
+[
+  {
+    "chinese": "大",
+    "thai": "ใหญ่",
+    "pinyin": "dà"
+  },
+  {
+    "chinese": "小",
+    "thai": "เล็ก",
+    "pinyin": "xiǎo"
+  },
+  {
+    "chinese": "们",
+    "thai": "พวก (คำเสริมท้าย)",
+    "pinyin": "men"
+  },
+  {
+    "chinese": "很",
+    "thai": "มาก",
+    "pinyin": "hěn"
+  },
+  {
+    "chinese": "吗",
+    "thai": "ไหม (คำถาม)",
+    "pinyin": "ma"
+  },
+  {
+    "chinese": "呢",
+    "thai": "ล่ะ (คำถาม)",
+    "pinyin": "ne"
+  },
+  {
+    "chinese": "这",
+    "thai": "นี่",
+    "pinyin": "zhè"
+  },
+  {
+    "chinese": "那",
+    "thai": "นั่น",
+    "pinyin": "nà"
+  },
+  {
+    "chinese": "有",
+    "thai": "มี",
+    "pinyin": "yǒu"
+  },
+  {
+    "chinese": "没有",
+    "thai": "ไม่มี",
+    "pinyin": "méiyǒu"
+  },
+  {
+    "chinese": "个",
+    "thai": "ตัว/อัน (ลักษณะนาม)",
+    "pinyin": "gè"
+  },
+  {
+    "chinese": "谁",
+    "thai": "ใคร",
+    "pinyin": "shéi"
+  },
+  {
+    "chinese": "什么",
+    "thai": "อะไร",
+    "pinyin": "shénme"
+  },
+  {
+    "chinese": "多少",
+    "thai": "เท่าไหร่",
+    "pinyin": "duōshao"
+  },
+  {
+    "chinese": "几",
+    "thai": "กี่ (จำนวนน้อย)",
+    "pinyin": "jǐ"
+  }
+]

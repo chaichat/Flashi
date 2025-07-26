@@ -1,0 +1,77 @@
+[
+  {
+    "chinese": "我",
+    "thai": "ฉัน",
+    "pinyin": "wǒ"
+  },
+  {
+    "chinese": "你",
+    "thai": "คุณ",
+    "pinyin": "nǐ"
+  },
+  {
+    "chinese": "他",
+    "thai": "เขา (ผู้ชาย)",
+    "pinyin": "tā"
+  },
+  {
+    "chinese": "她",
+    "thai": "เขา (ผู้หญิง)",
+    "pinyin": "tā"
+  },
+  {
+    "chinese": "好",
+    "thai": "ดี",
+    "pinyin": "hǎo"
+  },
+  {
+    "chinese": "是",
+    "thai": "เป็น/คือ/ใช่",
+    "pinyin": "shì"
+  },
+  {
+    "chinese": "不",
+    "thai": "ไม่",
+    "pinyin": "bù"
+  },
+  {
+    "chinese": "口",
+    "thai": "ปาก",
+    "pinyin": "kǒu"
+  },
+  {
+    "chinese": "日",
+    "thai": "วัน",
+    "pinyin": "rì"
+  },
+  {
+    "chinese": "月",
+    "thai": "เดือน",
+    "pinyin": "yuè"
+  },
+  {
+    "chinese": "水",
+    "thai": "น้ำ",
+    "pinyin": "shuǐ"
+  },
+  {
+    "chinese": "火",
+    "thai": "ไฟ",
+    "pinyin": "huǒ"
+  },
+  {
+    "chinese": "山",
+    "thai": "ภูเขา",
+    "pinyin": "shān"
+  },
+  {
+    "chinese": "田",
+    "thai": "ทุ่งนา",
+    "pinyin": "tián"
+  },
+  {
+    "chinese": "人",
+    "thai": "คน",
+    "pinyin": "rén"
+  }
+]

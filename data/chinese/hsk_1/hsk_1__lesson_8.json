@@ -1,0 +1,77 @@
+[
+  {
+    "chinese": "爸爸",
+    "thai": "พ่อ",
+    "pinyin": "bàba"
+  },
+  {
+    "chinese": "妈妈",
+    "thai": "แม่",
+    "pinyin": "māma"
+  },
+  {
+    "chinese": "哥哥",
+    "thai": "พี่ชาย",
+    "pinyin": "gēge"
+  },
+  {
+    "chinese": "姐姐",
+    "thai": "พี่สาว",
+    "pinyin": "jiějie"
+  },
+  {
+    "chinese": "弟弟",
+    "thai": "น้องชาย",
+    "pinyin": "dìdi"
+  },
+  {
+    "chinese": "妹妹",
+    "thai": "น้องสาว",
+    "pinyin": "mèimei"
+  },
+  {
+    "chinese": "儿子",
+    "thai": "ลูกชาย",
+    "pinyin": "érzi"
+  },
+  {
+    "chinese": "女儿",
+    "thai": "ลูกสาว",
+    "pinyin": "nǚ'ér"
+  },
+  {
+    "chinese": "老师",
+    "thai": "ครู",
+    "pinyin": "lǎoshī"
+  },
+  {
+    "chinese": "学生",
+    "thai": "นักเรียน",
+    "pinyin": "xuésheng"
+  },
+  {
+    "chinese": "医生",
+    "thai": "หมอ",
+    "pinyin": "yīshēng"
+  },
+  {
+    "chinese": "朋友",
+    "thai": "เพื่อน",
+    "pinyin": "péngyou"
+  },
+  {
+    "chinese": "同学",
+    "thai": "เพื่อนร่วมชั้น",
+    "pinyin": "tóngxué"
+  },
+  {
+    "chinese": "先生",
+    "thai": "คุณผู้ชาย",
+    "pinyin": "xiānsheng"
+  },
+  {
+    "chinese": "小姐",
+    "thai": "คุณผู้หญิง",
+    "pinyin": "xiǎojiě"
+  }
+]

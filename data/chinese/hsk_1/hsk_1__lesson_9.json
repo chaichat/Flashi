@@ -1,0 +1,77 @@
+[
+  {
+    "chinese": "名字",
+    "thai": "ชื่อ",
+    "pinyin": "míngzi"
+  },
+  {
+    "chinese": "姓",
+    "thai": "นามสกุล",
+    "pinyin": "xìng"
+  },
+  {
+    "chinese": "叫",
+    "thai": "เรียก/ชื่อว่า",
+    "pinyin": "jiào"
+  },
+  {
+    "chinese": "认识",
+    "thai": "รู้จัก",
+    "pinyin": "rènshi"
+  },
+  {
+    "chinese": "高兴",
+    "thai": "ดีใจ",
+    "pinyin": "gāoxìng"
+  },
+  {
+    "chinese": "买",
+    "thai": "ซื้อ",
+    "pinyin": "mǎi"
+  },
+  {
+    "chinese": "卖",
+    "thai": "ขาย",
+    "pinyin": "mài"
+  },
+  {
+    "chinese": "钱",
+    "thai": "เงิน",
+    "pinyin": "qián"
+  },
+  {
+    "chinese": "多少钱",
+    "thai": "ราคาเท่าไหร่",
+    "pinyin": "duōshao qián"
+  },
+  {
+    "chinese": "元",
+    "thai": "หยวน",
+    "pinyin": "yuán"
+  },
+  {
+    "chinese": "块",
+    "thai": "หยวน (ภาษาพูด)",
+    "pinyin": "kuài"
+  },
+  {
+    "chinese": "毛",
+    "thai": "เหมา (10 เฟิน)",
+    "pinyin": "máo"
+  },
+  {
+    "chinese": "分",
+    "thai": "เฟิน (1/100 หยวน)",
+    "pinyin": "fēn"
+  },
+  {
+    "chinese": "衣服",
+    "thai": "เสื้อผ้า",
+    "pinyin": "yīfu"
+  },
+  {
+    "chinese": "件",
+    "thai": "ตัว/ชิ้น (ลักษณะนามเสื้อผ้า)",
+    "pinyin": "jiàn"
+  }
+]

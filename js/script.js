@@ -1,18 +1,16 @@
 document.addEventListener('DOMContentLoaded', () => {
     // --- STATE ---
-    let allData = {};
+    let manifest = {};
     let currentLanguage = localStorage.getItem('flashi_language') || null;
-    let currentCategory = null; // New state variable for selected category
-    let currentLessons = {}; // Renamed from currentSections
-    let currentLesson = null; // Renamed from currentSection
+    let currentCategory = null;
+    let currentCategoryLessons = []; // Holds the lesson list from the manifest for the current category
+    let currentLesson = null;
     let currentDeck = [];
     let cardIndex = 0;
     let isLearnMode = true;
     const synth = window.speechSynthesis;
     let voices = [];
 
-    // This function populates the `voices` array. It's called both
-    // immediately and whenever the voice list changes.
     function populateVoiceList() {
         voices = synth.getVoices();
         console.log("Available voices: ", voices);
@@ -28,72 +26,70 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- DOM ELEMENTS ---
     const appContainer = document.getElementById('app-container');
     const languageSelector = document.getElementById('language-selector');
-    const categorySelector = document.getElementById('category-selector'); // New element
-    const categoryGrid = document.getElementById('category-grid'); // New element
-    const categoryLanguageTitle = document.getElementById('category-language-title'); // New element
-    const changeLanguageFromCategoryBtn = document.getElementById('change-language-from-category'); // New element
+    const categorySelector = document.getElementById('category-selector');
+    const categoryGrid = document.getElementById('category-grid');
+    const categoryLanguageTitle = document.getElementById('category-language-title');
+    const changeLanguageFromCategoryBtn = document.getElementById('change-language-from-category');
 
-    const lessonSelector = document.getElementById('lesson-selector'); // Renamed from sectionSelector
-    const lessonGrid = document.getElementById('lesson-grid'); // Renamed from sectionGrid
-    const lessonCategoryTitle = document.getElementById('lesson-category-title'); // Renamed from sectionTitle
-    const backToLessonsBtn = document.getElementById('back-to-lessons'); // Renamed from backToSectionsBtn
+    const lessonSelector = document.getElementById('lesson-selector');
+    const lessonGrid = document.getElementById('lesson-grid');
+    const lessonCategoryTitle = document.getElementById('lesson-category-title');
     const backToCategoriesBtn = document.getElementById('back-to-categories');
-    const changeLanguageFromLessonBtn = document.getElementById('change-language-from-lesson'); // Renamed from changeLangBtn
+    const changeLanguageFromLessonBtn = document.getElementById('change-language-from-lesson');
 
     const flashcardContainer = document.getElementById('flashcard-container');
-    const sectionTitle = document.getElementById('section-title'); // This is the title on the flashcard screen
+    const sectionTitle = document.getElementById('section-title');
     const deck = document.getElementById('deck');
     const learnModeBtn = document.getElementById('learn-mode-btn');
     const testModeBtn = document.getElementById('test-mode-btn');
     const testModeControls = document.getElementById('test-mode-controls');
     const revealBtn = document.getElementById('reveal-btn');
+    const backToLessonsBtn = document.getElementById('back-to-lessons');
 
     // --- HELPER FUNCTIONS ---
-
-    /**
-     * Gets the text and language code for the current card based on the selected language.
-     * @param {object} cardData The data for the current flashcard.
-     * @returns {{text: string, lang: string}}
-     */
     function getSpeechParametersForCard(cardData) {
         return currentLanguage === 'english'
             ? { text: cardData.english, lang: 'en-US' }
             : { text: cardData.chinese, lang: 'zh-CN' };
     }
 
-    // --- FUNCTIONS ---
-
-    /**
-     * Fetches the lesson data from the JSON file.
-     */
-    async function loadData() {
+    // --- DATA LOADING ---
+    async function loadManifest() {
         try {
-            const response = await fetch('data/lessons.json');
+            const response = await fetch('data/manifest.json');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
-            allData = await response.json();
+            manifest = await response.json();
             initializeApp();
         } catch (error) {
-            console.error("Failed to load lesson data:", error);
-            appContainer.innerHTML = '<p class="text-red-500 text-center">Failed to load lessons. Please try refreshing the page.</p>';
+            console.error("Failed to load manifest:", error);
+            appContainer.innerHTML = '<p class="text-red-500 text-center">Failed to load lesson structure. Please try refreshing the page.</p>';
         }
     }
 
-    /**
-     * Initializes the application.
-     */
+    async function loadLesson(lessonFile) {
+        try {
+            const response = await fetch(`data/${lessonFile}`);
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return await response.json();
+        } catch (error) {
+            console.error(`Failed to load lesson file: ${lessonFile}`, error);
+            return []; // Return an empty deck on error
+        }
+    }
+
+    // --- UI INITIALIZATION & NAVIGATION ---
     function initializeApp() {
-        if (currentLanguage && allData[currentLanguage]) {
+        if (currentLanguage && manifest[currentLanguage]) {
             showCategorySelector();
         } else {
             showLanguageSelector();
         }
     }
 
-    /**
-     * Shows the language selection screen.
-     */
     function showLanguageSelector() {
         languageSelector.classList.remove('hidden');
         categorySelector.classList.add('hidden');
@@ -104,26 +100,19 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('select-chinese').addEventListener('click', () => selectLanguage('chinese'));
     }
 
-    /**
-     * Sets the current language and shows the category selector.
-     */
     function selectLanguage(language) {
         currentLanguage = language;
         localStorage.setItem('flashi_language', language);
-        // "Warm up" the speech synthesis engine on a user gesture, which is required by some browsers (e.g., mobile Safari).
         if (synth && !synth.speaking) {
             const warmUpUtterance = new SpeechSynthesisUtterance('');
             synth.speak(warmUpUtterance);
         }
         showCategorySelector();
     }
-    
-    /**
-     * Shows the category selection screen for the current language.
-     */
+
     function showCategorySelector() {
-        if (!currentLanguage || !allData[currentLanguage]) {
-            showLanguageSelector(); // Fallback if no language selected or data missing
+        if (!currentLanguage || !manifest[currentLanguage]) {
+            showLanguageSelector();
             return;
         }
         languageSelector.classList.add('hidden');
@@ -134,12 +123,9 @@ document.addEventListener('DOMContentLoaded', () => {
         initCategoryGrid();
     }
 
-    /**
-     * Initializes the category selection grid.
-     */
     function initCategoryGrid() {
         categoryGrid.innerHTML = '';
-        const categoryNames = Object.keys(allData[currentLanguage]);
+        const categoryNames = Object.keys(manifest[currentLanguage]);
 
         categoryNames.forEach(categoryName => {
             const button = document.createElement('button');
@@ -153,12 +139,9 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    /**
-     * Shows the lesson selection screen for the current category.
-     */
     function showLessonSelector(categoryName) {
         currentCategory = categoryName;
-        currentLessons = allData[currentLanguage][currentCategory];
+        currentCategoryLessons = manifest[currentLanguage][currentCategory];
         categorySelector.classList.add('hidden');
         flashcardContainer.classList.add('hidden');
         lessonSelector.classList.remove('hidden');
@@ -166,9 +149,44 @@ document.addEventListener('DOMContentLoaded', () => {
         initLessonGrid();
     }
 
-    /**
-     * Creates the HTML for a single flashcard.
-     */
+    function initLessonGrid() {
+        lessonGrid.innerHTML = '';
+        currentCategoryLessons.forEach(lessonInfo => {
+            const button = document.createElement('button');
+            const isReview = lessonInfo.isReview;
+            
+            if (isReview) {
+                button.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
+                button.innerHTML = `
+                    <div class="text-3xl mb-2">⭐</div>
+                    <div class="font-semibold text-gray-700">${lessonInfo.name}</div>
+                `;
+            } else {
+                button.className = "p-4 bg-white border-2 border-gray-200 rounded-xl text-center shadow-sm hover:shadow-md hover:border-blue-400 transition-all duration-200";
+                button.innerHTML = `
+                    <div class="text-3xl mb-2">📚</div>
+                    <div class="font-semibold text-gray-700">${lessonInfo.name}</div>
+                `;
+            }
+            
+            button.addEventListener('click', () => startLesson(lessonInfo));
+            lessonGrid.appendChild(button);
+        });
+    }
+
+    // --- FLASHCARD LOGIC ---
+    async function startLesson(lessonInfo) {
+        currentLesson = lessonInfo;
+        currentDeck = await loadLesson(lessonInfo.file);
+        cardIndex = 0;
+        
+        sectionTitle.textContent = lessonInfo.name;
+        lessonSelector.classList.add('hidden');
+        flashcardContainer.classList.remove('hidden');
+        
+        renderDeck();
+    }
+
     function createCardElement(cardData, index) {
         const card = document.createElement('div');
         card.className = 'card shadow-lg';
@@ -224,9 +242,6 @@ document.addEventListener('DOMContentLoaded', () => {
         return card;
     }
 
-    /**
-     * Renders the current deck of cards to the screen.
-     */
     function renderDeck() {
         deck.innerHTML = '';
         if (cardIndex >= currentDeck.length) {
@@ -234,17 +249,13 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
         
-        // Render only a few cards at a time for performance
-        const cardsToRender = currentDeck.slice(cardIndex, cardIndex + 3); // Render current + next 2 cards
+        const cardsToRender = currentDeck.slice(cardIndex, cardIndex + 3);
         cardsToRender.forEach((cardData, index) => {
             const cardEl = createCardElement(cardData, cardIndex + index);
             deck.appendChild(cardEl);
         });
     }
     
-    /**
-     * Shows the completion screen when a deck is finished.
-     */
     function showCompletionScreen() {
         deck.innerHTML = `
             <div class="w-full h-full flex flex-col items-center justify-center bg-white rounded-3xl shadow-lg p-4">
@@ -258,9 +269,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    /**
-     * Adds unified event listeners to a card to handle both tap and swipe.
-     */
     function addUnifiedInputListeners(card, cardData) {
         let startX = 0, isDragging = false, startTime = 0;
 
@@ -276,7 +284,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const currentX = e.clientX || e.touches[0].clientX;
             const diffX = currentX - startX;
             card.style.transform = `translateX(${diffX}px) rotate(${diffX / 20}deg) translateZ(0)`;
-            e.preventDefault(); // Prevent default scrolling
+            e.preventDefault();
         }
 
         function onPointerUp(e) {
@@ -288,9 +296,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const timeElapsed = Date.now() - startTime;
             const velocity = Math.abs(diffX) / timeElapsed;
 
-            // Define swipe thresholds
-            const minSwipeDistance = 75; // pixels
-            const minSwipeVelocity = 0.3; // pixels per millisecond
+            const minSwipeDistance = 75;
+            const minSwipeVelocity = 0.3;
 
             if (isLearnMode && Math.abs(diffX) < 10 && timeElapsed < 200) {
                 const { text, lang } = getSpeechParametersForCard(cardData);
@@ -299,7 +306,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 return;
             }
 
-            // Check for a swipe based on distance OR velocity
             if (Math.abs(diffX) > minSwipeDistance || velocity > minSwipeVelocity) {
                 card.style.transform = `translateX(${diffX > 0 ? 500 : -500}px) rotate(${diffX > 0 ? 30 : -30}deg) translateZ(0)`;
                 setTimeout(() => {
@@ -321,19 +327,13 @@ document.addEventListener('DOMContentLoaded', () => {
         card.addEventListener('touchend', onPointerUp);
     }
 
-    /**
-     * Switches the app mode between Learn and Test.
-     */
     function switchMode(toLearnMode) {
         isLearnMode = toLearnMode;
 
-        // Adjust deck aspect ratio for different modes to fit controls on screen
         if (toLearnMode) {
-            // Restore original aspect ratio for Learn Mode
             deck.classList.remove('aspect-[5/6]');
             deck.classList.add('aspect-[3/4]');
         } else {
-            // Make card shorter for Test Mode
             deck.classList.remove('aspect-[3/4]');
             deck.classList.add('aspect-[5/6]');
         }
@@ -353,13 +353,8 @@ document.addEventListener('DOMContentLoaded', () => {
         startLesson(currentLesson);
     }
 
-    /**
-     * Uses the Web Speech API to say a word.
-     */
     function speak(text, lang) {
-        // If the synth is already speaking, cancel it to avoid overlap.
         if (synth.speaking) {
-            console.warn('SpeechSynthesis is already speaking. Cancelling previous utterance.');
             synth.cancel();
         }
 
@@ -370,38 +365,25 @@ document.addEventListener('DOMContentLoaded', () => {
 
         let voice = null;
 
-        // iOS-specific voice selection with fallbacks, as per your requirements.
         if (lang.startsWith('en')) {
-            // For English, prioritize 'Samantha' (high-quality iOS voice).
             voice = voices.find(v => v.name === 'Samantha' && v.lang.startsWith('en'));
-            // Fallback to a high-quality Google voice.
             if (!voice) {
                 voice = voices.find(v => v.name === 'Google US English' && v.lang.startsWith('en'));
             }
         } else if (lang.startsWith('zh')) {
-            // For Chinese, we'll try a few strategies to find the high-quality iOS voice.
-            // The name can be "Tingting" or "Ting-Ting" depending on the iOS version.
-
-            // 1. Look for "Tingting" (no hyphen), as observed on some devices.
             voice = voices.find(v => v.name === 'Tingting' && v.lang.startsWith('zh'));
-
-            // 2. Fallback to "Ting-Ting" (with hyphen).
             if (!voice) {
                 voice = voices.find(v => v.name === 'Ting-Ting' && v.lang.startsWith('zh'));
             }
-
-            // 3. As a further fallback, find the first available NON-DEFAULT Chinese voice.
             if (!voice) {
                 voice = voices.find(v => v.lang.startsWith('zh') && !v.default);
             }
         }
 
-        // Generic fallback: Find the first available voice for the exact language code.
         if (!voice) {
             voice = voices.find(v => v.lang === lang);
         }
 
-        // Broader fallback: Find a voice that starts with the language code (e.g., 'en' for 'en-GB').
         if (!voice) {
             const langPrefix = lang.split('-')[0];
             voice = voices.find(v => v.lang.startsWith(langPrefix));
@@ -409,7 +391,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (voice) {
             utterThis.voice = voice;
-            console.log(`Using voice: ${voice.name} (${voice.lang})`);
         } else {
             console.warn(`Voice for lang '${lang}' not found. Using default.`);
         }
@@ -417,60 +398,10 @@ document.addEventListener('DOMContentLoaded', () => {
         synth.speak(utterThis);
     }
     
-    /**
-     * Starts a flashcard lesson.
-     */
-    function startLesson(lessonName) {
-        currentLesson = lessonName;
-        currentDeck = lessonName.toLowerCase().includes('review') 
-            ? currentLessons[lessonName] 
-            : currentLessons[lessonName] || [];
-        cardIndex = 0;
-        
-        sectionTitle.textContent = currentLesson;
-        lessonSelector.classList.add('hidden');
-        flashcardContainer.classList.remove('hidden');
-        
-        renderDeck();
-    }
-
-    /**
-     * Initializes the lesson selection grid.
-     */
-    function initLessonGrid() {
-        lessonGrid.innerHTML = '';
-        const lessonNames = Object.keys(currentLessons);
-
-        lessonNames.forEach(lessonName => {
-            const isReview = lessonName.toLowerCase().includes('review');
-            const button = document.createElement('button');
-            
-            if (isReview) {
-                button.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
-                button.innerHTML = `
-                    <div class="text-3xl mb-2">⭐</div>
-                    <div class="font-semibold text-gray-700">${lessonName}</div>
-                    <div class="text-sm text-gray-500">Test - ${currentLessons[lessonName].length} words</div>
-                `;
-            } else {
-                button.className = "p-4 bg-white border-2 border-gray-200 rounded-xl text-center shadow-sm hover:shadow-md hover:border-blue-400 transition-all duration-200";
-                button.innerHTML = `
-                    <div class="text-3xl mb-2">📚</div>
-                    <div class="font-semibold text-gray-700">${lessonName}</div>
-                    <div class="text-sm text-gray-500">${currentLessons[lessonName].length} words</div>
-                `;
-            }
-            
-            button.addEventListener('click', () => startLesson(lessonName));
-            lessonGrid.appendChild(button);
-        });
-    }
-
     // --- EVENT LISTENERS ---
     learnModeBtn.addEventListener('click', () => switchMode(true));
     testModeBtn.addEventListener('click', () => switchMode(false));
     
-    // Updated navigation buttons
     backToLessonsBtn.addEventListener('click', () => showLessonSelector(currentCategory));
     backToCategoriesBtn.addEventListener('click', showCategorySelector);
     changeLanguageFromCategoryBtn.addEventListener('click', showLanguageSelector);
@@ -500,5 +431,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // --- INITIALIZATION ---
-    loadData();
+    loadManifest();
 });

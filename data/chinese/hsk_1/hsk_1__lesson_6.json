@@ -1,0 +1,77 @@
+[
+  {
+    "chinese": "汉语",
+    "thai": "ภาษาจีน",
+    "pinyin": "Hànyǔ"
+  },
+  {
+    "chinese": "英语",
+    "thai": "ภาษาอังกฤษ",
+    "pinyin": "Yīngyǔ"
+  },
+  {
+    "chinese": "书",
+    "thai": "หนังสือ",
+    "pinyin": "shū"
+  },
+  {
+    "chinese": "报纸",
+    "thai": "หนังสือพิมพ์",
+    "pinyin": "bàozhǐ"
+  },
+  {
+    "chinese": "电影",
+    "thai": "ภาพยนตร์",
+    "pinyin": "diànyǐng"
+  },
+  {
+    "chinese": "电视",
+    "thai": "โทรทัศน์",
+    "pinyin": "diànshì"
+  },
+  {
+    "chinese": "电脑",
+    "thai": "คอมพิวเตอร์",
+    "pinyin": "diànnǎo"
+  },
+  {
+    "chinese": "手机",
+    "thai": "โทรศัพท์มือถือ",
+    "pinyin": "shǒujī"
+  },
+  {
+    "chinese": "打电话",
+    "thai": "โทรศัพท์",
+    "pinyin": "dǎ diànhuà"
+  },
+  {
+    "chinese": "睡觉",
+    "thai": "นอน",
+    "pinyin": "shuìjiào"
+  },
+  {
+    "chinese": "起床",
+    "thai": "ตื่นนอน",
+    "pinyin": "qǐchuáng"
+  },
+  {
+    "chinese": "工作",
+    "thai": "ทำงาน",
+    "pinyin": "gōngzuò"
+  },
+  {
+    "chinese": "休息",
+    "thai": "พักผ่อน",
+    "pinyin": "xiūxi"
+  },
+  {
+    "chinese": "运动",
+    "thai": "ออกกำลังกาย",
+    "pinyin": "yùndòng"
+  },
+  {
+    "chinese": "今天",
+    "thai": "วันนี้",
+    "pinyin": "jīntiān"
+  }
+]

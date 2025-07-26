@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Doctor",
+    "thai": "หมอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Headache",
+    "thai": "ปวดศีรษะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Stomachache",
+    "thai": "ปวดท้อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Fever",
+    "thai": "ไข้",
+    "phonetic": ""
+  },
+  {
+    "english": "Cough",
+    "thai": "ไอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Medicine",
+    "thai": "ยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Pain",
+    "thai": "ความเจ็บปวด",
+    "phonetic": ""
+  },
+  {
+    "english": "Healthy",
+    "thai": "สุขภาพดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Sick",
+    "thai": "ป่วย",
+    "phonetic": ""
+  },
+  {
+    "english": "Ambulance",
+    "thai": "รถพยาบาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Rest",
+    "thai": "พักผ่อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Exercise",
+    "thai": "ออกกำลังกาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Tired",
+    "thai": "เหนื่อย",
+    "phonetic": ""
+  },
+  {
+    "english": "Well",
+    "thai": "ดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Hurt",
+    "thai": "เจ็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Dizzy",
+    "thai": "วิงเวียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Nausea",
+    "thai": "อาการคลื่นไส้",
+    "phonetic": ""
+  },
+  {
+    "english": "Vomiting",
+    "thai": "อาการอาเจียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Diarrhea",
+    "thai": "ท้องเสีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Constipation",
+    "thai": "ท้องผูก",
+    "phonetic": ""
+  }
+]

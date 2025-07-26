@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Drizzle",
+    "thai": "ฝนตกปรอยๆ",
+    "phonetic": ""
+  },
+  {
+    "english": "Downpour",
+    "thai": "ฝนตกหนัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Hail",
+    "thai": "ลูกเห็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sleet",
+    "thai": "ลูกเห็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Blizzard",
+    "thai": "พายุหิมะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Hurricane",
+    "thai": "พายุเฮอริเคน",
+    "phonetic": ""
+  },
+  {
+    "english": "Tornado",
+    "thai": "พายุทอร์นาโด",
+    "phonetic": ""
+  },
+  {
+    "english": "Flood",
+    "thai": "น้ำท่วม",
+    "phonetic": ""
+  },
+  {
+    "english": "Drought",
+    "thai": "ความแห้งแล้ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Fog",
+    "thai": "หมอก",
+    "phonetic": ""
+  },
+  {
+    "english": "Mist",
+    "thai": "หมอก",
+    "phonetic": ""
+  },
+  {
+    "english": "Breeze",
+    "thai": "สายลม",
+    "phonetic": ""
+  },
+  {
+    "english": "Gale",
+    "thai": "พายุ",
+    "phonetic": ""
+  },
+  {
+    "english": "Overcast",
+    "thai": "มีเมฆมาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Clear",
+    "thai": "ชัดเจน",
+    "phonetic": ""
+  },
+  {
+    "english": "Sunrise",
+    "thai": "พระอาทิตย์ขึ้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Sunset",
+    "thai": "พระอาทิตย์ตก",
+    "phonetic": ""
+  },
+  {
+    "english": "Dawn",
+    "thai": "รุ่งอรุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Dusk",
+    "thai": "พลบค่ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Twilight",
+    "thai": "พลบค่ำ",
+    "phonetic": ""
+  }
+]

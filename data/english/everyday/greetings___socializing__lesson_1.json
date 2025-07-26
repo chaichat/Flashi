@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Hello",
+    "thai": "สวัสดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Goodbye",
+    "thai": "ลาก่อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Morning",
+    "thai": "เช้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Afternoon",
+    "thai": "ตอนบ่าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Evening",
+    "thai": "ตอนเย็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Thanks",
+    "thai": "ขอบคุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Please",
+    "thai": "โปรด",
+    "phonetic": ""
+  },
+  {
+    "english": "Sorry",
+    "thai": "ขอโทษ",
+    "phonetic": ""
+  },
+  {
+    "english": "Welcome",
+    "thai": "ยินดีต้อนรับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Friend",
+    "thai": "เพื่อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Family",
+    "thai": "ตระกูล",
+    "phonetic": ""
+  },
+  {
+    "english": "Name",
+    "thai": "ชื่อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Question",
+    "thai": "คำถาม",
+    "phonetic": ""
+  },
+  {
+    "english": "Answer",
+    "thai": "คำตอบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Yes",
+    "thai": "ใช่",
+    "phonetic": ""
+  },
+  {
+    "english": "No",
+    "thai": "เลขที่",
+    "phonetic": ""
+  },
+  {
+    "english": "Maybe",
+    "thai": "อาจจะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Okay",
+    "thai": "ตกลง",
+    "phonetic": ""
+  },
+  {
+    "english": "Sure",
+    "thai": "แน่นอน",
+    "phonetic": ""
+  },
+  {
+    "english": "Never",
+    "thai": "ไม่เคย",
+    "phonetic": ""
+  }
+]

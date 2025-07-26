@@ -1,0 +1,77 @@
+[
+  {
+    "chinese": "咖啡",
+    "thai": "กาแฟ",
+    "pinyin": "kāfēi"
+  },
+  {
+    "chinese": "啤酒",
+    "thai": "เบียร์",
+    "pinyin": "píjiǔ"
+  },
+  {
+    "chinese": "可乐",
+    "thai": "โค้ก",
+    "pinyin": "kělè"
+  },
+  {
+    "chinese": "果汁",
+    "thai": "น้ำผลไม้",
+    "pinyin": "guǒzhī"
+  },
+  {
+    "chinese": "去",
+    "thai": "ไป",
+    "pinyin": "qù"
+  },
+  {
+    "chinese": "来",
+    "thai": "มา",
+    "pinyin": "lái"
+  },
+  {
+    "chinese": "家",
+    "thai": "บ้าน",
+    "pinyin": "jiā"
+  },
+  {
+    "chinese": "学校",
+    "thai": "โรงเรียน",
+    "pinyin": "xuéxiào"
+  },
+  {
+    "chinese": "商店",
+    "thai": "ร้านค้า",
+    "pinyin": "shāngdiàn"
+  },
+  {
+    "chinese": "医院",
+    "thai": "โรงพยาบาล",
+    "pinyin": "yīyuàn"
+  },
+  {
+    "chinese": "饭店",
+    "thai": "ร้านอาหาร/โรงแรม",
+    "pinyin": "fàndiàn"
+  },
+  {
+    "chinese": "火车站",
+    "thai": "สถานีรถไฟ",
+    "pinyin": "huǒchēzhàn"
+  },
+  {
+    "chinese": "飞机场",
+    "thai": "สนามบิน",
+    "pinyin": "fēijīchǎng"
+  },
+  {
+    "chinese": "北京",
+    "thai": "ปักกิ่ง",
+    "pinyin": "Běijīng"
+  },
+  {
+    "chinese": "中国",
+    "thai": "ประเทศจีน",
+    "pinyin": "Zhōngguó"
+  }
+]

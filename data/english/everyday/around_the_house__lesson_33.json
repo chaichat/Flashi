@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Repair",
+    "thai": "ซ่อมแซม",
+    "phonetic": ""
+  },
+  {
+    "english": "Maintain",
+    "thai": "บำรุงรักษา",
+    "phonetic": ""
+  },
+  {
+    "english": "Renovate",
+    "thai": "ปรับปรุงใหม่",
+    "phonetic": ""
+  },
+  {
+    "english": "Decorate",
+    "thai": "ตกแต่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Build",
+    "thai": "สร้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Demolish",
+    "thai": "รื้อถอน",
+    "phonetic": ""
+  },
+  {
+    "english": "Paint",
+    "thai": "สี",
+    "phonetic": ""
+  },
+  {
+    "english": "Wallpaper",
+    "thai": "วอลเปเปอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Tile",
+    "thai": "กระเบื้อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Grout",
+    "thai": "ยาแนว",
+    "phonetic": ""
+  },
+  {
+    "english": "Plumbing",
+    "thai": "ประปา",
+    "phonetic": ""
+  },
+  {
+    "english": "Electrical",
+    "thai": "ไฟฟ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Carpentry",
+    "thai": "งานช่างไม้",
+    "phonetic": ""
+  },
+  {
+    "english": "Masonry",
+    "thai": "งานก่ออิฐ",
+    "phonetic": ""
+  },
+  {
+    "english": "Gardening",
+    "thai": "การทำสวน",
+    "phonetic": ""
+  },
+  {
+    "english": "Landscaping",
+    "thai": "การจัดภูมิทัศน์",
+    "phonetic": ""
+  },
+  {
+    "english": "Mowing",
+    "thai": "การตัดหญ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Weeding",
+    "thai": "การกำจัดวัชพืช",
+    "phonetic": ""
+  },
+  {
+    "english": "Pruning",
+    "thai": "การตัดแต่งกิ่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Watering",
+    "thai": "การรดน้ำ",
+    "phonetic": ""
+  }
+]

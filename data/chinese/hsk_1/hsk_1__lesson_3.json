@@ -1,0 +1,77 @@
+[
+  {
+    "chinese": "吃",
+    "thai": "กิน",
+    "pinyin": "chī"
+  },
+  {
+    "chinese": "喝",
+    "thai": "ดื่ม",
+    "pinyin": "hē"
+  },
+  {
+    "chinese": "饭",
+    "thai": "ข้าว",
+    "pinyin": "fàn"
+  },
+  {
+    "chinese": "茶",
+    "thai": "ชา",
+    "pinyin": "chá"
+  },
+  {
+    "chinese": "菜",
+    "thai": "กับข้าว/ผัก",
+    "pinyin": "cài"
+  },
+  {
+    "chinese": "水果",
+    "thai": "ผลไม้",
+    "pinyin": "shuǐguǒ"
+  },
+  {
+    "chinese": "苹果",
+    "thai": "แอปเปิ้ล",
+    "pinyin": "píngguǒ"
+  },
+  {
+    "chinese": "香蕉",
+    "thai": "กล้วย",
+    "pinyin": "xiāngjiāo"
+  },
+  {
+    "chinese": "牛奶",
+    "thai": "นม",
+    "pinyin": "niúnǎi"
+  },
+  {
+    "chinese": "鸡蛋",
+    "thai": "ไข่",
+    "pinyin": "jīdàn"
+  },
+  {
+    "chinese": "面条",
+    "thai": "บะหมี่",
+    "pinyin": "miàntiáo"
+  },
+  {
+    "chinese": "米饭",
+    "thai": "ข้าวสวย",
+    "pinyin": "mǐfàn"
+  },
+  {
+    "chinese": "面包",
+    "thai": "ขนมปัง",
+    "pinyin": "miànbāo"
+  },
+  {
+    "chinese": "鱼",
+    "thai": "ปลา",
+    "pinyin": "yú"
+  },
+  {
+    "chinese": "肉",
+    "thai": "เนื้อ",
+    "pinyin": "ròu"
+  }
+]

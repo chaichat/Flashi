@@ -39,23 +39,27 @@ function refactorAndRebuild() {
         let lessonsCreated = 0;
         let currentLessonWords = [];
 
-        newThematicLessons.forEach((lessonSource, lessonIndex) => {
-            const lessonName = `Everyday: Lesson ${lessonsCreated + 1}`;
-            const filteredCards = lessonSource.filter(card => !existingWords.has(card.e.toLowerCase()));
-            const finalCards = filteredCards.slice(0, WORDS_PER_LESSON).map(card => ({ english: card.e, thai: card.t || "", phonetic: "" }));
+        Object.keys(newThematicLessons).forEach(themeName => {
+            const lessonsInTheme = newThematicLessons[themeName];
 
-            if(finalCards.length === WORDS_PER_LESSON) {
-                newCategoryData[lessonName] = finalCards;
-                currentLessonWords.push(...finalCards);
-                lessonsCreated++;
+            lessonsInTheme.forEach((lessonSource, index) => {
+                const lessonName = `${themeName}: Lesson ${lessonsCreated + 1}`;
+                const filteredCards = lessonSource.filter(card => !existingWords.has(card.e.toLowerCase()));
+                const finalCards = filteredCards.slice(0, WORDS_PER_LESSON).map(card => ({ english: card.e, thai: card.t || "", phonetic: "" }));
 
-                if (lessonsCreated % 5 === 0) {
-                    const reviewName = `Everyday: Review ${lessonsCreated - 4}-${lessonsCreated}`;
-                    newCategoryData[reviewName] = currentLessonWords;
-                    console.log(`Created review stack: "${reviewName}"`);
-                    currentLessonWords = [];
+                if(finalCards.length === WORDS_PER_LESSON) {
+                    newCategoryData[lessonName] = finalCards;
+                    currentLessonWords.push(...finalCards);
+                    lessonsCreated++;
+
+                    if (lessonsCreated % 5 === 0) {
+                        const reviewName = `Everyday: Review ${lessonsCreated - 4}-${lessonsCreated}`;
+                        newCategoryData[reviewName] = currentLessonWords;
+                        console.log(`Created review stack: "${reviewName}"`);
+                        currentLessonWords = [];
+                    }
                 }
-            }
+            });
         });
 
         lessonsData.english[CATEGORY_NAME] = newCategoryData;

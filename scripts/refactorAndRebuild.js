@@ -38,17 +38,19 @@ function refactorAndRebuild() {
         const newCategoryData = {};
         let lessonsCreated = 0;
         let currentLessonWords = [];
+        let usedWordsInThisBuild = new Set();
 
         Object.keys(newThematicLessons).forEach(themeName => {
             const lessonsInTheme = newThematicLessons[themeName];
 
             lessonsInTheme.forEach((lessonSource, index) => {
                 const lessonName = `${themeName}: Lesson ${lessonsCreated + 1}`;
-                const filteredCards = lessonSource.filter(card => !existingWords.has(card.e.toLowerCase()));
+                const filteredCards = lessonSource.filter(card => !usedWordsInThisBuild.has(card.e.toLowerCase()));
                 const finalCards = filteredCards.slice(0, WORDS_PER_LESSON).map(card => ({ english: card.e, thai: card.t || "", phonetic: "" }));
 
                 if(finalCards.length === WORDS_PER_LESSON) {
                     newCategoryData[lessonName] = finalCards;
+                    finalCards.forEach(card => usedWordsInThisBuild.add(card.english.toLowerCase()));
                     currentLessonWords.push(...finalCards);
                     lessonsCreated++;
 

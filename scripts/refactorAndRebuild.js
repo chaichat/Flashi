@@ -37,36 +37,24 @@ function refactorAndRebuild() {
         // 5. Add the new thematic lessons, ensuring no duplicates
         const newCategoryData = {};
         let lessonsCreated = 0;
+        let currentLessonWords = [];
 
-        Object.keys(newThematicLessons).forEach(themeName => {
-            const lessonsInTheme = newThematicLessons[themeName];
-            let allThemeCards = [];
+        newThematicLessons.forEach((lessonSource, lessonIndex) => {
+            const lessonName = `Everyday: Lesson ${lessonsCreated + 1}`;
+            const filteredCards = lessonSource.filter(card => !existingWords.has(card.e.toLowerCase()));
+            const finalCards = filteredCards.slice(0, WORDS_PER_LESSON).map(card => ({ english: card.e, thai: card.t || "", phonetic: "" }));
 
-            lessonsInTheme.forEach((lessonCards, index) => {
-                const lessonName = `${themeName}: Lesson ${lessonsCreated + 1}`;
-                
-                const filteredCards = lessonCards.filter(card => !existingWords.has(card.e.toLowerCase()));
-                const finalCards = filteredCards.slice(0, WORDS_PER_LESSON).map(card => ({ english: card.e, thai: card.t || "", phonetic: "" }));
+            if(finalCards.length === WORDS_PER_LESSON) {
+                newCategoryData[lessonName] = finalCards;
+                currentLessonWords.push(...finalCards);
+                lessonsCreated++;
 
-                if(finalCards.length === WORDS_PER_LESSON) {
-                    newCategoryData[lessonName] = finalCards;
-                    allThemeCards.push(...finalCards);
-                    lessonsCreated++;
+                if (lessonsCreated % 5 === 0) {
+                    const reviewName = `Everyday: Review ${lessonsCreated - 4}-${lessonsCreated}`;
+                    newCategoryData[reviewName] = currentLessonWords;
+                    console.log(`Created review stack: "${reviewName}"`);
+                    currentLessonWords = [];
                 }
-            });
-
-            // 6. Generate and add review stacks for the theme
-            if (allThemeCards.length > 0) {
-                const firstLessonNum = lessonsCreated - lessonsInTheme.length + 1;
-                const reviewName = `${themeName} Review (${firstLessonNum}-${lessonsCreated})`;
-                
-                // Shuffle the combined deck
-                for (let i = allThemeCards.length - 1; i > 0; i--) {
-                    const j = Math.floor(Math.random() * (i + 1));
-                    [allThemeCards[i], allThemeCards[j]] = [allThemeCards[j], allThemeCards[i]];
-                }
-                newCategoryData[reviewName] = allThemeCards;
-                console.log(`Created review stack: "${reviewName}"`);
             }
         });
 

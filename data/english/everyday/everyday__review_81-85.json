@@ -1,67 +1,12 @@
 [
   {
-    "english": "Mexico",
-    "thai": "เม็กซิโก",
+    "english": "Swiss",
+    "thai": "สวิส",
     "phonetic": ""
   },
   {
-    "english": "Australia",
-    "thai": "ออสเตรเลีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Bangladeshi",
-    "thai": "ชาวบังคลาเทศ",
-    "phonetic": ""
-  },
-  {
-    "english": "Vietnam",
-    "thai": "เวียดนาม",
-    "phonetic": ""
-  },
-  {
-    "english": "Chinese",
-    "thai": "ชาวจีน",
-    "phonetic": ""
-  },
-  {
-    "english": "Canadian",
-    "thai": "ชาวแคนาดา",
-    "phonetic": ""
-  },
-  {
-    "english": "French",
-    "thai": "ภาษาฝรั่งเศส",
-    "phonetic": ""
-  },
-  {
-    "english": "Pakistan",
-    "thai": "ปากีสถาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Australian",
-    "thai": "ชาวออสเตรเลีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Mexican",
-    "thai": "ชาวเม็กซิกัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Pakistani",
-    "thai": "ปากีสถาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Indian",
-    "thai": "ชาวอินเดีย",
-    "phonetic": ""
-  },
-  {
-    "english": "China",
-    "thai": "จีน",
+    "english": "Austria",
+    "thai": "ออสเตรีย",
     "phonetic": ""
   },
   {
@@ -70,158 +15,8 @@
     "phonetic": ""
   },
   {
-    "english": "Russia",
-    "thai": "รัสเซีย",
-    "phonetic": ""
-  },
-  {
-    "english": "South Africa",
-    "thai": "แอฟริกาใต้",
-    "phonetic": ""
-  },
-  {
-    "english": "India",
-    "thai": "อินเดีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Spain",
-    "thai": "สเปน",
-    "phonetic": ""
-  },
-  {
-    "english": "Japanese",
-    "thai": "ญี่ปุ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Argentinian",
-    "thai": "ชาวอาร์เจนตินา",
-    "phonetic": ""
-  },
-  {
-    "english": "New Zealander",
-    "thai": "ชาวนิวซีแลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Ecuador",
-    "thai": "เอกวาดอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Norway",
-    "thai": "นอร์เวย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Norwegian",
-    "thai": "นอร์เวย์",
-    "phonetic": ""
-  },
-  {
-    "english": "New Zealand",
-    "thai": "นิวซีแลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Brazilian",
-    "thai": "บราซิล",
-    "phonetic": ""
-  },
-  {
-    "english": "American",
-    "thai": "อเมริกัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Belgium",
-    "thai": "เบลเยียม",
-    "phonetic": ""
-  },
-  {
-    "english": "South African",
-    "thai": "แอฟริกาใต้",
-    "phonetic": ""
-  },
-  {
-    "english": "Ireland",
-    "thai": "ไอร์แลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Kenya",
-    "thai": "เคนยา",
-    "phonetic": ""
-  },
-  {
-    "english": "America",
-    "thai": "อเมริกา",
-    "phonetic": ""
-  },
-  {
-    "english": "Venezuela",
-    "thai": "เวเนซุเอลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Austrian",
-    "thai": "ออสเตรีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Belgian",
-    "thai": "เบลเยียม",
-    "phonetic": ""
-  },
-  {
-    "english": "Peru",
-    "thai": "เปรู",
-    "phonetic": ""
-  },
-  {
-    "english": "Thailand",
-    "thai": "ประเทศไทย",
-    "phonetic": ""
-  },
-  {
-    "english": "Ghanaian",
-    "thai": "ชาวกานา",
-    "phonetic": ""
-  },
-  {
-    "english": "Italian",
-    "thai": "อิตาลี",
-    "phonetic": ""
-  },
-  {
-    "english": "Spanish",
-    "thai": "ภาษาสเปน",
-    "phonetic": ""
-  },
-  {
-    "english": "Nationality",
-    "thai": "สัญชาติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Bolivia",
-    "thai": "โบลิเวีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Chilean",
-    "thai": "ชิลี",
-    "phonetic": ""
-  },
-  {
-    "english": "Portugal",
-    "thai": "โปรตุเกส",
-    "phonetic": ""
-  },
-  {
-    "english": "Portuguese",
-    "thai": "โปรตุเกส",
+    "english": "Irish",
+    "thai": "ไอริช",
     "phonetic": ""
   },
   {
@@ -230,13 +25,388 @@
     "phonetic": ""
   },
   {
+    "english": "Ecuador",
+    "thai": "เอกวาดอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Portuguese",
+    "thai": "โปรตุเกส",
+    "phonetic": ""
+  },
+  {
+    "english": "Paraguayan",
+    "thai": "ปารากวัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Japanese",
+    "thai": "ญี่ปุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Austrian",
+    "thai": "ออสเตรีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Russia",
+    "thai": "รัสเซีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Swedish",
+    "thai": "สวีเดน",
+    "phonetic": ""
+  },
+  {
+    "english": "Guyanese",
+    "thai": "ชาวกายอานา",
+    "phonetic": ""
+  },
+  {
+    "english": "South Africa",
+    "thai": "แอฟริกาใต้",
+    "phonetic": ""
+  },
+  {
+    "english": "Italy",
+    "thai": "อิตาลี",
+    "phonetic": ""
+  },
+  {
+    "english": "Nigeria",
+    "thai": "ไนจีเรีย",
+    "phonetic": ""
+  },
+  {
+    "english": "South African",
+    "thai": "แอฟริกาใต้",
+    "phonetic": ""
+  },
+  {
+    "english": "Nationality",
+    "thai": "สัญชาติ",
+    "phonetic": ""
+  },
+  {
+    "english": "German",
+    "thai": "ภาษาเยอรมัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Finland",
+    "thai": "ฟินแลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Iceland",
+    "thai": "ไอซ์แลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Spanish",
+    "thai": "ภาษาสเปน",
+    "phonetic": ""
+  },
+  {
+    "english": "Bangladesh",
+    "thai": "บังคลาเทศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Argentinian",
+    "thai": "ชาวอาร์เจนตินา",
+    "phonetic": ""
+  },
+  {
+    "english": "Portugal",
+    "thai": "โปรตุเกส",
+    "phonetic": ""
+  },
+  {
+    "english": "America",
+    "thai": "อเมริกา",
+    "phonetic": ""
+  },
+  {
+    "english": "Belgium",
+    "thai": "เบลเยียม",
+    "phonetic": ""
+  },
+  {
+    "english": "Chinese",
+    "thai": "ชาวจีน",
+    "phonetic": ""
+  },
+  {
+    "english": "Egypt",
+    "thai": "อียิปต์",
+    "phonetic": ""
+  },
+  {
+    "english": "Ecuadorian",
+    "thai": "ชาวเอกวาดอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Japan",
+    "thai": "ประเทศญี่ปุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Uruguayan",
+    "thai": "ชาวอุรุกวัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Ethiopian",
+    "thai": "ชาวเอธิโอเปีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Norwegian",
+    "thai": "นอร์เวย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Chilean",
+    "thai": "ชิลี",
+    "phonetic": ""
+  },
+  {
+    "english": "Tanzania",
+    "thai": "แทนซาเนีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Kenya",
+    "thai": "เคนยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Paraguay",
+    "thai": "ปารากวัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Italian",
+    "thai": "อิตาลี",
+    "phonetic": ""
+  },
+  {
+    "english": "Bangladeshi",
+    "thai": "ชาวบังคลาเทศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Chile",
+    "thai": "ชิลี",
+    "phonetic": ""
+  },
+  {
+    "english": "American",
+    "thai": "อเมริกัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Canada",
+    "thai": "แคนาดา",
+    "phonetic": ""
+  },
+  {
+    "english": "Thailand",
+    "thai": "ประเทศไทย",
+    "phonetic": ""
+  },
+  {
+    "english": "Egyptian",
+    "thai": "ชาวอียิปต์",
+    "phonetic": ""
+  },
+  {
     "english": "Nation",
     "thai": "ชาติ",
     "phonetic": ""
   },
   {
+    "english": "Australia",
+    "thai": "ออสเตรเลีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Kenyan",
+    "thai": "ชาวเคนยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Russian",
+    "thai": "รัสเซีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Mexican",
+    "thai": "ชาวเม็กซิกัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Canadian",
+    "thai": "ชาวแคนาดา",
+    "phonetic": ""
+  },
+  {
+    "english": "Thai",
+    "thai": "แบบไทย",
+    "phonetic": ""
+  },
+  {
+    "english": "Bolivian",
+    "thai": "ชาวโบลิเวีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Norway",
+    "thai": "นอร์เวย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Colombia",
+    "thai": "โคลอมเบีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Colombian",
+    "thai": "ชาวโคลอมเบีย",
+    "phonetic": ""
+  },
+  {
+    "english": "United Kingdom",
+    "thai": "สหราชอาณาจักร",
+    "phonetic": ""
+  },
+  {
+    "english": "Vietnam",
+    "thai": "เวียดนาม",
+    "phonetic": ""
+  },
+  {
+    "english": "Germany",
+    "thai": "เยอรมนี",
+    "phonetic": ""
+  },
+  {
+    "english": "New Zealander",
+    "thai": "ชาวนิวซีแลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "French",
+    "thai": "ภาษาฝรั่งเศส",
+    "phonetic": ""
+  },
+  {
+    "english": "Peru",
+    "thai": "เปรู",
+    "phonetic": ""
+  },
+  {
+    "english": "Venezuela",
+    "thai": "เวเนซุเอลา",
+    "phonetic": ""
+  },
+  {
+    "english": "New Zealand",
+    "thai": "นิวซีแลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Indian",
+    "thai": "ชาวอินเดีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Denmark",
+    "thai": "เดนมาร์ก",
+    "phonetic": ""
+  },
+  {
+    "english": "Ethiopia",
+    "thai": "เอธิโอเปีย",
+    "phonetic": ""
+  },
+  {
+    "english": "France",
+    "thai": "ฝรั่งเศส",
+    "phonetic": ""
+  },
+  {
+    "english": "Brazilian",
+    "thai": "บราซิล",
+    "phonetic": ""
+  },
+  {
     "english": "Nigerian",
     "thai": "ไนจีเรีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Pakistan",
+    "thai": "ปากีสถาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Netherlands",
+    "thai": "เนเธอร์แลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Tanzanian",
+    "thai": "แทนซาเนีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Korean",
+    "thai": "เกาหลี",
+    "phonetic": ""
+  },
+  {
+    "english": "Uruguay",
+    "thai": "อุรุกวัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Ireland",
+    "thai": "ไอร์แลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Sweden",
+    "thai": "สวีเดน",
+    "phonetic": ""
+  },
+  {
+    "english": "Bolivia",
+    "thai": "โบลิเวีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Argentina",
+    "thai": "อาร์เจนตินา",
+    "phonetic": ""
+  },
+  {
+    "english": "Pakistani",
+    "thai": "ปากีสถาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Switzerland",
+    "thai": "สวิตเซอร์แลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Peruvian",
+    "thai": "ชาวเปรู",
     "phonetic": ""
   },
   {
@@ -250,183 +420,8 @@
     "phonetic": ""
   },
   {
-    "english": "Canada",
-    "thai": "แคนาดา",
-    "phonetic": ""
-  },
-  {
-    "english": "Irish",
-    "thai": "ไอริช",
-    "phonetic": ""
-  },
-  {
-    "english": "Egypt",
-    "thai": "อียิปต์",
-    "phonetic": ""
-  },
-  {
-    "english": "United Kingdom",
-    "thai": "สหราชอาณาจักร",
-    "phonetic": ""
-  },
-  {
-    "english": "Guyanese",
-    "thai": "ชาวกายอานา",
-    "phonetic": ""
-  },
-  {
-    "english": "Ghana",
-    "thai": "กานา",
-    "phonetic": ""
-  },
-  {
-    "english": "Japan",
-    "thai": "ประเทศญี่ปุ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "France",
-    "thai": "ฝรั่งเศส",
-    "phonetic": ""
-  },
-  {
     "english": "Danish",
     "thai": "เดนมาร์ก",
-    "phonetic": ""
-  },
-  {
-    "english": "Korean",
-    "thai": "เกาหลี",
-    "phonetic": ""
-  },
-  {
-    "english": "Venezuelan",
-    "thai": "ชาวเวเนซุเอลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Chile",
-    "thai": "ชิลี",
-    "phonetic": ""
-  },
-  {
-    "english": "German",
-    "thai": "ภาษาเยอรมัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Tanzania",
-    "thai": "แทนซาเนีย",
-    "phonetic": ""
-  },
-  {
-    "english": "British",
-    "thai": "ชาวอังกฤษ",
-    "phonetic": ""
-  },
-  {
-    "english": "Bolivian",
-    "thai": "ชาวโบลิเวีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Brazil",
-    "thai": "บราซิล",
-    "phonetic": ""
-  },
-  {
-    "english": "Ecuadorian",
-    "thai": "ชาวเอกวาดอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Kenyan",
-    "thai": "ชาวเคนยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Sweden",
-    "thai": "สวีเดน",
-    "phonetic": ""
-  },
-  {
-    "english": "Swedish",
-    "thai": "สวีเดน",
-    "phonetic": ""
-  },
-  {
-    "english": "Nigeria",
-    "thai": "ไนจีเรีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Paraguay",
-    "thai": "ปารากวัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Bangladesh",
-    "thai": "บังคลาเทศ",
-    "phonetic": ""
-  },
-  {
-    "english": "Ethiopian",
-    "thai": "ชาวเอธิโอเปีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Korea",
-    "thai": "เกาหลี",
-    "phonetic": ""
-  },
-  {
-    "english": "Uruguayan",
-    "thai": "ชาวอุรุกวัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Thai",
-    "thai": "แบบไทย",
-    "phonetic": ""
-  },
-  {
-    "english": "Netherlands",
-    "thai": "เนเธอร์แลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Germany",
-    "thai": "เยอรมนี",
-    "phonetic": ""
-  },
-  {
-    "english": "Ethiopia",
-    "thai": "เอธิโอเปีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Finland",
-    "thai": "ฟินแลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Guyana",
-    "thai": "กายอานา",
-    "phonetic": ""
-  },
-  {
-    "english": "Russian",
-    "thai": "รัสเซีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Egyptian",
-    "thai": "ชาวอียิปต์",
-    "phonetic": ""
-  },
-  {
-    "english": "Paraguayan",
-    "thai": "ปารากวัย",
     "phonetic": ""
   },
   {
@@ -435,28 +430,33 @@
     "phonetic": ""
   },
   {
-    "english": "Tanzanian",
-    "thai": "แทนซาเนีย",
+    "english": "Venezuelan",
+    "thai": "ชาวเวเนซุเอลา",
     "phonetic": ""
   },
   {
-    "english": "Denmark",
-    "thai": "เดนมาร์ก",
+    "english": "Australian",
+    "thai": "ชาวออสเตรเลีย",
     "phonetic": ""
   },
   {
-    "english": "Argentina",
-    "thai": "อาร์เจนตินา",
+    "english": "Ghanaian",
+    "thai": "ชาวกานา",
     "phonetic": ""
   },
   {
-    "english": "Uruguay",
-    "thai": "อุรุกวัย",
+    "english": "Ghana",
+    "thai": "กานา",
     "phonetic": ""
   },
   {
-    "english": "Swiss",
-    "thai": "สวิส",
+    "english": "Guyana",
+    "thai": "กายอานา",
+    "phonetic": ""
+  },
+  {
+    "english": "Belgian",
+    "thai": "เบลเยียม",
     "phonetic": ""
   },
   {
@@ -465,38 +465,38 @@
     "phonetic": ""
   },
   {
-    "english": "Peruvian",
-    "thai": "ชาวเปรู",
+    "english": "India",
+    "thai": "อินเดีย",
     "phonetic": ""
   },
   {
-    "english": "Colombian",
-    "thai": "ชาวโคลอมเบีย",
+    "english": "Spain",
+    "thai": "สเปน",
     "phonetic": ""
   },
   {
-    "english": "Switzerland",
-    "thai": "สวิตเซอร์แลนด์",
+    "english": "Mexico",
+    "thai": "เม็กซิโก",
     "phonetic": ""
   },
   {
-    "english": "Iceland",
-    "thai": "ไอซ์แลนด์",
+    "english": "Korea",
+    "thai": "เกาหลี",
     "phonetic": ""
   },
   {
-    "english": "Colombia",
-    "thai": "โคลอมเบีย",
+    "english": "China",
+    "thai": "จีน",
     "phonetic": ""
   },
   {
-    "english": "Austria",
-    "thai": "ออสเตรีย",
+    "english": "British",
+    "thai": "ชาวอังกฤษ",
     "phonetic": ""
   },
   {
-    "english": "Italy",
-    "thai": "อิตาลี",
+    "english": "Brazil",
+    "thai": "บราซิล",
     "phonetic": ""
   }
 ]

@@ -1,112 +1,7 @@
 [
   {
-    "english": "Interval",
-    "thai": "ช่วงเวลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Learn",
-    "thai": "เรียนรู้",
-    "phonetic": ""
-  },
-  {
-    "english": "Fifth",
-    "thai": "ห้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Understand",
-    "thai": "เข้าใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Geology",
-    "thai": "ธรณีวิทยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Memorize",
-    "thai": "จดจำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Syllabus",
-    "thai": "หลักสูตร",
-    "phonetic": ""
-  },
-  {
-    "english": "Watch",
-    "thai": "ดู",
-    "phonetic": ""
-  },
-  {
-    "english": "Philosophy",
-    "thai": "ปรัชญา",
-    "phonetic": ""
-  },
-  {
-    "english": "Eternity",
-    "thai": "ความเป็นนิรันดร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Timer",
-    "thai": "ตัวจับเวลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Third",
-    "thai": "ที่สาม",
-    "phonetic": ""
-  },
-  {
-    "english": "Curriculum",
-    "thai": "หลักสูตร",
-    "phonetic": ""
-  },
-  {
-    "english": "Double",
-    "thai": "สองเท่า",
-    "phonetic": ""
-  },
-  {
-    "english": "First",
-    "thai": "อันดับแรก",
-    "phonetic": ""
-  },
-  {
-    "english": "Study",
-    "thai": "ศึกษา",
-    "phonetic": ""
-  },
-  {
-    "english": "Moment",
-    "thai": "ช่วงเวลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Second",
-    "thai": "ที่สอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Last",
-    "thai": "ล่าสุด",
-    "phonetic": ""
-  },
-  {
-    "english": "Revise",
-    "thai": "ปรับปรุงใหม่",
-    "phonetic": ""
-  },
-  {
-    "english": "Geography",
-    "thai": "ภูมิศาสตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Thirty",
-    "thai": "สามสิบ",
+    "english": "Single",
+    "thai": "เดี่ยว",
     "phonetic": ""
   },
   {
@@ -115,273 +10,8 @@
     "phonetic": ""
   },
   {
-    "english": "Teaching",
-    "thai": "การสอน",
-    "phonetic": ""
-  },
-  {
-    "english": "Fifty",
-    "thai": "ห้าสิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Speak",
-    "thai": "พูด",
-    "phonetic": ""
-  },
-  {
-    "english": "Paragraph",
-    "thai": "ย่อหน้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Article",
-    "thai": "บทความ",
-    "phonetic": ""
-  },
-  {
-    "english": "Twice",
-    "thai": "สองครั้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Chronology",
-    "thai": "ลำดับเหตุการณ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Sixty",
-    "thai": "หกสิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Fourth",
-    "thai": "ที่สี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Sequence",
-    "thai": "ลำดับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Sociology",
-    "thai": "สังคมวิทยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Law",
-    "thai": "กฎ",
-    "phonetic": ""
-  },
-  {
-    "english": "Hourglass",
-    "thai": "นาฬิกาทราย",
-    "phonetic": ""
-  },
-  {
-    "english": "Eighty",
-    "thai": "แปดสิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Mathematics",
-    "thai": "คณิตศาสตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Graduate",
-    "thai": "เรียนจบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Science",
-    "thai": "ศาสตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Biology",
-    "thai": "ชีววิทยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Seventy",
-    "thai": "เจ็ดสิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Matriculate",
-    "thai": "สอบเข้ามหาวิทยาลัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Economics",
-    "thai": "เศรษฐศาสตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Technology",
-    "thai": "เทคโนโลยี",
-    "phonetic": ""
-  },
-  {
-    "english": "Physics",
-    "thai": "ฟิสิกส์",
-    "phonetic": ""
-  },
-  {
-    "english": "Listen",
-    "thai": "ฟัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Dictionary",
-    "thai": "พจนานุกรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Write",
-    "thai": "เขียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Wisdom",
-    "thai": "ภูมิปัญญา",
-    "phonetic": ""
-  },
-  {
-    "english": "Astronomy",
-    "thai": "ดาราศาสตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Encyclopedia",
-    "thai": "สารานุกรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Ninety",
-    "thai": "เก้าสิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Next",
-    "thai": "ต่อไป",
-    "phonetic": ""
-  },
-  {
-    "english": "Read",
-    "thai": "อ่าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Newspaper",
-    "thai": "หนังสือพิมพ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Word",
-    "thai": "คำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Antiquity",
-    "thai": "สมัยโบราณ",
-    "phonetic": ""
-  },
-  {
-    "english": "Analyze",
-    "thai": "วิเคราะห์",
-    "phonetic": ""
-  },
-  {
-    "english": "Posterity",
-    "thai": "ลูกหลาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Engineering",
-    "thai": "วิศวกรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "History",
-    "thai": "ประวัติศาสตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Art",
-    "thai": "ศิลปะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Sundial",
-    "thai": "นาฬิกาแดด",
-    "phonetic": ""
-  },
-  {
-    "english": "Knowledge",
-    "thai": "ความรู้",
-    "phonetic": ""
-  },
-  {
-    "english": "Future",
-    "thai": "อนาคต",
-    "phonetic": ""
-  },
-  {
-    "english": "Past",
-    "thai": "อดีต",
-    "phonetic": ""
-  },
-  {
-    "english": "Politics",
-    "thai": "การเมือง",
-    "phonetic": ""
-  },
-  {
-    "english": "Textbook",
-    "thai": "หนังสือเรียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Thrice",
-    "thai": "สามครั้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Period",
-    "thai": "ระยะเวลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Alarm",
-    "thai": "เตือน",
-    "phonetic": ""
-  },
-  {
-    "english": "Learning",
-    "thai": "การเรียนรู้",
-    "phonetic": ""
-  },
-  {
-    "english": "Practice",
-    "thai": "ฝึกฝน",
-    "phonetic": ""
-  },
-  {
-    "english": "Evaluate",
-    "thai": "ประเมิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Workbook",
-    "thai": "สมุดงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Single",
-    "thai": "เดี่ยว",
+    "english": "Timer",
+    "thai": "ตัวจับเวลา",
     "phonetic": ""
   },
   {
@@ -390,18 +20,68 @@
     "phonetic": ""
   },
   {
-    "english": "Sentence",
-    "thai": "ประโยค",
+    "english": "Posterity",
+    "thai": "ลูกหลาน",
     "phonetic": ""
   },
   {
-    "english": "Religion",
-    "thai": "ศาสนา",
+    "english": "Curriculum",
+    "thai": "หลักสูตร",
     "phonetic": ""
   },
   {
-    "english": "Atlas",
-    "thai": "แอตลาส",
+    "english": "Read",
+    "thai": "อ่าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Textbook",
+    "thai": "หนังสือเรียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Learning",
+    "thai": "การเรียนรู้",
+    "phonetic": ""
+  },
+  {
+    "english": "Past",
+    "thai": "อดีต",
+    "phonetic": ""
+  },
+  {
+    "english": "Fifty",
+    "thai": "ห้าสิบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Eighty",
+    "thai": "แปดสิบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Interval",
+    "thai": "ช่วงเวลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Workbook",
+    "thai": "สมุดงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Syllabus",
+    "thai": "หลักสูตร",
+    "phonetic": ""
+  },
+  {
+    "english": "Moment",
+    "thai": "ช่วงเวลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Next",
+    "thai": "ต่อไป",
     "phonetic": ""
   },
   {
@@ -410,8 +90,23 @@
     "phonetic": ""
   },
   {
-    "english": "Modernity",
-    "thai": "ความทันสมัย",
+    "english": "Teaching",
+    "thai": "การสอน",
+    "phonetic": ""
+  },
+  {
+    "english": "Thrice",
+    "thai": "สามครั้ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Chronology",
+    "thai": "ลำดับเหตุการณ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Antiquity",
+    "thai": "สมัยโบราณ",
     "phonetic": ""
   },
   {
@@ -420,23 +115,83 @@
     "phonetic": ""
   },
   {
-    "english": "Literature",
-    "thai": "วรรณกรรม",
+    "english": "History",
+    "thai": "ประวัติศาสตร์",
     "phonetic": ""
   },
   {
-    "english": "Synthesize",
-    "thai": "สังเคราะห์",
+    "english": "Sixty",
+    "thai": "หกสิบ",
     "phonetic": ""
   },
   {
-    "english": "Timeline",
-    "thai": "ไทม์ไลน์",
+    "english": "Mathematics",
+    "thai": "คณิตศาสตร์",
     "phonetic": ""
   },
   {
-    "english": "Psychology",
-    "thai": "จิตวิทยา",
+    "english": "Law",
+    "thai": "กฎ",
+    "phonetic": ""
+  },
+  {
+    "english": "Eternity",
+    "thai": "ความเป็นนิรันดร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Fifth",
+    "thai": "ห้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Geography",
+    "thai": "ภูมิศาสตร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Double",
+    "thai": "สองเท่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Art",
+    "thai": "ศิลปะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Matriculate",
+    "thai": "สอบเข้ามหาวิทยาลัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Instant",
+    "thai": "ทันที",
+    "phonetic": ""
+  },
+  {
+    "english": "Seventy",
+    "thai": "เจ็ดสิบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Speak",
+    "thai": "พูด",
+    "phonetic": ""
+  },
+  {
+    "english": "Listen",
+    "thai": "ฟัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Learn",
+    "thai": "เรียนรู้",
+    "phonetic": ""
+  },
+  {
+    "english": "Sequence",
+    "thai": "ลำดับ",
     "phonetic": ""
   },
   {
@@ -445,28 +200,23 @@
     "phonetic": ""
   },
   {
-    "english": "Magazine",
-    "thai": "นิตยสาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Education",
-    "thai": "การศึกษา",
-    "phonetic": ""
-  },
-  {
-    "english": "Collaborate",
-    "thai": "ร่วมมือ",
-    "phonetic": ""
-  },
-  {
     "english": "Once",
     "thai": "ครั้งหนึ่ง",
     "phonetic": ""
   },
   {
-    "english": "Create",
-    "thai": "สร้าง",
+    "english": "Thirty",
+    "thai": "สามสิบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Evaluate",
+    "thai": "ประเมิน",
+    "phonetic": ""
+  },
+  {
+    "english": "First",
+    "thai": "อันดับแรก",
     "phonetic": ""
   },
   {
@@ -475,18 +225,98 @@
     "phonetic": ""
   },
   {
-    "english": "Chapter",
-    "thai": "บท",
+    "english": "Third",
+    "thai": "ที่สาม",
     "phonetic": ""
   },
   {
-    "english": "Innovate",
-    "thai": "นวัตกรรม",
+    "english": "Graduate",
+    "thai": "เรียนจบ",
     "phonetic": ""
   },
   {
-    "english": "Computer Science",
-    "thai": "วิทยาการคอมพิวเตอร์",
+    "english": "Psychology",
+    "thai": "จิตวิทยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Knowledge",
+    "thai": "ความรู้",
+    "phonetic": ""
+  },
+  {
+    "english": "Dictionary",
+    "thai": "พจนานุกรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Second",
+    "thai": "ที่สอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Write",
+    "thai": "เขียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Encyclopedia",
+    "thai": "สารานุกรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Analyze",
+    "thai": "วิเคราะห์",
+    "phonetic": ""
+  },
+  {
+    "english": "Physics",
+    "thai": "ฟิสิกส์",
+    "phonetic": ""
+  },
+  {
+    "english": "Twice",
+    "thai": "สองครั้ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Wisdom",
+    "thai": "ภูมิปัญญา",
+    "phonetic": ""
+  },
+  {
+    "english": "Newspaper",
+    "thai": "หนังสือพิมพ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Astronomy",
+    "thai": "ดาราศาสตร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Economics",
+    "thai": "เศรษฐศาสตร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Future",
+    "thai": "อนาคต",
+    "phonetic": ""
+  },
+  {
+    "english": "Timeline",
+    "thai": "ไทม์ไลน์",
+    "phonetic": ""
+  },
+  {
+    "english": "Article",
+    "thai": "บทความ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sociology",
+    "thai": "สังคมวิทยา",
     "phonetic": ""
   },
   {
@@ -495,8 +325,178 @@
     "phonetic": ""
   },
   {
-    "english": "Instant",
-    "thai": "ทันที",
+    "english": "Collaborate",
+    "thai": "ร่วมมือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Ninety",
+    "thai": "เก้าสิบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Revise",
+    "thai": "ปรับปรุงใหม่",
+    "phonetic": ""
+  },
+  {
+    "english": "Alarm",
+    "thai": "เตือน",
+    "phonetic": ""
+  },
+  {
+    "english": "Hourglass",
+    "thai": "นาฬิกาทราย",
+    "phonetic": ""
+  },
+  {
+    "english": "Memorize",
+    "thai": "จดจำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Religion",
+    "thai": "ศาสนา",
+    "phonetic": ""
+  },
+  {
+    "english": "Computer Science",
+    "thai": "วิทยาการคอมพิวเตอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Magazine",
+    "thai": "นิตยสาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Watch",
+    "thai": "ดู",
+    "phonetic": ""
+  },
+  {
+    "english": "Modernity",
+    "thai": "ความทันสมัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Understand",
+    "thai": "เข้าใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Fourth",
+    "thai": "ที่สี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Last",
+    "thai": "ล่าสุด",
+    "phonetic": ""
+  },
+  {
+    "english": "Technology",
+    "thai": "เทคโนโลยี",
+    "phonetic": ""
+  },
+  {
+    "english": "Literature",
+    "thai": "วรรณกรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Education",
+    "thai": "การศึกษา",
+    "phonetic": ""
+  },
+  {
+    "english": "Chapter",
+    "thai": "บท",
+    "phonetic": ""
+  },
+  {
+    "english": "Sundial",
+    "thai": "นาฬิกาแดด",
+    "phonetic": ""
+  },
+  {
+    "english": "Philosophy",
+    "thai": "ปรัชญา",
+    "phonetic": ""
+  },
+  {
+    "english": "Practice",
+    "thai": "ฝึกฝน",
+    "phonetic": ""
+  },
+  {
+    "english": "Innovate",
+    "thai": "นวัตกรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Period",
+    "thai": "ระยะเวลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Politics",
+    "thai": "การเมือง",
+    "phonetic": ""
+  },
+  {
+    "english": "Atlas",
+    "thai": "แอตลาส",
+    "phonetic": ""
+  },
+  {
+    "english": "Engineering",
+    "thai": "วิศวกรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Geology",
+    "thai": "ธรณีวิทยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Sentence",
+    "thai": "ประโยค",
+    "phonetic": ""
+  },
+  {
+    "english": "Word",
+    "thai": "คำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Science",
+    "thai": "ศาสตร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Synthesize",
+    "thai": "สังเคราะห์",
+    "phonetic": ""
+  },
+  {
+    "english": "Create",
+    "thai": "สร้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Biology",
+    "thai": "ชีววิทยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Paragraph",
+    "thai": "ย่อหน้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Study",
+    "thai": "ศึกษา",
     "phonetic": ""
   }
 ]

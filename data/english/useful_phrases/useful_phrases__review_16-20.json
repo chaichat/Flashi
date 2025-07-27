@@ -1,292 +1,7 @@
 [
   {
-    "english": "Make a signal",
-    "thai": "ส่งสัญญาณ",
-    "phonetic": ""
-  },
-  {
-    "english": "I am a vegan",
-    "thai": "ฉันเป็นมังสวิรัติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have a knife",
-    "thai": "ฉันขอมีดได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Shout for help",
-    "thai": "ตะโกนขอความช่วยเหลือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I pay by cash",
-    "thai": "ฉันสามารถชำระเงินด้วยเงินสดได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have a glass",
-    "thai": "ขอแก้วนึงได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have a copy of the report",
-    "thai": "ฉันขอสำเนารายงานได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "What happened",
-    "thai": "เกิดอะไรขึ้น",
-    "phonetic": ""
-  },
-  {
-    "english": "The food is too spicy",
-    "thai": "อาหารรสเผ็ดมาก",
-    "phonetic": ""
-  },
-  {
-    "english": "I need to make a statement",
-    "thai": "ฉันจำเป็นต้องออกแถลงการณ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Do not give water",
-    "thai": "อย่าให้น้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "I am hungry",
-    "thai": "ฉันหิว",
-    "phonetic": ""
-  },
-  {
-    "english": "I am thirsty",
-    "thai": "ฉันกระหายน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "I am still hungry",
-    "thai": "ฉันยังหิวอยู่",
-    "phonetic": ""
-  },
-  {
-    "english": "I understand",
-    "thai": "ฉันเข้าใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "The food is too sour",
-    "thai": "อาหารเปรี้ยวเกินไป",
-    "phonetic": ""
-  },
-  {
-    "english": "Use a whistle",
-    "thai": "ใช้เสียงนกหวีด",
-    "phonetic": ""
-  },
-  {
-    "english": "What is your badge number",
-    "thai": "หมายเลขบัตรของคุณคืออะไร",
-    "phonetic": ""
-  },
-  {
-    "english": "Use a flare",
-    "thai": "ใช้แฟลร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Can you make it less spicy",
-    "thai": "คุณทำให้เผ็ดน้อยลงได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have a cup of tea",
-    "thai": "ฉันขอชาสักถ้วยได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I do not eat beef",
-    "thai": "ฉันไม่กินเนื้อวัว",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have a glass of water",
-    "thai": "ฉันขอน้ำสักแก้วได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I have a photo",
-    "thai": "ฉันมีรูปถ่าย",
-    "phonetic": ""
-  },
-  {
-    "english": "Call for help",
-    "thai": "เรียกขอความช่วยเหลือ",
-    "phonetic": ""
-  },
-  {
-    "english": "This is not what I ordered",
-    "thai": "นี่ไม่ใช่สิ่งที่ฉันสั่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have a take away box",
-    "thai": "ฉันขอกล่องกลับบ้านได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I would like to give a compliment",
-    "thai": "ฉันอยากจะให้คำชมเชย",
-    "phonetic": ""
-  },
-  {
-    "english": "I did not like it",
-    "thai": "ฉันไม่ชอบมัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Follow instructions",
-    "thai": "ปฏิบัติตามคำแนะนำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Please speak slowly",
-    "thai": "กรุณาพูดช้าๆ",
-    "phonetic": ""
-  },
-  {
-    "english": "I can describe the vehicle",
-    "thai": "ฉันสามารถอธิบายยานพาหนะได้",
-    "phonetic": ""
-  },
-  {
-    "english": "I do not eat pork",
-    "thai": "ฉันไม่กินหมู",
-    "phonetic": ""
-  },
-  {
-    "english": "Do you have a loyalty program",
-    "thai": "คุณมีโปรแกรมความภักดีหรือไม่",
-    "phonetic": ""
-  },
-  {
-    "english": "Immobilize the injury",
-    "thai": "ตรึงการบาดเจ็บ",
-    "phonetic": ""
-  },
-  {
-    "english": "Is everyone safe",
-    "thai": "ทุกคนปลอดภัยไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have more bread",
-    "thai": "ฉันขอขนมปังเพิ่มได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have more rice",
-    "thai": "ฉันขอข้าวเพิ่มได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have a cup of coffee",
-    "thai": "ฉันขอกาแฟสักถ้วยได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I do not eat fish",
-    "thai": "ฉันไม่กินปลา",
-    "phonetic": ""
-  },
-  {
-    "english": "It was excellent",
-    "thai": "มันเยี่ยมมาก",
-    "phonetic": ""
-  },
-  {
-    "english": "Please repeat",
-    "thai": "กรุณาพูดซ้ำอีกครั้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Keep still",
-    "thai": "ให้อยู่นิ่งๆ",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I pay by card",
-    "thai": "ฉันสามารถชำระเงินด้วยบัตรได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I like spicy food",
-    "thai": "ฉันชอบอาหารรสเผ็ด",
-    "phonetic": ""
-  },
-  {
-    "english": "Is service charge included",
-    "thai": "รวมค่าบริการแล้ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I get a discount",
-    "thai": "ฉันจะได้รับส่วนลดได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have the bill please",
-    "thai": "ฉันขอบิลหน่อยได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have more napkins",
-    "thai": "ฉันขอผ้าเช็ดปากเพิ่มได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Can you make it more spicy",
-    "thai": "คุณทำให้มันเผ็ดกว่านี้ได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have chopsticks",
-    "thai": "ฉันขอตะเกียบได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Is this dish hot",
-    "thai": "จานนี้เผ็ดไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Is anyone hurt",
-    "thai": "มีใครได้รับบาดเจ็บไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Do not panic",
-    "thai": "อย่าตื่นตกใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "I am allergic to nuts",
-    "thai": "ฉันแพ้ถั่ว",
-    "phonetic": ""
-  },
-  {
-    "english": "I can be a witness",
-    "thai": "ฉันสามารถเป็นพยานได้",
-    "phonetic": ""
-  },
-  {
-    "english": "I am full",
-    "thai": "ฉันอิ่มแล้ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Apply pressure",
-    "thai": "ใช้แรงกด",
+    "english": "Can I have a fork",
+    "thai": "ฉันขอส้อมหน่อยได้ไหม",
     "phonetic": ""
   },
   {
@@ -295,53 +10,58 @@
     "phonetic": ""
   },
   {
-    "english": "Please write it down",
-    "thai": "กรุณาเขียนมันลงไป",
-    "phonetic": ""
-  },
-  {
     "english": "What do you recommend",
     "thai": "คุณแนะนำเมนูใด",
     "phonetic": ""
   },
   {
-    "english": "Give water",
-    "thai": "ให้น้ำ",
+    "english": "What is the special today",
+    "thai": "วันนี้มีอะไรพิเศษบ้าง",
     "phonetic": ""
   },
   {
-    "english": "I do not like spicy food",
-    "thai": "ฉันไม่ชอบอาหารรสเผ็ด",
+    "english": "I can describe the vehicle",
+    "thai": "ฉันสามารถอธิบายยานพาหนะได้",
     "phonetic": ""
   },
   {
-    "english": "I saw what happened",
-    "thai": "ฉันเห็นสิ่งที่เกิดขึ้น",
+    "english": "Can I have a cup of coffee",
+    "thai": "ฉันขอกาแฟสักถ้วยได้ไหม",
     "phonetic": ""
   },
   {
-    "english": "I enjoyed the meal",
-    "thai": "ฉันเพลิดเพลินกับมื้ออาหาร",
+    "english": "Stay calm",
+    "thai": "ใจเย็นๆ",
     "phonetic": ""
   },
   {
-    "english": "Can I have a bowl",
-    "thai": "ขอชามนึงได้ไหม",
+    "english": "Do not panic",
+    "thai": "อย่าตื่นตกใจ",
     "phonetic": ""
   },
   {
-    "english": "The food is too bitter",
-    "thai": "อาหารขมเกินไป",
+    "english": "Please speak slowly",
+    "thai": "กรุณาพูดช้าๆ",
     "phonetic": ""
   },
   {
-    "english": "Can I speak to the manager",
-    "thai": "ฉันสามารถพูดคุยกับผู้จัดการได้ไหม",
+    "english": "What is your badge number",
+    "thai": "หมายเลขบัตรของคุณคืออะไร",
     "phonetic": ""
   },
   {
-    "english": "I would like to eat",
-    "thai": "ฉันอยากกิน",
+    "english": "Use a mirror",
+    "thai": "ใช้กระจก",
+    "phonetic": ""
+  },
+  {
+    "english": "Do not move",
+    "thai": "อย่าขยับ",
+    "phonetic": ""
+  },
+  {
+    "english": "The food is too sour",
+    "thai": "อาหารเปรี้ยวเกินไป",
     "phonetic": ""
   },
   {
@@ -355,83 +75,18 @@
     "phonetic": ""
   },
   {
-    "english": "The food is too sweet",
-    "thai": "อาหารหวานเกินไป",
+    "english": "Thank you for the meal",
+    "thai": "ขอบคุณสำหรับมื้ออาหาร",
     "phonetic": ""
   },
   {
-    "english": "Can you explain",
-    "thai": "คุณอธิบายได้ไหม",
+    "english": "I do not eat beef",
+    "thai": "ฉันไม่กินเนื้อวัว",
     "phonetic": ""
   },
   {
-    "english": "There is a mistake in the bill",
-    "thai": "มีข้อผิดพลาดในบิล",
-    "phonetic": ""
-  },
-  {
-    "english": "Who is responsible",
-    "thai": "ใครเป็นผู้รับผิดชอบ",
-    "phonetic": ""
-  },
-  {
-    "english": "I am a vegetarian",
-    "thai": "ฉันเป็นมังสวิรัติ",
-    "phonetic": ""
-  },
-  {
-    "english": "I have a video",
-    "thai": "ฉันมีวีดีโอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Wait for help",
-    "thai": "รอความช่วยเหลือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Stay visible",
-    "thai": "อยู่ให้มองเห็นได้",
-    "phonetic": ""
-  },
-  {
-    "english": "The food is just right",
-    "thai": "อาหารก็พอดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Elevate the limb",
-    "thai": "ยกแขนขาขึ้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have a plate",
-    "thai": "ขอจานหน่อยได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Use a mirror",
-    "thai": "ใช้กระจก",
-    "phonetic": ""
-  },
-  {
-    "english": "Stay calm",
-    "thai": "ใจเย็นๆ",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have a refill",
-    "thai": "ฉันขอเติมได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have a straw",
-    "thai": "ฉันขอหลอดได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Thank you for your service",
-    "thai": "ขอบคุณสำหรับการบริการของคุณ",
+    "english": "I have a photo",
+    "thai": "ฉันมีรูปถ่าย",
     "phonetic": ""
   },
   {
@@ -440,53 +95,8 @@
     "phonetic": ""
   },
   {
-    "english": "Can I have a fork",
-    "thai": "ฉันขอส้อมหน่อยได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "What is the special today",
-    "thai": "วันนี้มีอะไรพิเศษบ้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Thank you for the meal",
-    "thai": "ขอบคุณสำหรับมื้ออาหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Do not move",
-    "thai": "อย่าขยับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Keep warm",
-    "thai": "ให้ความอบอุ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "The food is too salty",
-    "thai": "อาหารเค็มเกินไป",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have a cup",
-    "thai": "ฉันขอสักถ้วยได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I would like to make a complaint",
-    "thai": "ฉันต้องการร้องเรียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Is this dish cold",
-    "thai": "จานนี้เย็นไหมคะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have more water",
-    "thai": "ฉันขอน้ำเพิ่มได้ไหม",
+    "english": "Can I have a plate",
+    "thai": "ขอจานหน่อยได้ไหม",
     "phonetic": ""
   },
   {
@@ -495,8 +105,398 @@
     "phonetic": ""
   },
   {
+    "english": "Can I have a glass of water",
+    "thai": "ฉันขอน้ำสักแก้วได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Is service charge included",
+    "thai": "รวมค่าบริการแล้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "I am a vegetarian",
+    "thai": "ฉันเป็นมังสวิรัติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Immobilize the injury",
+    "thai": "ตรึงการบาดเจ็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have a take away box",
+    "thai": "ฉันขอกล่องกลับบ้านได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Is this dish hot",
+    "thai": "จานนี้เผ็ดไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I enjoyed the meal",
+    "thai": "ฉันเพลิดเพลินกับมื้ออาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have a cup of tea",
+    "thai": "ฉันขอชาสักถ้วยได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I speak to the manager",
+    "thai": "ฉันสามารถพูดคุยกับผู้จัดการได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have chopsticks",
+    "thai": "ฉันขอตะเกียบได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I do not eat fish",
+    "thai": "ฉันไม่กินปลา",
+    "phonetic": ""
+  },
+  {
+    "english": "I am thirsty",
+    "thai": "ฉันกระหายน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "I do not eat pork",
+    "thai": "ฉันไม่กินหมู",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I pay by card",
+    "thai": "ฉันสามารถชำระเงินด้วยบัตรได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have a refill",
+    "thai": "ฉันขอเติมได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have a copy of the report",
+    "thai": "ฉันขอสำเนารายงานได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I would like to eat",
+    "thai": "ฉันอยากกิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Apply pressure",
+    "thai": "ใช้แรงกด",
+    "phonetic": ""
+  },
+  {
+    "english": "Wait for help",
+    "thai": "รอความช่วยเหลือ",
+    "phonetic": ""
+  },
+  {
+    "english": "I need to make a statement",
+    "thai": "ฉันจำเป็นต้องออกแถลงการณ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Use a whistle",
+    "thai": "ใช้เสียงนกหวีด",
+    "phonetic": ""
+  },
+  {
+    "english": "Can you make it more spicy",
+    "thai": "คุณทำให้มันเผ็ดกว่านี้ได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Use a flare",
+    "thai": "ใช้แฟลร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Can you explain",
+    "thai": "คุณอธิบายได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I saw what happened",
+    "thai": "ฉันเห็นสิ่งที่เกิดขึ้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Is everyone safe",
+    "thai": "ทุกคนปลอดภัยไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Do not give water",
+    "thai": "อย่าให้น้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Please repeat",
+    "thai": "กรุณาพูดซ้ำอีกครั้ง",
+    "phonetic": ""
+  },
+  {
+    "english": "I did not like it",
+    "thai": "ฉันไม่ชอบมัน",
+    "phonetic": ""
+  },
+  {
+    "english": "I am hungry",
+    "thai": "ฉันหิว",
+    "phonetic": ""
+  },
+  {
+    "english": "I do not like spicy food",
+    "thai": "ฉันไม่ชอบอาหารรสเผ็ด",
+    "phonetic": ""
+  },
+  {
+    "english": "Call for help",
+    "thai": "เรียกขอความช่วยเหลือ",
+    "phonetic": ""
+  },
+  {
+    "english": "I am still hungry",
+    "thai": "ฉันยังหิวอยู่",
+    "phonetic": ""
+  },
+  {
+    "english": "I am allergic to nuts",
+    "thai": "ฉันแพ้ถั่ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have the bill please",
+    "thai": "ฉันขอบิลหน่อยได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "The food is just right",
+    "thai": "อาหารก็พอดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Please write it down",
+    "thai": "กรุณาเขียนมันลงไป",
+    "phonetic": ""
+  },
+  {
+    "english": "Stay visible",
+    "thai": "อยู่ให้มองเห็นได้",
+    "phonetic": ""
+  },
+  {
+    "english": "I understand",
+    "thai": "ฉันเข้าใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Is this dish cold",
+    "thai": "จานนี้เย็นไหมคะ",
+    "phonetic": ""
+  },
+  {
+    "english": "The food is too sweet",
+    "thai": "อาหารหวานเกินไป",
+    "phonetic": ""
+  },
+  {
+    "english": "What happened",
+    "thai": "เกิดอะไรขึ้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Thank you for your service",
+    "thai": "ขอบคุณสำหรับการบริการของคุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "I am a vegan",
+    "thai": "ฉันเป็นมังสวิรัติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Keep still",
+    "thai": "ให้อยู่นิ่งๆ",
+    "phonetic": ""
+  },
+  {
+    "english": "Shout for help",
+    "thai": "ตะโกนขอความช่วยเหลือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Who is responsible",
+    "thai": "ใครเป็นผู้รับผิดชอบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have more rice",
+    "thai": "ฉันขอข้าวเพิ่มได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Follow instructions",
+    "thai": "ปฏิบัติตามคำแนะนำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I get a discount",
+    "thai": "ฉันจะได้รับส่วนลดได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Can you make it less spicy",
+    "thai": "คุณทำให้เผ็ดน้อยลงได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have a straw",
+    "thai": "ฉันขอหลอดได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I would like to give a compliment",
+    "thai": "ฉันอยากจะให้คำชม",
+    "phonetic": ""
+  },
+  {
+    "english": "I have a video",
+    "thai": "ฉันมีวีดีโอ",
+    "phonetic": ""
+  },
+  {
+    "english": "This is not what I ordered",
+    "thai": "นี่ไม่ใช่สิ่งที่ฉันสั่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Keep warm",
+    "thai": "ให้ความอบอุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "The food is too bitter",
+    "thai": "อาหารขมเกินไป",
+    "phonetic": ""
+  },
+  {
+    "english": "I would like to make a complaint",
+    "thai": "ฉันต้องการร้องเรียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Give water",
+    "thai": "ให้น้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "The food is too spicy",
+    "thai": "อาหารรสเผ็ดมาก",
+    "phonetic": ""
+  },
+  {
+    "english": "There is a mistake in the bill",
+    "thai": "มีข้อผิดพลาดในบิล",
+    "phonetic": ""
+  },
+  {
+    "english": "It was excellent",
+    "thai": "มันเยี่ยมมาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Elevate the limb",
+    "thai": "ยกแขนขาขึ้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have more water",
+    "thai": "ฉันขอน้ำเพิ่มได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I like spicy food",
+    "thai": "ฉันชอบอาหารรสเผ็ด",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have more bread",
+    "thai": "ฉันขอขนมปังเพิ่มได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have more napkins",
+    "thai": "ฉันขอผ้าเช็ดปากเพิ่มได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have a knife",
+    "thai": "ฉันขอมีดได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have a loyalty program",
+    "thai": "คุณมีโปรแกรมความภักดีหรือไม่",
+    "phonetic": ""
+  },
+  {
+    "english": "I am full",
+    "thai": "ฉันอิ่มแล้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have a bowl",
+    "thai": "ขอชามนึงได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Is anyone hurt",
+    "thai": "มีใครได้รับบาดเจ็บไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have a cup",
+    "thai": "ฉันขอสักถ้วยได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Make a signal",
+    "thai": "ส่งสัญญาณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have a glass",
+    "thai": "ขอแก้วนึงได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "The food is too salty",
+    "thai": "อาหารเค็มเกินไป",
+    "phonetic": ""
+  },
+  {
     "english": "Can I have a doggy bag",
     "thai": "ฉันขอถุงใส่สุนัขได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I can be a witness",
+    "thai": "ฉันสามารถเป็นพยานได้",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I pay by cash",
+    "thai": "ฉันสามารถชำระเงินด้วยเงินสดได้ไหม",
     "phonetic": ""
   }
 ]

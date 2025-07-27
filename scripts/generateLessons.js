@@ -59,6 +59,8 @@ async function generateLessons() {
 
     const CATEGORY_EVERYDAY = "Everyday";
     const CATEGORY_USEFUL_PHRASES = "Useful Phrases";
+    const CATEGORY_IELTS = "IELTS Vocabulary";
+    const CATEGORY_HSK1 = "HSK 1";
 
     try {
         console.log('Starting lesson generation...');
@@ -183,7 +185,32 @@ async function generateLessons() {
         manifest[LANGUAGE_CHINESE][CATEGORY_USEFUL_PHRASES] = chinesePhrasesCat;
         console.log(`Added ${chinesePhrasesCount} new Chinese Useful Phrases lessons.`);
 
-        // 4. Update the manifest file
+        // 5. Preserve and integrate existing IELTS and HSK 1 lessons
+        const preserveCategories = [CATEGORY_IELTS, CATEGORY_HSK1];
+        for (const lang of [LANGUAGE_ENGLISH, LANGUAGE_CHINESE]) {
+            const currentManifestCategory = manifest[lang];
+            for (const catName of preserveCategories) {
+                const catDir = path.join(dataDir, lang, sanitizeForFilename(catName));
+                if (fs.existsSync(catDir)) {
+                    const lessonFiles = fs.readdirSync(catDir).filter(file => file.endsWith('.json'));
+                    const existingLessons = [];
+                    lessonFiles.forEach(file => {
+                        const lessonName = file.replace(/\.json$/, '').replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase()); // Basic unsanitization
+                        const lessonNameTh = categoryTranslations[catName]; // Use category translation for now
+                        existingLessons.push({
+                            name: lessonName,
+                            name_th: lessonNameTh,
+                            file: `${lang}/${sanitizeForFilename(catName)}/${file}`,
+                            isReview: lessonName.toLowerCase().includes('review')
+                        });
+                    });
+                    currentManifestCategory[catName] = { name_th: categoryTranslations[catName], lessons: existingLessons };
+                    console.log(`Preserved and integrated existing lessons for ${lang}/${catName}.`);
+                }
+            }
+        }
+
+        // 6. Write the updated manifest file
         fs.writeFileSync(manifestFilePath, JSON.stringify(manifest, null, 2), 'utf8');
 
         console.log(`\nSuccessfully generated all lessons and review stacks.`);

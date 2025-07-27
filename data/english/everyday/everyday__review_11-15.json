@@ -1,232 +1,7 @@
 [
   {
-    "english": "Shipping",
-    "thai": "การส่งสินค้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Helpdesk",
-    "thai": "ฝ่ายช่วยเหลือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Intellectual Property",
-    "thai": "ทรัพย์สินทางปัญญา",
-    "phonetic": ""
-  },
-  {
-    "english": "Infrastructure as a Service",
-    "thai": "โครงสร้างพื้นฐานในรูปแบบบริการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Procurement",
-    "thai": "การจัดซื้อจัดจ้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Support",
-    "thai": "สนับสนุน",
-    "phonetic": ""
-  },
-  {
     "english": "Term sheet",
     "thai": "ใบสรุปเงื่อนไข",
-    "phonetic": ""
-  },
-  {
-    "english": "Supply chain",
-    "thai": "ห่วงโซ่อุปทาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Gantt",
-    "thai": "แกนต์",
-    "phonetic": ""
-  },
-  {
-    "english": "Program",
-    "thai": "โปรแกรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Warehouse",
-    "thai": "คลังสินค้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Entity",
-    "thai": "เอนทิตี้",
-    "phonetic": ""
-  },
-  {
-    "english": "Inventory",
-    "thai": "รายการสิ่งของ",
-    "phonetic": ""
-  },
-  {
-    "english": "Headcount",
-    "thai": "จำนวนหัวหน้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Inclusion",
-    "thai": "การรวม",
-    "phonetic": ""
-  },
-  {
-    "english": "Letter of Intent",
-    "thai": "จดหมายแสดงเจตนา",
-    "phonetic": ""
-  },
-  {
-    "english": "Feasibility",
-    "thai": "ความเป็นไปได้",
-    "phonetic": ""
-  },
-  {
-    "english": "Database",
-    "thai": "ฐานข้อมูล",
-    "phonetic": ""
-  },
-  {
-    "english": "Onboarding",
-    "thai": "การออนบอร์ด",
-    "phonetic": ""
-  },
-  {
-    "english": "Backup",
-    "thai": "การสำรองข้อมูล",
-    "phonetic": ""
-  },
-  {
-    "english": "Disaster",
-    "thai": "ภัยพิบัติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Roadmap",
-    "thai": "แผนงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Firewall",
-    "thai": "ไฟร์วอลล์",
-    "phonetic": ""
-  },
-  {
-    "english": "Kanban",
-    "thai": "คัมบัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Patent",
-    "thai": "สิทธิบัตร",
-    "phonetic": ""
-  },
-  {
-    "english": "Recruiting",
-    "thai": "การสรรหาบุคลากร",
-    "phonetic": ""
-  },
-  {
-    "english": "Receiving",
-    "thai": "การรับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Logistics",
-    "thai": "โลจิสติกส์",
-    "phonetic": ""
-  },
-  {
-    "english": "Hardware",
-    "thai": "ฮาร์ดแวร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Network",
-    "thai": "เครือข่าย",
-    "phonetic": ""
-  },
-  {
-    "english": "Technician",
-    "thai": "ช่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Governance",
-    "thai": "การกำกับดูแล",
-    "phonetic": ""
-  },
-  {
-    "english": "Alumni",
-    "thai": "ศิษย์เก่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Compensation",
-    "thai": "ค่าตอบแทน",
-    "phonetic": ""
-  },
-  {
-    "english": "Lean",
-    "thai": "เอียง",
-    "phonetic": ""
-  },
-  {
-    "english": "Operations",
-    "thai": "การดำเนินงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Legal",
-    "thai": "ถูกกฎหมาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Control",
-    "thai": "ควบคุม",
-    "phonetic": ""
-  },
-  {
-    "english": "Experiment",
-    "thai": "การทดลอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Six Sigma",
-    "thai": "ซิกซ์ซิกม่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Arbitration",
-    "thai": "อนุญาโตตุลาการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Software",
-    "thai": "ซอฟต์แวร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Software as a Service",
-    "thai": "ซอฟต์แวร์เป็นบริการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Server",
-    "thai": "เซิร์ฟเวอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Virtual Private Network",
-    "thai": "เครือข่ายส่วนตัวเสมือน",
-    "phonetic": ""
-  },
-  {
-    "english": "Discovery",
-    "thai": "การค้นพบ",
     "phonetic": ""
   },
   {
@@ -235,148 +10,18 @@
     "phonetic": ""
   },
   {
+    "english": "Security",
+    "thai": "ความปลอดภัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Database",
+    "thai": "ฐานข้อมูล",
+    "phonetic": ""
+  },
+  {
     "english": "Engagement",
     "thai": "การว่าจ้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Invention",
-    "thai": "สิ่งประดิษฐ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Mediation",
-    "thai": "การไกล่เกลี่ย",
-    "phonetic": ""
-  },
-  {
-    "english": "Trademark",
-    "thai": "เครื่องหมายการค้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Master Service Agreement",
-    "thai": "ข้อตกลงการบริการหลัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Memorandum of Understanding",
-    "thai": "บันทึกความเข้าใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Audit",
-    "thai": "การตรวจสอบบัญชี",
-    "phonetic": ""
-  },
-  {
-    "english": "Copyright",
-    "thai": "ลิขสิทธิ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Test",
-    "thai": "ทดสอบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Non-Disclosure Agreement",
-    "thai": "ข้อตกลงการไม่เปิดเผยข้อมูล",
-    "phonetic": ""
-  },
-  {
-    "english": "Waterfall",
-    "thai": "น้ำตก",
-    "phonetic": ""
-  },
-  {
-    "english": "Litigation",
-    "thai": "การดำเนินคดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Scientist",
-    "thai": "นักวิทยาศาสตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Publication",
-    "thai": "สิ่งพิมพ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Workforce",
-    "thai": "แรงงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Scalability",
-    "thai": "ความสามารถในการปรับขนาด",
-    "phonetic": ""
-  },
-  {
-    "english": "Development",
-    "thai": "การพัฒนา",
-    "phonetic": ""
-  },
-  {
-    "english": "Cloud",
-    "thai": "คลาวด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Due diligence",
-    "thai": "การตรวจสอบอย่างรอบคอบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Recovery",
-    "thai": "การกู้คืน",
-    "phonetic": ""
-  },
-  {
-    "english": "Relations",
-    "thai": "ความสัมพันธ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Trial",
-    "thai": "การทดลอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Viability",
-    "thai": "ความสามารถในการดำรงอยู่",
-    "phonetic": ""
-  },
-  {
-    "english": "Grant",
-    "thai": "ยินยอม",
-    "phonetic": ""
-  },
-  {
-    "english": "Portfolio",
-    "thai": "พอร์ตโฟลิโอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Equity",
-    "thai": "ทุน",
-    "phonetic": ""
-  },
-  {
-    "english": "Platform as a Service",
-    "thai": "แพลตฟอร์มในรูปแบบบริการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Funding",
-    "thai": "การจัดหาเงินทุน",
-    "phonetic": ""
-  },
-  {
-    "english": "Trade secret",
-    "thai": "ความลับทางการค้า",
     "phonetic": ""
   },
   {
@@ -385,18 +30,18 @@
     "phonetic": ""
   },
   {
-    "english": "Agile",
-    "thai": "คล่องตัว",
+    "english": "Distribution",
+    "thai": "การกระจาย",
     "phonetic": ""
   },
   {
-    "english": "Offboarding",
-    "thai": "การออกจากงาน",
+    "english": "Onboarding",
+    "thai": "การออนบอร์ด",
     "phonetic": ""
   },
   {
-    "english": "Jurisdiction",
-    "thai": "เขตอำนาจศาล",
+    "english": "Master Service Agreement",
+    "thai": "ข้อตกลงการบริการหลัก",
     "phonetic": ""
   },
   {
@@ -405,53 +50,13 @@
     "phonetic": ""
   },
   {
-    "english": "Distribution",
-    "thai": "การกระจาย",
+    "english": "Research",
+    "thai": "วิจัย",
     "phonetic": ""
   },
   {
-    "english": "Antivirus",
-    "thai": "แอนตี้ไวรัส",
-    "phonetic": ""
-  },
-  {
-    "english": "Lab",
-    "thai": "แล็บ",
-    "phonetic": ""
-  },
-  {
-    "english": "Business continuity",
-    "thai": "ความต่อเนื่องทางธุรกิจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Performance",
-    "thai": "ผลงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Belonging",
-    "thai": "การเป็นเจ้าของ",
-    "phonetic": ""
-  },
-  {
-    "english": "Exit interview",
-    "thai": "สัมภาษณ์ออก",
-    "phonetic": ""
-  },
-  {
-    "english": "Research and Development",
-    "thai": "การวิจัยและพัฒนา",
-    "phonetic": ""
-  },
-  {
-    "english": "Benefits",
-    "thai": "ประโยชน์",
-    "phonetic": ""
-  },
-  {
-    "english": "Turnover",
-    "thai": "อัตราการหมุนเวียน",
+    "english": "Firewall",
+    "thai": "ไฟร์วอลล์",
     "phonetic": ""
   },
   {
@@ -460,18 +65,53 @@
     "phonetic": ""
   },
   {
-    "english": "Security",
-    "thai": "ความปลอดภัย",
+    "english": "Hardware",
+    "thai": "ฮาร์ดแวร์",
     "phonetic": ""
   },
   {
-    "english": "Prototype",
-    "thai": "ต้นแบบ",
+    "english": "Relations",
+    "thai": "ความสัมพันธ์",
     "phonetic": ""
   },
   {
-    "english": "Research",
-    "thai": "วิจัย",
+    "english": "Patent",
+    "thai": "สิทธิบัตร",
+    "phonetic": ""
+  },
+  {
+    "english": "Intellectual Property",
+    "thai": "ทรัพย์สินทางปัญญา",
+    "phonetic": ""
+  },
+  {
+    "english": "Audit",
+    "thai": "การตรวจสอบบัญชี",
+    "phonetic": ""
+  },
+  {
+    "english": "Logistics",
+    "thai": "โลจิสติกส์",
+    "phonetic": ""
+  },
+  {
+    "english": "Agile",
+    "thai": "คล่องตัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Experiment",
+    "thai": "การทดลอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Receiving",
+    "thai": "การรับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Belonging",
+    "thai": "การเป็นเจ้าของ",
     "phonetic": ""
   },
   {
@@ -480,8 +120,103 @@
     "phonetic": ""
   },
   {
+    "english": "Litigation",
+    "thai": "การดำเนินคดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Exit interview",
+    "thai": "สัมภาษณ์ออก",
+    "phonetic": ""
+  },
+  {
+    "english": "Program",
+    "thai": "โปรแกรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Test",
+    "thai": "ทดสอบ",
+    "phonetic": ""
+  },
+  {
     "english": "Scrum",
     "thai": "สครัม",
+    "phonetic": ""
+  },
+  {
+    "english": "Helpdesk",
+    "thai": "ฝ่ายช่วยเหลือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Operations",
+    "thai": "การดำเนินงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Recruiting",
+    "thai": "การสรรหาบุคลากร",
+    "phonetic": ""
+  },
+  {
+    "english": "Funding",
+    "thai": "การจัดหาเงินทุน",
+    "phonetic": ""
+  },
+  {
+    "english": "Recovery",
+    "thai": "การกู้คืน",
+    "phonetic": ""
+  },
+  {
+    "english": "Supply chain",
+    "thai": "ห่วงโซ่อุปทาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Lean",
+    "thai": "เอียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Benefits",
+    "thai": "ประโยชน์",
+    "phonetic": ""
+  },
+  {
+    "english": "Network",
+    "thai": "เครือข่าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Talent",
+    "thai": "ความสามารถพิเศษ",
+    "phonetic": ""
+  },
+  {
+    "english": "Arbitration",
+    "thai": "อนุญาโตตุลาการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Inventory",
+    "thai": "รายการสิ่งของ",
+    "phonetic": ""
+  },
+  {
+    "english": "Procurement",
+    "thai": "การจัดซื้อจัดจ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Platform as a Service",
+    "thai": "แพลตฟอร์มในรูปแบบบริการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Server",
+    "thai": "เซิร์ฟเวอร์",
     "phonetic": ""
   },
   {
@@ -490,13 +225,278 @@
     "phonetic": ""
   },
   {
+    "english": "Discovery",
+    "thai": "การค้นพบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Letter of Intent",
+    "thai": "จดหมายแสดงเจตนา",
+    "phonetic": ""
+  },
+  {
+    "english": "Warehouse",
+    "thai": "คลังสินค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Mediation",
+    "thai": "การไกล่เกลี่ย",
+    "phonetic": ""
+  },
+  {
+    "english": "Jurisdiction",
+    "thai": "เขตอำนาจศาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Lab",
+    "thai": "แล็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Roadmap",
+    "thai": "แผนงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Waterfall",
+    "thai": "น้ำตก",
+    "phonetic": ""
+  },
+  {
+    "english": "Equity",
+    "thai": "ทุน",
+    "phonetic": ""
+  },
+  {
+    "english": "Virtual Private Network",
+    "thai": "เครือข่ายส่วนตัวเสมือน",
+    "phonetic": ""
+  },
+  {
+    "english": "Trademark",
+    "thai": "เครื่องหมายการค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Turnover",
+    "thai": "อัตราการหมุนเวียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Compensation",
+    "thai": "ค่าตอบแทน",
+    "phonetic": ""
+  },
+  {
+    "english": "Performance",
+    "thai": "ผลงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Development",
+    "thai": "การพัฒนา",
+    "phonetic": ""
+  },
+  {
+    "english": "Business continuity",
+    "thai": "ความต่อเนื่องทางธุรกิจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Offboarding",
+    "thai": "การออกจากงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Cloud",
+    "thai": "คลาวด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Governance",
+    "thai": "การกำกับดูแล",
+    "phonetic": ""
+  },
+  {
+    "english": "Six Sigma",
+    "thai": "ซิกซ์ซิกม่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Alumni",
+    "thai": "ศิษย์เก่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Prototype",
+    "thai": "ต้นแบบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Technician",
+    "thai": "ช่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Workforce",
+    "thai": "แรงงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Inclusion",
+    "thai": "การรวม",
+    "phonetic": ""
+  },
+  {
+    "english": "Viability",
+    "thai": "ความสามารถในการดำรงอยู่",
+    "phonetic": ""
+  },
+  {
+    "english": "Due diligence",
+    "thai": "การตรวจสอบอย่างรอบคอบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Memorandum of Understanding",
+    "thai": "บันทึกความเข้าใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Backup",
+    "thai": "การสำรองข้อมูล",
+    "phonetic": ""
+  },
+  {
+    "english": "Legal",
+    "thai": "ถูกกฎหมาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Feasibility",
+    "thai": "ความเป็นไปได้",
+    "phonetic": ""
+  },
+  {
+    "english": "Kanban",
+    "thai": "คัมบัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Infrastructure as a Service",
+    "thai": "โครงสร้างพื้นฐานในรูปแบบบริการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Grant",
+    "thai": "ยินยอม",
+    "phonetic": ""
+  },
+  {
+    "english": "Software",
+    "thai": "ซอฟต์แวร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Disaster",
+    "thai": "ภัยพิบัติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Headcount",
+    "thai": "จำนวนหัวหน้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Trial",
+    "thai": "การทดลอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Publication",
+    "thai": "สิ่งพิมพ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Trade secret",
+    "thai": "ความลับทางการค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Gantt",
+    "thai": "แกนต์",
+    "phonetic": ""
+  },
+  {
+    "english": "Control",
+    "thai": "ควบคุม",
+    "phonetic": ""
+  },
+  {
     "english": "Training",
     "thai": "การฝึกอบรม",
     "phonetic": ""
   },
   {
-    "english": "Talent",
-    "thai": "ความสามารถพิเศษ",
+    "english": "Invention",
+    "thai": "สิ่งประดิษฐ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Scalability",
+    "thai": "ความสามารถในการปรับขนาด",
+    "phonetic": ""
+  },
+  {
+    "english": "Research and Development",
+    "thai": "การวิจัยและพัฒนา",
+    "phonetic": ""
+  },
+  {
+    "english": "Antivirus",
+    "thai": "แอนตี้ไวรัส",
+    "phonetic": ""
+  },
+  {
+    "english": "Shipping",
+    "thai": "การส่งสินค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Non-Disclosure Agreement",
+    "thai": "ข้อตกลงการไม่เปิดเผยข้อมูล",
+    "phonetic": ""
+  },
+  {
+    "english": "Software as a Service",
+    "thai": "ซอฟต์แวร์เป็นบริการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Portfolio",
+    "thai": "พอร์ตโฟลิโอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Copyright",
+    "thai": "ลิขสิทธิ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Entity",
+    "thai": "เอนทิตี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Support",
+    "thai": "สนับสนุน",
+    "phonetic": ""
+  },
+  {
+    "english": "Scientist",
+    "thai": "นักวิทยาศาสตร์",
     "phonetic": ""
   }
 ]

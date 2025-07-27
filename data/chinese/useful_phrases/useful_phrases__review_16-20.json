@@ -1,56 +1,11 @@
 [
   {
-    "chinese": "我不明白",
+    "chinese": "我不喜欢吃辣",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "我能要一份报告副本吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "今天有什么特色菜",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "听从指示",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "谢谢你的服务",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "请说慢一点",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "有人受伤吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "施加压力",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我饿了",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "使用信号弹",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "不要惊慌",
+    "chinese": "保持冷静",
     "thai": "",
     "pinyin": ""
   },
@@ -60,72 +15,7 @@
     "pinyin": ""
   },
   {
-    "chinese": "使用镜子",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我想吃",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我能作证",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "等待救援",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "固定受伤部位",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我需要做笔录",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我能描述那个人",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "不要给水",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我是纯素食主义者",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "保持可见",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "发出信号",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你推荐什么",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "能给我一杯茶吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "发生什么事了",
+    "chinese": "我是素食主义者",
     "thai": "",
     "pinyin": ""
   },
@@ -140,207 +30,12 @@
     "pinyin": ""
   },
   {
-    "chinese": "呼救",
+    "chinese": "发出信号",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "给水",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "大声呼救",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "谁负责",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你能解释一下吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "使用哨子",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我不吃猪肉",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "能给我一个打包盒吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "这是怎么发生的",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你的警号是多少",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "能给我续杯吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "非常棒",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我不吃鱼",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我能付现金吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "能给我一杯咖啡吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我渴了",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "食物太甜了",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "能给我一个叉子吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我能和经理谈谈吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你能做淡一点吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "不要动",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我有一个视频",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我不喜欢吃辣",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "保持冷静",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我有一张照片",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "抬高肢体",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "大家都安全吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我能打折吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我明白了",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "能给我一个吸管吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "账单有误",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我对坚果过敏",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我看到了",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我想表扬",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我是素食主义者",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "请给我账单",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "能给我一个勺子吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我能用手机支付吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我还是饿",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "保持温暖",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "能给我多一点米饭吗",
+    "chinese": "今天有什么特色菜",
     "thai": "",
     "pinyin": ""
   },
@@ -350,77 +45,32 @@
     "pinyin": ""
   },
   {
-    "chinese": "我饱了",
+    "chinese": "我是纯素食主义者",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "食物太咸了",
+    "chinese": "大家都安全吗",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "我想投诉",
+    "chinese": "保持可见",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "能给我多一点餐巾纸吗",
+    "chinese": "不要惊慌",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "这不是我点的菜",
+    "chinese": "使用哨子",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "食物很美味",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我喜欢吃辣",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "这道菜是冷的吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "食物刚刚好",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "谢谢这顿饭",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "食物太辣了",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我能刷卡吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "这道菜是热的吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "能给我多一点面包吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我不喜欢",
+    "chinese": "你推荐什么",
     "thai": "",
     "pinyin": ""
   },
@@ -430,32 +80,77 @@
     "pinyin": ""
   },
   {
-    "chinese": "食物太苦了",
+    "chinese": "能给我一把刀吗",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "你们有会员计划吗",
+    "chinese": "能给我一个吸管吗",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "你能做辣一点吗",
+    "chinese": "不要给水",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "食物太酸了",
+    "chinese": "谢谢你的服务",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "能给我一个碗吗",
+    "chinese": "你的警号是多少",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "我很享受这顿饭",
+    "chinese": "听从指示",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我明白了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我想表扬",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "等待救援",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我渴了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "抬高肢体",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我不吃鱼",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "能给我多一点餐巾纸吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我看到了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "非常棒",
     "thai": "",
     "pinyin": ""
   },
@@ -465,27 +160,77 @@
     "pinyin": ""
   },
   {
+    "chinese": "食物太辣了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你们有会员计划吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "账单有误",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "食物太苦了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我喜欢吃辣",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "不要动",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "有人受伤吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "能给我一杯茶吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你能做淡一点吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我想投诉",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "食物太咸了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
     "chinese": "能给我一个盘子吗",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "能给我筷子吗",
+    "chinese": "能给我续杯吗",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "能给我多一点水吗",
+    "chinese": "保持温暖",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "能给我一把刀吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "能给我一个杯子吗",
+    "chinese": "谢谢这顿饭",
     "thai": "",
     "pinyin": ""
   },
@@ -495,7 +240,262 @@
     "pinyin": ""
   },
   {
+    "chinese": "我能用手机支付吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "能给我一个杯子吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我不吃猪肉",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "使用信号弹",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "能给我多一点米饭吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你能做辣一点吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "请给我账单",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "能给我多一点面包吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我有一个视频",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "发生什么事了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "这道菜是冷的吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
     "chinese": "保持静止",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "使用镜子",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "能给我一个叉子吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "能给我一个碗吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "施加压力",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "食物刚刚好",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我能作证",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "固定受伤部位",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我很享受这顿饭",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我饱了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "能给我一杯咖啡吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "这道菜是热的吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我能付现金吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我对坚果过敏",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "能给我筷子吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "这是怎么发生的",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "谁负责",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "大声呼救",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "能给我一个打包盒吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "能给我一个勺子吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我能刷卡吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你能解释一下吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我想吃",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "给水",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我能打折吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我能要一份报告副本吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "食物很美味",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我能描述那个人",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "食物太酸了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我需要做笔录",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "能给我多一点水吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我不明白",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "食物太甜了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "呼救",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我不喜欢",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我还是饿",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "请说慢一点",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我有一张照片",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "这不是我点的菜",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我饿了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我能和经理谈谈吗",
     "thai": "",
     "pinyin": ""
   }

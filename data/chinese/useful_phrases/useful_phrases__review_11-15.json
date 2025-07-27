@@ -1,26 +1,11 @@
 [
   {
-    "chinese": "我流血了",
+    "chinese": "割伤",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "我需要一个购物篮",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "这是新品吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "折扣是多少",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我可以使用自助结账吗",
+    "chinese": "你们有有机蔬菜吗",
     "thai": "",
     "pinyin": ""
   },
@@ -30,97 +15,17 @@
     "pinyin": ""
   },
   {
-    "chinese": "排队的人多吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
     "chinese": "我刷卡",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "你有收据吗",
+    "chinese": "折扣是多少",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "谢谢惠顾",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我可以讲价吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你能给我一个更好的价格吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "刚刚好",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "邮局在哪里",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我喜欢",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "这是畅销品吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我可以换货吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我收据丢了",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "太便宜了",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我需要取包裹",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我肚子疼",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我可以用手机支付吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我发烧了",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我需要找药店",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "烟雾",
+    "chinese": "报警",
     "thai": "",
     "pinyin": ""
   },
@@ -130,27 +35,57 @@
     "pinyin": ""
   },
   {
-    "chinese": "你们有纸袋吗",
+    "chinese": "我需要找药店",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "我咳嗽了",
+    "chinese": "我想开户",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "紧急情况",
+    "chinese": "我需要买些食物",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "这个多少钱一公斤",
+    "chinese": "我可以用手机支付吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "邮局在哪里",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "欢迎再来",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我发烧了",
     "thai": "",
     "pinyin": ""
   },
   {
     "chinese": "我需要医生",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "火灾",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我无法呼吸",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我想取钱",
     "thai": "",
     "pinyin": ""
   },
@@ -165,62 +100,7 @@
     "pinyin": ""
   },
   {
-    "chinese": "我对...过敏",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "烧伤",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "促销什么时候结束",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "安全",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我在找",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我讨厌",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "骨折",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我需要处方吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "太贵了",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "寄这个多少钱",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "这个打折吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我需要签收吗",
+    "chinese": "我头晕",
     "thai": "",
     "pinyin": ""
   },
@@ -230,32 +110,7 @@
     "pinyin": ""
   },
   {
-    "chinese": "我需要一个购物车",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "触电",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我需要...的药",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我头晕",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我带了自己的袋子",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我应该多久服用一次",
+    "chinese": "我需要取包裹",
     "thai": "",
     "pinyin": ""
   },
@@ -265,142 +120,17 @@
     "pinyin": ""
   },
   {
-    "chinese": "我需要买药",
+    "chinese": "你们有纸袋吗",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "我手臂骨折了",
+    "chinese": "紧急情况",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "我想存钱",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我想开户",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你们的营业时间是什么",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我付现金",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "叫救护车",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "有什么副作用吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "窒息",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我需要买些食物",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "附近有公共厕所吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我需要寄一个包裹",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "疏散",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "这个新鲜吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "救命",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我想取钱",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "火灾",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "杂货店在哪里",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "有什么特别优惠吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我扭伤了脚踝",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我在哪里可以找到新鲜农产品",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "...的汇率是多少",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "危险",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "瘀伤",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "扭伤",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "急救",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "这个熟了吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "肿胀",
+    "chinese": "我肚子疼",
     "thai": "",
     "pinyin": ""
   },
@@ -410,57 +140,17 @@
     "pinyin": ""
   },
   {
-    "chinese": "最近的医院在哪里",
+    "chinese": "排队的人多吗",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "祝你愉快",
+    "chinese": "安全",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "我无法呼吸",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "收银台在哪里",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "叫消防队",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "割伤",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你们有塑料袋吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "这是本地的吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你们有有机蔬菜吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "报警",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我生病了",
+    "chinese": "我想存钱",
     "thai": "",
     "pinyin": ""
   },
@@ -470,12 +160,7 @@
     "pinyin": ""
   },
   {
-    "chinese": "我想销户",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我需要去银行",
+    "chinese": "我收据丢了",
     "thai": "",
     "pinyin": ""
   },
@@ -485,7 +170,92 @@
     "pinyin": ""
   },
   {
-    "chinese": "欢迎再来",
+    "chinese": "附近有公共厕所吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "促销什么时候结束",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我咳嗽了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "...的汇率是多少",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我生病了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "叫救护车",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你能给我一个更好的价格吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "有什么副作用吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你有收据吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我讨厌",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我扭伤了脚踝",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "烟雾",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "祝你愉快",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "收银台在哪里",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我可以使用自助结账吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你们有塑料袋吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我手臂骨折了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我带了自己的袋子",
     "thai": "",
     "pinyin": ""
   },
@@ -495,7 +265,237 @@
     "pinyin": ""
   },
   {
+    "chinese": "杂货店在哪里",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "救命",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "瘀伤",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
     "chinese": "出口",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "叫消防队",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "太便宜了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我付现金",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我可以换货吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "骨折",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "窒息",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "最近的医院在哪里",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "寄这个多少钱",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我需要一个购物篮",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "肿胀",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "这是新品吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "疏散",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我需要...的药",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "扭伤",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "烧伤",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "谢谢惠顾",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我在找",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我想销户",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "太贵了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我对...过敏",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "这是本地的吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "这个打折吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "刚刚好",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "这个熟了吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我应该多久服用一次",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我喜欢",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我需要去银行",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我需要买药",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我流血了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "这个新鲜吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "这是畅销品吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "触电",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我需要寄一个包裹",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我需要一个购物车",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你们的营业时间是什么",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我需要签收吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "这个多少钱一公斤",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "有什么特别优惠吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我需要处方吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我可以讲价吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "危险",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我在哪里可以找到新鲜农产品",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "急救",
     "thai": "",
     "pinyin": ""
   }

@@ -1,5 +1,295 @@
 [
   {
+    "chinese": "你去过哪里",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "没问题",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我单身",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你来自哪里",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "没关系",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我最喜欢披萨",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你最喜欢什么电影",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你喜欢做饭吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "不客气",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你做什么工作",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我叫",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "谢谢",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你最喜欢什么食物",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我有一只猫",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "晚上好",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "下午好",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "早上好",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "再见",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我岁了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "是的我喜欢旅行",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "是",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我是学生",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我是老师",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我退休了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我有一只狗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我的爱好是阅读",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你好",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "不是",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "请",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我结婚了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你多大了",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你养宠物吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你的爱好是什么",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你能帮我吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我梦想的目的地是日本",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我来自",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "有直达巴士吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你结婚了吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "感觉",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我们找个时间聚聚吧",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我很感激",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你叫什么名字",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我有一个孩子",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我能为你做什么",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "态度",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "对不起",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "表情",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "当地有什么景点",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你有孩子吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "火车什么时候到",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我没有宠物",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "最近的货币兑换处在哪里",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "是的我喜欢做饭",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "机场在哪里",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "单程还是往返",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我能帮你吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我想办理入住",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "你有城市地图吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
     "chinese": "我没有孩子",
     "thai": "",
     "pinyin": ""
@@ -10,32 +300,7 @@
     "pinyin": ""
   },
   {
-    "chinese": "你能帮我吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "这是我的荣幸",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我没有宠物",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我叫",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我的爱好是阅读",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我能为你做什么",
+    "chinese": "打的去酒店多少钱",
     "thai": "",
     "pinyin": ""
   },
@@ -45,252 +310,17 @@
     "pinyin": ""
   },
   {
-    "chinese": "能给我一个叫醒服务吗",
+    "chinese": "我想办理退房",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "情感",
+    "chinese": "我有两个孩子",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "批评",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "打的去酒店多少钱",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "是",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "谢谢",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "不客气",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我很感激",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你去过哪里",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "情绪",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "机场在哪里",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你结婚了吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我结婚了",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我梦想的目的地是日本",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你来自哪里",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "表情",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我想办理入住",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "想法",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "再见",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "下午好",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "有班车服务吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "很高兴能帮上忙",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我需要帮助",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "大喊",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你的爱好是什么",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你做什么工作",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "姿态",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我需要一张去...的票",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我岁了",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "单程还是往返",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我的航班延误了吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "头等舱还是经济舱",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "不是",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你叫什么名字",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你最喜欢什么食物",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "有直达巴士吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "不用谢",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "表扬",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我来自",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "行李提取处在哪里",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我是老师",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "声音",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你有孩子吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "态度",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "没问题",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我最喜欢披萨",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我退休了",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你养宠物吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我是学生",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "是的我喜欢做饭",
+    "chinese": "请问",
     "thai": "",
     "pinyin": ""
   },
@@ -300,7 +330,62 @@
     "pinyin": ""
   },
   {
-    "chinese": "你好",
+    "chinese": "我去过很多国家",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我最喜欢电影",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "不用谢",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "姿态",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "批评",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "我怎么去火车站",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "头等舱还是经济舱",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "事实",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "有班车服务吗",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "航班什么时候起飞",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "思想",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "意见",
     "thai": "",
     "pinyin": ""
   },
@@ -310,17 +395,37 @@
     "pinyin": ""
   },
   {
-    "chinese": "我有一只猫",
+    "chinese": "我需要一张去...的票",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "你喜欢做饭吗",
+    "chinese": "行李提取处在哪里",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "火车什么时候到",
+    "chinese": "这是我的荣幸",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "侮辱",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "想法",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "表扬",
+    "thai": "",
+    "pinyin": ""
+  },
+  {
+    "chinese": "耳语",
     "thai": "",
     "pinyin": ""
   },
@@ -335,72 +440,7 @@
     "pinyin": ""
   },
   {
-    "chinese": "你有城市地图吗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "最近的货币兑换处在哪里",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我有一只狗",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "侮辱",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "当地有什么景点",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "意见",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "航班什么时候起飞",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我有一个转机航班",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我单身",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你多大了",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "思想",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "耳语",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "感觉",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我怎么去火车站",
+    "chinese": "赞美",
     "thai": "",
     "pinyin": ""
   },
@@ -410,22 +450,22 @@
     "pinyin": ""
   },
   {
-    "chinese": "赞美",
+    "chinese": "大喊",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "事实",
+    "chinese": "能给我一个叫醒服务吗",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "我想办理退房",
+    "chinese": "我需要帮助",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "我能帮你吗",
+    "chinese": "我的航班延误了吗",
     "thai": "",
     "pinyin": ""
   },
@@ -435,67 +475,27 @@
     "pinyin": ""
   },
   {
-    "chinese": "我们找个时间聚聚吧",
+    "chinese": "声音",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "对不起",
+    "chinese": "情感",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "早上好",
+    "chinese": "我有一个转机航班",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "请问",
+    "chinese": "情绪",
     "thai": "",
     "pinyin": ""
   },
   {
-    "chinese": "请",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "晚上好",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "是的我喜欢旅行",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我有两个孩子",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我最喜欢电影",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "你最喜欢什么电影",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我去过很多国家",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "我有一个孩子",
-    "thai": "",
-    "pinyin": ""
-  },
-  {
-    "chinese": "没关系",
+    "chinese": "很高兴能帮上忙",
     "thai": "",
     "pinyin": ""
   }

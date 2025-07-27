@@ -1,72 +1,52 @@
 [
   {
+    "english": "Oven",
+    "thai": "เตาอบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Grocery",
+    "thai": "ร้านขายของชำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Butter",
+    "thai": "เนย",
+    "phonetic": ""
+  },
+  {
+    "english": "Snacks",
+    "thai": "ของว่าง",
+    "phonetic": ""
+  },
+  {
     "english": "Boiled",
     "thai": "ต้ม",
     "phonetic": ""
   },
   {
-    "english": "Bowl",
-    "thai": "ชาม",
+    "english": "Reservation",
+    "thai": "การจอง",
     "phonetic": ""
   },
   {
-    "english": "Dessert",
-    "thai": "ขนม",
+    "english": "Bakery",
+    "thai": "ร้านเบเกอรี่",
     "phonetic": ""
   },
   {
-    "english": "Alcohol",
-    "thai": "แอลกอฮอล์",
+    "english": "Hot",
+    "thai": "ร้อน",
     "phonetic": ""
   },
   {
-    "english": "Boil",
-    "thai": "ต้ม",
+    "english": "Fork",
+    "thai": "ส้อม",
     "phonetic": ""
   },
   {
-    "english": "Kitchen",
-    "thai": "ครัว",
-    "phonetic": ""
-  },
-  {
-    "english": "Coffee",
-    "thai": "กาแฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "Roast",
+    "english": "Grilled",
     "thai": "ย่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Bake",
-    "thai": "อบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Produce",
-    "thai": "ผลิต",
-    "phonetic": ""
-  },
-  {
-    "english": "Cashier",
-    "thai": "แคชเชียร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Sweet",
-    "thai": "หวาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Allergy",
-    "thai": "โรคภูมิแพ้",
-    "phonetic": ""
-  },
-  {
-    "english": "Cold",
-    "thai": "เย็น",
     "phonetic": ""
   },
   {
@@ -75,8 +55,18 @@
     "phonetic": ""
   },
   {
-    "english": "Vegetables",
-    "thai": "ผัก",
+    "english": "Basket",
+    "thai": "ตะกร้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Beverages",
+    "thai": "เครื่องดื่ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Organic",
+    "thai": "ออร์แกนิก",
     "phonetic": ""
   },
   {
@@ -85,8 +75,403 @@
     "phonetic": ""
   },
   {
+    "english": "Recipe",
+    "thai": "สูตรอาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Alcohol",
+    "thai": "แอลกอฮอล์",
+    "phonetic": ""
+  },
+  {
+    "english": "Pepper",
+    "thai": "พริกไทย",
+    "phonetic": ""
+  },
+  {
+    "english": "Spoon",
+    "thai": "ช้อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Poached",
+    "thai": "ลวก",
+    "phonetic": ""
+  },
+  {
+    "english": "Produce",
+    "thai": "ผลิต",
+    "phonetic": ""
+  },
+  {
+    "english": "Plate",
+    "thai": "จาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Cart",
+    "thai": "รถเข็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Deli",
+    "thai": "เดลี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Ingredients",
+    "thai": "วัตถุดิบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Spicy",
+    "thai": "เผ็ด",
+    "phonetic": ""
+  },
+  {
+    "english": "Cooked",
+    "thai": "ปรุงสุกแล้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Dinner",
+    "thai": "อาหารเย็น",
+    "phonetic": ""
+  },
+  {
     "english": "Salt",
     "thai": "เกลือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Stale",
+    "thai": "เหม็นอับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Appetizer",
+    "thai": "อาหารเรียกน้ำย่อย",
+    "phonetic": ""
+  },
+  {
+    "english": "Checkout",
+    "thai": "เช็คเอาท์",
+    "phonetic": ""
+  },
+  {
+    "english": "Non-alcoholic",
+    "thai": "ไม่มีแอลกอฮอล์",
+    "phonetic": ""
+  },
+  {
+    "english": "Boil",
+    "thai": "ต้ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Microwave",
+    "thai": "ไมโครเวฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Tea",
+    "thai": "ชา",
+    "phonetic": ""
+  },
+  {
+    "english": "Bill",
+    "thai": "ใบแจ้งหนี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Sweet",
+    "thai": "หวาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Serve",
+    "thai": "ให้บริการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Baked",
+    "thai": "อบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Cookbook",
+    "thai": "หนังสือตำราอาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Glass",
+    "thai": "กระจก",
+    "phonetic": ""
+  },
+  {
+    "english": "Chop",
+    "thai": "สับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Breakfast",
+    "thai": "อาหารเช้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Kitchen",
+    "thai": "ครัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Vegan",
+    "thai": "มังสวิรัติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Frozen",
+    "thai": "แช่แข็ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Fish",
+    "thai": "ปลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Salad",
+    "thai": "สลัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Steam",
+    "thai": "ไอน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Vegetables",
+    "thai": "ผัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Bake",
+    "thai": "อบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Mix",
+    "thai": "ผสม",
+    "phonetic": ""
+  },
+  {
+    "english": "Bowl",
+    "thai": "ชาม",
+    "phonetic": ""
+  },
+  {
+    "english": "Main course",
+    "thai": "อาหารจานหลัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Dessert",
+    "thai": "ขนม",
+    "phonetic": ""
+  },
+  {
+    "english": "Roast",
+    "thai": "ย่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Raw",
+    "thai": "ดิบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Lunch",
+    "thai": "อาหารกลางวัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Coupon",
+    "thai": "คูปอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Grill",
+    "thai": "ย่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Fried",
+    "thai": "ทอด",
+    "phonetic": ""
+  },
+  {
+    "english": "Aisle",
+    "thai": "ทางเดิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Pour",
+    "thai": "เท",
+    "phonetic": ""
+  },
+  {
+    "english": "Water",
+    "thai": "น้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Meat",
+    "thai": "เนื้อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Taste",
+    "thai": "รสชาติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Fruit",
+    "thai": "ผลไม้",
+    "phonetic": ""
+  },
+  {
+    "english": "Slice",
+    "thai": "ชิ้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Side dish",
+    "thai": "เครื่องเคียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Bread",
+    "thai": "ขนมปัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Pork",
+    "thai": "เนื้อหมู",
+    "phonetic": ""
+  },
+  {
+    "english": "Vegetarian",
+    "thai": "มังสวิรัติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Menu",
+    "thai": "เมนู",
+    "phonetic": ""
+  },
+  {
+    "english": "Steamed",
+    "thai": "นึ่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Soup",
+    "thai": "ซุป",
+    "phonetic": ""
+  },
+  {
+    "english": "Fresh",
+    "thai": "สด",
+    "phonetic": ""
+  },
+  {
+    "english": "Stir",
+    "thai": "คน",
+    "phonetic": ""
+  },
+  {
+    "english": "Dairy",
+    "thai": "ผลิตภัณฑ์นม",
+    "phonetic": ""
+  },
+  {
+    "english": "Cold",
+    "thai": "เย็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Gluten-free",
+    "thai": "ปราศจากกลูเตน",
+    "phonetic": ""
+  },
+  {
+    "english": "Allergy",
+    "thai": "โรคภูมิแพ้",
+    "phonetic": ""
+  },
+  {
+    "english": "Stove",
+    "thai": "เตา",
+    "phonetic": ""
+  },
+  {
+    "english": "Cashier",
+    "thai": "แคชเชียร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Sauteed",
+    "thai": "ผัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Fry",
+    "thai": "ทอด",
+    "phonetic": ""
+  },
+  {
+    "english": "Delicious",
+    "thai": "อร่อย",
+    "phonetic": ""
+  },
+  {
+    "english": "Napkin",
+    "thai": "ผ้าเช็ดปาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Canned",
+    "thai": "กระป๋อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Ripe",
+    "thai": "สุก",
+    "phonetic": ""
+  },
+  {
+    "english": "Roasted",
+    "thai": "คั่ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Restaurant",
+    "thai": "ร้านอาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Waiter",
+    "thai": "บริกร",
+    "phonetic": ""
+  },
+  {
+    "english": "Chicken",
+    "thai": "ไก่",
+    "phonetic": ""
+  },
+  {
+    "english": "Beef",
+    "thai": "เนื้อวัว",
     "phonetic": ""
   },
   {
@@ -100,398 +485,13 @@
     "phonetic": ""
   },
   {
-    "english": "Tea",
-    "thai": "ชา",
-    "phonetic": ""
-  },
-  {
-    "english": "Taste",
-    "thai": "รสชาติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Pour",
-    "thai": "เท",
-    "phonetic": ""
-  },
-  {
-    "english": "Stale",
-    "thai": "เหม็นอับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Meat",
-    "thai": "เนื้อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Fry",
-    "thai": "ทอด",
+    "english": "Coffee",
+    "thai": "กาแฟ",
     "phonetic": ""
   },
   {
     "english": "Chef",
     "thai": "เชฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "Fruit",
-    "thai": "ผลไม้",
-    "phonetic": ""
-  },
-  {
-    "english": "Canned",
-    "thai": "กระป๋อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Grilled",
-    "thai": "ย่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Vegetarian",
-    "thai": "มังสวิรัติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Oven",
-    "thai": "เตาอบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Steamed",
-    "thai": "นึ่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Restaurant",
-    "thai": "ร้านอาหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Beverages",
-    "thai": "เครื่องดื่ม",
-    "phonetic": ""
-  },
-  {
-    "english": "Bill",
-    "thai": "ใบแจ้งหนี้",
-    "phonetic": ""
-  },
-  {
-    "english": "Bread",
-    "thai": "ขนมปัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Main course",
-    "thai": "อาหารจานหลัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Cart",
-    "thai": "รถเข็น",
-    "phonetic": ""
-  },
-  {
-    "english": "Menu",
-    "thai": "เมนู",
-    "phonetic": ""
-  },
-  {
-    "english": "Stir",
-    "thai": "คน",
-    "phonetic": ""
-  },
-  {
-    "english": "Ripe",
-    "thai": "สุก",
-    "phonetic": ""
-  },
-  {
-    "english": "Lunch",
-    "thai": "อาหารกลางวัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Breakfast",
-    "thai": "อาหารเช้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Ingredients",
-    "thai": "วัตถุดิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Fried",
-    "thai": "ทอด",
-    "phonetic": ""
-  },
-  {
-    "english": "Fork",
-    "thai": "ส้อม",
-    "phonetic": ""
-  },
-  {
-    "english": "Plate",
-    "thai": "จาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Frozen",
-    "thai": "แช่แข็ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Sauteed",
-    "thai": "ผัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Aisle",
-    "thai": "ทางเดิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Grocery",
-    "thai": "ร้านขายของชำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Hot",
-    "thai": "ร้อน",
-    "phonetic": ""
-  },
-  {
-    "english": "Checkout",
-    "thai": "เช็คเอาท์",
-    "phonetic": ""
-  },
-  {
-    "english": "Salad",
-    "thai": "สลัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Microwave",
-    "thai": "ไมโครเวฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "Dinner",
-    "thai": "อาหารเย็น",
-    "phonetic": ""
-  },
-  {
-    "english": "Bakery",
-    "thai": "ร้านเบเกอรี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Soup",
-    "thai": "ซุป",
-    "phonetic": ""
-  },
-  {
-    "english": "Pepper",
-    "thai": "พริกไทย",
-    "phonetic": ""
-  },
-  {
-    "english": "Waiter",
-    "thai": "บริกร",
-    "phonetic": ""
-  },
-  {
-    "english": "Steam",
-    "thai": "ไอน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Water",
-    "thai": "น้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Pork",
-    "thai": "เนื้อหมู",
-    "phonetic": ""
-  },
-  {
-    "english": "Fresh",
-    "thai": "สด",
-    "phonetic": ""
-  },
-  {
-    "english": "Cookbook",
-    "thai": "หนังสือตำราอาหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Fish",
-    "thai": "ปลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Reservation",
-    "thai": "การจอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Recipe",
-    "thai": "สูตรอาหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Appetizer",
-    "thai": "อาหารเรียกน้ำย่อย",
-    "phonetic": ""
-  },
-  {
-    "english": "Mix",
-    "thai": "ผสม",
-    "phonetic": ""
-  },
-  {
-    "english": "Dairy",
-    "thai": "ผลิตภัณฑ์นม",
-    "phonetic": ""
-  },
-  {
-    "english": "Baked",
-    "thai": "อบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Delicious",
-    "thai": "อร่อย",
-    "phonetic": ""
-  },
-  {
-    "english": "Slice",
-    "thai": "ชิ้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Coupon",
-    "thai": "คูปอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Gluten-free",
-    "thai": "ปราศจากกลูเตน",
-    "phonetic": ""
-  },
-  {
-    "english": "Spoon",
-    "thai": "ช้อน",
-    "phonetic": ""
-  },
-  {
-    "english": "Deli",
-    "thai": "เดลี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Cooked",
-    "thai": "ปรุงสุกแล้ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Non-alcoholic",
-    "thai": "ไม่มีแอลกอฮอล์",
-    "phonetic": ""
-  },
-  {
-    "english": "Stove",
-    "thai": "เตา",
-    "phonetic": ""
-  },
-  {
-    "english": "Snacks",
-    "thai": "ของว่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Serve",
-    "thai": "ให้บริการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Vegan",
-    "thai": "มังสวิรัติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Butter",
-    "thai": "เนย",
-    "phonetic": ""
-  },
-  {
-    "english": "Spicy",
-    "thai": "เผ็ด",
-    "phonetic": ""
-  },
-  {
-    "english": "Raw",
-    "thai": "ดิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Roasted",
-    "thai": "คั่ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Beef",
-    "thai": "เนื้อวัว",
-    "phonetic": ""
-  },
-  {
-    "english": "Basket",
-    "thai": "ตะกร้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Grill",
-    "thai": "ย่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Poached",
-    "thai": "ลวก",
-    "phonetic": ""
-  },
-  {
-    "english": "Chop",
-    "thai": "สับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Organic",
-    "thai": "ออร์แกนิก",
-    "phonetic": ""
-  },
-  {
-    "english": "Side dish",
-    "thai": "เครื่องเคียง",
-    "phonetic": ""
-  },
-  {
-    "english": "Napkin",
-    "thai": "ผ้าเช็ดปาก",
-    "phonetic": ""
-  },
-  {
-    "english": "Chicken",
-    "thai": "ไก่",
-    "phonetic": ""
-  },
-  {
-    "english": "Glass",
-    "thai": "กระจก",
     "phonetic": ""
   },
   {

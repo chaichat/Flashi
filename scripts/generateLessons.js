@@ -210,30 +210,26 @@ async function generateLessons() {
                     return numA - numB;
                 });
 
-                for (const file of lessonFiles) {
-                    const lessonData = JSON.parse(fs.readFileSync(path.join(catDir, file), 'utf8'));
-                    const isReview = file.toLowerCase().includes('review');
+                // Filter out existing review files from the initial list to avoid processing them as regular lessons
+                const regularLessonFiles = lessonFiles.filter(file => !file.toLowerCase().includes('review'));
 
-                    let lessonName, lessonNameTh;
-                    if (isReview) {
-                        lessonName = file.replace(/\.json$/, '').replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
-                        lessonNameTh = `ทบทวน: บทที่ ${lessonName.match(/(\d+)-(\d+)/)[0]}`;
-                    } else {
-                        lessonsCount++;
-                        lessonName = `${catName}: Lesson ${lessonsCount}`;
-                        lessonNameTh = `${categoryTranslations[catName]}: บทที่ ${lessonsCount}`;
-                        reviewSet.push(...lessonData);
-                    }
+                for (const file of regularLessonFiles) {
+                    const lessonData = JSON.parse(fs.readFileSync(path.join(catDir, file), 'utf8'));
+                    lessonsCount++;
+                    const lessonName = `${catName}: Lesson ${lessonsCount}`;
+                    const lessonNameTh = `${categoryTranslations[catName]}: บทที่ ${lessonsCount}`;
 
                     existingLessons.push({
                         name: lessonName,
                         name_th: lessonNameTh,
                         file: `${lang}/${sanitizeForFilename(catName)}/${file}`,
-                        isReview: isReview
+                        isReview: false
                     });
 
-                    // Generate review stack for existing lessons if not a review stack itself
-                    if (!isReview && lessonsCount % 5 === 0) {
+                    reviewSet.push(...lessonData);
+
+                    // Generate review stack after every 5 lessons
+                    if (lessonsCount % 5 === 0) {
                         const reviewName = `${catName}: Review ${lessonsCount - 4}-${lessonsCount}`;
                         const reviewNameTh = `ทบทวน: บทที่ ${lessonsCount - 4}-${lessonsCount}`;
                         const sanitizedReviewName = sanitizeForFilename(reviewName);
@@ -254,6 +250,18 @@ async function generateLessons() {
                         reviewSet = [];
                     }
                 }
+
+                // Add any existing review files that were not regenerated
+                lessonFiles.filter(file => file.toLowerCase().includes('review')).forEach(file => {
+                    const lessonName = file.replace(/\.json$/, '').replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+                    const lessonNameTh = categoryTranslations[catName]; // Fallback, will be updated by populateTranslations
+                    existingLessons.push({
+                        name: lessonName,
+                        name_th: lessonNameTh,
+                        file: `${lang}/${sanitizeForFilename(catName)}/${file}`,
+                        isReview: true
+                    });
+                });
 
                 currentManifestCategory[catName] = { name_th: categoryTranslations[catName], lessons: existingLessons };
                 console.log(`Preserved and integrated existing lessons for ${lang}/${catName}.`);

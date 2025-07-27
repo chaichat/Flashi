@@ -1,392 +1,7 @@
 [
   {
-    "english": "Carpentry",
-    "thai": "งานช่างไม้",
-    "phonetic": ""
-  },
-  {
-    "english": "Fence",
-    "thai": "รั้ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Dirty",
-    "thai": "สกปรก",
-    "phonetic": ""
-  },
-  {
-    "english": "Wallpaper",
-    "thai": "วอลเปเปอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Sunny",
-    "thai": "แดดจัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Electrical",
-    "thai": "ไฟฟ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Carpet",
-    "thai": "พรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Closet",
-    "thai": "ตู้เสื้อผ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Yard",
-    "thai": "ลาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Immaculate",
-    "thai": "ไร้ที่ติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Mess",
-    "thai": "ความยุ่งเหยิง",
-    "phonetic": ""
-  },
-  {
-    "english": "Spotless",
-    "thai": "ไร้รอยด่างพร้อย",
-    "phonetic": ""
-  },
-  {
-    "english": "Attic",
-    "thai": "ห้องใต้หลังคา",
-    "phonetic": ""
-  },
-  {
-    "english": "Basement",
-    "thai": "ห้องใต้ดิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Filthy",
-    "thai": "สกปรก",
-    "phonetic": ""
-  },
-  {
-    "english": "Towel",
-    "thai": "ผ้าขนหนู",
-    "phonetic": ""
-  },
-  {
-    "english": "Mirror",
-    "thai": "กระจกเงา",
-    "phonetic": ""
-  },
-  {
-    "english": "Warm",
-    "thai": "อบอุ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Painting",
-    "thai": "จิตรกรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Paint",
-    "thai": "สี",
-    "phonetic": ""
-  },
-  {
-    "english": "Tidy",
-    "thai": "เรียบร้อย",
-    "phonetic": ""
-  },
-  {
-    "english": "Lock",
-    "thai": "ล็อค",
-    "phonetic": ""
-  },
-  {
-    "english": "Nightstand",
-    "thai": "โต๊ะข้างเตียง",
-    "phonetic": ""
-  },
-  {
-    "english": "Furniture",
-    "thai": "เฟอร์นิเจอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Trinket",
-    "thai": "เครื่องประดับเล็กๆ น้อยๆ",
-    "phonetic": ""
-  },
-  {
-    "english": "Autumn",
-    "thai": "ฤดูใบไม้ร่วง",
-    "phonetic": ""
-  },
-  {
-    "english": "Clutter",
-    "thai": "ถ่วง",
-    "phonetic": ""
-  },
-  {
-    "english": "Photograph",
-    "thai": "ภาพถ่าย",
-    "phonetic": ""
-  },
-  {
-    "english": "Sauna",
-    "thai": "ซาวน่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Mailbox",
-    "thai": "ตู้ไปรษณีย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Deck",
-    "thai": "ดาดฟ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Plumbing",
-    "thai": "ประปา",
-    "phonetic": ""
-  },
-  {
-    "english": "Balcony",
-    "thai": "ระเบียง",
-    "phonetic": ""
-  },
-  {
-    "english": "Winter",
-    "thai": "ฤดูหนาว",
-    "phonetic": ""
-  },
-  {
-    "english": "Snowy",
-    "thai": "สโนวี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Tile",
-    "thai": "กระเบื้อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Rug",
-    "thai": "พรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Watering",
-    "thai": "การรดน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Repair",
-    "thai": "ซ่อมแซม",
-    "phonetic": ""
-  },
-  {
-    "english": "Forecast",
-    "thai": "พยากรณ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Candle",
-    "thai": "เทียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Humid",
-    "thai": "ชื้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Decorate",
-    "thai": "ตกแต่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Utensil",
-    "thai": "ภาชนะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Summer",
-    "thai": "ฤดูร้อน",
-    "phonetic": ""
-  },
-  {
-    "english": "Rainbow",
-    "thai": "รุ้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Climate",
-    "thai": "ภูมิอากาศ",
-    "phonetic": ""
-  },
-  {
-    "english": "Build",
-    "thai": "สร้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Curtains",
-    "thai": "ผ้าม่าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Dresser",
-    "thai": "ตู้เสื้อผ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Shed",
-    "thai": "โรงเก็บของ",
-    "phonetic": ""
-  },
-  {
-    "english": "Masonry",
-    "thai": "งานก่ออิฐ",
-    "phonetic": ""
-  },
-  {
     "english": "Antique",
     "thai": "โบราณ",
-    "phonetic": ""
-  },
-  {
-    "english": "Cool",
-    "thai": "เย็น",
-    "phonetic": ""
-  },
-  {
-    "english": "Knick-knack",
-    "thai": "ของกระจุกกระจิก",
-    "phonetic": ""
-  },
-  {
-    "english": "Pristine",
-    "thai": "บริสุทธิ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Spring",
-    "thai": "ฤดูใบไม้ผลิ",
-    "phonetic": ""
-  },
-  {
-    "english": "Key",
-    "thai": "สำคัญ",
-    "phonetic": ""
-  },
-  {
-    "english": "Lightning",
-    "thai": "ฟ้าผ่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Demolish",
-    "thai": "รื้อถอน",
-    "phonetic": ""
-  },
-  {
-    "english": "Coffee table",
-    "thai": "โต๊ะกาแฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "Gardening",
-    "thai": "การทำสวน",
-    "phonetic": ""
-  },
-  {
-    "english": "Mowing",
-    "thai": "การตัดหญ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Season",
-    "thai": "ฤดูกาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Remote",
-    "thai": "ระยะไกล",
-    "phonetic": ""
-  },
-  {
-    "english": "Renovate",
-    "thai": "ปรับปรุงใหม่",
-    "phonetic": ""
-  },
-  {
-    "english": "Dusty",
-    "thai": "ดัสตี้",
-    "phonetic": ""
-  },
-  {
-    "english": "Pool",
-    "thai": "สระน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Dry",
-    "thai": "แห้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Rainy",
-    "thai": "ฝนตก",
-    "phonetic": ""
-  },
-  {
-    "english": "Grout",
-    "thai": "ยาแนว",
-    "phonetic": ""
-  },
-  {
-    "english": "Hot tub",
-    "thai": "อ่างน้ำร้อน",
-    "phonetic": ""
-  },
-  {
-    "english": "Clock",
-    "thai": "นาฬิกา",
-    "phonetic": ""
-  },
-  {
-    "english": "Dining table",
-    "thai": "โต๊ะรับประทานอาหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Landscaping",
-    "thai": "การจัดภูมิทัศน์",
-    "phonetic": ""
-  },
-  {
-    "english": "Doorknob",
-    "thai": "ลูกบิดประตู",
-    "phonetic": ""
-  },
-  {
-    "english": "Appliance",
-    "thai": "เครื่องใช้ไฟฟ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Thunder",
-    "thai": "ฟ้าร้อง",
     "phonetic": ""
   },
   {
@@ -395,98 +10,8 @@
     "phonetic": ""
   },
   {
-    "english": "Windy",
-    "thai": "ลมแรง",
-    "phonetic": ""
-  },
-  {
-    "english": "Driveway",
-    "thai": "ทางเข้ารถ",
-    "phonetic": ""
-  },
-  {
-    "english": "Maintain",
-    "thai": "บำรุงรักษา",
-    "phonetic": ""
-  },
-  {
     "english": "Garage",
     "thai": "โรงรถ",
-    "phonetic": ""
-  },
-  {
-    "english": "Heirloom",
-    "thai": "มรดกตกทอด",
-    "phonetic": ""
-  },
-  {
-    "english": "Weeding",
-    "thai": "การกำจัดวัชพืช",
-    "phonetic": ""
-  },
-  {
-    "english": "Storm",
-    "thai": "พายุ",
-    "phonetic": ""
-  },
-  {
-    "english": "Cloudy",
-    "thai": "เมฆมาก",
-    "phonetic": ""
-  },
-  {
-    "english": "Blanket",
-    "thai": "ผ้าห่ม",
-    "phonetic": ""
-  },
-  {
-    "english": "Gadget",
-    "thai": "แกดเจ็ต",
-    "phonetic": ""
-  },
-  {
-    "english": "Device",
-    "thai": "อุปกรณ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Pillow",
-    "thai": "หมอน",
-    "phonetic": ""
-  },
-  {
-    "english": "Ornament",
-    "thai": "เครื่องประดับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Porch",
-    "thai": "ระเบียง",
-    "phonetic": ""
-  },
-  {
-    "english": "Decor",
-    "thai": "การตกแต่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Patio",
-    "thai": "ลานบ้าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Chimney",
-    "thai": "ปล่องไฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "Bookshelf",
-    "thai": "ชั้นวางหนังสือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Blinds",
-    "thai": "มู่ลี่",
     "phonetic": ""
   },
   {
@@ -495,8 +20,483 @@
     "phonetic": ""
   },
   {
+    "english": "Clock",
+    "thai": "นาฬิกา",
+    "phonetic": ""
+  },
+  {
+    "english": "Chimney",
+    "thai": "ปล่องไฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Spring",
+    "thai": "ฤดูใบไม้ผลิ",
+    "phonetic": ""
+  },
+  {
+    "english": "Mailbox",
+    "thai": "ตู้ไปรษณีย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Mowing",
+    "thai": "การตัดหญ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Tidy",
+    "thai": "เรียบร้อย",
+    "phonetic": ""
+  },
+  {
+    "english": "Watering",
+    "thai": "การรดน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Appliance",
+    "thai": "เครื่องใช้ไฟฟ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Humid",
+    "thai": "ชื้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Spotless",
+    "thai": "ไร้รอยด่างพร้อย",
+    "phonetic": ""
+  },
+  {
+    "english": "Yard",
+    "thai": "ลาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Balcony",
+    "thai": "ระเบียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Demolish",
+    "thai": "รื้อถอน",
+    "phonetic": ""
+  },
+  {
+    "english": "Repair",
+    "thai": "ซ่อมแซม",
+    "phonetic": ""
+  },
+  {
+    "english": "Pool",
+    "thai": "สระน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Pillow",
+    "thai": "หมอน",
+    "phonetic": ""
+  },
+  {
+    "english": "Coffee table",
+    "thai": "โต๊ะกาแฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Dirty",
+    "thai": "สกปรก",
+    "phonetic": ""
+  },
+  {
+    "english": "Cloudy",
+    "thai": "เมฆมาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Shed",
+    "thai": "โรงเก็บของ",
+    "phonetic": ""
+  },
+  {
+    "english": "Nightstand",
+    "thai": "โต๊ะข้างเตียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Autumn",
+    "thai": "ฤดูใบไม้ร่วง",
+    "phonetic": ""
+  },
+  {
+    "english": "Lock",
+    "thai": "ล็อค",
+    "phonetic": ""
+  },
+  {
+    "english": "Hot tub",
+    "thai": "อ่างน้ำร้อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Electrical",
+    "thai": "ไฟฟ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Plumbing",
+    "thai": "ประปา",
+    "phonetic": ""
+  },
+  {
+    "english": "Dry",
+    "thai": "แห้ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Clutter",
+    "thai": "ถ่วง",
+    "phonetic": ""
+  },
+  {
+    "english": "Season",
+    "thai": "ฤดูกาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Deck",
+    "thai": "ดาดฟ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Blinds",
+    "thai": "มู่ลี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Photograph",
+    "thai": "ภาพถ่าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Warm",
+    "thai": "อบอุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Bookshelf",
+    "thai": "ชั้นวางหนังสือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Storm",
+    "thai": "พายุ",
+    "phonetic": ""
+  },
+  {
+    "english": "Weeding",
+    "thai": "การกำจัดวัชพืช",
+    "phonetic": ""
+  },
+  {
+    "english": "Decorate",
+    "thai": "ตกแต่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Tile",
+    "thai": "กระเบื้อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Pristine",
+    "thai": "บริสุทธิ์",
+    "phonetic": ""
+  },
+  {
     "english": "Roof",
     "thai": "หลังคา",
+    "phonetic": ""
+  },
+  {
+    "english": "Towel",
+    "thai": "ผ้าขนหนู",
+    "phonetic": ""
+  },
+  {
+    "english": "Furniture",
+    "thai": "เฟอร์นิเจอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Heirloom",
+    "thai": "มรดกตกทอด",
+    "phonetic": ""
+  },
+  {
+    "english": "Decor",
+    "thai": "การตกแต่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Fence",
+    "thai": "รั้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Closet",
+    "thai": "ตู้เสื้อผ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Masonry",
+    "thai": "งานก่ออิฐ",
+    "phonetic": ""
+  },
+  {
+    "english": "Lightning",
+    "thai": "ฟ้าผ่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Trinket",
+    "thai": "เครื่องประดับเล็กๆ น้อยๆ",
+    "phonetic": ""
+  },
+  {
+    "english": "Dresser",
+    "thai": "ตู้เสื้อผ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Immaculate",
+    "thai": "ไร้ที่ติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sunny",
+    "thai": "แดดจัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Mirror",
+    "thai": "กระจกเงา",
+    "phonetic": ""
+  },
+  {
+    "english": "Knick-knack",
+    "thai": "ของกระจุกกระจิก",
+    "phonetic": ""
+  },
+  {
+    "english": "Thunder",
+    "thai": "ฟ้าร้อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Candle",
+    "thai": "เทียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Ornament",
+    "thai": "เครื่องประดับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Snowy",
+    "thai": "สโนวี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Forecast",
+    "thai": "พยากรณ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Painting",
+    "thai": "จิตรกรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Rainy",
+    "thai": "ฝนตก",
+    "phonetic": ""
+  },
+  {
+    "english": "Cool",
+    "thai": "เย็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Landscaping",
+    "thai": "การจัดภูมิทัศน์",
+    "phonetic": ""
+  },
+  {
+    "english": "Maintain",
+    "thai": "บำรุงรักษา",
+    "phonetic": ""
+  },
+  {
+    "english": "Summer",
+    "thai": "ฤดูร้อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Curtains",
+    "thai": "ผ้าม่าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Remote",
+    "thai": "ระยะไกล",
+    "phonetic": ""
+  },
+  {
+    "english": "Basement",
+    "thai": "ห้องใต้ดิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Windy",
+    "thai": "ลมแรง",
+    "phonetic": ""
+  },
+  {
+    "english": "Utensil",
+    "thai": "ภาชนะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Patio",
+    "thai": "ลานบ้าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Carpentry",
+    "thai": "งานช่างไม้",
+    "phonetic": ""
+  },
+  {
+    "english": "Winter",
+    "thai": "ฤดูหนาว",
+    "phonetic": ""
+  },
+  {
+    "english": "Rug",
+    "thai": "พรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Driveway",
+    "thai": "ทางเข้ารถ",
+    "phonetic": ""
+  },
+  {
+    "english": "Blanket",
+    "thai": "ผ้าห่ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Sauna",
+    "thai": "ซาวน่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Attic",
+    "thai": "ห้องใต้หลังคา",
+    "phonetic": ""
+  },
+  {
+    "english": "Wallpaper",
+    "thai": "วอลเปเปอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Gardening",
+    "thai": "การทำสวน",
+    "phonetic": ""
+  },
+  {
+    "english": "Carpet",
+    "thai": "พรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Gadget",
+    "thai": "แกดเจ็ต",
+    "phonetic": ""
+  },
+  {
+    "english": "Climate",
+    "thai": "ภูมิอากาศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Key",
+    "thai": "สำคัญ",
+    "phonetic": ""
+  },
+  {
+    "english": "Doorknob",
+    "thai": "ลูกบิดประตู",
+    "phonetic": ""
+  },
+  {
+    "english": "Dusty",
+    "thai": "ดัสตี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Grout",
+    "thai": "ยาแนว",
+    "phonetic": ""
+  },
+  {
+    "english": "Device",
+    "thai": "อุปกรณ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Porch",
+    "thai": "ระเบียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Build",
+    "thai": "สร้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Paint",
+    "thai": "สี",
+    "phonetic": ""
+  },
+  {
+    "english": "Mess",
+    "thai": "ความยุ่งเหยิง",
+    "phonetic": ""
+  },
+  {
+    "english": "Filthy",
+    "thai": "สกปรก",
+    "phonetic": ""
+  },
+  {
+    "english": "Rainbow",
+    "thai": "รุ้ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Renovate",
+    "thai": "ปรับปรุงใหม่",
+    "phonetic": ""
+  },
+  {
+    "english": "Dining table",
+    "thai": "โต๊ะรับประทานอาหาร",
     "phonetic": ""
   }
 ]

@@ -32,7 +32,6 @@ async function populateMissingTranslations() {
         const manifest = JSON.parse(fs.readFileSync(manifestFilePath, 'utf8'));
 
         const wordsToTranslate = [];
-        const allLessonFiles = [];
 
         // Find all lesson files and words with missing translations
         for (const language in manifest) {
@@ -42,11 +41,24 @@ async function populateMissingTranslations() {
                         if (manifest[language][categoryName].lessons) {
                             manifest[language][categoryName].lessons.forEach(lessonInfo => {
                                 const lessonFilePath = path.join(dataDir, lessonInfo.file);
-                                allLessonFiles.push(lessonFilePath);
                                 const lessonData = JSON.parse(fs.readFileSync(lessonFilePath, 'utf8'));
                                 lessonData.forEach(card => {
-                                    if (card.english && !card.thai) {
-                                        wordsToTranslate.push({ card, lessonFilePath });
+                                    let textToTranslate = '';
+                                    let sourceField = '';
+
+                                    if (language === 'english' && card.english && !card.thai) {
+                                        textToTranslate = card.english;
+                                        sourceField = 'english';
+                                    } else if (language === 'chinese' && card.chinese && !card.thai) {
+                                        textToTranslate = card.chinese;
+                                        sourceField = 'chinese';
+                                    } else if (language === 'chinese' && card.pinyin && !card.thai) { // Fallback for pinyin if chinese is empty
+                                        textToTranslate = card.pinyin;
+                                        sourceField = 'pinyin';
+                                    }
+
+                                    if (textToTranslate) {
+                                        wordsToTranslate.push({ card, lessonFilePath, textToTranslate, sourceField });
                                     }
                                 });
                             });
@@ -66,46 +78,54 @@ async function populateMissingTranslations() {
         let totalTranslated = 0;
         const totalChunks = Math.ceil(wordsToTranslate.length / CHUNK_SIZE);
 
+        // Group words by lessonFilePath to write back efficiently
+        const translationsByFile = {};
+
         for (let i = 0; i < wordsToTranslate.length; i += CHUNK_SIZE) {
             const chunk = wordsToTranslate.slice(i, i + CHUNK_SIZE);
-            const englishTextsInChunk = chunk.map(item => item.card.english);
+            const textsInChunk = chunk.map(item => item.textToTranslate);
 
             console.log(`\nTranslating chunk ${i / CHUNK_SIZE + 1} of ${totalChunks} (${chunk.length} words)...`);
 
-            // Call the Google Translate API for the current chunk
-            let [translations] = await translate.translate(englishTextsInChunk, targetLanguage);
+            let [translations] = await translate.translate(textsInChunk, targetLanguage);
 
-            // The API returns an array of translations in the same order as the input
             translations.forEach((translation, index) => {
                 const item = chunk[index];
                 item.card.thai = translation;
+
+                // Store updated card in its respective file's collection
+                if (!translationsByFile[item.lessonFilePath]) {
+                    translationsByFile[item.lessonFilePath] = [];
+                }
+                translationsByFile[item.lessonFilePath].push(item.card);
             });
 
             totalTranslated += chunk.length;
             console.log(`...chunk translated. Total translated: ${totalTranslated}`);
 
-            // Add a small delay between chunks to be a good API citizen.
             if (i + CHUNK_SIZE < wordsToTranslate.length) {
                 await delay(500); // 500ms delay
             }
         }
 
         // Write the updated data back to the individual lesson files
-        const updatedFiles = new Set();
-        wordsToTranslate.forEach(item => {
-            updatedFiles.add(item.lessonFilePath);
-        });
+        for (const filePath in translationsByFile) {
+            if (Object.hasOwnProperty.call(translationsByFile, filePath)) {
+                const updatedCards = translationsByFile[filePath];
+                // Read the original file content to ensure we don't overwrite non-translated cards
+                const originalLessonData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+                const finalLessonData = originalLessonData.map(originalCard => {
+                    const updatedCard = updatedCards.find(uc => 
+                        (originalCard.english && uc.english === originalCard.english) ||
+                        (originalCard.chinese && uc.chinese === originalCard.chinese)
+                    );
+                    return updatedCard || originalCard;
+                });
+                fs.writeFileSync(filePath, JSON.stringify(finalLessonData, null, 2), 'utf8');
+            }
+        }
 
-        updatedFiles.forEach(filePath => {
-            const lessonData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-            const updatedLessonData = lessonData.map(card => {
-                const translatedItem = wordsToTranslate.find(item => item.card.english === card.english);
-                return translatedItem ? translatedItem.card : card;
-            });
-            fs.writeFileSync(filePath, JSON.stringify(updatedLessonData, null, 2), 'utf8');
-        });
-
-        console.log(`\nSuccessfully updated ${totalTranslated} translations in ${updatedFiles.size} lesson files!`);
+        console.log(`\nSuccessfully updated ${totalTranslated} translations in ${Object.keys(translationsByFile).length} lesson files!`);
 
     } catch (error) {
         console.error("Error populating translations:", error);

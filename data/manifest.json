@@ -903,31 +903,31 @@
       "lessons": [
         {
           "name": "常用问候语: Lesson 1",
-          "name_th": "undefined: บทที่ 1",
+          "name_th": "วลีทักทายทั่วไป: บทที่ 1",
           "file": "chinese/useful_phrases/_______lesson_1.json",
           "isReview": false
         },
         {
           "name": "常用问候语: Lesson 2",
-          "name_th": "undefined: บทที่ 2",
+          "name_th": "วลีทักทายทั่วไป: บทที่ 2",
           "file": "chinese/useful_phrases/_______lesson_2.json",
           "isReview": false
         },
         {
           "name": "常用问候语: Lesson 3",
-          "name_th": "undefined: บทที่ 3",
+          "name_th": "วลีทักทายทั่วไป: บทที่ 3",
           "file": "chinese/useful_phrases/_______lesson_3.json",
           "isReview": false
         },
         {
           "name": "常用问候语: Lesson 4",
-          "name_th": "undefined: บทที่ 4",
+          "name_th": "วลีทักทายทั่วไป: บทที่ 4",
           "file": "chinese/useful_phrases/_______lesson_4.json",
           "isReview": false
         },
         {
           "name": "旅行短语: Lesson 5",
-          "name_th": "undefined: บทที่ 5",
+          "name_th": "วลีสำหรับการเดินทาง: บทที่ 5",
           "file": "chinese/useful_phrases/______lesson_5.json",
           "isReview": false
         },
@@ -939,31 +939,31 @@
         },
         {
           "name": "旅行短语: Lesson 6",
-          "name_th": "undefined: บทที่ 6",
+          "name_th": "วลีสำหรับการเดินทาง: บทที่ 6",
           "file": "chinese/useful_phrases/______lesson_6.json",
           "isReview": false
         },
         {
           "name": "旅行短语: Lesson 7",
-          "name_th": "undefined: บทที่ 7",
+          "name_th": "วลีสำหรับการเดินทาง: บทที่ 7",
           "file": "chinese/useful_phrases/______lesson_7.json",
           "isReview": false
         },
         {
           "name": "旅行短语: Lesson 8",
-          "name_th": "undefined: บทที่ 8",
+          "name_th": "วลีสำหรับการเดินทาง: บทที่ 8",
           "file": "chinese/useful_phrases/______lesson_8.json",
           "isReview": false
         },
         {
           "name": "旅行短语: Lesson 9",
-          "name_th": "undefined: บทที่ 9",
+          "name_th": "วลีสำหรับการเดินทาง: บทที่ 9",
           "file": "chinese/useful_phrases/______lesson_9.json",
           "isReview": false
         },
         {
           "name": "购物短语: Lesson 10",
-          "name_th": "undefined: บทที่ 10",
+          "name_th": "วลีสำหรับการช้อปปิ้ง: บทที่ 10",
           "file": "chinese/useful_phrases/______lesson_10.json",
           "isReview": false
         },
@@ -975,31 +975,31 @@
         },
         {
           "name": "购物短语: Lesson 11",
-          "name_th": "undefined: บทที่ 11",
+          "name_th": "วลีสำหรับการช้อปปิ้ง: บทที่ 11",
           "file": "chinese/useful_phrases/______lesson_11.json",
           "isReview": false
         },
         {
           "name": "购物短语: Lesson 12",
-          "name_th": "undefined: บทที่ 12",
+          "name_th": "วลีสำหรับการช้อปปิ้ง: บทที่ 12",
           "file": "chinese/useful_phrases/______lesson_12.json",
           "isReview": false
         },
         {
           "name": "购物短语: Lesson 13",
-          "name_th": "undefined: บทที่ 13",
+          "name_th": "วลีสำหรับการช้อปปิ้ง: บทที่ 13",
           "file": "chinese/useful_phrases/______lesson_13.json",
           "isReview": false
         },
         {
           "name": "紧急短语: Lesson 14",
-          "name_th": "undefined: บทที่ 14",
+          "name_th": "วลีฉุกเฉิน: บทที่ 14",
           "file": "chinese/useful_phrases/______lesson_14.json",
           "isReview": false
         },
         {
           "name": "紧急短语: Lesson 15",
-          "name_th": "undefined: บทที่ 15",
+          "name_th": "วลีฉุกเฉิน: บทที่ 15",
           "file": "chinese/useful_phrases/______lesson_15.json",
           "isReview": false
         },
@@ -1011,31 +1011,31 @@
         },
         {
           "name": "紧急短语: Lesson 16",
-          "name_th": "undefined: บทที่ 16",
+          "name_th": "วลีฉุกเฉิน: บทที่ 16",
           "file": "chinese/useful_phrases/______lesson_16.json",
           "isReview": false
         },
         {
           "name": "紧急短语: Lesson 17",
-          "name_th": "undefined: บทที่ 17",
+          "name_th": "วลีฉุกเฉิน: บทที่ 17",
           "file": "chinese/useful_phrases/______lesson_17.json",
           "isReview": false
         },
         {
           "name": "用餐短语: Lesson 18",
-          "name_th": "undefined: บทที่ 18",
+          "name_th": "วลีสำหรับการรับประทานอาหาร: บทที่ 18",
           "file": "chinese/useful_phrases/______lesson_18.json",
           "isReview": false
         },
         {
           "name": "用餐短语: Lesson 19",
-          "name_th": "undefined: บทที่ 19",
+          "name_th": "วลีสำหรับการรับประทานอาหาร: บทที่ 19",
           "file": "chinese/useful_phrases/______lesson_19.json",
           "isReview": false
         },
         {
           "name": "用餐短语: Lesson 20",
-          "name_th": "undefined: บทที่ 20",
+          "name_th": "วลีสำหรับการรับประทานอาหาร: บทที่ 20",
           "file": "chinese/useful_phrases/______lesson_20.json",
           "isReview": false
         },

@@ -1,237 +1,7 @@
 [
   {
-    "english": "Tunnel",
-    "thai": "อุโมงค์",
-    "phonetic": ""
-  },
-  {
-    "english": "Landmark",
-    "thai": "แลนด์มาร์ค",
-    "phonetic": ""
-  },
-  {
-    "english": "Near",
-    "thai": "ใกล้",
-    "phonetic": ""
-  },
-  {
-    "english": "Arrivals",
-    "thai": "การมาถึง",
-    "phonetic": ""
-  },
-  {
-    "english": "West",
-    "thai": "ตะวันตก",
-    "phonetic": ""
-  },
-  {
-    "english": "Ticket",
-    "thai": "ตั๋ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Destination",
-    "thai": "ปลายทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Right",
-    "thai": "ขวา",
-    "phonetic": ""
-  },
-  {
-    "english": "Far",
-    "thai": "ไกล",
-    "phonetic": ""
-  },
-  {
-    "english": "Airport",
-    "thai": "สนามบิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Bus",
-    "thai": "รสบัส",
-    "phonetic": ""
-  },
-  {
-    "english": "Delay",
-    "thai": "ล่าช้า",
-    "phonetic": ""
-  },
-  {
-    "english": "North",
-    "thai": "ทิศเหนือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Itinerary",
-    "thai": "กำหนดการเดินทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Train",
-    "thai": "รถไฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "Map",
-    "thai": "แผนที่",
-    "phonetic": ""
-  },
-  {
-    "english": "Peninsula",
-    "thai": "คาบสมุทร",
-    "phonetic": ""
-  },
-  {
-    "english": "Guide",
-    "thai": "แนะนำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Passport",
-    "thai": "หนังสือเดินทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Park",
-    "thai": "สวน",
-    "phonetic": ""
-  },
-  {
-    "english": "Check-in",
-    "thai": "เช็คอิน",
-    "phonetic": ""
-  },
-  {
-    "english": "King",
-    "thai": "กษัตริย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Town",
-    "thai": "เมือง",
-    "phonetic": ""
-  },
-  {
-    "english": "Museum",
-    "thai": "พิพิธภัณฑ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Stairs",
-    "thai": "บันได",
-    "phonetic": ""
-  },
-  {
-    "english": "Baggage",
-    "thai": "สัมภาระ",
-    "phonetic": ""
-  },
-  {
-    "english": "Toll",
-    "thai": "ค่าผ่านทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "City",
-    "thai": "เมือง",
-    "phonetic": ""
-  },
-  {
-    "english": "Double room",
-    "thai": "ห้องคู่",
-    "phonetic": ""
-  },
-  {
-    "english": "Left",
-    "thai": "ซ้าย",
-    "phonetic": ""
-  },
-  {
-    "english": "Route",
-    "thai": "เส้นทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Luggage",
-    "thai": "กระเป๋าเดินทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Vacancy",
-    "thai": "ตำแหน่งงานว่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Transportation",
-    "thai": "การขนส่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Rental car",
-    "thai": "รถเช่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Room service",
-    "thai": "บริการรูมเซอร์วิส",
-    "phonetic": ""
-  },
-  {
-    "english": "Suite",
-    "thai": "ห้องชุด",
-    "phonetic": ""
-  },
-  {
-    "english": "Boarding pass",
-    "thai": "บัตรโดยสารขึ้นเครื่อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Train station",
-    "thai": "สถานีรถไฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "Gas station",
-    "thai": "ปั๊มน้ำมัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Gallery",
-    "thai": "แกลเลอรี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Origin",
-    "thai": "ต้นทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Village",
-    "thai": "หมู่บ้าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Subway",
-    "thai": "รถไฟใต้ดิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Elevator",
-    "thai": "ลิฟต์",
-    "phonetic": ""
-  },
-  {
-    "english": "Concierge",
-    "thai": "พนักงานต้อนรับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Parking",
-    "thai": "ที่จอดรถ",
+    "english": "Twin room",
+    "thai": "ห้องเตียงคู่",
     "phonetic": ""
   },
   {
@@ -240,198 +10,18 @@
     "phonetic": ""
   },
   {
-    "english": "Country",
-    "thai": "ประเทศ",
+    "english": "West",
+    "thai": "ตะวันตก",
     "phonetic": ""
   },
   {
-    "english": "Minibar",
-    "thai": "มินิบาร์",
+    "english": "Park",
+    "thai": "สวน",
     "phonetic": ""
   },
   {
-    "english": "Customs",
-    "thai": "ศุลกากร",
-    "phonetic": ""
-  },
-  {
-    "english": "Car",
-    "thai": "รถ",
-    "phonetic": ""
-  },
-  {
-    "english": "Rush hour",
-    "thai": "ชั่วโมงเร่งด่วน",
-    "phonetic": ""
-  },
-  {
-    "english": "Ride",
-    "thai": "ขี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Straight",
-    "thai": "ตรง",
-    "phonetic": ""
-  },
-  {
-    "english": "Keycard",
-    "thai": "คีย์การ์ด",
-    "phonetic": ""
-  },
-  {
-    "english": "Crosswalk",
-    "thai": "ทางม้าลาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Sidewalk",
-    "thai": "ทางเท้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Departures",
-    "thai": "การออกเดินทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "East",
-    "thai": "ทิศตะวันออก",
-    "phonetic": ""
-  },
-  {
-    "english": "On time",
-    "thai": "ตรงเวลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Reception",
-    "thai": "แผนกต้อนรับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Island",
-    "thai": "เกาะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Booking",
-    "thai": "การจอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Hotel",
-    "thai": "โรงแรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Lobby",
-    "thai": "ล็อบบี้",
-    "phonetic": ""
-  },
-  {
-    "english": "Beach",
-    "thai": "ชายหาด",
-    "phonetic": ""
-  },
-  {
-    "english": "Bicycle",
-    "thai": "จักรยาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Mountain",
-    "thai": "ภูเขา",
-    "phonetic": ""
-  },
-  {
-    "english": "Housekeeping",
-    "thai": "การดูแลบ้าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Bridge",
-    "thai": "สะพาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Street",
-    "thai": "ถนน",
-    "phonetic": ""
-  },
-  {
-    "english": "Single room",
-    "thai": "ห้องเดี่ยว",
-    "phonetic": ""
-  },
-  {
-    "english": "Tour",
-    "thai": "การท่องเที่ยว",
-    "phonetic": ""
-  },
-  {
-    "english": "Speed limit",
-    "thai": "จำกัดความเร็ว",
-    "phonetic": ""
-  },
-  {
-    "english": "View",
-    "thai": "ดู",
-    "phonetic": ""
-  },
-  {
-    "english": "Continent",
-    "thai": "ทวีป",
-    "phonetic": ""
-  },
-  {
-    "english": "Seat",
-    "thai": "ที่นั่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Global Positioning System",
-    "thai": "ระบบกำหนดตำแหน่งทั่วโลก",
-    "phonetic": ""
-  },
-  {
-    "english": "Gate",
-    "thai": "ประตู",
-    "phonetic": ""
-  },
-  {
-    "english": "Confirmation",
-    "thai": "การยืนยัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Bellhop",
-    "thai": "พนักงานยกกระเป๋า",
-    "phonetic": ""
-  },
-  {
-    "english": "Road",
-    "thai": "ถนน",
-    "phonetic": ""
-  },
-  {
-    "english": "Intersection",
-    "thai": "จุดตัด",
-    "phonetic": ""
-  },
-  {
-    "english": "South",
-    "thai": "ใต้",
-    "phonetic": ""
-  },
-  {
-    "english": "Twin room",
-    "thai": "ห้องเตียงคู่",
-    "phonetic": ""
-  },
-  {
-    "english": "Ferry",
-    "thai": "เรือข้ามฟาก",
+    "english": "Tunnel",
+    "thai": "อุโมงค์",
     "phonetic": ""
   },
   {
@@ -440,48 +30,18 @@
     "phonetic": ""
   },
   {
+    "english": "North",
+    "thai": "ทิศเหนือ",
+    "phonetic": ""
+  },
+  {
+    "english": "East",
+    "thai": "ทิศตะวันออก",
+    "phonetic": ""
+  },
+  {
     "english": "Bus stop",
     "thai": "ป้ายรถเมล์",
-    "phonetic": ""
-  },
-  {
-    "english": "Carry-on",
-    "thai": "สัมภาระถือขึ้นเครื่อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Cancelled",
-    "thai": "ยกเลิก",
-    "phonetic": ""
-  },
-  {
-    "english": "Flight",
-    "thai": "เที่ยวบิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Highway",
-    "thai": "ทางหลวง",
-    "phonetic": ""
-  },
-  {
-    "english": "Checked",
-    "thai": "ตรวจสอบแล้ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Traffic light",
-    "thai": "สัญญาณไฟจราจร",
-    "phonetic": ""
-  },
-  {
-    "english": "Taxi",
-    "thai": "แท็กซี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Souvenir",
-    "thai": "ของที่ระลึก",
     "phonetic": ""
   },
   {
@@ -490,13 +50,453 @@
     "phonetic": ""
   },
   {
+    "english": "Sidewalk",
+    "thai": "ทางเท้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Housekeeping",
+    "thai": "การดูแลบ้าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Road",
+    "thai": "ถนน",
+    "phonetic": ""
+  },
+  {
+    "english": "Boarding pass",
+    "thai": "บัตรโดยสารขึ้นเครื่อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Concierge",
+    "thai": "พนักงานต้อนรับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Customs",
+    "thai": "ศุลกากร",
+    "phonetic": ""
+  },
+  {
+    "english": "Tour",
+    "thai": "การท่องเที่ยว",
+    "phonetic": ""
+  },
+  {
+    "english": "Mountain",
+    "thai": "ภูเขา",
+    "phonetic": ""
+  },
+  {
+    "english": "Keycard",
+    "thai": "คีย์การ์ด",
+    "phonetic": ""
+  },
+  {
+    "english": "Souvenir",
+    "thai": "ของที่ระลึก",
+    "phonetic": ""
+  },
+  {
+    "english": "On time",
+    "thai": "ตรงเวลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Taxi",
+    "thai": "แท็กซี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Train station",
+    "thai": "สถานีรถไฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Delay",
+    "thai": "ล่าช้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Traffic light",
+    "thai": "สัญญาณไฟจราจร",
+    "phonetic": ""
+  },
+  {
+    "english": "Checked",
+    "thai": "ตรวจสอบแล้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Near",
+    "thai": "ใกล้",
+    "phonetic": ""
+  },
+  {
+    "english": "Straight",
+    "thai": "ตรง",
+    "phonetic": ""
+  },
+  {
+    "english": "Double room",
+    "thai": "ห้องคู่",
+    "phonetic": ""
+  },
+  {
+    "english": "Far",
+    "thai": "ไกล",
+    "phonetic": ""
+  },
+  {
+    "english": "Rush hour",
+    "thai": "ชั่วโมงเร่งด่วน",
+    "phonetic": ""
+  },
+  {
+    "english": "Street",
+    "thai": "ถนน",
+    "phonetic": ""
+  },
+  {
+    "english": "Reception",
+    "thai": "แผนกต้อนรับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Suite",
+    "thai": "ห้องชุด",
+    "phonetic": ""
+  },
+  {
+    "english": "Left",
+    "thai": "ซ้าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Vacancy",
+    "thai": "ตำแหน่งงานว่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Beach",
+    "thai": "ชายหาด",
+    "phonetic": ""
+  },
+  {
+    "english": "South",
+    "thai": "ใต้",
+    "phonetic": ""
+  },
+  {
+    "english": "Check-in",
+    "thai": "เช็คอิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Flight",
+    "thai": "เที่ยวบิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Museum",
+    "thai": "พิพิธภัณฑ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Baggage",
+    "thai": "สัมภาระ",
+    "phonetic": ""
+  },
+  {
+    "english": "Single room",
+    "thai": "ห้องเดี่ยว",
+    "phonetic": ""
+  },
+  {
+    "english": "Elevator",
+    "thai": "ลิฟต์",
+    "phonetic": ""
+  },
+  {
+    "english": "Gate",
+    "thai": "ประตู",
+    "phonetic": ""
+  },
+  {
+    "english": "Toll",
+    "thai": "ค่าผ่านทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Continent",
+    "thai": "ทวีป",
+    "phonetic": ""
+  },
+  {
+    "english": "Airport",
+    "thai": "สนามบิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Landmark",
+    "thai": "แลนด์มาร์ค",
+    "phonetic": ""
+  },
+  {
+    "english": "Room service",
+    "thai": "บริการรูมเซอร์วิส",
+    "phonetic": ""
+  },
+  {
+    "english": "City",
+    "thai": "เมือง",
+    "phonetic": ""
+  },
+  {
+    "english": "Minibar",
+    "thai": "มินิบาร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Speed limit",
+    "thai": "จำกัดความเร็ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Global Positioning System",
+    "thai": "ระบบกำหนดตำแหน่งทั่วโลก",
+    "phonetic": ""
+  },
+  {
+    "english": "Train",
+    "thai": "รถไฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Destination",
+    "thai": "ปลายทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Bicycle",
+    "thai": "จักรยาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Carry-on",
+    "thai": "สัมภาระถือขึ้นเครื่อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Right",
+    "thai": "ขวา",
+    "phonetic": ""
+  },
+  {
+    "english": "Parking",
+    "thai": "ที่จอดรถ",
+    "phonetic": ""
+  },
+  {
+    "english": "Confirmation",
+    "thai": "การยืนยัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Island",
+    "thai": "เกาะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Car",
+    "thai": "รถ",
+    "phonetic": ""
+  },
+  {
+    "english": "Departures",
+    "thai": "การออกเดินทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Map",
+    "thai": "แผนที่",
+    "phonetic": ""
+  },
+  {
+    "english": "Hotel",
+    "thai": "โรงแรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Luggage",
+    "thai": "กระเป๋าเดินทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Seat",
+    "thai": "ที่นั่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Highway",
+    "thai": "ทางหลวง",
+    "phonetic": ""
+  },
+  {
+    "english": "Gallery",
+    "thai": "แกลเลอรี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Country",
+    "thai": "ประเทศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Ticket",
+    "thai": "ตั๋ว",
+    "phonetic": ""
+  },
+  {
     "english": "Overhead",
     "thai": "ค่าใช้จ่ายเหนือศีรษะ",
     "phonetic": ""
   },
   {
+    "english": "Bridge",
+    "thai": "สะพาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Crosswalk",
+    "thai": "ทางม้าลาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Cancelled",
+    "thai": "ยกเลิก",
+    "phonetic": ""
+  },
+  {
+    "english": "Subway",
+    "thai": "รถไฟใต้ดิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Bus",
+    "thai": "รสบัส",
+    "phonetic": ""
+  },
+  {
+    "english": "Arrivals",
+    "thai": "การมาถึง",
+    "phonetic": ""
+  },
+  {
+    "english": "Bellhop",
+    "thai": "พนักงานยกกระเป๋า",
+    "phonetic": ""
+  },
+  {
+    "english": "Booking",
+    "thai": "การจอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Origin",
+    "thai": "ต้นทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Gas station",
+    "thai": "ปั๊มน้ำมัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Peninsula",
+    "thai": "คาบสมุทร",
+    "phonetic": ""
+  },
+  {
+    "english": "Transportation",
+    "thai": "การขนส่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Guide",
+    "thai": "แนะนำ",
+    "phonetic": ""
+  },
+  {
+    "english": "King",
+    "thai": "กษัตริย์",
+    "phonetic": ""
+  },
+  {
     "english": "Traffic",
     "thai": "การจราจร",
+    "phonetic": ""
+  },
+  {
+    "english": "Intersection",
+    "thai": "จุดตัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Ferry",
+    "thai": "เรือข้ามฟาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Passport",
+    "thai": "หนังสือเดินทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Itinerary",
+    "thai": "กำหนดการเดินทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Town",
+    "thai": "เมือง",
+    "phonetic": ""
+  },
+  {
+    "english": "Ride",
+    "thai": "ขี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Rental car",
+    "thai": "รถเช่า",
+    "phonetic": ""
+  },
+  {
+    "english": "View",
+    "thai": "ดู",
+    "phonetic": ""
+  },
+  {
+    "english": "Village",
+    "thai": "หมู่บ้าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Lobby",
+    "thai": "ล็อบบี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Stairs",
+    "thai": "บันได",
+    "phonetic": ""
+  },
+  {
+    "english": "Route",
+    "thai": "เส้นทาง",
     "phonetic": ""
   }
 ]

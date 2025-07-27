@@ -1,172 +1,17 @@
 [
   {
-    "english": "Arrow",
-    "thai": "ลูกศร",
+    "english": "Cube",
+    "thai": "ลูกบาศก์",
     "phonetic": ""
   },
   {
-    "english": "Sphere",
-    "thai": "ทรงกลม",
+    "english": "Angular",
+    "thai": "เชิงมุม",
     "phonetic": ""
   },
   {
-    "english": "Monochromatic",
-    "thai": "สีเดียว",
-    "phonetic": ""
-  },
-  {
-    "english": "Curvilinear",
-    "thai": "เส้นโค้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Analogous",
-    "thai": "คล้ายคลึงกัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Zigzag",
-    "thai": "ซิกแซก",
-    "phonetic": ""
-  },
-  {
-    "english": "Asymmetry",
-    "thai": "ความไม่สมมาตร",
-    "phonetic": ""
-  },
-  {
-    "english": "Maroon",
-    "thai": "สีน้ำตาลแดง",
-    "phonetic": ""
-  },
-  {
-    "english": "Secondary",
-    "thai": "มัธยมศึกษาตอนปลาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Spiral",
-    "thai": "เกลียว",
-    "phonetic": ""
-  },
-  {
-    "english": "Angle",
-    "thai": "มุม",
-    "phonetic": ""
-  },
-  {
-    "english": "Bronze",
-    "thai": "บรอนซ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Neon",
-    "thai": "นีออน",
-    "phonetic": ""
-  },
-  {
-    "english": "Octagon",
-    "thai": "แปดเหลี่ยม",
-    "phonetic": ""
-  },
-  {
-    "english": "Pyramid",
-    "thai": "พีระมิด",
-    "phonetic": ""
-  },
-  {
-    "english": "Navy",
-    "thai": "กองทัพเรือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Triadic",
-    "thai": "ไตรแอดิก",
-    "phonetic": ""
-  },
-  {
-    "english": "Dark",
-    "thai": "มืด",
-    "phonetic": ""
-  },
-  {
-    "english": "Cylinder",
-    "thai": "กระบอกสูบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Muted",
-    "thai": "ปิดเสียง",
-    "phonetic": ""
-  },
-  {
-    "english": "Design",
-    "thai": "ออกแบบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Shape",
-    "thai": "รูปร่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Color",
-    "thai": "สี",
-    "phonetic": ""
-  },
-  {
-    "english": "Brightness",
-    "thai": "ความสว่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Neutral",
-    "thai": "เป็นกลาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Dimension",
-    "thai": "มิติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Tint",
-    "thai": "ย้อมสี",
-    "phonetic": ""
-  },
-  {
-    "english": "Crescent",
-    "thai": "เสี้ยวพระจันทร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Vibrant",
-    "thai": "สดใส",
-    "phonetic": ""
-  },
-  {
-    "english": "Gold",
-    "thai": "ทอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Hue",
-    "thai": "เฉดสี",
-    "phonetic": ""
-  },
-  {
-    "english": "Hexagon",
-    "thai": "หกเหลี่ยม",
-    "phonetic": ""
-  },
-  {
-    "english": "Contrast",
-    "thai": "ตัดกัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Tertiary",
-    "thai": "ระดับอุดมศึกษา",
+    "english": "Circumference",
+    "thai": "เส้นรอบวง",
     "phonetic": ""
   },
   {
@@ -175,28 +20,33 @@
     "phonetic": ""
   },
   {
-    "english": "Three-dimensional",
-    "thai": "สามมิติ",
+    "english": "Monochromatic",
+    "thai": "สีเดียว",
     "phonetic": ""
   },
   {
-    "english": "Infinite",
-    "thai": "อนันต์",
+    "english": "Linear",
+    "thai": "เชิงเส้น",
     "phonetic": ""
   },
   {
-    "english": "Primary",
-    "thai": "หลัก",
+    "english": "Thirteen",
+    "thai": "สิบสาม",
     "phonetic": ""
   },
   {
-    "english": "Hollow",
-    "thai": "กลวง",
+    "english": "Geometry",
+    "thai": "เรขาคณิต",
     "phonetic": ""
   },
   {
-    "english": "Saturation",
-    "thai": "ความอิ่มตัว",
+    "english": "Sharp",
+    "thai": "คม",
+    "phonetic": ""
+  },
+  {
+    "english": "Freeform",
+    "thai": "ฟรีฟอร์ม",
     "phonetic": ""
   },
   {
@@ -205,8 +55,173 @@
     "phonetic": ""
   },
   {
-    "english": "Geometric",
-    "thai": "รูปทรงเรขาคณิต",
+    "english": "Hue",
+    "thai": "เฉดสี",
+    "phonetic": ""
+  },
+  {
+    "english": "Muted",
+    "thai": "ปิดเสียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Complementary",
+    "thai": "เสริม",
+    "phonetic": ""
+  },
+  {
+    "english": "Saturation",
+    "thai": "ความอิ่มตัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Hexagon",
+    "thai": "หกเหลี่ยม",
+    "phonetic": ""
+  },
+  {
+    "english": "Arrow",
+    "thai": "ลูกศร",
+    "phonetic": ""
+  },
+  {
+    "english": "Two",
+    "thai": "สอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Zigzag",
+    "thai": "ซิกแซก",
+    "phonetic": ""
+  },
+  {
+    "english": "Continuous",
+    "thai": "ต่อเนื่อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Pentagon",
+    "thai": "เพนตากอน",
+    "phonetic": ""
+  },
+  {
+    "english": "Neutral",
+    "thai": "เป็นกลาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Contrast",
+    "thai": "ตัดกัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Navy",
+    "thai": "กองทัพเรือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sphere",
+    "thai": "ทรงกลม",
+    "phonetic": ""
+  },
+  {
+    "english": "One",
+    "thai": "หนึ่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Point",
+    "thai": "จุด",
+    "phonetic": ""
+  },
+  {
+    "english": "Turquoise",
+    "thai": "สีฟ้าคราม",
+    "phonetic": ""
+  },
+  {
+    "english": "Maroon",
+    "thai": "สีน้ำตาลแดง",
+    "phonetic": ""
+  },
+  {
+    "english": "Perimeter",
+    "thai": "ปริมณฑล",
+    "phonetic": ""
+  },
+  {
+    "english": "Side",
+    "thai": "ด้านข้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Four",
+    "thai": "สี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Twenty",
+    "thai": "ยี่สิบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Cross",
+    "thai": "ข้าม",
+    "phonetic": ""
+  },
+  {
+    "english": "Silver",
+    "thai": "เงิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Eight",
+    "thai": "แปด",
+    "phonetic": ""
+  },
+  {
+    "english": "Tetradic",
+    "thai": "สี่เท่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Tertiary",
+    "thai": "ระดับอุดมศึกษา",
+    "phonetic": ""
+  },
+  {
+    "english": "Secondary",
+    "thai": "มัธยมศึกษาตอนปลาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Dark",
+    "thai": "มืด",
+    "phonetic": ""
+  },
+  {
+    "english": "Blunt",
+    "thai": "ทื่อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Asymmetry",
+    "thai": "ความไม่สมมาตร",
+    "phonetic": ""
+  },
+  {
+    "english": "Cylinder",
+    "thai": "กระบอกสูบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Dimension",
+    "thai": "มิติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Bronze",
+    "thai": "บรอนซ์",
     "phonetic": ""
   },
   {
@@ -215,8 +230,108 @@
     "phonetic": ""
   },
   {
-    "english": "Nine",
-    "thai": "เก้า",
+    "english": "Analogous",
+    "thai": "คล้ายคลึงกัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Brightness",
+    "thai": "ความสว่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Neon",
+    "thai": "นีออน",
+    "phonetic": ""
+  },
+  {
+    "english": "Sixteen",
+    "thai": "สิบหก",
+    "phonetic": ""
+  },
+  {
+    "english": "Form",
+    "thai": "รูปร่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Primary",
+    "thai": "หลัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Fifteen",
+    "thai": "สิบห้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Tint",
+    "thai": "ย้อมสี",
+    "phonetic": ""
+  },
+  {
+    "english": "Spiral",
+    "thai": "เกลียว",
+    "phonetic": ""
+  },
+  {
+    "english": "Octagon",
+    "thai": "แปดเหลี่ยม",
+    "phonetic": ""
+  },
+  {
+    "english": "Symmetry",
+    "thai": "สมมาตร",
+    "phonetic": ""
+  },
+  {
+    "english": "Eleven",
+    "thai": "สิบเอ็ด",
+    "phonetic": ""
+  },
+  {
+    "english": "Curvilinear",
+    "thai": "เส้นโค้ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Three-dimensional",
+    "thai": "สามมิติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Radius",
+    "thai": "รัศมี",
+    "phonetic": ""
+  },
+  {
+    "english": "Beige",
+    "thai": "สีเบจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Crescent",
+    "thai": "เสี้ยวพระจันทร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Gold",
+    "thai": "ทอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Ten",
+    "thai": "สิบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Edge",
+    "thai": "ขอบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Pyramid",
+    "thai": "พีระมิด",
     "phonetic": ""
   },
   {
@@ -225,8 +340,128 @@
     "phonetic": ""
   },
   {
+    "english": "Pastel",
+    "thai": "สีพาสเทล",
+    "phonetic": ""
+  },
+  {
     "english": "Area",
     "thai": "พื้นที่",
+    "phonetic": ""
+  },
+  {
+    "english": "Diameter",
+    "thai": "เส้นผ่านศูนย์กลาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Cone",
+    "thai": "กรวย",
+    "phonetic": ""
+  },
+  {
+    "english": "One-dimensional",
+    "thai": "มิติเดียว",
+    "phonetic": ""
+  },
+  {
+    "english": "Zero-dimensional",
+    "thai": "มิติศูนย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Color",
+    "thai": "สี",
+    "phonetic": ""
+  },
+  {
+    "english": "Flat",
+    "thai": "แบน",
+    "phonetic": ""
+  },
+  {
+    "english": "Six",
+    "thai": "หก",
+    "phonetic": ""
+  },
+  {
+    "english": "Three",
+    "thai": "สาม",
+    "phonetic": ""
+  },
+  {
+    "english": "Design",
+    "thai": "ออกแบบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Volume",
+    "thai": "ปริมาณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Triadic",
+    "thai": "ไตรแอดิก",
+    "phonetic": ""
+  },
+  {
+    "english": "Structure",
+    "thai": "โครงสร้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Vibrant",
+    "thai": "สดใส",
+    "phonetic": ""
+  },
+  {
+    "english": "Shape",
+    "thai": "รูปร่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Surface",
+    "thai": "พื้นผิว",
+    "phonetic": ""
+  },
+  {
+    "english": "Eighteen",
+    "thai": "สิบแปด",
+    "phonetic": ""
+  },
+  {
+    "english": "Abstract",
+    "thai": "เชิงนามธรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Finite",
+    "thai": "จำกัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Fourteen",
+    "thai": "สิบสี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Geometric",
+    "thai": "รูปทรงเรขาคณิต",
+    "phonetic": ""
+  },
+  {
+    "english": "Nine",
+    "thai": "เก้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Five",
+    "thai": "ห้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Hollow",
+    "thai": "กลวง",
     "phonetic": ""
   },
   {
@@ -240,18 +475,8 @@
     "phonetic": ""
   },
   {
-    "english": "Form",
-    "thai": "รูปร่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Abstract",
-    "thai": "เชิงนามธรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "One-dimensional",
-    "thai": "มิติเดียว",
+    "english": "Nineteen",
+    "thai": "สิบเก้า",
     "phonetic": ""
   },
   {
@@ -260,243 +485,18 @@
     "phonetic": ""
   },
   {
-    "english": "Continuous",
-    "thai": "ต่อเนื่อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Structure",
-    "thai": "โครงสร้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Circumference",
-    "thai": "เส้นรอบวง",
-    "phonetic": ""
-  },
-  {
-    "english": "Four",
-    "thai": "สี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Cross",
-    "thai": "ข้าม",
-    "phonetic": ""
-  },
-  {
-    "english": "Cone",
-    "thai": "กรวย",
-    "phonetic": ""
-  },
-  {
-    "english": "Angular",
-    "thai": "เชิงมุม",
-    "phonetic": ""
-  },
-  {
-    "english": "One",
-    "thai": "หนึ่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Eighteen",
-    "thai": "สิบแปด",
-    "phonetic": ""
-  },
-  {
-    "english": "Nineteen",
-    "thai": "สิบเก้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Two",
-    "thai": "สอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Side",
-    "thai": "ด้านข้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Fourteen",
-    "thai": "สิบสี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Three",
-    "thai": "สาม",
-    "phonetic": ""
-  },
-  {
-    "english": "Linear",
-    "thai": "เชิงเส้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Freeform",
-    "thai": "ฟรีฟอร์ม",
-    "phonetic": ""
-  },
-  {
-    "english": "Eleven",
-    "thai": "สิบเอ็ด",
-    "phonetic": ""
-  },
-  {
-    "english": "Perimeter",
-    "thai": "ปริมณฑล",
-    "phonetic": ""
-  },
-  {
-    "english": "Cube",
-    "thai": "ลูกบาศก์",
-    "phonetic": ""
-  },
-  {
-    "english": "Twenty",
-    "thai": "ยี่สิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Silver",
-    "thai": "เงิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Flat",
-    "thai": "แบน",
-    "phonetic": ""
-  },
-  {
-    "english": "Ten",
-    "thai": "สิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Point",
-    "thai": "จุด",
-    "phonetic": ""
-  },
-  {
-    "english": "Complementary",
-    "thai": "เสริม",
-    "phonetic": ""
-  },
-  {
-    "english": "Eight",
-    "thai": "แปด",
-    "phonetic": ""
-  },
-  {
-    "english": "Turquoise",
-    "thai": "สีฟ้าคราม",
-    "phonetic": ""
-  },
-  {
-    "english": "Tetradic",
-    "thai": "สี่เท่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Diameter",
-    "thai": "เส้นผ่านศูนย์กลาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Edge",
-    "thai": "ขอบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Pentagon",
-    "thai": "เพนตากอน",
-    "phonetic": ""
-  },
-  {
-    "english": "Surface",
-    "thai": "พื้นผิว",
-    "phonetic": ""
-  },
-  {
-    "english": "Geometry",
-    "thai": "เรขาคณิต",
-    "phonetic": ""
-  },
-  {
-    "english": "Blunt",
-    "thai": "ทื่อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Pastel",
-    "thai": "สีพาสเทล",
-    "phonetic": ""
-  },
-  {
-    "english": "Beige",
-    "thai": "สีเบจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Radius",
-    "thai": "รัศมี",
-    "phonetic": ""
-  },
-  {
-    "english": "Sharp",
-    "thai": "คม",
-    "phonetic": ""
-  },
-  {
-    "english": "Finite",
-    "thai": "จำกัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Zero-dimensional",
-    "thai": "มิติศูนย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Symmetry",
-    "thai": "สมมาตร",
-    "phonetic": ""
-  },
-  {
-    "english": "Volume",
-    "thai": "ปริมาณ",
-    "phonetic": ""
-  },
-  {
     "english": "Two-dimensional",
     "thai": "สองมิติ",
     "phonetic": ""
   },
   {
-    "english": "Fifteen",
-    "thai": "สิบห้า",
+    "english": "Angle",
+    "thai": "มุม",
     "phonetic": ""
   },
   {
-    "english": "Sixteen",
-    "thai": "สิบหก",
-    "phonetic": ""
-  },
-  {
-    "english": "Six",
-    "thai": "หก",
-    "phonetic": ""
-  },
-  {
-    "english": "Five",
-    "thai": "ห้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Thirteen",
-    "thai": "สิบสาม",
+    "english": "Infinite",
+    "thai": "อนันต์",
     "phonetic": ""
   }
 ]

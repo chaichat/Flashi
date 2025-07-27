@@ -1,102 +1,102 @@
 [
   {
     "chinese": "火灾",
-    "thai": "",
+    "thai": "ไฟ",
     "pinyin": ""
   },
   {
     "chinese": "烟雾",
-    "thai": "",
+    "thai": "ควัน",
     "pinyin": ""
   },
   {
     "chinese": "警报",
-    "thai": "",
+    "thai": "เตือน",
     "pinyin": ""
   },
   {
     "chinese": "疏散",
-    "thai": "",
+    "thai": "การอพยพ",
     "pinyin": ""
   },
   {
     "chinese": "出口",
-    "thai": "",
+    "thai": "ทางออก",
     "pinyin": ""
   },
   {
     "chinese": "危险",
-    "thai": "",
+    "thai": "อันตราย",
     "pinyin": ""
   },
   {
     "chinese": "安全",
-    "thai": "",
+    "thai": "ความปลอดภัย",
     "pinyin": ""
   },
   {
     "chinese": "救援",
-    "thai": "",
+    "thai": "กู้ภัย",
     "pinyin": ""
   },
   {
     "chinese": "急救",
-    "thai": "",
+    "thai": "ปฐมพยาบาล",
     "pinyin": ""
   },
   {
     "chinese": "心肺复苏",
-    "thai": "",
+    "thai": "การช่วยฟื้นคืนชีพด้วยการปั๊มหัวใจและปอด",
     "pinyin": ""
   },
   {
     "chinese": "窒息",
-    "thai": "",
+    "thai": "ภาวะขาดออกซิเจน",
     "pinyin": ""
   },
   {
     "chinese": "溺水",
-    "thai": "",
+    "thai": "การจมน้ำ",
     "pinyin": ""
   },
   {
     "chinese": "触电",
-    "thai": "",
+    "thai": "ไฟฟ้าช็อต",
     "pinyin": ""
   },
   {
     "chinese": "中毒",
-    "thai": "",
+    "thai": "พิษ",
     "pinyin": ""
   },
   {
     "chinese": "烧伤",
-    "thai": "",
+    "thai": "เผา",
     "pinyin": ""
   },
   {
     "chinese": "割伤",
-    "thai": "",
+    "thai": "การตัด",
     "pinyin": ""
   },
   {
     "chinese": "瘀伤",
-    "thai": "",
+    "thai": "รอยฟกช้ำ",
     "pinyin": ""
   },
   {
     "chinese": "肿胀",
-    "thai": "",
+    "thai": "บวม",
     "pinyin": ""
   },
   {
     "chinese": "骨折",
-    "thai": "",
+    "thai": "กระดูกหัก",
     "pinyin": ""
   },
   {
     "chinese": "扭伤",
-    "thai": "",
+    "thai": "เคล็ดขัดยอก",
     "pinyin": ""
   }
 ]

@@ -36,7 +36,12 @@ body {
     transform: scale(0.98);
     transition: transform 0.1s ease;
 }
+.top-half,
+.bottom-half {
+    text-align: center;
+}
 .section-grid {
     display: grid;
     gap: 1rem;
 }
+

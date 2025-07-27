@@ -1,102 +1,102 @@
 [
   {
     "english": "Machine learning",
-    "thai": "การเรียนรู้ของเครื่องจักร",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Deep learning",
-    "thai": "การเรียนรู้เชิงลึก",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Neural network",
-    "thai": "เครือข่ายประสาท",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Natural language processing",
-    "thai": "การประมวลผลภาษาธรรมชาติ",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Computer vision",
-    "thai": "วิสัยทัศน์คอมพิวเตอร์",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Robotics",
-    "thai": "หุ่นยนต์",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Drone",
-    "thai": "โดรน",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Sensor",
-    "thai": "เซ็นเซอร์",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Actuator",
-    "thai": "ตัวกระตุ้น",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Big data",
-    "thai": "ข้อมูลขนาดใหญ่",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Data science",
-    "thai": "วิทยาศาสตร์ข้อมูล",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Data analysis",
-    "thai": "การวิเคราะห์ข้อมูล",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Data visualization",
-    "thai": "การแสดงภาพข้อมูล",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Internet of Things",
-    "thai": "อินเทอร์เน็ตของสรรพสิ่ง",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "5G",
-    "thai": "5จี",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Quantum computing",
-    "thai": "การประมวลผลควอนตัม",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Edge computing",
-    "thai": "การประมวลผลแบบเอจ",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Cloud computing",
-    "thai": "การประมวลผลแบบคลาวด์",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Fog computing",
-    "thai": "การประมวลผลหมอก",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Serverless",
-    "thai": "ไร้เซิร์ฟเวอร์",
+    "thai": "",
     "phonetic": ""
   }
 ]

@@ -127,7 +127,7 @@ async function generateLessons() {
                             const finalCards = uniqueCards.slice(0, WORDS_PER_LESSON).map(card => {
                                 const word = card.e.toLowerCase();
                                 usedWordsInThisCategory.add(word); // Add to used set for this category
-                                return isChinese ? { chinese: card.e, thai: "", pinyin: "missing pinyin" } : { english: card.e, thai: "", phonetic: "" };
+                                return isChinese ? { chinese: card.e, thai: "", pinyin: "" } : { english: card.e, thai: "", phonetic: "" };
                             });
 
                             const lessonName = `${themeName}: Lesson ${lessonsCreated + 1}`;

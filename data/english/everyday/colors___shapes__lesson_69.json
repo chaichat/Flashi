@@ -1,102 +1,102 @@
 [
   {
     "english": "Abstract",
-    "thai": "เชิงนามธรรม",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Geometric",
-    "thai": "รูปทรงเรขาคณิต",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Freeform",
-    "thai": "ฟรีฟอร์ม",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Linear",
-    "thai": "เชิงเส้น",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Curvilinear",
-    "thai": "เส้นโค้ง",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Angular",
-    "thai": "เชิงมุม",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Rounded",
-    "thai": "โค้งมน",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Sharp",
-    "thai": "คม",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Blunt",
-    "thai": "ทื่อ",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Hollow",
-    "thai": "กลวง",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Flat",
-    "thai": "แบน",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Three-dimensional",
-    "thai": "สามมิติ",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Two-dimensional",
-    "thai": "สองมิติ",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "One-dimensional",
-    "thai": "มิติเดียว",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Zero-dimensional",
-    "thai": "มิติศูนย์",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Infinite",
-    "thai": "อนันต์",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Finite",
-    "thai": "จำกัด",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Bounded",
-    "thai": "มีขอบเขต",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Unbounded",
-    "thai": "ไร้ขอบเขต",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Continuous",
-    "thai": "ต่อเนื่อง",
+    "thai": "",
     "phonetic": ""
   }
 ]

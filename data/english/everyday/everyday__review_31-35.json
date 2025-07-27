@@ -1,502 +1,502 @@
 [
   {
-    "english": "Well-being",
-    "thai": "ความเป็นอยู่ที่ดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Doctor",
-    "thai": "หมอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Zoo",
-    "thai": "ดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Prescription",
-    "thai": "ใบสั่งยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Symptom",
-    "thai": "อาการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Courthouse",
-    "thai": "ศาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Minerals",
-    "thai": "แร่ธาตุ",
-    "phonetic": ""
-  },
-  {
     "english": "Barber",
-    "thai": "ช่างตัดผม",
-    "phonetic": ""
-  },
-  {
-    "english": "Stress",
-    "thai": "ความเครียด",
-    "phonetic": ""
-  },
-  {
-    "english": "Hydration",
-    "thai": "การเติมน้ำให้ร่างกาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Library",
-    "thai": "ห้องสมุด",
-    "phonetic": ""
-  },
-  {
-    "english": "Vitamins",
-    "thai": "วิตามิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Gym",
-    "thai": "โรงยิม",
-    "phonetic": ""
-  },
-  {
-    "english": "Calories",
-    "thai": "แคลอรี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Self-care",
-    "thai": "การดูแลตนเอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Fever",
-    "thai": "ไข้",
-    "phonetic": ""
-  },
-  {
-    "english": "Carbohydrates",
-    "thai": "คาร์โบไฮเดรต",
-    "phonetic": ""
-  },
-  {
-    "english": "Garden",
-    "thai": "สวน",
-    "phonetic": ""
-  },
-  {
-    "english": "Heart",
-    "thai": "หัวใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Exercise",
-    "thai": "ออกกำลังกาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Mindfulness",
-    "thai": "สติสัมปชัญญะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Cardiologist",
-    "thai": "แพทย์โรคหัวใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Anxiety",
-    "thai": "ความวิตกกังวล",
-    "phonetic": ""
-  },
-  {
-    "english": "Pain",
-    "thai": "ความเจ็บปวด",
-    "phonetic": ""
-  },
-  {
-    "english": "Sick",
-    "thai": "ป่วย",
-    "phonetic": ""
-  },
-  {
-    "english": "Hurt",
-    "thai": "เจ็บ",
-    "phonetic": ""
-  },
-  {
-    "english": "Patient",
-    "thai": "อดทน",
-    "phonetic": ""
-  },
-  {
-    "english": "Well",
-    "thai": "ดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Blood pressure",
-    "thai": "ความดันโลหิต",
-    "phonetic": ""
-  },
-  {
-    "english": "First aid",
-    "thai": "ปฐมพยาบาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Temperature",
-    "thai": "อุณหภูมิ",
-    "phonetic": ""
-  },
-  {
-    "english": "Toothache",
-    "thai": "อาการปวดฟัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Protein",
-    "thai": "โปรตีน",
-    "phonetic": ""
-  },
-  {
-    "english": "Vomiting",
-    "thai": "อาการอาเจียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Rest",
-    "thai": "พักผ่อน",
-    "phonetic": ""
-  },
-  {
-    "english": "Mental health",
-    "thai": "สุขภาพจิต",
-    "phonetic": ""
-  },
-  {
-    "english": "Theater",
-    "thai": "โรงภาพยนตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Headache",
-    "thai": "ปวดศีรษะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Hospital",
-    "thai": "โรงพยาบาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Tailor",
-    "thai": "ช่างตัดเสื้อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Fats",
-    "thai": "ไขมัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Cavity",
-    "thai": "โพรง",
-    "phonetic": ""
-  },
-  {
-    "english": "Contact lenses",
-    "thai": "คอนแทคเลนส์",
-    "phonetic": ""
-  },
-  {
-    "english": "Salon",
-    "thai": "ร้านเสริมสวย",
-    "phonetic": ""
-  },
-  {
-    "english": "Geriatrician",
-    "thai": "แพทย์ผู้เชี่ยวชาญด้านผู้สูงอายุ",
-    "phonetic": ""
-  },
-  {
-    "english": "Pediatrician",
-    "thai": "กุมารแพทย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Wheelchair",
-    "thai": "รถเข็น",
-    "phonetic": ""
-  },
-  {
-    "english": "Spa",
-    "thai": "สปา",
-    "phonetic": ""
-  },
-  {
-    "english": "Nutrition",
-    "thai": "โภชนาการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Cough",
-    "thai": "ไอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Yoga",
-    "thai": "โยคะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Injury",
-    "thai": "บาดเจ็บ",
-    "phonetic": ""
-  },
-  {
-    "english": "Meditation",
-    "thai": "การทำสมาธิ",
-    "phonetic": ""
-  },
-  {
-    "english": "Medicine",
-    "thai": "ยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Appointment",
-    "thai": "การนัดหมาย",
-    "phonetic": ""
-  },
-  {
-    "english": "X-ray",
-    "thai": "เอ็กซ์เรย์",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Therapist",
-    "thai": "นักบำบัด",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Sunscreen",
-    "thai": "ครีมกันแดด",
+    "english": "Rest",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Dry cleaner",
-    "thai": "ร้านซักแห้ง",
+    "english": "Theater",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Crutches",
-    "thai": "ไม้ค้ำยัน",
+    "english": "Geriatrician",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Stomachache",
-    "thai": "ปวดท้อง",
+    "english": "Sick",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Floss",
-    "thai": "ไหมขัดฟัน",
+    "english": "Well",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Police",
-    "thai": "ตำรวจ",
+    "english": "Prescription",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Emergency",
-    "thai": "ภาวะฉุกเฉิน",
+    "english": "Minerals",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Virus",
-    "thai": "ไวรัส",
+    "english": "Courthouse",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Bandage",
-    "thai": "ผ้าพันแผล",
+    "english": "Vitamins",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Fire",
-    "thai": "ไฟ",
+    "english": "Protein",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Bacteria",
-    "thai": "แบคทีเรีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Concert",
-    "thai": "คอนเสิร์ต",
-    "phonetic": ""
-  },
-  {
-    "english": "Clinic",
-    "thai": "คลินิก",
+    "english": "Salon",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Acne",
-    "thai": "สิว",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Gums",
-    "thai": "เหงือก",
+    "english": "First aid",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Optometrist",
-    "thai": "นักตรวจวัดสายตา",
+    "english": "Self-care",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Playground",
-    "thai": "สนามเด็กเล่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Counselor",
-    "thai": "ที่ปรึกษา",
-    "phonetic": ""
-  },
-  {
-    "english": "Depression",
-    "thai": "ภาวะซึมเศร้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Vaccine",
-    "thai": "วัคซีน",
-    "phonetic": ""
-  },
-  {
-    "english": "Tired",
-    "thai": "เหนื่อย",
-    "phonetic": ""
-  },
-  {
-    "english": "Nurse",
-    "thai": "พยาบาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Healthy",
-    "thai": "สุขภาพดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Surgery",
-    "thai": "การผ่าตัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Cholesterol",
-    "thai": "คอเลสเตอรอล",
-    "phonetic": ""
-  },
-  {
-    "english": "Ultrasound",
-    "thai": "อัลตราซาวนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Dizzy",
-    "thai": "วิงเวียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Insurance",
-    "thai": "ประกันภัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Diet",
-    "thai": "อาหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Diarrhea",
-    "thai": "ท้องเสีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Skin",
-    "thai": "ผิว",
+    "english": "Spa",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Nausea",
-    "thai": "อาการคลื่นไส้",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Vision",
-    "thai": "วิสัยทัศน์",
+    "english": "Ultrasound",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Aquarium",
-    "thai": "พิพิธภัณฑ์สัตว์น้ำ",
+    "english": "Bandage",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Infection",
-    "thai": "การติดเชื้อ",
+    "english": "Vaccine",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Glasses",
-    "thai": "แว่นตา",
+    "english": "Stomachache",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Ambulance",
-    "thai": "รถพยาบาล",
+    "english": "Skin",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Laundry",
-    "thai": "ซักรีด",
+    "english": "Toothache",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Dermatologist",
-    "thai": "แพทย์ผิวหนัง",
+    "english": "Yoga",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Rash",
-    "thai": "ผื่น",
+    "english": "Crutches",
+    "thai": "",
     "phonetic": ""
   },
   {
-    "english": "Brush",
-    "thai": "แปรง",
-    "phonetic": ""
-  },
-  {
-    "english": "City hall",
-    "thai": "ศาลากลางจังหวัด",
+    "english": "Diarrhea",
+    "thai": "",
     "phonetic": ""
   },
   {
     "english": "Dentist",
-    "thai": "ทันตแพทย์",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Gym",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Clinic",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Blood pressure",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Fats",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Medicine",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Appointment",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Nurse",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Nutrition",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Meditation",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Surgery",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Hydration",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Cavity",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Police",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Vomiting",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "City hall",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Playground",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Cough",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Mindfulness",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Emergency",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Hospital",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Temperature",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "X-ray",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Vision",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Well-being",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Library",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Mental health",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Cholesterol",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Brush",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Concert",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Gums",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Patient",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Calories",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Wheelchair",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Hurt",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Cardiologist",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Carbohydrates",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Dizzy",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Ambulance",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Insurance",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Fever",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Healthy",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Stress",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Bacteria",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Pediatrician",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Contact lenses",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Doctor",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Tired",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Heart",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Zoo",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Fire",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Depression",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Floss",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Pain",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Dermatologist",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Laundry",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Rash",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Diet",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Glasses",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Optometrist",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Counselor",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Anxiety",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Aquarium",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Garden",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Exercise",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Symptom",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Infection",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Headache",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Dry cleaner",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Injury",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Virus",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Tailor",
+    "thai": "",
+    "phonetic": ""
+  },
+  {
+    "english": "Sunscreen",
+    "thai": "",
     "phonetic": ""
   }
 ]

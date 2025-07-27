@@ -52,9 +52,6 @@ async function populateMissingTranslations() {
                                     } else if (language === 'chinese' && card.chinese && !card.thai) {
                                         textToTranslate = card.chinese;
                                         sourceField = 'chinese';
-                                    } else if (language === 'chinese' && card.pinyin && !card.thai) { // Fallback for pinyin if chinese is empty
-                                        textToTranslate = card.pinyin;
-                                        sourceField = 'pinyin';
                                     }
 
                                     if (textToTranslate) {
@@ -87,8 +84,10 @@ async function populateMissingTranslations() {
 
             console.log(`\nTranslating chunk ${i / CHUNK_SIZE + 1} of ${totalChunks} (${chunk.length} words)...`);
 
+            // Call the Google Translate API for the current chunk
             let [translations] = await translate.translate(textsInChunk, targetLanguage);
 
+            // The API returns an array of translations in the same order as the input
             translations.forEach((translation, index) => {
                 const item = chunk[index];
                 item.card.thai = translation;
@@ -103,6 +102,7 @@ async function populateMissingTranslations() {
             totalTranslated += chunk.length;
             console.log(`...chunk translated. Total translated: ${totalTranslated}`);
 
+            // Add a small delay between chunks to be a good API citizen.
             if (i + CHUNK_SIZE < wordsToTranslate.length) {
                 await delay(500); // 500ms delay
             }
@@ -115,13 +115,14 @@ async function populateMissingTranslations() {
                 // Read the original file content to ensure we don't overwrite non-translated cards
                 const originalLessonData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
                 const finalLessonData = originalLessonData.map(originalCard => {
-                    const updatedCard = updatedCards.find(uc => 
-                        (originalCard.english && uc.english === originalCard.english) ||
-                        (originalCard.chinese && uc.chinese === originalCard.chinese)
-                    );
-                    return updatedCard || originalCard;
+                    const key = originalCard.english || originalCard.chinese;
+                    return updatedCards[key] || originalCard;
                 });
                 fs.writeFileSync(filePath, JSON.stringify(finalLessonData, null, 2), 'utf8');
+            } else {
+                // Handle the case where filePath is not a direct property of translationsByFile
+                // This might happen if translationsByFile is a Map or has inherited properties
+                // For now, we'll just skip it, but in a real scenario, you might want to log or handle it differently.
             }
         }
 

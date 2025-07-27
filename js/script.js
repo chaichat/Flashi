@@ -338,6 +338,9 @@ document.addEventListener('DOMContentLoaded', () => {
             deck.classList.add('aspect-[5/6]');
         }
 
+        learnModeBtn.textContent = isLearnMode ? 'เรียน' : 'เรียน';
+        testModeBtn.textContent = isLearnMode ? 'ทดสอบ' : 'ทดสอบ';
+
         learnModeBtn.classList.toggle('bg-blue-500', isLearnMode);
         learnModeBtn.classList.toggle('text-white', isLearnMode);
         learnModeBtn.classList.toggle('bg-gray-200', !isLearnMode);

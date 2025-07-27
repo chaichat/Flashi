@@ -1,127 +1,12 @@
 [
   {
-    "english": "Clear",
-    "thai": "ชัดเจน",
+    "english": "Swimming",
+    "thai": "การว่ายน้ำ",
     "phonetic": ""
   },
   {
-    "english": "Running",
-    "thai": "วิ่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Cooking",
-    "thai": "การทำอาหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Blizzard",
-    "thai": "พายุหิมะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Atmosphere",
-    "thai": "บรรยากาศ",
-    "phonetic": ""
-  },
-  {
-    "english": "Scarf",
-    "thai": "ผ้าพันคอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Stamps",
-    "thai": "แสตมป์",
-    "phonetic": ""
-  },
-  {
-    "english": "Humidifier",
-    "thai": "เครื่องเพิ่มความชื้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Barometer",
-    "thai": "บารอมิเตอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Sunset",
-    "thai": "พระอาทิตย์ตก",
-    "phonetic": ""
-  },
-  {
-    "english": "Camping",
-    "thai": "การตั้งแคมป์",
-    "phonetic": ""
-  },
-  {
-    "english": "Volunteering",
-    "thai": "การเป็นอาสาสมัคร",
-    "phonetic": ""
-  },
-  {
-    "english": "Dawn",
-    "thai": "รุ่งอรุณ",
-    "phonetic": ""
-  },
-  {
-    "english": "Martial arts",
-    "thai": "ศิลปะการต่อสู้",
-    "phonetic": ""
-  },
-  {
-    "english": "Breeze",
-    "thai": "สายลม",
-    "phonetic": ""
-  },
-  {
-    "english": "Coins",
-    "thai": "เหรียญ",
-    "phonetic": ""
-  },
-  {
-    "english": "Piano",
-    "thai": "เปียโน",
-    "phonetic": ""
-  },
-  {
-    "english": "Celsius",
-    "thai": "เซลเซียส",
-    "phonetic": ""
-  },
-  {
-    "english": "Opera",
-    "thai": "โอเปร่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Pressure",
-    "thai": "ความดัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Fan",
-    "thai": "พัดลม",
-    "phonetic": ""
-  },
-  {
-    "english": "Guitar",
-    "thai": "กีตาร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Board games",
-    "thai": "เกมกระดาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Shorts",
-    "thai": "กางเกงขาสั้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Boots",
-    "thai": "รองเท้าบูท",
+    "english": "T-shirt",
+    "thai": "เสื้อยืด",
     "phonetic": ""
   },
   {
@@ -135,223 +20,13 @@
     "phonetic": ""
   },
   {
-    "english": "Heater",
-    "thai": "เครื่องทำความร้อน",
+    "english": "Shorts",
+    "thai": "กางเกงขาสั้น",
     "phonetic": ""
   },
   {
-    "english": "Shelter",
-    "thai": "ที่หลบภัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Cyclone",
-    "thai": "พายุไซโคลน",
-    "phonetic": ""
-  },
-  {
-    "english": "El Niño",
-    "thai": "เอลนีโญ",
-    "phonetic": ""
-  },
-  {
-    "english": "Drizzle",
-    "thai": "ฝนตกปรอยๆ",
-    "phonetic": ""
-  },
-  {
-    "english": "Music",
-    "thai": "ดนตรี",
-    "phonetic": ""
-  },
-  {
-    "english": "La Niña",
-    "thai": "ลานีญา",
-    "phonetic": ""
-  },
-  {
-    "english": "Reading",
-    "thai": "การอ่าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Twilight",
-    "thai": "พลบค่ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Cold snap",
-    "thai": "อากาศหนาวจัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Anemometer",
-    "thai": "เครื่องวัดความเร็วลม",
-    "phonetic": ""
-  },
-  {
-    "english": "Heatwave",
-    "thai": "คลื่นความร้อน",
-    "phonetic": ""
-  },
-  {
-    "english": "Hurricane",
-    "thai": "พายุเฮอริเคน",
-    "phonetic": ""
-  },
-  {
-    "english": "Downpour",
-    "thai": "ฝนตกหนัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Dusk",
-    "thai": "พลบค่ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Gale",
-    "thai": "พายุ",
-    "phonetic": ""
-  },
-  {
-    "english": "Ballet",
-    "thai": "บัลเล่ต์",
-    "phonetic": ""
-  },
-  {
-    "english": "Sleet",
-    "thai": "ลูกเห็บ",
-    "phonetic": ""
-  },
-  {
-    "english": "Fishing",
-    "thai": "การตกปลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Writing",
-    "thai": "การเขียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Card games",
-    "thai": "เกมไพ่",
-    "phonetic": ""
-  },
-  {
-    "english": "Bird watching",
-    "thai": "การดูนก",
-    "phonetic": ""
-  },
-  {
-    "english": "T-shirt",
-    "thai": "เสื้อยืด",
-    "phonetic": ""
-  },
-  {
-    "english": "Canopy",
-    "thai": "หลังคา",
-    "phonetic": ""
-  },
-  {
-    "english": "Pottery",
-    "thai": "เครื่องปั้นดินเผา",
-    "phonetic": ""
-  },
-  {
-    "english": "Sunrise",
-    "thai": "พระอาทิตย์ขึ้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Umbrella",
-    "thai": "ร่ม",
-    "phonetic": ""
-  },
-  {
-    "english": "Drawing",
-    "thai": "การวาดภาพ",
-    "phonetic": ""
-  },
-  {
-    "english": "Sculpture",
-    "thai": "ประติมากรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Calligraphy",
-    "thai": "การประดิษฐ์ตัวอักษร",
-    "phonetic": ""
-  },
-  {
-    "english": "Woodworking",
-    "thai": "งานไม้",
-    "phonetic": ""
-  },
-  {
-    "english": "Sewing",
-    "thai": "การเย็บผ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Drought",
-    "thai": "ความแห้งแล้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Typhoon",
-    "thai": "ไต้ฝุ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Fog",
-    "thai": "หมอก",
-    "phonetic": ""
-  },
-  {
-    "english": "Hiking",
-    "thai": "การเดินป่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Jet stream",
-    "thai": "กระแสลมกรด",
-    "phonetic": ""
-  },
-  {
-    "english": "Fahrenheit",
-    "thai": "ฟาเรนไฮต์",
-    "phonetic": ""
-  },
-  {
-    "english": "Frost",
-    "thai": "น้ำค้างแข็ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Dancing",
-    "thai": "เต้นรำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Hail",
-    "thai": "ลูกเห็บ",
-    "phonetic": ""
-  },
-  {
-    "english": "Dehumidifier",
-    "thai": "เครื่องลดความชื้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Monsoon",
-    "thai": "มรสุม",
-    "phonetic": ""
-  },
-  {
-    "english": "Thermometer",
-    "thai": "เครื่องวัดอุณหภูมิ",
+    "english": "Pressure",
+    "thai": "ความดัน",
     "phonetic": ""
   },
   {
@@ -360,53 +35,8 @@
     "phonetic": ""
   },
   {
-    "english": "Sunglasses",
-    "thai": "แว่นกันแดด",
-    "phonetic": ""
-  },
-  {
-    "english": "Meteorology",
-    "thai": "อุตุนิยมวิทยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Degree",
-    "thai": "ระดับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Language",
-    "thai": "ภาษา",
-    "phonetic": ""
-  },
-  {
-    "english": "Shade",
-    "thai": "ร่มเงา",
-    "phonetic": ""
-  },
-  {
-    "english": "Photography",
-    "thai": "การถ่ายภาพ",
-    "phonetic": ""
-  },
-  {
-    "english": "Baking",
-    "thai": "การอบขนม",
-    "phonetic": ""
-  },
-  {
-    "english": "Hat",
-    "thai": "หมวก",
-    "phonetic": ""
-  },
-  {
-    "english": "Singing",
-    "thai": "การร้องเพลง",
-    "phonetic": ""
-  },
-  {
-    "english": "Jacket",
-    "thai": "เสื้อแจ็กเกต",
+    "english": "Knitting",
+    "thai": "การถักนิตติ้ง",
     "phonetic": ""
   },
   {
@@ -415,63 +45,8 @@
     "phonetic": ""
   },
   {
-    "english": "Sweater",
-    "thai": "เสื้อกันหนาว",
-    "phonetic": ""
-  },
-  {
-    "english": "Swimming",
-    "thai": "การว่ายน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Journaling",
-    "thai": "การบันทึกประจำวัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Video games",
-    "thai": "วิดีโอเกม",
-    "phonetic": ""
-  },
-  {
-    "english": "Puzzles",
-    "thai": "ปริศนา",
-    "phonetic": ""
-  },
-  {
-    "english": "Overcast",
-    "thai": "มีเมฆมาก",
-    "phonetic": ""
-  },
-  {
-    "english": "Awning",
-    "thai": "กันสาด",
-    "phonetic": ""
-  },
-  {
-    "english": "Mist",
-    "thai": "หมอก",
-    "phonetic": ""
-  },
-  {
-    "english": "Hygrometer",
-    "thai": "ไฮโกรมิเตอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Front",
-    "thai": "ด้านหน้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Knitting",
-    "thai": "การถักนิตติ้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Raincoat",
-    "thai": "เสื้อกันฝน",
+    "english": "Drought",
+    "thai": "ความแห้งแล้ง",
     "phonetic": ""
   },
   {
@@ -480,13 +55,53 @@
     "phonetic": ""
   },
   {
-    "english": "Blogging",
-    "thai": "บล็อก",
+    "english": "Language",
+    "thai": "ภาษา",
     "phonetic": ""
   },
   {
-    "english": "Origami",
-    "thai": "โอริกามิ",
+    "english": "Cold snap",
+    "thai": "อากาศหนาวจัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Journaling",
+    "thai": "การบันทึกประจำวัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Baking",
+    "thai": "การอบขนม",
+    "phonetic": ""
+  },
+  {
+    "english": "Dusk",
+    "thai": "พลบค่ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Calligraphy",
+    "thai": "การประดิษฐ์ตัวอักษร",
+    "phonetic": ""
+  },
+  {
+    "english": "Sewing",
+    "thai": "การเย็บผ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Fan",
+    "thai": "พัดลม",
+    "phonetic": ""
+  },
+  {
+    "english": "Photography",
+    "thai": "การถ่ายภาพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Guitar",
+    "thai": "กีตาร์",
     "phonetic": ""
   },
   {
@@ -495,8 +110,393 @@
     "phonetic": ""
   },
   {
+    "english": "Pottery",
+    "thai": "เครื่องปั้นดินเผา",
+    "phonetic": ""
+  },
+  {
+    "english": "Sunglasses",
+    "thai": "แว่นกันแดด",
+    "phonetic": ""
+  },
+  {
+    "english": "Puzzles",
+    "thai": "ปริศนา",
+    "phonetic": ""
+  },
+  {
+    "english": "Fog",
+    "thai": "หมอก",
+    "phonetic": ""
+  },
+  {
+    "english": "Cyclone",
+    "thai": "พายุไซโคลน",
+    "phonetic": ""
+  },
+  {
+    "english": "Sweater",
+    "thai": "เสื้อกันหนาว",
+    "phonetic": ""
+  },
+  {
+    "english": "El Niño",
+    "thai": "เอลนีโญ",
+    "phonetic": ""
+  },
+  {
+    "english": "Awning",
+    "thai": "กันสาด",
+    "phonetic": ""
+  },
+  {
+    "english": "Stamps",
+    "thai": "แสตมป์",
+    "phonetic": ""
+  },
+  {
+    "english": "Sculpture",
+    "thai": "ประติมากรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Reading",
+    "thai": "การอ่าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Running",
+    "thai": "วิ่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Jacket",
+    "thai": "เสื้อแจ็กเกต",
+    "phonetic": ""
+  },
+  {
+    "english": "Coins",
+    "thai": "เหรียญ",
+    "phonetic": ""
+  },
+  {
+    "english": "Celsius",
+    "thai": "เซลเซียส",
+    "phonetic": ""
+  },
+  {
+    "english": "Thermometer",
+    "thai": "เครื่องวัดอุณหภูมิ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sunset",
+    "thai": "พระอาทิตย์ตก",
+    "phonetic": ""
+  },
+  {
+    "english": "Woodworking",
+    "thai": "งานไม้",
+    "phonetic": ""
+  },
+  {
+    "english": "Drizzle",
+    "thai": "ฝนตกปรอยๆ",
+    "phonetic": ""
+  },
+  {
+    "english": "Canopy",
+    "thai": "หลังคา",
+    "phonetic": ""
+  },
+  {
+    "english": "Writing",
+    "thai": "การเขียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Heater",
+    "thai": "เครื่องทำความร้อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Monsoon",
+    "thai": "มรสุม",
+    "phonetic": ""
+  },
+  {
+    "english": "Raincoat",
+    "thai": "เสื้อกันฝน",
+    "phonetic": ""
+  },
+  {
+    "english": "Hiking",
+    "thai": "การเดินป่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Fahrenheit",
+    "thai": "ฟาเรนไฮต์",
+    "phonetic": ""
+  },
+  {
+    "english": "Front",
+    "thai": "ด้านหน้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Hygrometer",
+    "thai": "ไฮโกรมิเตอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Anemometer",
+    "thai": "เครื่องวัดความเร็วลม",
+    "phonetic": ""
+  },
+  {
+    "english": "Humidifier",
+    "thai": "เครื่องเพิ่มความชื้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Dawn",
+    "thai": "รุ่งอรุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Card games",
+    "thai": "เกมไพ่",
+    "phonetic": ""
+  },
+  {
+    "english": "Camping",
+    "thai": "การตั้งแคมป์",
+    "phonetic": ""
+  },
+  {
+    "english": "Bird watching",
+    "thai": "การดูนก",
+    "phonetic": ""
+  },
+  {
+    "english": "Origami",
+    "thai": "โอริกามิ",
+    "phonetic": ""
+  },
+  {
+    "english": "Typhoon",
+    "thai": "ไต้ฝุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Shade",
+    "thai": "ร่มเงา",
+    "phonetic": ""
+  },
+  {
+    "english": "Degree",
+    "thai": "ระดับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Board games",
+    "thai": "เกมกระดาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Sleet",
+    "thai": "ลูกเห็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Martial arts",
+    "thai": "ศิลปะการต่อสู้",
+    "phonetic": ""
+  },
+  {
+    "english": "Ballet",
+    "thai": "บัลเล่ต์",
+    "phonetic": ""
+  },
+  {
+    "english": "Opera",
+    "thai": "โอเปร่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Barometer",
+    "thai": "บารอมิเตอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Breeze",
+    "thai": "สายลม",
+    "phonetic": ""
+  },
+  {
+    "english": "Umbrella",
+    "thai": "ร่ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Dehumidifier",
+    "thai": "เครื่องลดความชื้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Overcast",
+    "thai": "มีเมฆมาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Music",
+    "thai": "ดนตรี",
+    "phonetic": ""
+  },
+  {
+    "english": "Hurricane",
+    "thai": "พายุเฮอริเคน",
+    "phonetic": ""
+  },
+  {
+    "english": "Boots",
+    "thai": "รองเท้าบูท",
+    "phonetic": ""
+  },
+  {
+    "english": "Twilight",
+    "thai": "พลบค่ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Clear",
+    "thai": "ชัดเจน",
+    "phonetic": ""
+  },
+  {
+    "english": "La Niña",
+    "thai": "ลานีญา",
+    "phonetic": ""
+  },
+  {
+    "english": "Shelter",
+    "thai": "ที่หลบภัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Volunteering",
+    "thai": "การเป็นอาสาสมัคร",
+    "phonetic": ""
+  },
+  {
+    "english": "Cooking",
+    "thai": "การทำอาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Jet stream",
+    "thai": "กระแสลมกรด",
+    "phonetic": ""
+  },
+  {
+    "english": "Dancing",
+    "thai": "เต้นรำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Drawing",
+    "thai": "การวาดภาพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Scarf",
+    "thai": "ผ้าพันคอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Fishing",
+    "thai": "การตกปลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Atmosphere",
+    "thai": "บรรยากาศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Piano",
+    "thai": "เปียโน",
+    "phonetic": ""
+  },
+  {
     "english": "Gloves",
     "thai": "ถุงมือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Blogging",
+    "thai": "บล็อก",
+    "phonetic": ""
+  },
+  {
+    "english": "Blizzard",
+    "thai": "พายุหิมะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Hat",
+    "thai": "หมวก",
+    "phonetic": ""
+  },
+  {
+    "english": "Video games",
+    "thai": "วิดีโอเกม",
+    "phonetic": ""
+  },
+  {
+    "english": "Frost",
+    "thai": "น้ำค้างแข็ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Meteorology",
+    "thai": "อุตุนิยมวิทยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Downpour",
+    "thai": "ฝนตกหนัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Singing",
+    "thai": "การร้องเพลง",
+    "phonetic": ""
+  },
+  {
+    "english": "Hail",
+    "thai": "ลูกเห็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sunrise",
+    "thai": "พระอาทิตย์ขึ้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Mist",
+    "thai": "หมอก",
+    "phonetic": ""
+  },
+  {
+    "english": "Gale",
+    "thai": "พายุ",
+    "phonetic": ""
+  },
+  {
+    "english": "Heatwave",
+    "thai": "คลื่นความร้อน",
     "phonetic": ""
   }
 ]

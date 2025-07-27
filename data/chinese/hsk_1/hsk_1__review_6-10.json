@@ -1,53 +1,28 @@
 [
   {
-    "chinese": "朋友",
-    "thai": "เพื่อน",
-    "pinyin": "péngyou"
+    "chinese": "哥哥",
+    "thai": "พี่ชาย",
+    "pinyin": "gēge"
   },
   {
-    "chinese": "汉语",
-    "thai": "ภาษาจีน",
-    "pinyin": "Hànyǔ"
+    "chinese": "起床",
+    "thai": "ตื่นนอน",
+    "pinyin": "qǐchuáng"
   },
   {
-    "chinese": "年",
-    "thai": "ปี",
-    "pinyin": "nián"
+    "chinese": "昨天",
+    "thai": "เมื่อวานนี้",
+    "pinyin": "zuótiān"
   },
   {
-    "chinese": "星期",
-    "thai": "สัปดาห์",
-    "pinyin": "xīngqī"
+    "chinese": "书",
+    "thai": "หนังสือ",
+    "pinyin": "shū"
   },
   {
-    "chinese": "时候",
-    "thai": "เวลา",
-    "pinyin": "shíhou"
-  },
-  {
-    "chinese": "明天",
-    "thai": "พรุ่งนี้",
-    "pinyin": "míngtiān"
-  },
-  {
-    "chinese": "点",
-    "thai": "โมง (เวลา)",
-    "pinyin": "diǎn"
-  },
-  {
-    "chinese": "姐姐",
-    "thai": "พี่สาว",
-    "pinyin": "jiějie"
-  },
-  {
-    "chinese": "下午",
-    "thai": "ตอนบ่าย",
-    "pinyin": "xiàwǔ"
-  },
-  {
-    "chinese": "元",
-    "thai": "หยวน",
-    "pinyin": "yuán"
+    "chinese": "今天",
+    "thai": "วันนี้",
+    "pinyin": "jīntiān"
   },
   {
     "chinese": "英语",
@@ -55,24 +30,24 @@
     "pinyin": "Yīngyǔ"
   },
   {
-    "chinese": "日",
-    "thai": "วัน",
-    "pinyin": "rì"
+    "chinese": "朋友",
+    "thai": "เพื่อน",
+    "pinyin": "péngyou"
   },
   {
-    "chinese": "睡觉",
-    "thai": "นอน",
-    "pinyin": "shuìjiào"
+    "chinese": "她",
+    "thai": "เขา (ผู้หญิง)",
+    "pinyin": "tā"
   },
   {
-    "chinese": "运动",
-    "thai": "ออกกำลังกาย",
-    "pinyin": "yùndòng"
+    "chinese": "小姐",
+    "thai": "คุณผู้หญิง",
+    "pinyin": "xiǎojiě"
   },
   {
-    "chinese": "上午",
-    "thai": "ตอนเช้า",
-    "pinyin": "shàngwǔ"
+    "chinese": "钱",
+    "thai": "เงิน",
+    "pinyin": "qián"
   },
   {
     "chinese": "弟弟",
@@ -80,9 +55,149 @@
     "pinyin": "dìdi"
   },
   {
-    "chinese": "同学",
-    "thai": "เพื่อนร่วมชั้น",
-    "pinyin": "tóngxué"
+    "chinese": "名字",
+    "thai": "ชื่อ",
+    "pinyin": "míngzi"
+  },
+  {
+    "chinese": "多长时间",
+    "thai": "นานเท่าไหร่",
+    "pinyin": "duō cháng shíjiān"
+  },
+  {
+    "chinese": "手机",
+    "thai": "โทรศัพท์มือถือ",
+    "pinyin": "shǒujī"
+  },
+  {
+    "chinese": "中午",
+    "thai": "ตอนเที่ยง",
+    "pinyin": "zhōngwǔ"
+  },
+  {
+    "chinese": "你",
+    "thai": "คุณ",
+    "pinyin": "nǐ"
+  },
+  {
+    "chinese": "好",
+    "thai": "ดี",
+    "pinyin": "hǎo"
+  },
+  {
+    "chinese": "明天",
+    "thai": "พรุ่งนี้",
+    "pinyin": "míngtiān"
+  },
+  {
+    "chinese": "爸爸",
+    "thai": "พ่อ",
+    "pinyin": "bàba"
+  },
+  {
+    "chinese": "医生",
+    "thai": "หมอ",
+    "pinyin": "yīshēng"
+  },
+  {
+    "chinese": "衣服",
+    "thai": "เสื้อผ้า",
+    "pinyin": "yīfu"
+  },
+  {
+    "chinese": "上午",
+    "thai": "ตอนเช้า",
+    "pinyin": "shàngwǔ"
+  },
+  {
+    "chinese": "打电话",
+    "thai": "โทรศัพท์",
+    "pinyin": "dǎ diànhuà"
+  },
+  {
+    "chinese": "妈妈",
+    "thai": "แม่",
+    "pinyin": "māma"
+  },
+  {
+    "chinese": "年",
+    "thai": "ปี",
+    "pinyin": "nián"
+  },
+  {
+    "chinese": "儿子",
+    "thai": "ลูกชาย",
+    "pinyin": "érzi"
+  },
+  {
+    "chinese": "报纸",
+    "thai": "หนังสือพิมพ์",
+    "pinyin": "bàozhǐ"
+  },
+  {
+    "chinese": "电脑",
+    "thai": "คอมพิวเตอร์",
+    "pinyin": "diànnǎo"
+  },
+  {
+    "chinese": "工作",
+    "thai": "ทำงาน",
+    "pinyin": "gōngzuò"
+  },
+  {
+    "chinese": "时候",
+    "thai": "เวลา",
+    "pinyin": "shíhou"
+  },
+  {
+    "chinese": "月",
+    "thai": "เดือน",
+    "pinyin": "yuè"
+  },
+  {
+    "chinese": "是",
+    "thai": "เป็น/คือ/ใช่",
+    "pinyin": "shì"
+  },
+  {
+    "chinese": "高兴",
+    "thai": "ดีใจ",
+    "pinyin": "gāoxìng"
+  },
+  {
+    "chinese": "睡觉",
+    "thai": "นอน",
+    "pinyin": "shuìjiào"
+  },
+  {
+    "chinese": "人",
+    "thai": "คน",
+    "pinyin": "rén"
+  },
+  {
+    "chinese": "晚上",
+    "thai": "ตอนเย็น/กลางคืน",
+    "pinyin": "wǎnshang"
+  },
+  {
+    "chinese": "水",
+    "thai": "น้ำ",
+    "pinyin": "shuǐ"
+  },
+  {
+    "chinese": "火",
+    "thai": "ไฟ",
+    "pinyin": "huǒ"
+  },
+  {
+    "chinese": "点",
+    "thai": "โมง (เวลา)",
+    "pinyin": "diǎn"
+  },
+  {
+    "chinese": "日",
+    "thai": "วัน",
+    "pinyin": "rì"
   },
   {
     "chinese": "他",
@@ -90,9 +205,54 @@
     "pinyin": "tā"
   },
   {
-    "chinese": "现在",
-    "thai": "ตอนนี้",
-    "pinyin": "xiànzài"
+    "chinese": "件",
+    "thai": "ตัว/ชิ้น (ลักษณะนามเสื้อผ้า)",
+    "pinyin": "jiàn"
+  },
+  {
+    "chinese": "电影",
+    "thai": "ภาพยนตร์",
+    "pinyin": "diànyǐng"
+  },
+  {
+    "chinese": "学生",
+    "thai": "นักเรียน",
+    "pinyin": "xuésheng"
+  },
+  {
+    "chinese": "星期",
+    "thai": "สัปดาห์",
+    "pinyin": "xīngqī"
+  },
+  {
+    "chinese": "休息",
+    "thai": "พักผ่อน",
+    "pinyin": "xiūxi"
+  },
+  {
+    "chinese": "运动",
+    "thai": "ออกกำลังกาย",
+    "pinyin": "yùndòng"
+  },
+  {
+    "chinese": "下午",
+    "thai": "ตอนบ่าย",
+    "pinyin": "xiàwǔ"
+  },
+  {
+    "chinese": "姐姐",
+    "thai": "พี่สาว",
+    "pinyin": "jiějie"
+  },
+  {
+    "chinese": "同学",
+    "thai": "เพื่อนร่วมชั้น",
+    "pinyin": "tóngxué"
+  },
+  {
+    "chinese": "老师",
+    "thai": "ครู",
+    "pinyin": "lǎoshī"
   },
   {
     "chinese": "先生",
@@ -100,9 +260,34 @@
     "pinyin": "xiānsheng"
   },
   {
+    "chinese": "不",
+    "thai": "ไม่",
+    "pinyin": "bù"
+  },
+  {
+    "chinese": "汉语",
+    "thai": "ภาษาจีน",
+    "pinyin": "Hànyǔ"
+  },
+  {
+    "chinese": "姓",
+    "thai": "นามสกุล",
+    "pinyin": "xìng"
+  },
+  {
     "chinese": "多少钱",
     "thai": "ราคาเท่าไหร่",
     "pinyin": "duōshao qián"
+  },
+  {
+    "chinese": "块",
+    "thai": "หยวน (ภาษาพูด)",
+    "pinyin": "kuài"
+  },
+  {
+    "chinese": "女儿",
+    "thai": "ลูกสาว",
+    "pinyin": "nǚ'ér"
   },
   {
     "chinese": "分",
@@ -115,224 +300,9 @@
     "pinyin": "kǒu"
   },
   {
-    "chinese": "晚上",
-    "thai": "ตอนเย็น/กลางคืน",
-    "pinyin": "wǎnshang"
-  },
-  {
-    "chinese": "买",
-    "thai": "ซื้อ",
-    "pinyin": "mǎi"
-  },
-  {
-    "chinese": "水",
-    "thai": "น้ำ",
-    "pinyin": "shuǐ"
-  },
-  {
-    "chinese": "打电话",
-    "thai": "โทรศัพท์",
-    "pinyin": "dǎ diànhuà"
-  },
-  {
-    "chinese": "书",
-    "thai": "หนังสือ",
-    "pinyin": "shū"
-  },
-  {
-    "chinese": "休息",
-    "thai": "พักผ่อน",
-    "pinyin": "xiūxi"
-  },
-  {
-    "chinese": "你",
-    "thai": "คุณ",
-    "pinyin": "nǐ"
-  },
-  {
-    "chinese": "电脑",
-    "thai": "คอมพิวเตอร์",
-    "pinyin": "diànnǎo"
-  },
-  {
-    "chinese": "报纸",
-    "thai": "หนังสือพิมพ์",
-    "pinyin": "bàozhǐ"
-  },
-  {
-    "chinese": "好",
-    "thai": "ดี",
-    "pinyin": "hǎo"
-  },
-  {
-    "chinese": "我",
-    "thai": "ฉัน",
-    "pinyin": "wǒ"
-  },
-  {
-    "chinese": "妈妈",
-    "thai": "แม่",
-    "pinyin": "māma"
-  },
-  {
-    "chinese": "月",
-    "thai": "เดือน",
-    "pinyin": "yuè"
-  },
-  {
-    "chinese": "女儿",
-    "thai": "ลูกสาว",
-    "pinyin": "nǚ'ér"
-  },
-  {
-    "chinese": "高兴",
-    "thai": "ดีใจ",
-    "pinyin": "gāoxìng"
-  },
-  {
-    "chinese": "火",
-    "thai": "ไฟ",
-    "pinyin": "huǒ"
-  },
-  {
     "chinese": "日",
     "thai": "วัน",
     "pinyin": "rì"
-  },
-  {
-    "chinese": "昨天",
-    "thai": "เมื่อวานนี้",
-    "pinyin": "zuótiān"
-  },
-  {
-    "chinese": "哥哥",
-    "thai": "พี่ชาย",
-    "pinyin": "gēge"
-  },
-  {
-    "chinese": "中午",
-    "thai": "ตอนเที่ยง",
-    "pinyin": "zhōngwǔ"
-  },
-  {
-    "chinese": "不",
-    "thai": "ไม่",
-    "pinyin": "bù"
-  },
-  {
-    "chinese": "姓",
-    "thai": "นามสกุล",
-    "pinyin": "xìng"
-  },
-  {
-    "chinese": "是",
-    "thai": "เป็น/คือ/ใช่",
-    "pinyin": "shì"
-  },
-  {
-    "chinese": "山",
-    "thai": "ภูเขา",
-    "pinyin": "shān"
-  },
-  {
-    "chinese": "今天",
-    "thai": "วันนี้",
-    "pinyin": "jīntiān"
-  },
-  {
-    "chinese": "医生",
-    "thai": "หมอ",
-    "pinyin": "yīshēng"
-  },
-  {
-    "chinese": "她",
-    "thai": "เขา (ผู้หญิง)",
-    "pinyin": "tā"
-  },
-  {
-    "chinese": "认识",
-    "thai": "รู้จัก",
-    "pinyin": "rènshi"
-  },
-  {
-    "chinese": "月",
-    "thai": "เดือน",
-    "pinyin": "yuè"
-  },
-  {
-    "chinese": "学生",
-    "thai": "นักเรียน",
-    "pinyin": "xuésheng"
-  },
-  {
-    "chinese": "块",
-    "thai": "หยวน (ภาษาพูด)",
-    "pinyin": "kuài"
-  },
-  {
-    "chinese": "起床",
-    "thai": "ตื่นนอน",
-    "pinyin": "qǐchuáng"
-  },
-  {
-    "chinese": "老师",
-    "thai": "ครู",
-    "pinyin": "lǎoshī"
-  },
-  {
-    "chinese": "电影",
-    "thai": "ภาพยนตร์",
-    "pinyin": "diànyǐng"
-  },
-  {
-    "chinese": "田",
-    "thai": "ทุ่งนา",
-    "pinyin": "tián"
-  },
-  {
-    "chinese": "钱",
-    "thai": "เงิน",
-    "pinyin": "qián"
-  },
-  {
-    "chinese": "电视",
-    "thai": "โทรทัศน์",
-    "pinyin": "diànshì"
-  },
-  {
-    "chinese": "多长时间",
-    "thai": "นานเท่าไหร่",
-    "pinyin": "duō cháng shíjiān"
-  },
-  {
-    "chinese": "叫",
-    "thai": "เรียก/ชื่อว่า",
-    "pinyin": "jiào"
-  },
-  {
-    "chinese": "爸爸",
-    "thai": "พ่อ",
-    "pinyin": "bàba"
-  },
-  {
-    "chinese": "名字",
-    "thai": "ชื่อ",
-    "pinyin": "míngzi"
-  },
-  {
-    "chinese": "手机",
-    "thai": "โทรศัพท์มือถือ",
-    "pinyin": "shǒujī"
-  },
-  {
-    "chinese": "件",
-    "thai": "ตัว/ชิ้น (ลักษณะนามเสื้อผ้า)",
-    "pinyin": "jiàn"
-  },
-  {
-    "chinese": "儿子",
-    "thai": "ลูกชาย",
-    "pinyin": "érzi"
   },
   {
     "chinese": "妹妹",
@@ -340,9 +310,54 @@
     "pinyin": "mèimei"
   },
   {
+    "chinese": "田",
+    "thai": "ทุ่งนา",
+    "pinyin": "tián"
+  },
+  {
+    "chinese": "叫",
+    "thai": "เรียก/ชื่อว่า",
+    "pinyin": "jiào"
+  },
+  {
+    "chinese": "电视",
+    "thai": "โทรทัศน์",
+    "pinyin": "diànshì"
+  },
+  {
+    "chinese": "买",
+    "thai": "ซื้อ",
+    "pinyin": "mǎi"
+  },
+  {
+    "chinese": "月",
+    "thai": "เดือน",
+    "pinyin": "yuè"
+  },
+  {
+    "chinese": "元",
+    "thai": "หยวน",
+    "pinyin": "yuán"
+  },
+  {
+    "chinese": "山",
+    "thai": "ภูเขา",
+    "pinyin": "shān"
+  },
+  {
     "chinese": "毛",
     "thai": "เหมา (10 เฟิน)",
     "pinyin": "máo"
+  },
+  {
+    "chinese": "认识",
+    "thai": "รู้จัก",
+    "pinyin": "rènshi"
+  },
+  {
+    "chinese": "我",
+    "thai": "ฉัน",
+    "pinyin": "wǒ"
   },
   {
     "chinese": "分",
@@ -350,28 +365,13 @@
     "pinyin": "fēn"
   },
   {
-    "chinese": "衣服",
-    "thai": "เสื้อผ้า",
-    "pinyin": "yīfu"
-  },
-  {
     "chinese": "卖",
     "thai": "ขาย",
     "pinyin": "mài"
   },
   {
-    "chinese": "工作",
-    "thai": "ทำงาน",
-    "pinyin": "gōngzuò"
-  },
-  {
-    "chinese": "人",
-    "thai": "คน",
-    "pinyin": "rén"
-  },
-  {
-    "chinese": "小姐",
-    "thai": "คุณผู้หญิง",
-    "pinyin": "xiǎojiě"
+    "chinese": "现在",
+    "thai": "ตอนนี้",
+    "pinyin": "xiànzài"
   }
 ]

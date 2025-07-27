@@ -1,295 +1,5 @@
 [
   {
-    "english": "conventional",
-    "thai": "ตามธรรมเนียม",
-    "phonetic": "kuhn-VEN-shuh-nuhl"
-  },
-  {
-    "english": "denote",
-    "thai": "แสดงถึง",
-    "phonetic": "di-NOHT"
-  },
-  {
-    "english": "consecutive",
-    "thai": "ต่อเนื่อง",
-    "phonetic": "kuhn-SEK-yuh-tiv"
-  },
-  {
-    "english": "adjust",
-    "thai": "ปรับ",
-    "phonetic": "uh-JUST"
-  },
-  {
-    "english": "adequate",
-    "thai": "เพียงพอ",
-    "phonetic": "AD-uh-kwit"
-  },
-  {
-    "english": "clarify",
-    "thai": "ชี้แจง",
-    "phonetic": "KLAIR-uh-fy"
-  },
-  {
-    "english": "constructive",
-    "thai": "สร้างสรรค์",
-    "phonetic": "kuhn-STRUK-tiv"
-  },
-  {
-    "english": "derive",
-    "thai": "ได้มาจาก",
-    "phonetic": "di-RYV"
-  },
-  {
-    "english": "cohesive",
-    "thai": "เหนียวแน่น",
-    "phonetic": "koh-HEE-siv"
-  },
-  {
-    "english": "adapt",
-    "thai": "ปรับตัว",
-    "phonetic": "uh-DAPT"
-  },
-  {
-    "english": "crucial",
-    "thai": "สำคัญมาก",
-    "phonetic": "KROO-shuhl"
-  },
-  {
-    "english": "acquire",
-    "thai": "ได้มา",
-    "phonetic": "uh-KWY-er"
-  },
-  {
-    "english": "confine",
-    "thai": "จำกัด",
-    "phonetic": "kuhn-FYN"
-  },
-  {
-    "english": "contradict",
-    "thai": "ขัดแย้ง",
-    "phonetic": "kon-truh-DIKT"
-  },
-  {
-    "english": "designate",
-    "thai": "กำหนด",
-    "phonetic": "DEZ-ig-nayt"
-  },
-  {
-    "english": "attribute",
-    "thai": "คุณลักษณะ",
-    "phonetic": "AT-ruh-byoot"
-  },
-  {
-    "english": "confirm",
-    "thai": "ยืนยัน",
-    "phonetic": "kuhn-FURM"
-  },
-  {
-    "english": "discrete",
-    "thai": "แยกจากกัน",
-    "phonetic": "di-SKREET"
-  },
-  {
-    "english": "approximate",
-    "thai": "ประมาณ",
-    "phonetic": "uh-PROK-suh-mit"
-  },
-  {
-    "english": "capacity",
-    "thai": "ความจุ",
-    "phonetic": "kuh-PAS-uh-tee"
-  },
-  {
-    "english": "cite",
-    "thai": "อ้างอิง",
-    "phonetic": "SYT"
-  },
-  {
-    "english": "constrain",
-    "thai": "จำกัด",
-    "phonetic": "kuhn-STRAYN"
-  },
-  {
-    "english": "appropriate",
-    "thai": "เหมาะสม",
-    "phonetic": "uh-PROH-pree-it"
-  },
-  {
-    "english": "commence",
-    "thai": "เริ่มต้น",
-    "phonetic": "kuh-MENS"
-  },
-  {
-    "english": "apparent",
-    "thai": "ชัดเจน",
-    "phonetic": "uh-PAIR-uhnt"
-  },
-  {
-    "english": "diminish",
-    "thai": "ลดลง",
-    "phonetic": "di-MIN-ish"
-  },
-  {
-    "english": "detect",
-    "thai": "ตรวจจับ",
-    "phonetic": "di-TEKT"
-  },
-  {
-    "english": "conduct",
-    "thai": "ดำเนินการ",
-    "phonetic": "kuhn-DUKT"
-  },
-  {
-    "english": "compile",
-    "thai": "รวบรวม",
-    "phonetic": "kuhm-PYL"
-  },
-  {
-    "english": "capable",
-    "thai": "สามารถ",
-    "phonetic": "KAY-puh-buhl"
-  },
-  {
-    "english": "consequently",
-    "thai": "ดังนั้น",
-    "phonetic": "KON-suh-kwent-lee"
-  },
-  {
-    "english": "arbitrary",
-    "thai": "ตามอำเภอใจ",
-    "phonetic": "AHR-bi-trayr-ee"
-  },
-  {
-    "english": "consume",
-    "thai": "บริโภค",
-    "phonetic": "kuhn-SOOM"
-  },
-  {
-    "english": "differentiate",
-    "thai": "แยกแยะ",
-    "phonetic": "dif-uh-REN-shee-ayt"
-  },
-  {
-    "english": "compensate",
-    "thai": "ชดเชย",
-    "phonetic": "KOM-puhn-sayt"
-  },
-  {
-    "english": "conclude",
-    "thai": "สรุป",
-    "phonetic": "kuhn-KLOOD"
-  },
-  {
-    "english": "anticipate",
-    "thai": "คาดการณ์",
-    "phonetic": "an-TIS-uh-payt"
-  },
-  {
-    "english": "assess",
-    "thai": "ประเมิน",
-    "phonetic": "uh-SES"
-  },
-  {
-    "english": "devise",
-    "thai": "ประดิษฐ์",
-    "phonetic": "di-VYZ"
-  },
-  {
-    "english": "alter",
-    "thai": "เปลี่ยนแปลง",
-    "phonetic": "AWL-ter"
-  },
-  {
-    "english": "attain",
-    "thai": "บรรลุ",
-    "phonetic": "uh-TAYN"
-  },
-  {
-    "english": "advocate",
-    "thai": "สนับสนุน",
-    "phonetic": "AD-vuh-kayt"
-  },
-  {
-    "english": "controversy",
-    "thai": "ข้อโต้แย้ง",
-    "phonetic": "KON-truh-vur-see"
-  },
-  {
-    "english": "conceive",
-    "thai": "คิดขึ้น",
-    "phonetic": "kuhn-SEEV"
-  },
-  {
-    "english": "contemporary",
-    "thai": "ร่วมสมัย",
-    "phonetic": "kuhn-TEM-puh-rer-ee"
-  },
-  {
-    "english": "concurrent",
-    "thai": "พร้อมกัน",
-    "phonetic": "kuhn-KUR-uhnt"
-  },
-  {
-    "english": "challenge",
-    "thai": "ท้าทาย",
-    "phonetic": "CHAL-inj"
-  },
-  {
-    "english": "brief",
-    "thai": "สั้นๆ",
-    "phonetic": "BREEF"
-  },
-  {
-    "english": "diverse",
-    "thai": "หลากหลาย",
-    "phonetic": "di-VURS"
-  },
-  {
-    "english": "comprehensive",
-    "thai": "ครอบคลุม",
-    "phonetic": "kom-pri-HEN-siv"
-  },
-  {
-    "english": "approach",
-    "thai": "แนวทาง",
-    "phonetic": "uh-PROHCH"
-  },
-  {
-    "english": "consistent",
-    "thai": "สอดคล้องกัน",
-    "phonetic": "kuhn-SIS-tuhnt"
-  },
-  {
-    "english": "deviate",
-    "thai": "เบี่ยงเบน",
-    "phonetic": "DEE-vee-ayt"
-  },
-  {
-    "english": "conform",
-    "thai": "ปฏิบัติตาม",
-    "phonetic": "kuhn-FORM"
-  },
-  {
-    "english": "comprise",
-    "thai": "ประกอบด้วย",
-    "phonetic": "kuhm-PRYZ"
-  },
-  {
-    "english": "analyze",
-    "thai": "วิเคราะห์",
-    "phonetic": "AN-uh-lyz"
-  },
-  {
-    "english": "assume",
-    "thai": "สมมติ",
-    "phonetic": "uh-SOOM"
-  },
-  {
-    "english": "displace",
-    "thai": "แทนที่",
-    "phonetic": "dis-PLAYS"
-  },
-  {
     "english": "achieve",
     "thai": "บรรลุ",
     "phonetic": "uh-CHEEV"
@@ -300,14 +10,9 @@
     "phonetic": "DEM-uhn-strayt"
   },
   {
-    "english": "contribute",
-    "thai": "มีส่วนร่วม",
-    "phonetic": "kuhn-TRIB-yoot"
-  },
-  {
-    "english": "accommodate",
-    "thai": "รองรับ",
-    "phonetic": "uh-KOM-uh-dayt"
+    "english": "approach",
+    "thai": "แนวทาง",
+    "phonetic": "uh-PROHCH"
   },
   {
     "english": "bias",
@@ -315,19 +20,94 @@
     "phonetic": "BY-uhs"
   },
   {
-    "english": "context",
-    "thai": "บริบท",
-    "phonetic": "KON-tekst"
+    "english": "conduct",
+    "thai": "ดำเนินการ",
+    "phonetic": "kuhn-DUKT"
   },
   {
-    "english": "correspond",
-    "thai": "สอดคล้อง",
-    "phonetic": "kor-uh-SPOND"
+    "english": "challenge",
+    "thai": "ท้าทาย",
+    "phonetic": "CHAL-inj"
   },
   {
-    "english": "convert",
-    "thai": "แปลง",
-    "phonetic": "kuhn-VURT"
+    "english": "attain",
+    "thai": "บรรลุ",
+    "phonetic": "uh-TAYN"
+  },
+  {
+    "english": "accommodate",
+    "thai": "รองรับ",
+    "phonetic": "uh-KOM-uh-dayt"
+  },
+  {
+    "english": "cohesive",
+    "thai": "เหนียวแน่น",
+    "phonetic": "koh-HEE-siv"
+  },
+  {
+    "english": "assume",
+    "thai": "สมมติ",
+    "phonetic": "uh-SOOM"
+  },
+  {
+    "english": "attribute",
+    "thai": "คุณลักษณะ",
+    "phonetic": "AT-ruh-byoot"
+  },
+  {
+    "english": "conclude",
+    "thai": "สรุป",
+    "phonetic": "kuhn-KLOOD"
+  },
+  {
+    "english": "comprehensive",
+    "thai": "ครอบคลุม",
+    "phonetic": "kom-pri-HEN-siv"
+  },
+  {
+    "english": "concurrent",
+    "thai": "พร้อมกัน",
+    "phonetic": "kuhn-KUR-uhnt"
+  },
+  {
+    "english": "analyze",
+    "thai": "วิเคราะห์",
+    "phonetic": "AN-uh-lyz"
+  },
+  {
+    "english": "clarify",
+    "thai": "ชี้แจง",
+    "phonetic": "KLAIR-uh-fy"
+  },
+  {
+    "english": "capacity",
+    "thai": "ความจุ",
+    "phonetic": "kuh-PAS-uh-tee"
+  },
+  {
+    "english": "contradict",
+    "thai": "ขัดแย้ง",
+    "phonetic": "kon-truh-DIKT"
+  },
+  {
+    "english": "adapt",
+    "thai": "ปรับตัว",
+    "phonetic": "uh-DAPT"
+  },
+  {
+    "english": "confine",
+    "thai": "จำกัด",
+    "phonetic": "kuhn-FYN"
+  },
+  {
+    "english": "confirm",
+    "thai": "ยืนยัน",
+    "phonetic": "kuhn-FURM"
+  },
+  {
+    "english": "appropriate",
+    "thai": "เหมาะสม",
+    "phonetic": "uh-PROH-pree-it"
   },
   {
     "english": "distinct",
@@ -335,29 +115,74 @@
     "phonetic": "di-STINKT"
   },
   {
-    "english": "deduce",
-    "thai": "อนุมาน",
-    "phonetic": "di-DOOS"
+    "english": "adjust",
+    "thai": "ปรับ",
+    "phonetic": "uh-JUST"
   },
   {
-    "english": "considerable",
-    "thai": "มากพอสมควร",
-    "phonetic": "kuhn-SID-er-uh-buhl"
+    "english": "alter",
+    "thai": "เปลี่ยนแปลง",
+    "phonetic": "AWL-ter"
   },
   {
-    "english": "convene",
-    "thai": "เรียกประชุม",
-    "phonetic": "kuhn-VEEN"
+    "english": "detect",
+    "thai": "ตรวจจับ",
+    "phonetic": "di-TEKT"
   },
   {
-    "english": "dispose",
-    "thai": "กำจัด",
-    "phonetic": "dis-POHZ"
+    "english": "capable",
+    "thai": "สามารถ",
+    "phonetic": "KAY-puh-buhl"
   },
   {
-    "english": "distort",
-    "thai": "บิดเบือน",
-    "phonetic": "dis-TORT"
+    "english": "discrete",
+    "thai": "แยกจากกัน",
+    "phonetic": "di-SKREET"
+  },
+  {
+    "english": "brief",
+    "thai": "สั้นๆ",
+    "phonetic": "BREEF"
+  },
+  {
+    "english": "acquire",
+    "thai": "ได้มา",
+    "phonetic": "uh-KWY-er"
+  },
+  {
+    "english": "assess",
+    "thai": "ประเมิน",
+    "phonetic": "uh-SES"
+  },
+  {
+    "english": "complement",
+    "thai": "ส่วนเติมเต็ม",
+    "phonetic": "KOM-pluh-ment"
+  },
+  {
+    "english": "adequate",
+    "thai": "เพียงพอ",
+    "phonetic": "AD-uh-kwit"
+  },
+  {
+    "english": "context",
+    "thai": "บริบท",
+    "phonetic": "KON-tekst"
+  },
+  {
+    "english": "diverse",
+    "thai": "หลากหลาย",
+    "phonetic": "di-VURS"
+  },
+  {
+    "english": "compensate",
+    "thai": "ชดเชย",
+    "phonetic": "KOM-puhn-sayt"
+  },
+  {
+    "english": "displace",
+    "thai": "แทนที่",
+    "phonetic": "dis-PLAYS"
   },
   {
     "english": "define",
@@ -365,8 +190,183 @@
     "phonetic": "di-FYN"
   },
   {
-    "english": "complement",
-    "thai": "ส่วนเติมเต็ม",
-    "phonetic": "KOM-pluh-ment"
+    "english": "controversy",
+    "thai": "ข้อโต้แย้ง",
+    "phonetic": "KON-truh-vur-see"
+  },
+  {
+    "english": "deviate",
+    "thai": "เบี่ยงเบน",
+    "phonetic": "DEE-vee-ayt"
+  },
+  {
+    "english": "contemporary",
+    "thai": "ร่วมสมัย",
+    "phonetic": "kuhn-TEM-puh-rer-ee"
+  },
+  {
+    "english": "consistent",
+    "thai": "สอดคล้องกัน",
+    "phonetic": "kuhn-SIS-tuhnt"
+  },
+  {
+    "english": "contribute",
+    "thai": "มีส่วนร่วม",
+    "phonetic": "kuhn-TRIB-yoot"
+  },
+  {
+    "english": "compile",
+    "thai": "รวบรวม",
+    "phonetic": "kuhm-PYL"
+  },
+  {
+    "english": "conceive",
+    "thai": "คิดขึ้น",
+    "phonetic": "kuhn-SEEV"
+  },
+  {
+    "english": "dispose",
+    "thai": "กำจัด",
+    "phonetic": "dis-POHZ"
+  },
+  {
+    "english": "differentiate",
+    "thai": "แยกแยะ",
+    "phonetic": "dif-uh-REN-shee-ayt"
+  },
+  {
+    "english": "consume",
+    "thai": "บริโภค",
+    "phonetic": "kuhn-SOOM"
+  },
+  {
+    "english": "anticipate",
+    "thai": "คาดการณ์",
+    "phonetic": "an-TIS-uh-payt"
+  },
+  {
+    "english": "consecutive",
+    "thai": "ต่อเนื่อง",
+    "phonetic": "kuhn-SEK-yuh-tiv"
+  },
+  {
+    "english": "comprise",
+    "thai": "ประกอบด้วย",
+    "phonetic": "kuhm-PRYZ"
+  },
+  {
+    "english": "convene",
+    "thai": "เรียกประชุม",
+    "phonetic": "kuhn-VEEN"
+  },
+  {
+    "english": "conventional",
+    "thai": "ตามธรรมเนียม",
+    "phonetic": "kuhn-VEN-shuh-nuhl"
+  },
+  {
+    "english": "commence",
+    "thai": "เริ่มต้น",
+    "phonetic": "kuh-MENS"
+  },
+  {
+    "english": "advocate",
+    "thai": "สนับสนุน",
+    "phonetic": "AD-vuh-kayt"
+  },
+  {
+    "english": "approximate",
+    "thai": "ประมาณ",
+    "phonetic": "uh-PROK-suh-mit"
+  },
+  {
+    "english": "denote",
+    "thai": "แสดงถึง",
+    "phonetic": "di-NOHT"
+  },
+  {
+    "english": "consequently",
+    "thai": "ดังนั้น",
+    "phonetic": "KON-suh-kwent-lee"
+  },
+  {
+    "english": "considerable",
+    "thai": "มากพอสมควร",
+    "phonetic": "kuhn-SID-er-uh-buhl"
+  },
+  {
+    "english": "deduce",
+    "thai": "อนุมาน",
+    "phonetic": "di-DOOS"
+  },
+  {
+    "english": "cite",
+    "thai": "อ้างอิง",
+    "phonetic": "SYT"
+  },
+  {
+    "english": "correspond",
+    "thai": "สอดคล้อง",
+    "phonetic": "kor-uh-SPOND"
+  },
+  {
+    "english": "distort",
+    "thai": "บิดเบือน",
+    "phonetic": "dis-TORT"
+  },
+  {
+    "english": "designate",
+    "thai": "กำหนด",
+    "phonetic": "DEZ-ig-nayt"
+  },
+  {
+    "english": "constrain",
+    "thai": "จำกัด",
+    "phonetic": "kuhn-STRAYN"
+  },
+  {
+    "english": "apparent",
+    "thai": "ชัดเจน",
+    "phonetic": "uh-PAIR-uhnt"
+  },
+  {
+    "english": "arbitrary",
+    "thai": "ตามอำเภอใจ",
+    "phonetic": "AHR-bi-trayr-ee"
+  },
+  {
+    "english": "devise",
+    "thai": "ประดิษฐ์",
+    "phonetic": "di-VYZ"
+  },
+  {
+    "english": "convert",
+    "thai": "แปลง",
+    "phonetic": "kuhn-VURT"
+  },
+  {
+    "english": "derive",
+    "thai": "ได้มาจาก",
+    "phonetic": "di-RYV"
+  },
+  {
+    "english": "constructive",
+    "thai": "สร้างสรรค์",
+    "phonetic": "kuhn-STRUK-tiv"
+  },
+  {
+    "english": "crucial",
+    "thai": "สำคัญมาก",
+    "phonetic": "KROO-shuhl"
+  },
+  {
+    "english": "conform",
+    "thai": "ปฏิบัติตาม",
+    "phonetic": "kuhn-FORM"
+  },
+  {
+    "english": "diminish",
+    "thai": "ลดลง",
+    "phonetic": "di-MIN-ish"
   }
 ]

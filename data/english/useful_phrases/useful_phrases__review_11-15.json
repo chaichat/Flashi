@@ -1,72 +1,7 @@
 [
   {
-    "english": "Do I need an appointment",
-    "thai": "ฉันจำเป็นต้องนัดหมายหรือไม่",
-    "phonetic": ""
-  },
-  {
-    "english": "I need to buy some medicine",
-    "thai": "ฉันต้องซื้อยาบางอย่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "I want to open an account",
-    "thai": "ฉันต้องการเปิดบัญชี",
-    "phonetic": ""
-  },
-  {
-    "english": "First aid",
-    "thai": "ปฐมพยาบาล",
-    "phonetic": ""
-  },
-  {
-    "english": "How much is a membership",
-    "thai": "ค่าสมาชิกเท่าไหร่",
-    "phonetic": ""
-  },
-  {
-    "english": "Is this ripe",
-    "thai": "นี่สุกแล้วเหรอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Do I need to sign for this",
-    "thai": "ฉันจำเป็นต้องเซ็นชื่อเพื่อสิ่งนี้หรือไม่",
-    "phonetic": ""
-  },
-  {
-    "english": "Call the police",
-    "thai": "โทรหาตำรวจ",
-    "phonetic": ""
-  },
-  {
-    "english": "What classes do you offer",
-    "thai": "คุณมีชั้นเรียนอะไรบ้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I use self checkout",
-    "thai": "ฉันสามารถใช้ระบบชำระเงินด้วยตัวเองได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I want to dye my hair",
-    "thai": "ฉันอยากย้อมผม",
-    "phonetic": ""
-  },
-  {
-    "english": "Do you have a sauna",
-    "thai": "คุณมีห้องซาวน่าไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I want a massage",
-    "thai": "ฉันอยากนวด",
-    "phonetic": ""
-  },
-  {
-    "english": "What is the exchange rate for",
-    "thai": "อัตราแลกเปลี่ยนเป็นเท่าไหร่",
+    "english": "I feel dizzy",
+    "thai": "ฉันรู้สึกเวียนหัว",
     "phonetic": ""
   },
   {
@@ -75,248 +10,13 @@
     "phonetic": ""
   },
   {
-    "english": "Where is the grocery store",
-    "thai": "ร้านขายของชำอยู่ที่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "Smoke",
-    "thai": "ควัน",
-    "phonetic": ""
-  },
-  {
-    "english": "I have a fever",
-    "thai": "ฉันมีไข้",
-    "phonetic": ""
-  },
-  {
-    "english": "I am allergic to",
-    "thai": "ฉันเป็นโรคภูมิแพ้",
-    "phonetic": ""
-  },
-  {
-    "english": "Drowning",
-    "thai": "การจมน้ำ",
-    "phonetic": ""
-  },
-  {
     "english": "I want to withdraw money",
     "thai": "ฉันต้องการถอนเงิน",
     "phonetic": ""
   },
   {
-    "english": "I cannot breathe",
-    "thai": "ฉันหายใจไม่ออก",
-    "phonetic": ""
-  },
-  {
-    "english": "Sprain",
-    "thai": "อาการเคล็ดขัดยอก",
-    "phonetic": ""
-  },
-  {
-    "english": "Safe",
-    "thai": "ปลอดภัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I walk in",
-    "thai": "ฉันสามารถเดินเข้าไปได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I need to buy some food",
-    "thai": "ฉันต้องซื้ออาหารบ้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Where is the nearest hospital",
-    "thai": "โรงพยาบาลที่ใกล้ที่สุดอยู่ที่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "Call an ambulance",
-    "thai": "โทรเรียกรถพยาบาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Fire",
-    "thai": "ไฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "Choking",
-    "thai": "สำลัก",
-    "phonetic": ""
-  },
-  {
-    "english": "I feel dizzy",
-    "thai": "ฉันรู้สึกเวียนหัว",
-    "phonetic": ""
-  },
-  {
-    "english": "Poisoning",
-    "thai": "พิษ",
-    "phonetic": ""
-  },
-  {
-    "english": "I want a pedicure",
-    "thai": "ฉันอยากทำเล็บเท้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Where can I find fresh produce",
-    "thai": "ฉันสามารถหาผลผลิตสดได้ที่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "I need a shopping cart",
-    "thai": "ฉันต้องการรถเข็นช้อปปิ้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "I need a doctor",
-    "thai": "ฉันต้องการหมอ",
-    "phonetic": ""
-  },
-  {
-    "english": "I have a cough",
-    "thai": "ฉันมีอาการไอ",
-    "phonetic": ""
-  },
-  {
-    "english": "I want to close an account",
-    "thai": "ฉันต้องการปิดบัญชี",
-    "phonetic": ""
-  },
-  {
-    "english": "I am looking for",
-    "thai": "ฉันกำลังมองหา",
-    "phonetic": ""
-  },
-  {
-    "english": "How often should I take this",
-    "thai": "ฉันควรทานสิ่งนี้บ่อยแค่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "Are there any side effects",
-    "thai": "มีผลข้างเคียงอะไรไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I want a trim",
-    "thai": "ฉันอยากตัดแต่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "How much does this cost per kilo",
-    "thai": "ราคานี้กิโลละเท่าไหร่คะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Do you have organic vegetables",
-    "thai": "คุณมีผักออร์แกนิกไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Help",
-    "thai": "ช่วย",
-    "phonetic": ""
-  },
-  {
-    "english": "I want to sign up for a membership",
-    "thai": "ฉันต้องการสมัครสมาชิก",
-    "phonetic": ""
-  },
-  {
-    "english": "How much does it cost to send this",
-    "thai": "ส่งแบบนี้เสียค่าส่งเท่าไหร่คะ",
-    "phonetic": ""
-  },
-  {
-    "english": "I broke my arm",
-    "thai": "ฉันแขนหัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Emergency",
-    "thai": "ภาวะฉุกเฉิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Fracture",
-    "thai": "กระดูกหัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Where is the gym",
-    "thai": "ยิมอยู่ที่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "Is this fresh",
-    "thai": "นี่สดมั้ย",
-    "phonetic": ""
-  },
-  {
-    "english": "I need to pick up a package",
-    "thai": "ฉันต้องไปรับพัสดุ",
-    "phonetic": ""
-  },
-  {
-    "english": "How much does a haircut cost",
-    "thai": "ตัดผมราคาเท่าไหร่",
-    "phonetic": ""
-  },
-  {
-    "english": "Is there a long queue",
-    "thai": "มีคิวยาวไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Thank you for shopping with us",
-    "thai": "ขอบคุณที่เลือกซื้อสินค้ากับเรา",
-    "phonetic": ""
-  },
-  {
-    "english": "Is this local",
-    "thai": "นี่เป็นของท้องถิ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Burn",
-    "thai": "เผา",
-    "phonetic": ""
-  },
-  {
-    "english": "I want to book a spa day",
-    "thai": "ฉันต้องการจองวันสปา",
-    "phonetic": ""
-  },
-  {
-    "english": "Call the fire department",
-    "thai": "โทรแจ้งหน่วยดับเพลิง",
-    "phonetic": ""
-  },
-  {
-    "english": "Do you have a swimming pool",
-    "thai": "คุณมีสระว่ายน้ำไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I have a stomachache",
-    "thai": "ฉันปวดท้อง",
-    "phonetic": ""
-  },
-  {
-    "english": "How much is a massage",
-    "thai": "นวดครั้งละเท่าไหร่",
-    "phonetic": ""
-  },
-  {
-    "english": "I need a haircut",
-    "thai": "ฉันต้องการตัดผม",
+    "english": "I want to dye my hair",
+    "thai": "ฉันอยากย้อมผม",
     "phonetic": ""
   },
   {
@@ -325,98 +25,18 @@
     "phonetic": ""
   },
   {
-    "english": "Have a nice day",
-    "thai": "ขอให้เป็นวันที่ดี",
+    "english": "Can I walk in",
+    "thai": "ฉันสามารถเดินเข้าไปได้ไหม",
     "phonetic": ""
   },
   {
-    "english": "Danger",
-    "thai": "อันตราย",
+    "english": "I want a pedicure",
+    "thai": "ฉันอยากทำเล็บเท้า",
     "phonetic": ""
   },
   {
-    "english": "I need to buy stamps",
-    "thai": "ฉันต้องการซื้อแสตมป์",
-    "phonetic": ""
-  },
-  {
-    "english": "I want to try a class",
-    "thai": "ฉันอยากลองเรียนดู",
-    "phonetic": ""
-  },
-  {
-    "english": "I want to deposit money",
-    "thai": "ฉันต้องการฝากเงิน",
-    "phonetic": ""
-  },
-  {
-    "english": "I need to find a pharmacy",
-    "thai": "ฉันต้องหาร้านขายยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Cut",
-    "thai": "ตัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Do you have a steam room",
-    "thai": "คุณมีห้องอบไอน้ำไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I am hurt",
-    "thai": "ฉันเจ็บ",
-    "phonetic": ""
-  },
-  {
-    "english": "Do you have plastic bags",
-    "thai": "คุณมีถุงพลาสติกไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Do you have any specials",
-    "thai": "คุณมีข้อเสนอพิเศษอะไรไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I need to send a package",
-    "thai": "ฉันต้องส่งพัสดุ",
-    "phonetic": ""
-  },
-  {
-    "english": "I need a shopping basket",
-    "thai": "ฉันต้องการตะกร้าสินค้า",
-    "phonetic": ""
-  },
-  {
-    "english": "I want a manicure",
-    "thai": "ฉันอยากทำเล็บ",
-    "phonetic": ""
-  },
-  {
-    "english": "Electrocution",
-    "thai": "ไฟฟ้าช็อต",
-    "phonetic": ""
-  },
-  {
-    "english": "I brought my own bag",
-    "thai": "ฉันนำถุงของฉันมาเอง",
-    "phonetic": ""
-  },
-  {
-    "english": "I am bleeding",
-    "thai": "ฉันกำลังมีเลือดออก",
-    "phonetic": ""
-  },
-  {
-    "english": "Swelling",
-    "thai": "บวม",
-    "phonetic": ""
-  },
-  {
-    "english": "What are your hours",
-    "thai": "คุณเปิดทำการเวลาใด",
+    "english": "I need a shopping cart",
+    "thai": "ฉันต้องการรถเข็นช้อปปิ้ง",
     "phonetic": ""
   },
   {
@@ -425,28 +45,53 @@
     "phonetic": ""
   },
   {
+    "english": "I want a manicure",
+    "thai": "ฉันอยากทำเล็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "What is the exchange rate for",
+    "thai": "อัตราแลกเปลี่ยนเป็นเท่าไหร่",
+    "phonetic": ""
+  },
+  {
+    "english": "I need to pick up a package",
+    "thai": "ฉันต้องไปรับพัสดุ",
+    "phonetic": ""
+  },
+  {
+    "english": "I want to open an account",
+    "thai": "ฉันต้องการเปิดบัญชี",
+    "phonetic": ""
+  },
+  {
+    "english": "Thank you for shopping with us",
+    "thai": "ขอบคุณที่เลือกซื้อสินค้ากับเรา",
+    "phonetic": ""
+  },
+  {
     "english": "Do you have paper bags",
     "thai": "คุณมีถุงกระดาษไหม",
     "phonetic": ""
   },
   {
-    "english": "I need to go to the bank",
-    "thai": "ฉันต้องไปธนาคาร",
+    "english": "Where can I find fresh produce",
+    "thai": "ฉันสามารถหาผลผลิตสดได้ที่ไหน",
     "phonetic": ""
   },
   {
-    "english": "I am sick",
-    "thai": "ฉันป่วย",
+    "english": "How much is a massage",
+    "thai": "นวดครั้งละเท่าไหร่",
     "phonetic": ""
   },
   {
-    "english": "Alarm",
-    "thai": "เตือน",
+    "english": "I want to close an account",
+    "thai": "ฉันต้องการปิดบัญชี",
     "phonetic": ""
   },
   {
-    "english": "Come again",
-    "thai": "มาอีกครั้ง",
+    "english": "What are your hours",
+    "thai": "คุณเปิดทำการเวลาใด",
     "phonetic": ""
   },
   {
@@ -455,18 +100,68 @@
     "phonetic": ""
   },
   {
-    "english": "I have a headache",
-    "thai": "ฉันปวดหัว",
+    "english": "I need to send a package",
+    "thai": "ฉันต้องส่งพัสดุ",
     "phonetic": ""
   },
   {
-    "english": "Evacuate",
-    "thai": "อพยพ",
+    "english": "Is this fresh",
+    "thai": "นี่สดมั้ย",
     "phonetic": ""
   },
   {
-    "english": "CPR",
-    "thai": "การปั๊มหัวใจ",
+    "english": "Do you have organic vegetables",
+    "thai": "คุณมีผักออร์แกนิกไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "How often should I take this",
+    "thai": "ฉันควรทานสิ่งนี้บ่อยแค่ไหน",
+    "phonetic": ""
+  },
+  {
+    "english": "Do I need to sign for this",
+    "thai": "ฉันจำเป็นต้องเซ็นชื่อเพื่อสิ่งนี้หรือไม่",
+    "phonetic": ""
+  },
+  {
+    "english": "I need to buy some medicine",
+    "thai": "ฉันต้องซื้อยาบางอย่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Is this local",
+    "thai": "นี่เป็นของท้องถิ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "I want a massage",
+    "thai": "ฉันอยากนวด",
+    "phonetic": ""
+  },
+  {
+    "english": "Poisoning",
+    "thai": "พิษ",
+    "phonetic": ""
+  },
+  {
+    "english": "I want a trim",
+    "thai": "ฉันอยากตัดแต่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have a steam room",
+    "thai": "คุณมีห้องอบไอน้ำไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I want to transfer money",
+    "thai": "ฉันต้องการโอนเงิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have plastic bags",
+    "thai": "คุณมีถุงพลาสติกไหม",
     "phonetic": ""
   },
   {
@@ -475,8 +170,43 @@
     "phonetic": ""
   },
   {
+    "english": "I need to buy stamps",
+    "thai": "ฉันต้องการซื้อแสตมป์",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have any specials",
+    "thai": "คุณมีข้อเสนอพิเศษอะไรบ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "I want to book a spa day",
+    "thai": "ฉันต้องการจองวันสปา",
+    "phonetic": ""
+  },
+  {
+    "english": "Is there a long queue",
+    "thai": "มีคิวยาวไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I have a cough",
+    "thai": "ฉันมีอาการไอ",
+    "phonetic": ""
+  },
+  {
     "english": "I twisted my ankle",
     "thai": "ฉันพลิกข้อเท้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Burn",
+    "thai": "เผา",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have a sauna",
+    "thai": "คุณมีห้องซาวน่าไหม",
     "phonetic": ""
   },
   {
@@ -485,8 +215,268 @@
     "phonetic": ""
   },
   {
+    "english": "I need to find a pharmacy",
+    "thai": "ฉันต้องหาร้านขายยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I use self checkout",
+    "thai": "ฉันสามารถใช้ระบบชำระเงินด้วยตัวเองได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I broke my arm",
+    "thai": "ฉันแขนหัก",
+    "phonetic": ""
+  },
+  {
+    "english": "I have a headache",
+    "thai": "ฉันปวดหัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Is this ripe",
+    "thai": "นี่สุกแล้วเหรอ",
+    "phonetic": ""
+  },
+  {
+    "english": "I need a doctor",
+    "thai": "ฉันต้องการหมอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have a swimming pool",
+    "thai": "คุณมีสระว่ายน้ำไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "How much does a haircut cost",
+    "thai": "ตัดผมราคาเท่าไหร่",
+    "phonetic": ""
+  },
+  {
+    "english": "Emergency",
+    "thai": "ภาวะฉุกเฉิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Smoke",
+    "thai": "ควัน",
+    "phonetic": ""
+  },
+  {
+    "english": "I am sick",
+    "thai": "ฉันป่วย",
+    "phonetic": ""
+  },
+  {
+    "english": "Where is the grocery store",
+    "thai": "ร้านขายของชำอยู่ที่ไหน",
+    "phonetic": ""
+  },
+  {
+    "english": "Call an ambulance",
+    "thai": "โทรเรียกรถพยาบาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Swelling",
+    "thai": "บวม",
+    "phonetic": ""
+  },
+  {
+    "english": "Help",
+    "thai": "ช่วย",
+    "phonetic": ""
+  },
+  {
+    "english": "I am looking for",
+    "thai": "ฉันกำลังมองหา",
+    "phonetic": ""
+  },
+  {
+    "english": "Do I need an appointment",
+    "thai": "ฉันจำเป็นต้องนัดหมายหรือไม่",
+    "phonetic": ""
+  },
+  {
+    "english": "I need to go to the bank",
+    "thai": "ฉันต้องไปธนาคาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Electrocution",
+    "thai": "ไฟฟ้าช็อต",
+    "phonetic": ""
+  },
+  {
+    "english": "I want to try a class",
+    "thai": "ฉันอยากลองเรียนดู",
+    "phonetic": ""
+  },
+  {
+    "english": "Alarm",
+    "thai": "เตือน",
+    "phonetic": ""
+  },
+  {
+    "english": "How much does it cost to send this",
+    "thai": "ส่งแบบนี้เสียค่าส่งเท่าไหร่คะ",
+    "phonetic": ""
+  },
+  {
+    "english": "I need to buy some food",
+    "thai": "ฉันต้องซื้ออาหารบ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Sprain",
+    "thai": "อาการเคล็ดขัดยอก",
+    "phonetic": ""
+  },
+  {
+    "english": "Are there any side effects",
+    "thai": "มีผลข้างเคียงอะไรไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "How much does this cost per kilo",
+    "thai": "ราคานี้กิโลละเท่าไหร่คะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Have a nice day",
+    "thai": "ขอให้เป็นวันที่ดี",
+    "phonetic": ""
+  },
+  {
+    "english": "I want to deposit money",
+    "thai": "ฉันต้องการฝากเงิน",
+    "phonetic": ""
+  },
+  {
+    "english": "I cannot breathe",
+    "thai": "ฉันหายใจไม่ออก",
+    "phonetic": ""
+  },
+  {
+    "english": "Come again",
+    "thai": "มาอีกครั้ง",
+    "phonetic": ""
+  },
+  {
+    "english": "What classes do you offer",
+    "thai": "คุณมีชั้นเรียนอะไรบ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "I have a fever",
+    "thai": "ฉันมีไข้",
+    "phonetic": ""
+  },
+  {
+    "english": "Where is the gym",
+    "thai": "ยิมอยู่ที่ไหน",
+    "phonetic": ""
+  },
+  {
+    "english": "Call the police",
+    "thai": "โทรหาตำรวจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Danger",
+    "thai": "อันตราย",
+    "phonetic": ""
+  },
+  {
     "english": "Rescue",
     "thai": "กู้ภัย",
+    "phonetic": ""
+  },
+  {
+    "english": "I am hurt",
+    "thai": "ฉันเจ็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "I need a shopping basket",
+    "thai": "ฉันต้องการตะกร้าสินค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "I want to sign up for a membership",
+    "thai": "ฉันต้องการสมัครสมาชิก",
+    "phonetic": ""
+  },
+  {
+    "english": "CPR",
+    "thai": "การปั๊มหัวใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "I need a haircut",
+    "thai": "ฉันต้องการตัดผม",
+    "phonetic": ""
+  },
+  {
+    "english": "I brought my own bag",
+    "thai": "ฉันนำถุงของฉันมาเอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Fracture",
+    "thai": "กระดูกหัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Call the fire department",
+    "thai": "โทรแจ้งหน่วยดับเพลิง",
+    "phonetic": ""
+  },
+  {
+    "english": "Cut",
+    "thai": "ตัด",
+    "phonetic": ""
+  },
+  {
+    "english": "How much is a membership",
+    "thai": "ค่าสมาชิกเท่าไหร่",
+    "phonetic": ""
+  },
+  {
+    "english": "Where is the nearest hospital",
+    "thai": "โรงพยาบาลที่ใกล้ที่สุดอยู่ที่ไหน",
+    "phonetic": ""
+  },
+  {
+    "english": "First aid",
+    "thai": "ปฐมพยาบาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Drowning",
+    "thai": "การจมน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "I am bleeding",
+    "thai": "ฉันกำลังมีเลือดออก",
+    "phonetic": ""
+  },
+  {
+    "english": "Evacuate",
+    "thai": "อพยพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Safe",
+    "thai": "ปลอดภัย",
+    "phonetic": ""
+  },
+  {
+    "english": "I have a stomachache",
+    "thai": "ฉันปวดท้อง",
     "phonetic": ""
   },
   {
@@ -495,8 +485,18 @@
     "phonetic": ""
   },
   {
-    "english": "I want to transfer money",
-    "thai": "ฉันต้องการโอนเงิน",
+    "english": "I am allergic to",
+    "thai": "ฉันเป็นโรคภูมิแพ้",
+    "phonetic": ""
+  },
+  {
+    "english": "Choking",
+    "thai": "สำลัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Fire",
+    "thai": "ไฟ",
     "phonetic": ""
   }
 ]

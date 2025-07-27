@@ -1,72 +1,32 @@
 [
   {
-    "english": "Coordination",
-    "thai": "การประสานงาน",
+    "english": "Sofa",
+    "thai": "โซฟา",
     "phonetic": ""
   },
   {
-    "english": "Pleasure",
-    "thai": "ความพึงพอใจ",
+    "english": "Agility",
+    "thai": "ความคล่องตัว",
     "phonetic": ""
   },
   {
-    "english": "Siesta",
-    "thai": "นอนพักกลางวัน",
+    "english": "Stamina",
+    "thai": "ความอดทน",
     "phonetic": ""
   },
   {
-    "english": "Late",
-    "thai": "ช้า",
+    "english": "Plants",
+    "thai": "พืช",
     "phonetic": ""
   },
   {
-    "english": "Strength",
-    "thai": "ความแข็งแกร่ง",
+    "english": "Consistency",
+    "thai": "ความสม่ำเสมอ",
     "phonetic": ""
   },
   {
-    "english": "Idleness",
-    "thai": "ความเกียจคร้าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Warm-up",
-    "thai": "การวอร์มอัพ",
-    "phonetic": ""
-  },
-  {
-    "english": "Routine",
-    "thai": "กิจวัตรประจำวัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Leisure",
-    "thai": "เวลาว่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Nap",
-    "thai": "งีบหลับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Free time",
-    "thai": "เวลาว่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Meditate",
-    "thai": "นั่งสมาธิ",
-    "phonetic": ""
-  },
-  {
-    "english": "Chair",
-    "thai": "เก้าอี้",
-    "phonetic": ""
-  },
-  {
-    "english": "Goals",
-    "thai": "เป้าหมาย",
+    "english": "Reminder",
+    "thai": "คำเตือน",
     "phonetic": ""
   },
   {
@@ -75,18 +35,58 @@
     "phonetic": ""
   },
   {
-    "english": "Sport",
-    "thai": "กีฬา",
+    "english": "Free time",
+    "thai": "เวลาว่าง",
     "phonetic": ""
   },
   {
-    "english": "Weakness",
-    "thai": "ความอ่อนแอ",
+    "english": "Stretching",
+    "thai": "การยืดกล้ามเนื้อ",
     "phonetic": ""
   },
   {
-    "english": "Drain",
-    "thai": "ท่อระบายน้ำ",
+    "english": "Living room",
+    "thai": "ห้องนั่งเล่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Punctual",
+    "thai": "ตรงต่อเวลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Bathroom",
+    "thai": "ห้องน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Athletics",
+    "thai": "กรีฑา",
+    "phonetic": ""
+  },
+  {
+    "english": "Goals",
+    "thai": "เป้าหมาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Pleasure",
+    "thai": "ความพึงพอใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Floor",
+    "thai": "พื้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Endurance",
+    "thai": "ความอดทน",
+    "phonetic": ""
+  },
+  {
+    "english": "Tradition",
+    "thai": "ธรรมเนียม",
     "phonetic": ""
   },
   {
@@ -95,38 +95,43 @@
     "phonetic": ""
   },
   {
-    "english": "Bedroom",
-    "thai": "ห้องนอน",
+    "english": "Unwind",
+    "thai": "คลี่คลาย",
     "phonetic": ""
   },
   {
-    "english": "Custom",
-    "thai": "กำหนดเอง",
+    "english": "Cabinet",
+    "thai": "ตู้",
     "phonetic": ""
   },
   {
-    "english": "Ceiling",
-    "thai": "เพดาน",
+    "english": "Discipline",
+    "thai": "การลงโทษ",
     "phonetic": ""
   },
   {
-    "english": "Review",
-    "thai": "ทบทวน",
+    "english": "Sport",
+    "thai": "กีฬา",
     "phonetic": ""
   },
   {
-    "english": "Bed",
-    "thai": "เตียง",
+    "english": "Meditate",
+    "thai": "นั่งสมาธิ",
     "phonetic": ""
   },
   {
-    "english": "Joy",
-    "thai": "ความสุข",
+    "english": "Calisthenics",
+    "thai": "การออกกำลังกายแบบคาลิสเธนิกส์",
     "phonetic": ""
   },
   {
-    "english": "Tardy",
-    "thai": "อืด",
+    "english": "Aerobics",
+    "thai": "แอโรบิก",
+    "phonetic": ""
+  },
+  {
+    "english": "Early",
+    "thai": "แต่แรก",
     "phonetic": ""
   },
   {
@@ -135,13 +140,338 @@
     "phonetic": ""
   },
   {
+    "english": "Gymnastics",
+    "thai": "ยิมนาสติก",
+    "phonetic": ""
+  },
+  {
+    "english": "Agenda",
+    "thai": "กำหนดการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Priority",
+    "thai": "ลำดับความสำคัญ",
+    "phonetic": ""
+  },
+  {
+    "english": "Review",
+    "thai": "ทบทวน",
+    "phonetic": ""
+  },
+  {
+    "english": "Drain",
+    "thai": "ท่อระบายน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Faucet",
+    "thai": "ก๊อกน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Passion",
+    "thai": "ความหลงใหล",
+    "phonetic": ""
+  },
+  {
+    "english": "Fun",
+    "thai": "สนุก",
+    "phonetic": ""
+  },
+  {
+    "english": "Laziness",
+    "thai": "ความขี้เกียจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Warm-up",
+    "thai": "การวอร์มอัพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Amusement",
+    "thai": "ความบันเทิง",
+    "phonetic": ""
+  },
+  {
+    "english": "Light",
+    "thai": "แสงสว่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Downtime",
+    "thai": "เวลาหยุดทำงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Habit",
+    "thai": "นิสัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Bed",
+    "thai": "เตียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Trash",
+    "thai": "ขยะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Pastime",
+    "thai": "งานอดิเรก",
+    "phonetic": ""
+  },
+  {
+    "english": "Pattern",
+    "thai": "ลวดลาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Custom",
+    "thai": "กำหนดเอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Power",
+    "thai": "พลัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Sink",
+    "thai": "จม",
+    "phonetic": ""
+  },
+  {
     "english": "Rhythm",
     "thai": "จังหวะ",
     "phonetic": ""
   },
   {
+    "english": "Leisure",
+    "thai": "เวลาว่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Hobby",
+    "thai": "งานอดิเรก",
+    "phonetic": ""
+  },
+  {
+    "english": "List",
+    "thai": "รายการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Joy",
+    "thai": "ความสุข",
+    "phonetic": ""
+  },
+  {
+    "english": "Siesta",
+    "thai": "นอนพักกลางวัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Clean",
+    "thai": "ทำความสะอาด",
+    "phonetic": ""
+  },
+  {
+    "english": "Ceiling",
+    "thai": "เพดาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Weakness",
+    "thai": "ความอ่อนแอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Chair",
+    "thai": "เก้าอี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Cat",
+    "thai": "แมว",
+    "phonetic": ""
+  },
+  {
+    "english": "Entertainment",
+    "thai": "ความบันเทิง",
+    "phonetic": ""
+  },
+  {
+    "english": "Idleness",
+    "thai": "ความเกียจคร้าน",
+    "phonetic": ""
+  },
+  {
     "english": "Rush",
     "thai": "รีบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Bedroom",
+    "thai": "ห้องนอน",
+    "phonetic": ""
+  },
+  {
+    "english": "Wall",
+    "thai": "กำแพง",
+    "phonetic": ""
+  },
+  {
+    "english": "Balance",
+    "thai": "สมดุล",
+    "phonetic": ""
+  },
+  {
+    "english": "Door",
+    "thai": "ประตู",
+    "phonetic": ""
+  },
+  {
+    "english": "Television",
+    "thai": "โทรทัศน์",
+    "phonetic": ""
+  },
+  {
+    "english": "Pace",
+    "thai": "ก้าว",
+    "phonetic": ""
+  },
+  {
+    "english": "Weightlifting",
+    "thai": "ยกน้ำหนัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Focus",
+    "thai": "จุดสนใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Boredom",
+    "thai": "ความเบื่อหน่าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Hurry",
+    "thai": "รีบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Journal",
+    "thai": "วารสาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Nap",
+    "thai": "งีบหลับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Lamp",
+    "thai": "โคมไฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Late",
+    "thai": "ช้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Concentration",
+    "thai": "ความเข้มข้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Strength",
+    "thai": "ความแข็งแกร่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Speed",
+    "thai": "ความเร็ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Refrigerator",
+    "thai": "ตู้เย็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Lifestyle",
+    "thai": "ไลฟ์สไตล์",
+    "phonetic": ""
+  },
+  {
+    "english": "Distraction",
+    "thai": "ความฟุ้งซ่าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Plan",
+    "thai": "วางแผน",
+    "phonetic": ""
+  },
+  {
+    "english": "Cool-down",
+    "thai": "การผ่อนคลาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Dog",
+    "thai": "สุนัข",
+    "phonetic": ""
+  },
+  {
+    "english": "Routine",
+    "thai": "กิจวัตรประจำวัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Cardio",
+    "thai": "คาร์ดิโอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Tardy",
+    "thai": "อืด",
+    "phonetic": ""
+  },
+  {
+    "english": "Coordination",
+    "thai": "การประสานงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Dishes",
+    "thai": "จาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Procrastination",
+    "thai": "การผัดวันประกันพรุ่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Break",
+    "thai": "หยุดพัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Homework",
+    "thai": "การบ้าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Table",
+    "thai": "โต๊ะ",
     "phonetic": ""
   },
   {
@@ -155,33 +485,8 @@
     "phonetic": ""
   },
   {
-    "english": "Plants",
-    "thai": "พืช",
-    "phonetic": ""
-  },
-  {
-    "english": "Habit",
-    "thai": "นิสัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Pace",
-    "thai": "ก้าว",
-    "phonetic": ""
-  },
-  {
-    "english": "Lamp",
-    "thai": "โคมไฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "Cardio",
-    "thai": "คาร์ดิโอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Boredom",
-    "thai": "ความเบื่อหน่าย",
+    "english": "Recreation",
+    "thai": "สันทนาการ",
     "phonetic": ""
   },
   {
@@ -190,313 +495,8 @@
     "phonetic": ""
   },
   {
-    "english": "Unwind",
-    "thai": "คลี่คลาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Faucet",
-    "thai": "ก๊อกน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Agenda",
-    "thai": "กำหนดการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Cool-down",
-    "thai": "การผ่อนคลาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Fun",
-    "thai": "สนุก",
-    "phonetic": ""
-  },
-  {
-    "english": "Priority",
-    "thai": "ลำดับความสำคัญ",
-    "phonetic": ""
-  },
-  {
-    "english": "Laziness",
-    "thai": "ความขี้เกียจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Floor",
-    "thai": "พื้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Balance",
-    "thai": "สมดุล",
-    "phonetic": ""
-  },
-  {
-    "english": "Light",
-    "thai": "แสงสว่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Speed",
-    "thai": "ความเร็ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Table",
-    "thai": "โต๊ะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Hobby",
-    "thai": "งานอดิเรก",
-    "phonetic": ""
-  },
-  {
-    "english": "Aerobics",
-    "thai": "แอโรบิก",
-    "phonetic": ""
-  },
-  {
-    "english": "Amusement",
-    "thai": "ความบันเทิง",
-    "phonetic": ""
-  },
-  {
-    "english": "Focus",
-    "thai": "จุดสนใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Dishes",
-    "thai": "จาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Weightlifting",
-    "thai": "ยกน้ำหนัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Calisthenics",
-    "thai": "การออกกำลังกายแบบคาลิสเธนิกส์",
-    "phonetic": ""
-  },
-  {
-    "english": "Athletics",
-    "thai": "กรีฑา",
-    "phonetic": ""
-  },
-  {
     "english": "Calendar",
     "thai": "ปฏิทิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Endurance",
-    "thai": "ความอดทน",
-    "phonetic": ""
-  },
-  {
-    "english": "Television",
-    "thai": "โทรทัศน์",
-    "phonetic": ""
-  },
-  {
-    "english": "Power",
-    "thai": "พลัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Tradition",
-    "thai": "ธรรมเนียม",
-    "phonetic": ""
-  },
-  {
-    "english": "Agility",
-    "thai": "ความคล่องตัว",
-    "phonetic": ""
-  },
-  {
-    "english": "Sink",
-    "thai": "จม",
-    "phonetic": ""
-  },
-  {
-    "english": "Journal",
-    "thai": "วารสาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Downtime",
-    "thai": "เวลาหยุดทำงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Reminder",
-    "thai": "คำเตือน",
-    "phonetic": ""
-  },
-  {
-    "english": "Bathroom",
-    "thai": "ห้องน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Break",
-    "thai": "หยุดพัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Dog",
-    "thai": "สุนัข",
-    "phonetic": ""
-  },
-  {
-    "english": "Lifestyle",
-    "thai": "ไลฟ์สไตล์",
-    "phonetic": ""
-  },
-  {
-    "english": "Homework",
-    "thai": "การบ้าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Pattern",
-    "thai": "ลวดลาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Concentration",
-    "thai": "ความเข้มข้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Procrastination",
-    "thai": "การผัดวันประกันพรุ่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Cabinet",
-    "thai": "ตู้",
-    "phonetic": ""
-  },
-  {
-    "english": "Hurry",
-    "thai": "รีบ",
-    "phonetic": ""
-  },
-  {
-    "english": "List",
-    "thai": "รายการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Trash",
-    "thai": "ขยะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Clean",
-    "thai": "ทำความสะอาด",
-    "phonetic": ""
-  },
-  {
-    "english": "Cat",
-    "thai": "แมว",
-    "phonetic": ""
-  },
-  {
-    "english": "Plan",
-    "thai": "วางแผน",
-    "phonetic": ""
-  },
-  {
-    "english": "Door",
-    "thai": "ประตู",
-    "phonetic": ""
-  },
-  {
-    "english": "Gymnastics",
-    "thai": "ยิมนาสติก",
-    "phonetic": ""
-  },
-  {
-    "english": "Living room",
-    "thai": "ห้องนั่งเล่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Stretching",
-    "thai": "การยืดกล้ามเนื้อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Wall",
-    "thai": "กำแพง",
-    "phonetic": ""
-  },
-  {
-    "english": "Sofa",
-    "thai": "โซฟา",
-    "phonetic": ""
-  },
-  {
-    "english": "Distraction",
-    "thai": "ความฟุ้งซ่าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Discipline",
-    "thai": "การลงโทษ",
-    "phonetic": ""
-  },
-  {
-    "english": "Entertainment",
-    "thai": "ความบันเทิง",
-    "phonetic": ""
-  },
-  {
-    "english": "Refrigerator",
-    "thai": "ตู้เย็น",
-    "phonetic": ""
-  },
-  {
-    "english": "Pastime",
-    "thai": "งานอดิเรก",
-    "phonetic": ""
-  },
-  {
-    "english": "Consistency",
-    "thai": "ความสม่ำเสมอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Passion",
-    "thai": "ความหลงใหล",
-    "phonetic": ""
-  },
-  {
-    "english": "Early",
-    "thai": "แต่แรก",
-    "phonetic": ""
-  },
-  {
-    "english": "Punctual",
-    "thai": "ตรงต่อเวลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Recreation",
-    "thai": "สันทนาการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Stamina",
-    "thai": "ความอดทน",
     "phonetic": ""
   }
 ]

@@ -194,24 +194,69 @@ async function generateLessons() {
         const preserveCategories = [CATEGORY_IELTS, CATEGORY_HSK1];
         for (const lang of [LANGUAGE_ENGLISH, LANGUAGE_CHINESE]) {
             const currentManifestCategory = manifest[lang];
-            for (const catName of preserveCategories) {
-                const catDir = path.join(dataDir, lang, sanitizeForFilename(catName));
-                if (fs.existsSync(catDir)) {
-                    const lessonFiles = fs.readdirSync(catDir).filter(file => file.endsWith('.json'));
-                    const existingLessons = [];
-                    lessonFiles.forEach(file => {
-                        const lessonName = file.replace(/\.json$/, '').replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase()); // Basic unsanitization
-                        const lessonNameTh = categoryTranslations[catName]; // Use category translation for now
-                        existingLessons.push({
-                            name: lessonName,
-                            name_th: lessonNameTh,
-                            file: `${lang}/${sanitizeForFilename(catName)}/${file}`,
-                            isReview: lessonName.toLowerCase().includes('review')
-                        });
+            const catName = (lang === LANGUAGE_ENGLISH) ? CATEGORY_IELTS : CATEGORY_HSK1; // Determine correct category name
+            const catDir = path.join(dataDir, lang, sanitizeForFilename(catName));
+
+            if (fs.existsSync(catDir)) {
+                const lessonFiles = fs.readdirSync(catDir).filter(file => file.endsWith('.json'));
+                const existingLessons = [];
+                let lessonsCount = 0;
+                let reviewSet = [];
+
+                // Sort files to ensure correct numbering
+                lessonFiles.sort((a, b) => {
+                    const numA = parseInt(a.match(/(\d+)/)?.[0] || 0);
+                    const numB = parseInt(b.match(/(\d+)/)?.[0] || 0);
+                    return numA - numB;
+                });
+
+                for (const file of lessonFiles) {
+                    const lessonData = JSON.parse(fs.readFileSync(path.join(catDir, file), 'utf8'));
+                    const isReview = file.toLowerCase().includes('review');
+
+                    let lessonName, lessonNameTh;
+                    if (isReview) {
+                        lessonName = file.replace(/\.json$/, '').replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+                        lessonNameTh = `ทบทวน: บทที่ ${lessonName.match(/(\d+)-(\d+)/)[0]}`;
+                    } else {
+                        lessonsCount++;
+                        lessonName = `${catName}: Lesson ${lessonsCount}`;
+                        lessonNameTh = `${categoryTranslations[catName]}: บทที่ ${lessonsCount}`;
+                        reviewSet.push(...lessonData);
+                    }
+
+                    existingLessons.push({
+                        name: lessonName,
+                        name_th: lessonNameTh,
+                        file: `${lang}/${sanitizeForFilename(catName)}/${file}`,
+                        isReview: isReview
                     });
-                    currentManifestCategory[catName] = { name_th: categoryTranslations[catName], lessons: existingLessons };
-                    console.log(`Preserved and integrated existing lessons for ${lang}/${catName}.`);
+
+                    // Generate review stack for existing lessons if not a review stack itself
+                    if (!isReview && lessonsCount % 5 === 0) {
+                        const reviewName = `${catName}: Review ${lessonsCount - 4}-${lessonsCount}`;
+                        const reviewNameTh = `ทบทวน: บทที่ ${lessonsCount - 4}-${lessonsCount}`;
+                        const sanitizedReviewName = sanitizeForFilename(reviewName);
+                        const reviewFileName = `${sanitizedReviewName}.json`;
+                        const reviewFilePath = path.join(catDir, reviewFileName);
+
+                        reviewSet.sort(() => Math.random() - 0.5);
+
+                        fs.writeFileSync(reviewFilePath, JSON.stringify(reviewSet, null, 2), 'utf8');
+
+                        existingLessons.push({
+                            name: reviewName,
+                            name_th: reviewNameTh,
+                            file: `${lang}/${sanitizeForFilename(catName)}/${reviewFileName}`,
+                            isReview: true
+                        });
+                        console.log(`Created review stack for existing lessons: "${reviewName}"`);
+                        reviewSet = [];
+                    }
                 }
+
+                currentManifestCategory[catName] = { name_th: categoryTranslations[catName], lessons: existingLessons };
+                console.log(`Preserved and integrated existing lessons for ${lang}/${catName}.`);
             }
         }
 

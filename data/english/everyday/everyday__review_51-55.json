@@ -1,7 +1,42 @@
 [
   {
-    "english": "Boring",
-    "thai": "น่าเบื่อ",
+    "english": "Exhibition",
+    "thai": "นิทรรศการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Jealous",
+    "thai": "อิจฉา",
+    "phonetic": ""
+  },
+  {
+    "english": "Collection",
+    "thai": "ของสะสม",
+    "phonetic": ""
+  },
+  {
+    "english": "Scared",
+    "thai": "กลัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Happy",
+    "thai": "มีความสุข",
+    "phonetic": ""
+  },
+  {
+    "english": "Anxious",
+    "thai": "กังวล",
+    "phonetic": ""
+  },
+  {
+    "english": "Angry",
+    "thai": "โกรธ",
+    "phonetic": ""
+  },
+  {
+    "english": "Comedy",
+    "thai": "ตลก",
     "phonetic": ""
   },
   {
@@ -15,283 +50,8 @@
     "phonetic": ""
   },
   {
-    "english": "Curious",
-    "thai": "อยากรู้",
-    "phonetic": ""
-  },
-  {
-    "english": "Happy",
-    "thai": "มีความสุข",
-    "phonetic": ""
-  },
-  {
-    "english": "Hopeless",
-    "thai": "หมดหวัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Disappointed",
-    "thai": "ที่ผิดหวัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Motivated",
-    "thai": "มีแรงบันดาลใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Animation",
-    "thai": "แอนิเมชั่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Insecure",
-    "thai": "ไม่ปลอดภัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Fair",
-    "thai": "ยุติธรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Short",
-    "thai": "สั้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Festival",
-    "thai": "งานเทศกาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Funny",
-    "thai": "ตลก",
-    "phonetic": ""
-  },
-  {
-    "english": "Relaxed",
-    "thai": "ผ่อนคลาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Lonely",
-    "thai": "เหงา",
-    "phonetic": ""
-  },
-  {
-    "english": "Polite",
-    "thai": "สุภาพ",
-    "phonetic": ""
-  },
-  {
-    "english": "Confident",
-    "thai": "มั่นใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Loyal",
-    "thai": "ซื่อสัตย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Brave",
-    "thai": "กล้าหาญ",
-    "phonetic": ""
-  },
-  {
-    "english": "Musical",
-    "thai": "ดนตรี",
-    "phonetic": ""
-  },
-  {
-    "english": "Affectionate",
-    "thai": "ความรักใคร่",
-    "phonetic": ""
-  },
-  {
-    "english": "Joyful",
-    "thai": "สนุกสนาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Embarrassed",
-    "thai": "เขินอาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Inspired",
-    "thai": "แรงบันดาลใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Optimistic",
-    "thai": "มองโลกในแง่ดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Dishonest",
-    "thai": "ไม่ซื่อสัตย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Show",
-    "thai": "แสดง",
-    "phonetic": ""
-  },
-  {
-    "english": "Jealous",
-    "thai": "อิจฉา",
-    "phonetic": ""
-  },
-  {
-    "english": "Rude",
-    "thai": "หยาบคาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Bored",
-    "thai": "เบื่อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Hardworking",
-    "thai": "ขยันขันแข็ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Honest",
-    "thai": "ซื่อสัตย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Furious",
-    "thai": "กราดเกรี้ยว",
-    "phonetic": ""
-  },
-  {
-    "english": "Movie",
-    "thai": "ภาพยนตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Quiet",
-    "thai": "เงียบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Worried",
-    "thai": "กังวล",
-    "phonetic": ""
-  },
-  {
-    "english": "Hateful",
-    "thai": "น่าเกลียดชัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Satisfied",
-    "thai": "พอใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Exhibition",
-    "thai": "นิทรรศการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Circus",
-    "thai": "ละครสัตว์",
-    "phonetic": ""
-  },
-  {
-    "english": "Envious",
-    "thai": "อิจฉา",
-    "phonetic": ""
-  },
-  {
-    "english": "Tragedy",
-    "thai": "โศกนาฏกรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Cowardly",
-    "thai": "ขี้ขลาด",
-    "phonetic": ""
-  },
-  {
-    "english": "Amazed",
-    "thai": "ประหลาดใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Angry",
-    "thai": "โกรธ",
-    "phonetic": ""
-  },
-  {
-    "english": "Nostalgic",
-    "thai": "ความคิดถึง",
-    "phonetic": ""
-  },
-  {
-    "english": "Serene",
-    "thai": "สงบเงียบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Drama",
-    "thai": "ละคร",
-    "phonetic": ""
-  },
-  {
-    "english": "Nervous",
-    "thai": "ประหม่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Outgoing",
-    "thai": "ขาออก",
-    "phonetic": ""
-  },
-  {
-    "english": "Cruel",
-    "thai": "โหดร้าย",
-    "phonetic": ""
-  },
-  {
-    "english": "Calm",
-    "thai": "เงียบสงบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Terrified",
-    "thai": "หวาดกลัว",
-    "phonetic": ""
-  },
-  {
-    "english": "Grateful",
-    "thai": "ปลื้มปีติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Grumpy",
-    "thai": "หงุดหงิด",
-    "phonetic": ""
-  },
-  {
-    "english": "Empathetic",
-    "thai": "เห็นอกเห็นใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Loving",
-    "thai": "รัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Sorrowful",
-    "thai": "เศร้าโศก",
+    "english": "Documentary",
+    "thai": "สารคดี",
     "phonetic": ""
   },
   {
@@ -300,178 +60,8 @@
     "phonetic": ""
   },
   {
-    "english": "Resentful",
-    "thai": "ขุ่นเคือง",
-    "phonetic": ""
-  },
-  {
-    "english": "Thrilled",
-    "thai": "ตื่นเต้นมาก",
-    "phonetic": ""
-  },
-  {
-    "english": "Comedy",
-    "thai": "ตลก",
-    "phonetic": ""
-  },
-  {
-    "english": "Talkative",
-    "thai": "ช่างพูด",
-    "phonetic": ""
-  },
-  {
-    "english": "Interesting",
-    "thai": "น่าสนใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Confused",
-    "thai": "สับสน",
-    "phonetic": ""
-  },
-  {
-    "english": "Kind",
-    "thai": "ใจดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Proud",
-    "thai": "ภูมิใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Surprised",
-    "thai": "น่าประหลาดใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Impatient",
-    "thai": "ใจร้อน",
-    "phonetic": ""
-  },
-  {
-    "english": "Overwhelmed",
-    "thai": "ท่วมท้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Collection",
-    "thai": "ของสะสม",
-    "phonetic": ""
-  },
-  {
-    "english": "Documentary",
-    "thai": "สารคดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Excited",
-    "thai": "ตื่นเต้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Scared",
-    "thai": "กลัว",
-    "phonetic": ""
-  },
-  {
-    "english": "Parade",
-    "thai": "ขบวนพาเหรด",
-    "phonetic": ""
-  },
-  {
-    "english": "Stressed",
-    "thai": "เครียด",
-    "phonetic": ""
-  },
-  {
-    "english": "Peaceful",
-    "thai": "สงบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Magic",
-    "thai": "เวทมนตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Ashamed",
-    "thai": "ละอาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Sympathetic",
+    "english": "Empathetic",
     "thai": "เห็นอกเห็นใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Serious",
-    "thai": "จริงจัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Humble",
-    "thai": "ถ่อมตน",
-    "phonetic": ""
-  },
-  {
-    "english": "Hopeful",
-    "thai": "มีความหวัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Lazy",
-    "thai": "ขี้เกียจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Sad",
-    "thai": "เศร้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Regretful",
-    "thai": "เสียใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Arrogant",
-    "thai": "หยิ่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Guilty",
-    "thai": "รู้สึกผิด",
-    "phonetic": ""
-  },
-  {
-    "english": "Generous",
-    "thai": "ใจกว้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Thankful",
-    "thai": "ขอบคุณ",
-    "phonetic": ""
-  },
-  {
-    "english": "Playful",
-    "thai": "ขี้เล่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Cinema",
-    "thai": "โรงหนัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Anxious",
-    "thai": "กังวล",
-    "phonetic": ""
-  },
-  {
-    "english": "Pessimistic",
-    "thai": "มองโลกในแง่ร้าย",
     "phonetic": ""
   },
   {
@@ -480,13 +70,333 @@
     "phonetic": ""
   },
   {
+    "english": "Animation",
+    "thai": "แอนิเมชั่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Inspired",
+    "thai": "แรงบันดาลใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Confused",
+    "thai": "สับสน",
+    "phonetic": ""
+  },
+  {
+    "english": "Magic",
+    "thai": "เวทมนตร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Funny",
+    "thai": "ตลก",
+    "phonetic": ""
+  },
+  {
+    "english": "Movie",
+    "thai": "ภาพยนตร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Regretful",
+    "thai": "เสียใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Fair",
+    "thai": "ยุติธรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Nervous",
+    "thai": "ประหม่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Disappointed",
+    "thai": "ที่ผิดหวัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Relaxed",
+    "thai": "ผ่อนคลาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Confident",
+    "thai": "มั่นใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Boring",
+    "thai": "น่าเบื่อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Talkative",
+    "thai": "ช่างพูด",
+    "phonetic": ""
+  },
+  {
+    "english": "Hopeless",
+    "thai": "หมดหวัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Show",
+    "thai": "แสดง",
+    "phonetic": ""
+  },
+  {
+    "english": "Stressed",
+    "thai": "เครียด",
+    "phonetic": ""
+  },
+  {
+    "english": "Sympathetic",
+    "thai": "เห็นอกเห็นใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sorrowful",
+    "thai": "เศร้าโศก",
+    "phonetic": ""
+  },
+  {
+    "english": "Tragedy",
+    "thai": "โศกนาฏกรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Envious",
+    "thai": "อิจฉา",
+    "phonetic": ""
+  },
+  {
+    "english": "Parade",
+    "thai": "ขบวนพาเหรด",
+    "phonetic": ""
+  },
+  {
+    "english": "Hateful",
+    "thai": "น่าเกลียดชัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Motivated",
+    "thai": "มีแรงบันดาลใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Circus",
+    "thai": "ละครสัตว์",
+    "phonetic": ""
+  },
+  {
+    "english": "Peaceful",
+    "thai": "สงบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Calm",
+    "thai": "เงียบสงบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Pessimistic",
+    "thai": "มองโลกในแง่ร้าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Thrilled",
+    "thai": "ตื่นเต้นมาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Generous",
+    "thai": "ใจกว้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Hopeful",
+    "thai": "มีความหวัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Affectionate",
+    "thai": "ความรักใคร่",
+    "phonetic": ""
+  },
+  {
+    "english": "Serious",
+    "thai": "จริงจัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Grateful",
+    "thai": "ปลื้มปีติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Humble",
+    "thai": "ถ่อมตน",
+    "phonetic": ""
+  },
+  {
+    "english": "Quiet",
+    "thai": "เงียบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Proud",
+    "thai": "ภูมิใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Nostalgic",
+    "thai": "ความคิดถึง",
+    "phonetic": ""
+  },
+  {
+    "english": "Cruel",
+    "thai": "โหดร้าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Excited",
+    "thai": "ตื่นเต้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Lonely",
+    "thai": "เหงา",
+    "phonetic": ""
+  },
+  {
+    "english": "Worried",
+    "thai": "กังวล",
+    "phonetic": ""
+  },
+  {
+    "english": "Surprised",
+    "thai": "น่าประหลาดใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Amazed",
+    "thai": "ประหลาดใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Embarrassed",
+    "thai": "เขินอาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Loving",
+    "thai": "รัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Thankful",
+    "thai": "ขอบคุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Rude",
+    "thai": "หยาบคาย",
+    "phonetic": ""
+  },
+  {
     "english": "Shy",
     "thai": "อาย",
     "phonetic": ""
   },
   {
-    "english": "Cheerful",
-    "thai": "ร่าเริง",
+    "english": "Hardworking",
+    "thai": "ขยันขันแข็ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Satisfied",
+    "thai": "พอใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Lazy",
+    "thai": "ขี้เกียจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Cowardly",
+    "thai": "ขี้ขลาด",
+    "phonetic": ""
+  },
+  {
+    "english": "Overwhelmed",
+    "thai": "ท่วมท้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Resentful",
+    "thai": "ขุ่นเคือง",
+    "phonetic": ""
+  },
+  {
+    "english": "Dishonest",
+    "thai": "ไม่ซื่อสัตย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Insecure",
+    "thai": "ไม่ปลอดภัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Loyal",
+    "thai": "ซื่อสัตย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Outgoing",
+    "thai": "ขาออก",
+    "phonetic": ""
+  },
+  {
+    "english": "Sad",
+    "thai": "เศร้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Guilty",
+    "thai": "รู้สึกผิด",
+    "phonetic": ""
+  },
+  {
+    "english": "Festival",
+    "thai": "งานเทศกาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Ashamed",
+    "thai": "ละอาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Drama",
+    "thai": "ละคร",
+    "phonetic": ""
+  },
+  {
+    "english": "Brave",
+    "thai": "กล้าหาญ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sentimental",
+    "thai": "อ่อนไหว",
     "phonetic": ""
   },
   {
@@ -495,8 +405,98 @@
     "phonetic": ""
   },
   {
-    "english": "Sentimental",
-    "thai": "อ่อนไหว",
+    "english": "Joyful",
+    "thai": "สนุกสนาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Musical",
+    "thai": "ดนตรี",
+    "phonetic": ""
+  },
+  {
+    "english": "Grumpy",
+    "thai": "หงุดหงิด",
+    "phonetic": ""
+  },
+  {
+    "english": "Polite",
+    "thai": "สุภาพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Cinema",
+    "thai": "โรงหนัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Furious",
+    "thai": "กราดเกรี้ยว",
+    "phonetic": ""
+  },
+  {
+    "english": "Cheerful",
+    "thai": "ร่าเริง",
+    "phonetic": ""
+  },
+  {
+    "english": "Serene",
+    "thai": "สงบเงียบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Impatient",
+    "thai": "ใจร้อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Playful",
+    "thai": "ขี้เล่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Terrified",
+    "thai": "หวาดกลัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Arrogant",
+    "thai": "หยิ่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Bored",
+    "thai": "เบื่อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Curious",
+    "thai": "อยากรู้",
+    "phonetic": ""
+  },
+  {
+    "english": "Kind",
+    "thai": "ใจดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Honest",
+    "thai": "ซื่อสัตย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Optimistic",
+    "thai": "มองโลกในแง่ดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Interesting",
+    "thai": "น่าสนใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Short",
+    "thai": "สั้น",
     "phonetic": ""
   }
 ]

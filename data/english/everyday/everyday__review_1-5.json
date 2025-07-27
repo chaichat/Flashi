@@ -1,77 +1,22 @@
 [
   {
-    "english": "Team",
-    "thai": "ทีม",
+    "english": "Policy",
+    "thai": "นโยบาย",
     "phonetic": ""
   },
   {
-    "english": "Employee",
-    "thai": "พนักงาน",
+    "english": "Manager",
+    "thai": "ผู้จัดการ",
     "phonetic": ""
   },
   {
-    "english": "Deal",
-    "thai": "ข้อเสนอ",
+    "english": "Customer",
+    "thai": "ลูกค้า",
     "phonetic": ""
   },
   {
-    "english": "Analyst",
-    "thai": "นักวิเคราะห์",
-    "phonetic": ""
-  },
-  {
-    "english": "Salary",
-    "thai": "เงินเดือน",
-    "phonetic": ""
-  },
-  {
-    "english": "Engineer",
-    "thai": "วิศวกร",
-    "phonetic": ""
-  },
-  {
-    "english": "Invoice",
-    "thai": "ใบแจ้งหนี้",
-    "phonetic": ""
-  },
-  {
-    "english": "Presentation",
-    "thai": "การนำเสนอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Order",
-    "thai": "คำสั่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Department",
-    "thai": "แผนก",
-    "phonetic": ""
-  },
-  {
-    "english": "Delivery",
-    "thai": "จัดส่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Industry",
-    "thai": "อุตสาหกรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Deadline",
-    "thai": "กำหนดส่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Consultant",
-    "thai": "ที่ปรึกษา",
-    "phonetic": ""
-  },
-  {
-    "english": "Employer",
-    "thai": "นายจ้าง",
+    "english": "Strategy",
+    "thai": "กลยุทธ์",
     "phonetic": ""
   },
   {
@@ -80,18 +25,103 @@
     "phonetic": ""
   },
   {
+    "english": "Business",
+    "thai": "ธุรกิจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Quality",
+    "thai": "คุณภาพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Team",
+    "thai": "ทีม",
+    "phonetic": ""
+  },
+  {
+    "english": "Deal",
+    "thai": "ข้อเสนอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Office",
+    "thai": "สำนักงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Corporation",
+    "thai": "บริษัท",
+    "phonetic": ""
+  },
+  {
+    "english": "Liability",
+    "thai": "ความรับผิดชอบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Payment",
+    "thai": "การชำระเงิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Tax",
+    "thai": "ภาษี",
+    "phonetic": ""
+  },
+  {
+    "english": "Startup",
+    "thai": "การเริ่มต้นธุรกิจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Industry",
+    "thai": "อุตสาหกรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Human Resources",
+    "thai": "ทรัพยากรบุคคล",
+    "phonetic": ""
+  },
+  {
+    "english": "Report",
+    "thai": "รายงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Data",
+    "thai": "ข้อมูล",
+    "phonetic": ""
+  },
+  {
+    "english": "Chief Executive Officer",
+    "thai": "ประธานเจ้าหน้าที่บริหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Salary",
+    "thai": "เงินเดือน",
+    "phonetic": ""
+  },
+  {
+    "english": "Accountant",
+    "thai": "นักบัญชี",
+    "phonetic": ""
+  },
+  {
     "english": "Intern",
     "thai": "นักศึกษาฝึกงาน",
     "phonetic": ""
   },
   {
-    "english": "Director",
-    "thai": "ผู้อำนวยการ",
+    "english": "Risk",
+    "thai": "เสี่ยง",
     "phonetic": ""
   },
   {
-    "english": "Investment",
-    "thai": "การลงทุน",
+    "english": "Profit",
+    "thai": "กำไร",
     "phonetic": ""
   },
   {
@@ -100,8 +130,348 @@
     "phonetic": ""
   },
   {
-    "english": "Report",
-    "thai": "รายงาน",
+    "english": "Bank",
+    "thai": "ธนาคาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Headquarters",
+    "thai": "สำนักงานใหญ่",
+    "phonetic": ""
+  },
+  {
+    "english": "Presentation",
+    "thai": "การนำเสนอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Expense",
+    "thai": "ค่าใช้จ่าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Supervisor",
+    "thai": "หัวหน้างาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Engineer",
+    "thai": "วิศวกร",
+    "phonetic": ""
+  },
+  {
+    "english": "Representative",
+    "thai": "ตัวแทน",
+    "phonetic": ""
+  },
+  {
+    "english": "Contract",
+    "thai": "สัญญา",
+    "phonetic": ""
+  },
+  {
+    "english": "Goal",
+    "thai": "เป้าหมาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Merger",
+    "thai": "การควบรวมกิจการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Recruiter",
+    "thai": "ผู้สรรหาบุคลากร",
+    "phonetic": ""
+  },
+  {
+    "english": "Assistant",
+    "thai": "ผู้ช่วย",
+    "phonetic": ""
+  },
+  {
+    "english": "Client",
+    "thai": "ลูกค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Developer",
+    "thai": "นักพัฒนา",
+    "phonetic": ""
+  },
+  {
+    "english": "Revenue",
+    "thai": "รายได้",
+    "phonetic": ""
+  },
+  {
+    "english": "Specialist",
+    "thai": "ผู้เชี่ยวชาญ",
+    "phonetic": ""
+  },
+  {
+    "english": "Quantity",
+    "thai": "ปริมาณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Service",
+    "thai": "บริการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Order",
+    "thai": "คำสั่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Phone",
+    "thai": "โทรศัพท์",
+    "phonetic": ""
+  },
+  {
+    "english": "Product",
+    "thai": "ผลิตภัณฑ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Negotiation",
+    "thai": "การเจรจาต่อรอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Investment",
+    "thai": "การลงทุน",
+    "phonetic": ""
+  },
+  {
+    "english": "Retail",
+    "thai": "ขายปลีก",
+    "phonetic": ""
+  },
+  {
+    "english": "Sales",
+    "thai": "ฝ่ายขาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Market",
+    "thai": "ตลาด",
+    "phonetic": ""
+  },
+  {
+    "english": "Acquisition",
+    "thai": "การได้มาซึ่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Delivery",
+    "thai": "จัดส่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Founder",
+    "thai": "ผู้ก่อตั้ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Invoice",
+    "thai": "ใบแจ้งหนี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Discount",
+    "thai": "การลดราคา",
+    "phonetic": ""
+  },
+  {
+    "english": "Analyst",
+    "thai": "นักวิเคราะห์",
+    "phonetic": ""
+  },
+  {
+    "english": "Consultant",
+    "thai": "ที่ปรึกษา",
+    "phonetic": ""
+  },
+  {
+    "english": "Deadline",
+    "thai": "กำหนดส่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Employee",
+    "thai": "พนักงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Director",
+    "thai": "ผู้อำนวยการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Success",
+    "thai": "ความสำเร็จ",
+    "phonetic": ""
+  },
+  {
+    "english": "Feedback",
+    "thai": "ข้อเสนอแนะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Company",
+    "thai": "บริษัท",
+    "phonetic": ""
+  },
+  {
+    "english": "Project",
+    "thai": "โครงการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Employer",
+    "thai": "นายจ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Capital",
+    "thai": "เมืองหลวง",
+    "phonetic": ""
+  },
+  {
+    "english": "Lead",
+    "thai": "ตะกั่ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Computer",
+    "thai": "คอมพิวเตอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Loan",
+    "thai": "เงินกู้",
+    "phonetic": ""
+  },
+  {
+    "english": "Asset",
+    "thai": "สินทรัพย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Stock",
+    "thai": "คลังสินค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Price",
+    "thai": "ราคา",
+    "phonetic": ""
+  },
+  {
+    "english": "Budget",
+    "thai": "งบประมาณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Procedure",
+    "thai": "ขั้นตอน",
+    "phonetic": ""
+  },
+  {
+    "english": "Promotion",
+    "thai": "การส่งเสริม",
+    "phonetic": ""
+  },
+  {
+    "english": "Competitor",
+    "thai": "คู่แข่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Designer",
+    "thai": "นักออกแบบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Opportunity",
+    "thai": "โอกาส",
+    "phonetic": ""
+  },
+  {
+    "english": "Task",
+    "thai": "งาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Failure",
+    "thai": "ความล้มเหลว",
+    "phonetic": ""
+  },
+  {
+    "english": "Colleague",
+    "thai": "เพื่อนร่วมงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Growth",
+    "thai": "การเจริญเติบโต",
+    "phonetic": ""
+  },
+  {
+    "english": "Campaign",
+    "thai": "แคมเปญ",
+    "phonetic": ""
+  },
+  {
+    "english": "Commission",
+    "thai": "คณะกรรมการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Advertising",
+    "thai": "การโฆษณา",
+    "phonetic": ""
+  },
+  {
+    "english": "Meeting",
+    "thai": "การประชุม",
+    "phonetic": ""
+  },
+  {
+    "english": "Branch",
+    "thai": "สาขา",
+    "phonetic": ""
+  },
+  {
+    "english": "Wholesale",
+    "thai": "ขายส่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Department",
+    "thai": "แผนก",
+    "phonetic": ""
+  },
+  {
+    "english": "Partner",
+    "thai": "พันธมิตร",
+    "phonetic": ""
+  },
+  {
+    "english": "Schedule",
+    "thai": "กำหนดการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Loss",
+    "thai": "การสูญเสีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Receipt",
+    "thai": "ใบเสร็จ",
     "phonetic": ""
   },
   {
@@ -115,88 +485,8 @@
     "phonetic": ""
   },
   {
-    "english": "Developer",
-    "thai": "นักพัฒนา",
-    "phonetic": ""
-  },
-  {
-    "english": "Merger",
-    "thai": "การควบรวมกิจการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Profit",
-    "thai": "กำไร",
-    "phonetic": ""
-  },
-  {
-    "english": "Payment",
-    "thai": "การชำระเงิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Headquarters",
-    "thai": "สำนักงานใหญ่",
-    "phonetic": ""
-  },
-  {
-    "english": "Loan",
-    "thai": "เงินกู้",
-    "phonetic": ""
-  },
-  {
-    "english": "Goal",
-    "thai": "เป้าหมาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Advertising",
-    "thai": "การโฆษณา",
-    "phonetic": ""
-  },
-  {
-    "english": "Human Resources",
-    "thai": "ทรัพยากรบุคคล",
-    "phonetic": ""
-  },
-  {
-    "english": "Client",
-    "thai": "ลูกค้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Designer",
-    "thai": "นักออกแบบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Market",
-    "thai": "ตลาด",
-    "phonetic": ""
-  },
-  {
-    "english": "Negotiation",
-    "thai": "การเจรจาต่อรอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Assistant",
-    "thai": "ผู้ช่วย",
-    "phonetic": ""
-  },
-  {
-    "english": "Customer",
-    "thai": "ลูกค้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Task",
-    "thai": "งาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Project",
-    "thai": "โครงการ",
+    "english": "Brand",
+    "thai": "ยี่ห้อ",
     "phonetic": ""
   },
   {
@@ -205,298 +495,8 @@
     "phonetic": ""
   },
   {
-    "english": "Partner",
-    "thai": "พันธมิตร",
-    "phonetic": ""
-  },
-  {
-    "english": "Startup",
-    "thai": "การเริ่มต้นธุรกิจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Representative",
-    "thai": "ตัวแทน",
-    "phonetic": ""
-  },
-  {
-    "english": "Company",
-    "thai": "บริษัท",
-    "phonetic": ""
-  },
-  {
-    "english": "Risk",
-    "thai": "เสี่ยง",
-    "phonetic": ""
-  },
-  {
-    "english": "Lead",
-    "thai": "ตะกั่ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Capital",
-    "thai": "เมืองหลวง",
-    "phonetic": ""
-  },
-  {
     "english": "Cost",
     "thai": "ค่าใช้จ่าย",
-    "phonetic": ""
-  },
-  {
-    "english": "Revenue",
-    "thai": "รายได้",
-    "phonetic": ""
-  },
-  {
-    "english": "Recruiter",
-    "thai": "ผู้สรรหาบุคลากร",
-    "phonetic": ""
-  },
-  {
-    "english": "Accountant",
-    "thai": "นักบัญชี",
-    "phonetic": ""
-  },
-  {
-    "english": "Manager",
-    "thai": "ผู้จัดการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Colleague",
-    "thai": "เพื่อนร่วมงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Schedule",
-    "thai": "กำหนดการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Corporation",
-    "thai": "บริษัท",
-    "phonetic": ""
-  },
-  {
-    "english": "Chief Executive Officer",
-    "thai": "ประธานเจ้าหน้าที่บริหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Specialist",
-    "thai": "ผู้เชี่ยวชาญ",
-    "phonetic": ""
-  },
-  {
-    "english": "Opportunity",
-    "thai": "โอกาส",
-    "phonetic": ""
-  },
-  {
-    "english": "Loss",
-    "thai": "การสูญเสีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Discount",
-    "thai": "การลดราคา",
-    "phonetic": ""
-  },
-  {
-    "english": "Acquisition",
-    "thai": "การได้มาซึ่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Contract",
-    "thai": "สัญญา",
-    "phonetic": ""
-  },
-  {
-    "english": "Feedback",
-    "thai": "ข้อเสนอแนะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Sales",
-    "thai": "ฝ่ายขาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Tax",
-    "thai": "ภาษี",
-    "phonetic": ""
-  },
-  {
-    "english": "Quantity",
-    "thai": "ปริมาณ",
-    "phonetic": ""
-  },
-  {
-    "english": "Policy",
-    "thai": "นโยบาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Stock",
-    "thai": "คลังสินค้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Data",
-    "thai": "ข้อมูล",
-    "phonetic": ""
-  },
-  {
-    "english": "Branch",
-    "thai": "สาขา",
-    "phonetic": ""
-  },
-  {
-    "english": "Bank",
-    "thai": "ธนาคาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Phone",
-    "thai": "โทรศัพท์",
-    "phonetic": ""
-  },
-  {
-    "english": "Budget",
-    "thai": "งบประมาณ",
-    "phonetic": ""
-  },
-  {
-    "english": "Strategy",
-    "thai": "กลยุทธ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Commission",
-    "thai": "คณะกรรมการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Asset",
-    "thai": "สินทรัพย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Founder",
-    "thai": "ผู้ก่อตั้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Growth",
-    "thai": "การเจริญเติบโต",
-    "phonetic": ""
-  },
-  {
-    "english": "Wholesale",
-    "thai": "ขายส่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Procedure",
-    "thai": "ขั้นตอน",
-    "phonetic": ""
-  },
-  {
-    "english": "Expense",
-    "thai": "ค่าใช้จ่าย",
-    "phonetic": ""
-  },
-  {
-    "english": "Meeting",
-    "thai": "การประชุม",
-    "phonetic": ""
-  },
-  {
-    "english": "Competitor",
-    "thai": "คู่แข่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Success",
-    "thai": "ความสำเร็จ",
-    "phonetic": ""
-  },
-  {
-    "english": "Promotion",
-    "thai": "การส่งเสริม",
-    "phonetic": ""
-  },
-  {
-    "english": "Business",
-    "thai": "ธุรกิจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Office",
-    "thai": "สำนักงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Retail",
-    "thai": "ขายปลีก",
-    "phonetic": ""
-  },
-  {
-    "english": "Service",
-    "thai": "บริการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Quality",
-    "thai": "คุณภาพ",
-    "phonetic": ""
-  },
-  {
-    "english": "Product",
-    "thai": "ผลิตภัณฑ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Failure",
-    "thai": "ความล้มเหลว",
-    "phonetic": ""
-  },
-  {
-    "english": "Liability",
-    "thai": "ความรับผิดชอบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Brand",
-    "thai": "ยี่ห้อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Campaign",
-    "thai": "แคมเปญ",
-    "phonetic": ""
-  },
-  {
-    "english": "Computer",
-    "thai": "คอมพิวเตอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Receipt",
-    "thai": "ใบเสร็จ",
-    "phonetic": ""
-  },
-  {
-    "english": "Price",
-    "thai": "ราคา",
-    "phonetic": ""
-  },
-  {
-    "english": "Supervisor",
-    "thai": "หัวหน้างาน",
     "phonetic": ""
   }
 ]

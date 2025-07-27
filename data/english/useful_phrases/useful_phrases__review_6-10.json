@@ -1,152 +1,17 @@
 [
   {
-    "english": "Is this road safe",
-    "thai": "ถนนสายนี้ปลอดภัยไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Is my flight delayed",
-    "thai": "เที่ยวบินของฉันล่าช้าหรือไม่",
-    "phonetic": ""
-  },
-  {
-    "english": "What time does the train arrive",
-    "thai": "รถไฟมาถึงกี่โมง",
-    "phonetic": ""
-  },
-  {
-    "english": "I hate it",
-    "thai": "ฉันเกลียดมัน",
-    "phonetic": ""
-  },
-  {
-    "english": "What is the weather like",
-    "thai": "อากาศเป็นยังไงบ้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "I need a ticket to",
-    "thai": "ฉันต้องการตั๋วไป",
-    "phonetic": ""
-  },
-  {
-    "english": "It is cool",
-    "thai": "มันเจ๋งมาก",
-    "phonetic": ""
-  },
-  {
-    "english": "I am staying for two weeks",
-    "thai": "ฉันจะพักอยู่สองสัปดาห์",
-    "phonetic": ""
-  },
-  {
-    "english": "Is there a direct bus",
-    "thai": "มีรถบัสตรงไหมคะ",
-    "phonetic": ""
-  },
-  {
-    "english": "I am staying for a week",
-    "thai": "ฉันจะพักอยู่หนึ่งสัปดาห์",
-    "phonetic": ""
-  },
-  {
-    "english": "I need a local guide",
-    "thai": "ฉันต้องการไกด์ท้องถิ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Where can I find a good restaurant",
-    "thai": "ฉันจะหาร้านอาหารดีๆได้ที่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "I would like to check in",
-    "thai": "ฉันต้องการเช็คอิน",
-    "phonetic": ""
-  },
-  {
-    "english": "How much is a taxi to the hotel",
-    "thai": "ค่าแท็กซี่ไปโรงแรมเท่าไหร่",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I take a photo",
-    "thai": "ฉันสามารถถ่ายรูปได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Where is the nearest currency exchange",
-    "thai": "จุดแลกเปลี่ยนเงินที่ใกล้ที่สุดอยู่ที่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "I am here for business",
-    "thai": "ฉันมาที่นี่เพื่อทำธุรกิจ",
-    "phonetic": ""
-  },
-  {
-    "english": "How long are you staying",
-    "thai": "คุณจะอยู่ต่ออีกนานแค่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "How much is the entrance fee",
-    "thai": "ค่าธรรมเนียมแรกเข้าเท่าไหร่",
-    "phonetic": ""
-  },
-  {
-    "english": "Is this the bus to downtown",
-    "thai": "นี่คือรถบัสไปตัวเมืองใช่ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "What local dishes do you recommend",
-    "thai": "อาหารท้องถิ่นที่คุณแนะนำมีอะไรบ้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "It is cloudy",
-    "thai": "มีเมฆมาก",
-    "phonetic": ""
-  },
-  {
-    "english": "What time does the flight depart",
-    "thai": "เที่ยวบินออกกี่โมง",
-    "phonetic": ""
-  },
-  {
-    "english": "What is the Wi-Fi password",
-    "thai": "รหัสผ่าน Wi-Fi คืออะไร",
-    "phonetic": ""
-  },
-  {
-    "english": "It is sunny",
-    "thai": "วันนี้มีแดด",
-    "phonetic": ""
-  },
-  {
     "english": "Is this on sale",
     "thai": "นี่ลดราคาอยู่ไหม",
     "phonetic": ""
   },
   {
-    "english": "It is across from",
-    "thai": "มันอยู่ตรงข้ามจาก",
+    "english": "Where is the airport",
+    "thai": "สนามบินอยู่ที่ไหน",
     "phonetic": ""
   },
   {
-    "english": "It is just right",
-    "thai": "มันก็พอดีเลย",
-    "phonetic": ""
-  },
-  {
-    "english": "It is too expensive",
-    "thai": "มันแพงเกินไป",
-    "phonetic": ""
-  },
-  {
-    "english": "What are the closing hours",
-    "thai": "เวลาปิดทำการคือกี่โมง?",
+    "english": "Is this a limited edition",
+    "thai": "นี่เป็นรุ่นลิมิเต็ดอิดิชั่นใช่ไหม",
     "phonetic": ""
   },
   {
@@ -155,8 +20,13 @@
     "phonetic": ""
   },
   {
-    "english": "It is warm",
-    "thai": "มันอบอุ่น",
+    "english": "What is the weather like",
+    "thai": "อากาศเป็นยังไงบ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "I would like to check in",
+    "thai": "ฉันต้องการเช็คอิน",
     "phonetic": ""
   },
   {
@@ -165,8 +35,403 @@
     "phonetic": ""
   },
   {
+    "english": "What is the Wi-Fi password",
+    "thai": "รหัสผ่าน Wi-Fi คืออะไร",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I exchange this",
+    "thai": "ฉันสามารถแลกเปลี่ยนสิ่งนี้ได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Is this road safe",
+    "thai": "ถนนสายนี้ปลอดภัยไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "It is on your left",
+    "thai": "มันอยู่ทางซ้ายของคุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Enjoy your trip",
+    "thai": "เพลิดเพลินไปกับการเดินทางของคุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "I need a rental car",
+    "thai": "ฉันต้องการเช่ารถ",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I buy souvenirs here",
+    "thai": "ฉันสามารถซื้อของที่ระลึกที่นี่ได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I need a local guide",
+    "thai": "ฉันต้องการไกด์ท้องถิ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Can you give me a better price",
+    "thai": "คุณให้ราคาที่ดีกว่านี้ให้ฉันได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "It is too expensive",
+    "thai": "มันแพงเกินไป",
+    "phonetic": ""
+  },
+  {
+    "english": "It is across from",
+    "thai": "มันอยู่ตรงข้ามจาก",
+    "phonetic": ""
+  },
+  {
+    "english": "It is too cheap",
+    "thai": "มันถูกเกินไป",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I have a wake up call",
+    "thai": "ฉันขอโทรปลุกได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "It is cool",
+    "thai": "มันเจ๋งมาก",
+    "phonetic": ""
+  },
+  {
+    "english": "First class or economy",
+    "thai": "ชั้นหนึ่งหรือชั้นประหยัด",
+    "phonetic": ""
+  },
+  {
+    "english": "How do I get to the train station",
+    "thai": "ฉันจะไปสถานีรถไฟได้อย่างไร",
+    "phonetic": ""
+  },
+  {
+    "english": "It is next to",
+    "thai": "มันอยู่ถัดจาก",
+    "phonetic": ""
+  },
+  {
+    "english": "It is raining",
+    "thai": "ฝนกำลังตก",
+    "phonetic": ""
+  },
+  {
+    "english": "How much is the entrance fee",
+    "thai": "ค่าธรรมเนียมแรกเข้าเท่าไหร่",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I charge my phone here",
+    "thai": "ฉันสามารถชาร์จโทรศัพท์ที่นี่ได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "It is warm",
+    "thai": "มันอบอุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Is it free entry",
+    "thai": "เข้าฟรีไหมคะ",
+    "phonetic": ""
+  },
+  {
+    "english": "I will pay by card",
+    "thai": "ฉันจะจ่ายด้วยบัตร",
+    "phonetic": ""
+  },
+  {
+    "english": "It is snowing",
+    "thai": "หิมะตกแล้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Is there Wi-Fi here",
+    "thai": "ที่นี่มี Wi-Fi ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Is this a best seller",
+    "thai": "นี่เป็นสินค้าขายดีไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "One way or round trip",
+    "thai": "เที่ยวเดียวหรือไปกลับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Is there a direct bus",
+    "thai": "มีรถบัสตรงไหมคะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have a map in English",
+    "thai": "คุณมีแผนที่เป็นภาษาอังกฤษไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "What time does the flight depart",
+    "thai": "เที่ยวบินออกกี่โมง",
+    "phonetic": ""
+  },
+  {
+    "english": "Safe travels",
+    "thai": "เดินทางปลอดภัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Which highway should I take",
+    "thai": "ฉันควรใช้ทางหลวงสายไหน",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I pay with my phone",
+    "thai": "ฉันสามารถชำระเงินด้วยโทรศัพท์ของฉันได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I hope you enjoy your stay",
+    "thai": "ฉันหวังว่าคุณจะสนุกกับการเข้าพักของคุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Is this the bus to downtown",
+    "thai": "นี่คือรถบัสไปตัวเมืองใช่ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "It is in front of",
+    "thai": "มันอยู่ตรงหน้า",
+    "phonetic": ""
+  },
+  {
+    "english": "It is just right",
+    "thai": "มันก็พอดีเลย",
+    "phonetic": ""
+  },
+  {
+    "english": "What is the purpose of your visit",
+    "thai": "จุดประสงค์ในการมาเยี่ยมชมของคุณคืออะไร",
+    "phonetic": ""
+  },
+  {
+    "english": "What are the closing hours",
+    "thai": "เวลาปิดทำการคือกี่โมง?",
+    "phonetic": ""
+  },
+  {
+    "english": "Go straight ahead",
+    "thai": "ไปตรงไป",
+    "phonetic": ""
+  },
+  {
+    "english": "I lost my receipt",
+    "thai": "ฉันทำใบเสร็จหาย",
+    "phonetic": ""
+  },
+  {
+    "english": "What time does the train arrive",
+    "thai": "รถไฟมาถึงกี่โมง",
+    "phonetic": ""
+  },
+  {
     "english": "What is the discount",
     "thai": "ส่วนลดคืออะไร",
+    "phonetic": ""
+  },
+  {
+    "english": "It is hot",
+    "thai": "มันร้อน",
+    "phonetic": ""
+  },
+  {
+    "english": "How long is the tour",
+    "thai": "ทัวร์นี้ใช้เวลานานแค่ไหน",
+    "phonetic": ""
+  },
+  {
+    "english": "It is sunny",
+    "thai": "วันนี้มีแดด",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I get there by public transport",
+    "thai": "ฉันสามารถไปที่นั่นโดยระบบขนส่งสาธารณะได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Where can I buy a local SIM card",
+    "thai": "ฉันสามารถซื้อซิมการ์ดท้องถิ่นได้ที่ไหน",
+    "phonetic": ""
+  },
+  {
+    "english": "I need to exchange currency",
+    "thai": "ฉันต้องการแลกเปลี่ยนเงิน",
+    "phonetic": ""
+  },
+  {
+    "english": "I am staying for two weeks",
+    "thai": "ฉันจะพักอยู่สองสัปดาห์",
+    "phonetic": ""
+  },
+  {
+    "english": "Is this a new arrival",
+    "thai": "นี่เป็นผู้มาใหม่ใช่ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "What is the exchange rate",
+    "thai": "อัตราแลกเปลี่ยนเท่าไหร่",
+    "phonetic": ""
+  },
+  {
+    "english": "I have a connecting flight",
+    "thai": "ฉันมีเที่ยวบินต่อเครื่อง",
+    "phonetic": ""
+  },
+  {
+    "english": "It is cold",
+    "thai": "มันหนาว",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have a receipt",
+    "thai": "คุณมีใบเสร็จไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I would like to check out",
+    "thai": "ฉันอยากจะเช็คเอาท์",
+    "phonetic": ""
+  },
+  {
+    "english": "What are the local attractions",
+    "thai": "สถานที่ท่องเที่ยวในท้องถิ่นมีอะไรบ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I take a photo",
+    "thai": "ฉันสามารถถ่ายรูปได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Is there a shuttle service",
+    "thai": "มีบริการรถรับส่งไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Turn right at the traffic light",
+    "thai": "เลี้ยวขวาที่สัญญาณไฟจราจร",
+    "phonetic": ""
+  },
+  {
+    "english": "Where is the gas station",
+    "thai": "ปั๊มน้ำมันอยู่ที่ไหน",
+    "phonetic": ""
+  },
+  {
+    "english": "Thank you for your hospitality",
+    "thai": "ขอบคุณสำหรับการต้อนรับของคุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Is there a guided tour",
+    "thai": "มีทัวร์นำเที่ยวไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have a map of the city",
+    "thai": "คุณมีแผนที่เมืองไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Where can I find a good restaurant",
+    "thai": "ฉันจะหาร้านอาหารดีๆได้ที่ไหน",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I bargain",
+    "thai": "ฉันสามารถต่อรองได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "It is cloudy",
+    "thai": "มีเมฆมาก",
+    "phonetic": ""
+  },
+  {
+    "english": "How is the traffic",
+    "thai": "การจราจรเป็นอย่างไรบ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "What are the opening hours",
+    "thai": "เวลาเปิดทำการกี่โมง?",
+    "phonetic": ""
+  },
+  {
+    "english": "Is there a special offer",
+    "thai": "มีข้อเสนอพิเศษไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Is it walkable",
+    "thai": "เดินได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Where is the nearest currency exchange",
+    "thai": "จุดแลกเปลี่ยนเงินที่ใกล้ที่สุดอยู่ที่ไหน",
+    "phonetic": ""
+  },
+  {
+    "english": "I hate it",
+    "thai": "ฉันเกลียดมัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Where is the baggage claim",
+    "thai": "จุดรับกระเป๋าอยู่ที่ไหน",
+    "phonetic": ""
+  },
+  {
+    "english": "I will pay in cash",
+    "thai": "ฉันจะจ่ายเป็นเงินสด",
+    "phonetic": ""
+  },
+  {
+    "english": "It is on your right",
+    "thai": "มันอยู่ทางขวาของคุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Turn left at the next intersection",
+    "thai": "เลี้ยวซ้ายที่สี่แยกถัดไป",
+    "phonetic": ""
+  },
+  {
+    "english": "What local dishes do you recommend",
+    "thai": "อาหารท้องถิ่นที่คุณแนะนำมีอะไรบ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "When does the sale end",
+    "thai": "การขายสิ้นสุดเมื่อไร",
+    "phonetic": ""
+  },
+  {
+    "english": "I love it",
+    "thai": "ฉันรักมัน",
     "phonetic": ""
   },
   {
@@ -180,78 +445,8 @@
     "phonetic": ""
   },
   {
-    "english": "I need to exchange currency",
-    "thai": "ฉันต้องการแลกเปลี่ยนเงิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Where can I buy a local SIM card",
-    "thai": "ฉันสามารถซื้อซิมการ์ดท้องถิ่นได้ที่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "It is cold",
-    "thai": "มันหนาว",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I pay with my phone",
-    "thai": "ฉันสามารถชำระเงินด้วยโทรศัพท์ของฉันได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "It is raining",
-    "thai": "ฝนกำลังตก",
-    "phonetic": ""
-  },
-  {
-    "english": "What are the opening hours",
-    "thai": "เวลาเปิดทำการกี่โมง?",
-    "phonetic": ""
-  },
-  {
-    "english": "Can you give me a better price",
-    "thai": "คุณให้ราคาที่ดีกว่านี้ให้ฉันได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "It is snowing",
-    "thai": "หิมะตกแล้ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Which highway should I take",
-    "thai": "ฉันควรใช้ทางหลวงสายไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "It is on your right",
-    "thai": "มันอยู่ทางขวาของคุณ",
-    "phonetic": ""
-  },
-  {
-    "english": "Is it rush hour",
-    "thai": "เป็นชั่วโมงเร่งด่วนใช่ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "It is on your left",
-    "thai": "มันอยู่ทางซ้ายของคุณ",
-    "phonetic": ""
-  },
-  {
-    "english": "Is there a shuttle service",
-    "thai": "มีบริการรถรับส่งไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "It is hot",
-    "thai": "มันร้อน",
-    "phonetic": ""
-  },
-  {
-    "english": "Turn left at the next intersection",
-    "thai": "เลี้ยวซ้ายที่สี่แยกถัดไป",
+    "english": "I am here for business",
+    "thai": "ฉันมาที่นี่เพื่อทำธุรกิจ",
     "phonetic": ""
   },
   {
@@ -260,233 +455,8 @@
     "phonetic": ""
   },
   {
-    "english": "Thank you for your hospitality",
-    "thai": "ขอบคุณสำหรับการต้อนรับของคุณ",
-    "phonetic": ""
-  },
-  {
-    "english": "I would like to check out",
-    "thai": "ฉันอยากจะเช็คเอาท์",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have a wake up call",
-    "thai": "ฉันขอโทรปลุกได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Is there Wi-Fi here",
-    "thai": "ที่นี่มี Wi-Fi ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "How long is the tour",
-    "thai": "ทัวร์นี้ใช้เวลานานแค่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "I hope you enjoy your stay",
-    "thai": "ฉันหวังว่าคุณจะสนุกกับการเข้าพักของคุณ",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I buy souvenirs here",
-    "thai": "ฉันสามารถซื้อของที่ระลึกที่นี่ได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "How do I get to the train station",
-    "thai": "ฉันจะไปสถานีรถไฟได้อย่างไร",
-    "phonetic": ""
-  },
-  {
-    "english": "It is in front of",
-    "thai": "มันอยู่ตรงหน้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Do you have a map of the city",
-    "thai": "คุณมีแผนที่เมืองไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "How is the traffic",
-    "thai": "การจราจรเป็นอย่างไรบ้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "When does the sale end",
-    "thai": "การขายสิ้นสุดเมื่อใด",
-    "phonetic": ""
-  },
-  {
-    "english": "I have a connecting flight",
-    "thai": "ฉันมีเที่ยวบินต่อเครื่อง",
-    "phonetic": ""
-  },
-  {
-    "english": "I need a rental car",
-    "thai": "ฉันต้องการเช่ารถ",
-    "phonetic": ""
-  },
-  {
-    "english": "I will pay in cash",
-    "thai": "ฉันจะจ่ายเป็นเงินสด",
-    "phonetic": ""
-  },
-  {
-    "english": "Is there a parking lot nearby",
-    "thai": "มีที่จอดรถใกล้ๆไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "What is the exchange rate",
-    "thai": "อัตราแลกเปลี่ยนเท่าไหร่",
-    "phonetic": ""
-  },
-  {
-    "english": "Is it walkable",
-    "thai": "เดินได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Do you have a receipt",
-    "thai": "คุณมีใบเสร็จไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "What are the local attractions",
-    "thai": "สถานที่ท่องเที่ยวในท้องถิ่นมีอะไรบ้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Do you have a map in English",
-    "thai": "คุณมีแผนที่เป็นภาษาอังกฤษไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Is this a limited edition",
-    "thai": "นี่เป็นรุ่นลิมิเต็ดอิดิชั่นใช่ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Where is the airport",
-    "thai": "สนามบินอยู่ที่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "I lost my receipt",
-    "thai": "ฉันทำใบเสร็จหาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Is there a guided tour",
-    "thai": "มีทัวร์นำเที่ยวไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Is there a special offer",
-    "thai": "มีข้อเสนอพิเศษไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Where is the baggage claim",
-    "thai": "จุดรับกระเป๋าอยู่ที่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "I will pay by card",
-    "thai": "ฉันจะจ่ายด้วยบัตร",
-    "phonetic": ""
-  },
-  {
-    "english": "Where is the gas station",
-    "thai": "ปั๊มน้ำมันอยู่ที่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "I love it",
-    "thai": "ฉันรักมัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I bargain",
-    "thai": "ฉันสามารถต่อรองได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "How far is it",
-    "thai": "ไกลแค่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "It is next to",
-    "thai": "มันอยู่ถัดจาก",
-    "phonetic": ""
-  },
-  {
-    "english": "Go straight ahead",
-    "thai": "ไปตรงไป",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I charge my phone here",
-    "thai": "ฉันสามารถชาร์จโทรศัพท์ที่นี่ได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Is this a best seller",
-    "thai": "นี่เป็นสินค้าขายดีไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I exchange this",
-    "thai": "ฉันสามารถแลกเปลี่ยนสิ่งนี้ได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I get there by public transport",
-    "thai": "ฉันสามารถไปที่นั่นโดยระบบขนส่งสาธารณะได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Turn right at the traffic light",
-    "thai": "เลี้ยวขวาที่สัญญาณไฟจราจร",
-    "phonetic": ""
-  },
-  {
-    "english": "Is it free entry",
-    "thai": "เข้าฟรีไหมคะ",
-    "phonetic": ""
-  },
-  {
-    "english": "It is too cheap",
-    "thai": "มันถูกเกินไป",
-    "phonetic": ""
-  },
-  {
-    "english": "Is this a new arrival",
-    "thai": "นี่เป็นผู้มาใหม่ใช่ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Safe travels",
-    "thai": "เดินทางปลอดภัย",
-    "phonetic": ""
-  },
-  {
-    "english": "One way or round trip",
-    "thai": "เที่ยวเดียวหรือไปกลับ",
-    "phonetic": ""
-  },
-  {
-    "english": "First class or economy",
-    "thai": "ชั้นหนึ่งหรือชั้นประหยัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Enjoy your trip",
-    "thai": "เพลิดเพลินไปกับการเดินทางของคุณ",
+    "english": "Is my flight delayed",
+    "thai": "เที่ยวบินของฉันล่าช้าหรือไม่",
     "phonetic": ""
   },
   {
@@ -495,8 +465,38 @@
     "phonetic": ""
   },
   {
-    "english": "What is the purpose of your visit",
-    "thai": "จุดประสงค์ในการมาเยี่ยมชมของคุณคืออะไร",
+    "english": "How long are you staying",
+    "thai": "คุณจะอยู่ต่ออีกนานแค่ไหน",
+    "phonetic": ""
+  },
+  {
+    "english": "I need a ticket to",
+    "thai": "ฉันต้องการตั๋วไป",
+    "phonetic": ""
+  },
+  {
+    "english": "I am staying for a week",
+    "thai": "ฉันจะพักอยู่หนึ่งสัปดาห์",
+    "phonetic": ""
+  },
+  {
+    "english": "Is there a parking lot nearby",
+    "thai": "มีที่จอดรถใกล้ๆไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "How much is a taxi to the hotel",
+    "thai": "ค่าแท็กซี่ไปโรงแรมเท่าไหร่",
+    "phonetic": ""
+  },
+  {
+    "english": "How far is it",
+    "thai": "ไกลแค่ไหน",
+    "phonetic": ""
+  },
+  {
+    "english": "Is it rush hour",
+    "thai": "เป็นชั่วโมงเร่งด่วนใช่ไหม",
     "phonetic": ""
   }
 ]

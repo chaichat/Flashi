@@ -1,12 +1,67 @@
 [
   {
-    "chinese": "我需要一个购物车",
-    "thai": "ฉันต้องการรถเข็นช้อปปิ้ง",
+    "chinese": "我需要去银行",
+    "thai": "ฉันต้องไปธนาคาร",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "我带了自己的袋子",
-    "thai": "ฉันนำถุงของฉันมาเอง",
+    "chinese": "你们的营业时间是什么",
+    "thai": "เวลาเปิดทำการของคุณคืออะไร?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "烟雾",
+    "thai": "ควัน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "最近的医院在哪里",
+    "thai": "โรงพยาบาลที่ใกล้ที่สุดอยู่ที่ไหน?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "叫救护车",
+    "thai": "โทรเรียกรถพยาบาล",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "这个多少钱一公斤",
+    "thai": "อันนี้กิโลกรัมละเท่าไหร่คะ?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我需要...的药",
+    "thai": "ฉันต้องการยาเพื่อ...",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我需要买邮票",
+    "thai": "ฉันต้องการซื้อแสตมป์",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我想开户",
+    "thai": "ฉันต้องการเปิดบัญชี",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "危险",
+    "thai": "อันตราย",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我咳嗽了",
+    "thai": "ฉันมีอาการไอ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我收据丢了",
+    "thai": "ฉันทำใบเสร็จหาย",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我需要签收吗",
+    "thai": "ฉันจำเป็นต้องเซ็นชื่อมั้ย?",
     "pinyin": "missing pinyin"
   },
   {
@@ -15,28 +70,108 @@
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "祝你愉快",
-    "thai": "ขอให้เป็นวันที่ดี",
+    "chinese": "急救",
+    "thai": "ปฐมพยาบาล",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "你们有塑料袋吗",
-    "thai": "คุณมีถุงพลาสติกไหม?",
+    "chinese": "收银台在哪里",
+    "thai": "พนักงานเก็บเงินอยู่ที่ไหน?",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "你能给我一个更好的价格吗",
-    "thai": "คุณสามารถให้ราคาที่ดีกว่านี้ให้ฉันได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我无法呼吸",
-    "thai": "ฉันหายใจไม่ออก",
+    "chinese": "安全",
+    "thai": "ความปลอดภัย",
     "pinyin": "missing pinyin"
   },
   {
     "chinese": "你有收据吗",
     "thai": "คุณมีใบเสร็จมั้ย?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "扭伤",
+    "thai": "เคล็ดขัดยอก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我想转账",
+    "thai": "ฉันต้องการโอนเงิน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "谢谢惠顾",
+    "thai": "ขอขอบคุณทุกท่านที่อุดหนุน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我需要买些食物",
+    "thai": "ฉันต้องซื้ออาหารบ้าง",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我流血了",
+    "thai": "ฉันกำลังมีเลือดออก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "出口",
+    "thai": "ทางออก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "这是本地的吗",
+    "thai": "นี่เป็นของท้องถิ่นใช่ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "欢迎再来",
+    "thai": "ยินดีต้อนรับกลับมา",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "这个熟了吗",
+    "thai": "นี่สุกแล้วหรือยัง?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "警报",
+    "thai": "เตือน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你们有有机蔬菜吗",
+    "thai": "คุณมีผักออร์แกนิกไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "促销什么时候结束",
+    "thai": "โปรโมชั่นสิ้นสุดเมื่อไร?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "刚刚好",
+    "thai": "พอดีเป๊ะเลย",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "疏散",
+    "thai": "การอพยพ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "心肺复苏",
+    "thai": "การช่วยฟื้นคืนชีพด้วยการปั๊มหัวใจและปอด",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "有什么副作用吗",
+    "thai": "มีผลข้างเคียงมั้ย?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你们有塑料袋吗",
+    "thai": "คุณมีถุงพลาสติกไหม?",
     "pinyin": "missing pinyin"
   },
   {
@@ -50,98 +185,8 @@
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "你们有有机蔬菜吗",
-    "thai": "คุณมีผักออร์แกนิกไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我想转账",
-    "thai": "ฉันต้องการโอนเงิน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "太贵了",
-    "thai": "แพงเกินไป",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我可以用手机支付吗",
-    "thai": "ฉันสามารถชำระเงินด้วยโทรศัพท์มือถือได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "刚刚好",
-    "thai": "พอดีเป๊ะเลย",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "这个多少钱一公斤",
-    "thai": "อันนี้กิโลกรัมละเท่าไหร่คะ?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我喜欢",
-    "thai": "ฉันชอบ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我讨厌",
-    "thai": "ฉันเกลียด",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我需要寄一个包裹",
-    "thai": "ฉันต้องส่งพัสดุ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我需要买些食物",
-    "thai": "ฉันต้องซื้ออาหารบ้าง",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "杂货店在哪里",
-    "thai": "ร้านขายของชำอยู่ที่ไหน?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "欢迎再来",
-    "thai": "ยินดีต้อนรับกลับมา",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "这是限量版吗",
-    "thai": "นี่เป็นรุ่น Limited Edition ใช่ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "这是本地的吗",
-    "thai": "นี่เป็นของท้องถิ่นใช่ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我想取钱",
-    "thai": "ฉันต้องการถอนเงิน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你们有纸袋吗",
-    "thai": "มีถุงกระดาษไหมคะ?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我在找",
-    "thai": "ฉันกำลังมองหา",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我可以换货吗",
-    "thai": "ฉันสามารถเปลี่ยนสินค้าได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我收据丢了",
-    "thai": "ฉันทำใบเสร็จหาย",
+    "chinese": "骨折",
+    "thai": "กระดูกหัก",
     "pinyin": "missing pinyin"
   },
   {
@@ -150,298 +195,13 @@
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "我在哪里可以找到新鲜农产品",
-    "thai": "ฉันสามารถหาซื้อผลผลิตสดได้ที่ไหน?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我想开户",
-    "thai": "ฉันต้องการเปิดบัญชี",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "这是畅销品吗",
-    "thai": "นี่เป็นหนังสือขายดีใช่ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "这个打折吗",
-    "thai": "นี่ลดราคามั้ย?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "促销什么时候结束",
-    "thai": "โปรโมชั่นสิ้นสุดเมื่อไร?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "太便宜了",
-    "thai": "ถูกเกินไป",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我可以讲价吗",
-    "thai": "ฉันสามารถต่อรองได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "折扣是多少",
-    "thai": "ส่วนลดเท่าไหร่",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我可以使用自助结账吗",
-    "thai": "ฉันสามารถใช้ระบบชำระเงินด้วยตัวเองได้หรือไม่?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "寄这个多少钱",
-    "thai": "ส่งแบบนี้เสียค่าส่งเท่าไหร่คะ?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "这个新鲜吗",
-    "thai": "สดมั้ย?",
-    "pinyin": "missing pinyin"
-  },
-  {
     "chinese": "邮局在哪里",
     "thai": "ที่ทำการไปรษณีย์อยู่ที่ไหน?",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "骨折",
-    "thai": "กระดูกหัก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "安全",
-    "thai": "ความปลอดภัย",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "有什么特别优惠吗",
-    "thai": "มีข้อเสนอพิเศษอะไรไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我想销户",
-    "thai": "ฉันต้องการยกเลิกบัญชีของฉัน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我需要...的药",
-    "thai": "ฉันต้องการยาเพื่อ...",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你们的营业时间是什么",
-    "thai": "เวลาเปิดทำการของคุณคืออะไร?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "溺水",
-    "thai": "การจมน้ำ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我想存钱",
-    "thai": "ฉันอยากประหยัดเงิน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "最近的医院在哪里",
-    "thai": "โรงพยาบาลที่ใกล้ที่สุดอยู่ที่ไหน?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我付现金",
-    "thai": "ฉันจ่ายเงินสด",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "扭伤",
-    "thai": "เคล็ดขัดยอก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "心肺复苏",
-    "thai": "การช่วยฟื้นคืนชีพด้วยการปั๊มหัวใจและปอด",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我咳嗽了",
-    "thai": "ฉันมีอาการไอ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我需要取包裹",
-    "thai": "ฉันต้องไปรับพัสดุ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我手臂骨折了",
-    "thai": "ฉันมีแขนหัก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "收银台在哪里",
-    "thai": "พนักงานเก็บเงินอยู่ที่ไหน?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我需要去银行",
-    "thai": "ฉันต้องไปธนาคาร",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我需要买邮票",
-    "thai": "ฉันต้องการซื้อแสตมป์",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "谢谢惠顾",
-    "thai": "ขอขอบคุณทุกท่านที่อุดหนุน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "瘀伤",
-    "thai": "รอยฟกช้ำ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "肿胀",
-    "thai": "บวม",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "...的汇率是多少",
-    "thai": "อัตราแลกเปลี่ยนเป็นเท่าไหร่สำหรับ...",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "这个熟了吗",
-    "thai": "นี่สุกแล้วใช่ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我需要找药店",
-    "thai": "ฉันต้องหาร้านขายยา",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我扭伤了脚踝",
-    "thai": "ฉันข้อเท้าพลิก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "中毒",
-    "thai": "พิษ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "报警",
-    "thai": "โทรหาตำรวจ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "急救",
-    "thai": "ปฐมพยาบาล",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我受伤了",
-    "thai": "ฉันเจ็บ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我需要医生",
-    "thai": "ฉันต้องการหมอ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "割伤",
-    "thai": "การตัด",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "叫救护车",
-    "thai": "โทรเรียกรถพยาบาล",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "出口",
-    "thai": "ทางออก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我对...过敏",
-    "thai": "ฉันเป็นโรคภูมิแพ้...",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "烧伤",
-    "thai": "เผา",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我头疼",
-    "thai": "ฉันปวดหัว",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "触电",
-    "thai": "ไฟฟ้าช็อต",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我应该多久服用一次",
-    "thai": "ฉันควรใช้บ่อยแค่ไหน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "警报",
-    "thai": "เตือน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "附近有公共厕所吗",
-    "thai": "มีห้องน้ำสาธารณะใกล้ๆ ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "火灾",
-    "thai": "ไฟ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "窒息",
-    "thai": "ภาวะขาดออกซิเจน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "紧急情况",
-    "thai": "ภาวะฉุกเฉิน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我头晕",
-    "thai": "ฉันรู้สึกเวียนหัว",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "疏散",
-    "thai": "การอพยพ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "叫消防队",
-    "thai": "โทรแจ้งหน่วยดับเพลิง",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "有什么副作用吗",
-    "thai": "มีผลข้างเคียงมั้ย?",
+    "chinese": "这是限量版吗",
+    "thai": "นี่เป็นรุ่น Limited Edition ใช่ไหม?",
     "pinyin": "missing pinyin"
   },
   {
@@ -450,33 +210,13 @@
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "我需要签收吗",
-    "thai": "ฉันจำเป็นต้องเซ็นชื่อมั้ย?",
+    "chinese": "我需要找药店",
+    "thai": "ฉันต้องหาร้านขายยา",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "我需要买药",
-    "thai": "ฉันต้องซื้อยา",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我需要处方吗",
-    "thai": "ฉันต้องมีใบสั่งยาไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我流血了",
-    "thai": "ฉันกำลังมีเลือดออก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "危险",
-    "thai": "อันตราย",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "救命",
-    "thai": "ช่วย",
+    "chinese": "叫消防队",
+    "thai": "โทรแจ้งหน่วยดับเพลิง",
     "pinyin": "missing pinyin"
   },
   {
@@ -485,13 +225,273 @@
     "pinyin": "missing pinyin"
   },
   {
+    "chinese": "我喜欢",
+    "thai": "ฉันชอบ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "中毒",
+    "thai": "พิษ",
+    "pinyin": "missing pinyin"
+  },
+  {
     "chinese": "我肚子疼",
     "thai": "ฉันปวดท้อง",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "烟雾",
-    "thai": "ควัน",
+    "chinese": "我需要处方吗",
+    "thai": "ฉันต้องมีใบสั่งยาไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "烧伤",
+    "thai": "เผา",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我想销户",
+    "thai": "ฉันต้องการยกเลิกบัญชีของฉัน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我带了自己的袋子",
+    "thai": "ฉันนำถุงของฉันมาเอง",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我需要买药",
+    "thai": "ฉันต้องซื้อยา",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "太贵了",
+    "thai": "แพงเกินไป",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我对...过敏",
+    "thai": "ฉันเป็นโรคภูมิแพ้...",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我在找",
+    "thai": "ฉันกำลังมองหา",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "有什么特别优惠吗",
+    "thai": "มีข้อเสนอพิเศษอะไรไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "折扣是多少",
+    "thai": "ส่วนลดเท่าไหร่",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "这个打折吗",
+    "thai": "นี่ลดราคามั้ย?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "救命",
+    "thai": "ช่วย",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我可以使用自助结账吗",
+    "thai": "ฉันสามารถใช้ระบบชำระเงินด้วยตัวเองได้หรือไม่?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "这是畅销品吗",
+    "thai": "นี่เป็นหนังสือขายดีใช่ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你们有纸袋吗",
+    "thai": "มีถุงกระดาษไหมคะ?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "杂货店在哪里",
+    "thai": "ร้านขายของชำอยู่ที่ไหน?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "触电",
+    "thai": "ไฟฟ้าช็อต",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我想存钱",
+    "thai": "ฉันอยากประหยัดเงิน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我付现金",
+    "thai": "ฉันจ่ายเงินสด",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "...的汇率是多少",
+    "thai": "อัตราแลกเปลี่ยนเป็นเท่าไหร่สำหรับ...",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "这个新鲜吗",
+    "thai": "สดมั้ย?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你能给我一个更好的价格吗",
+    "thai": "คุณสามารถให้ราคาที่ดีกว่านี้ให้ฉันได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "寄这个多少钱",
+    "thai": "ส่งแบบนี้เสียค่าส่งเท่าไหร่คะ?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "窒息",
+    "thai": "ภาวะขาดออกซิเจน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我可以换货吗",
+    "thai": "ฉันสามารถเปลี่ยนสินค้าได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "火灾",
+    "thai": "ไฟ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我应该多久服用一次",
+    "thai": "ฉันควรใช้บ่อยแค่ไหน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我可以讲价吗",
+    "thai": "ฉันสามารถต่อรองได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我需要一个购物车",
+    "thai": "ฉันต้องการรถเข็นช้อปปิ้ง",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "肿胀",
+    "thai": "บวม",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我需要寄一个包裹",
+    "thai": "ฉันต้องส่งพัสดุ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我讨厌",
+    "thai": "ฉันเกลียด",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "瘀伤",
+    "thai": "รอยฟกช้ำ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我需要医生",
+    "thai": "ฉันต้องการหมอ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我受伤了",
+    "thai": "ฉันเจ็บ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我在哪里可以找到新鲜农产品",
+    "thai": "ฉันสามารถหาซื้อผลผลิตสดได้ที่ไหน?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "割伤",
+    "thai": "การตัด",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "报警",
+    "thai": "โทรหาตำรวจ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "太便宜了",
+    "thai": "ถูกเกินไป",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "紧急情况",
+    "thai": "ภาวะฉุกเฉิน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我想取钱",
+    "thai": "ฉันต้องการถอนเงิน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "溺水",
+    "thai": "การจมน้ำ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我可以用手机支付吗",
+    "thai": "ฉันสามารถชำระเงินด้วยโทรศัพท์มือถือได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我头疼",
+    "thai": "ฉันปวดหัว",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "附近有公共厕所吗",
+    "thai": "มีห้องน้ำสาธารณะใกล้ๆ ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我头晕",
+    "thai": "ฉันรู้สึกเวียนหัว",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我需要取包裹",
+    "thai": "ฉันต้องไปรับพัสดุ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我无法呼吸",
+    "thai": "ฉันหายใจไม่ออก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我手臂骨折了",
+    "thai": "ฉันมีแขนหัก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我扭伤了脚踝",
+    "thai": "ฉันข้อเท้าพลิก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "祝你愉快",
+    "thai": "ขอให้เป็นวันที่ดี",
     "pinyin": "missing pinyin"
   },
   {

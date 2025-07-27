@@ -1,182 +1,12 @@
 [
   {
-    "english": "Waist",
-    "thai": "เอว",
+    "english": "Nose",
+    "thai": "จมูก",
     "phonetic": ""
   },
   {
-    "english": "Leg",
-    "thai": "ขา",
-    "phonetic": ""
-  },
-  {
-    "english": "Guilt",
-    "thai": "ความรู้สึกผิด",
-    "phonetic": ""
-  },
-  {
-    "english": "Body",
-    "thai": "ร่างกาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Tooth",
-    "thai": "ฟัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Heartbeat",
-    "thai": "การเต้นของหัวใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Concussion",
-    "thai": "อาการกระทบกระเทือนทางสมอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Eyebrow",
-    "thai": "คิ้ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Bruise",
-    "thai": "รอยฟกช้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Scar",
-    "thai": "แผลเป็น",
-    "phonetic": ""
-  },
-  {
-    "english": "Breath",
-    "thai": "ลมหายใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Shock",
-    "thai": "ช็อก",
-    "phonetic": ""
-  },
-  {
-    "english": "Throat",
-    "thai": "คอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Trauma",
-    "thai": "บาดแผล",
-    "phonetic": ""
-  },
-  {
-    "english": "Knee",
-    "thai": "เข่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Brain",
-    "thai": "สมอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Tendon",
-    "thai": "เอ็น",
-    "phonetic": ""
-  },
-  {
-    "english": "Tongue",
-    "thai": "ลิ้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Eyelid",
-    "thai": "เปลือกตา",
-    "phonetic": ""
-  },
-  {
-    "english": "Jealousy",
-    "thai": "ความหึงหวง",
-    "phonetic": ""
-  },
-  {
-    "english": "Shame",
-    "thai": "ความอัปยศ",
-    "phonetic": ""
-  },
-  {
-    "english": "Ribs",
-    "thai": "ซี่โครง",
-    "phonetic": ""
-  },
-  {
-    "english": "Desire",
-    "thai": "ความต้องการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Lungs",
-    "thai": "ปอด",
-    "phonetic": ""
-  },
-  {
-    "english": "Organ",
-    "thai": "ออร์แกน",
-    "phonetic": ""
-  },
-  {
-    "english": "Skeleton",
-    "thai": "โครงกระดูก",
-    "phonetic": ""
-  },
-  {
-    "english": "Head",
-    "thai": "ศีรษะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Neck",
-    "thai": "คอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Hearing",
-    "thai": "การได้ยิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Movement",
-    "thai": "ความเคลื่อนไหว",
-    "phonetic": ""
-  },
-  {
-    "english": "Wound",
-    "thai": "แผล",
-    "phonetic": ""
-  },
-  {
-    "english": "Courage",
-    "thai": "ความกล้าหาญ",
-    "phonetic": ""
-  },
-  {
-    "english": "Kidneys",
-    "thai": "ไต",
-    "phonetic": ""
-  },
-  {
-    "english": "Foot",
-    "thai": "เท้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Shoulder",
-    "thai": "ไหล่",
-    "phonetic": ""
-  },
-  {
-    "english": "Ankle",
-    "thai": "ข้อเท้า",
+    "english": "Face",
+    "thai": "ใบหน้า",
     "phonetic": ""
   },
   {
@@ -185,73 +15,33 @@
     "phonetic": ""
   },
   {
-    "english": "Sympathy",
-    "thai": "ความเห็นอกเห็นใจ",
+    "english": "Neck",
+    "thai": "คอ",
     "phonetic": ""
   },
   {
-    "english": "Fracture",
-    "thai": "กระดูกหัก",
+    "english": "Finger",
+    "thai": "นิ้ว",
     "phonetic": ""
   },
   {
-    "english": "Anticipation",
-    "thai": "การคาดหวัง",
+    "english": "Eyebrow",
+    "thai": "คิ้ว",
     "phonetic": ""
   },
   {
-    "english": "Eyelash",
-    "thai": "ขนตา",
+    "english": "Empathy",
+    "thai": "ความเข้าอกเข้าใจ",
     "phonetic": ""
   },
   {
-    "english": "Hip",
-    "thai": "สะโพก",
+    "english": "Fear",
+    "thai": "กลัว",
     "phonetic": ""
   },
   {
-    "english": "Tissue",
-    "thai": "เนื้อเยื่อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Envy",
-    "thai": "อิจฉา",
-    "phonetic": ""
-  },
-  {
-    "english": "Hair",
-    "thai": "ผม",
-    "phonetic": ""
-  },
-  {
-    "english": "Nerves",
-    "thai": "เส้นประสาท",
-    "phonetic": ""
-  },
-  {
-    "english": "Membrane",
-    "thai": "เยื่อหุ้มเซลล์",
-    "phonetic": ""
-  },
-  {
-    "english": "Posture",
-    "thai": "ท่าทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Pride",
-    "thai": "ความภาคภูมิใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Toe",
-    "thai": "แล้ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Joints",
-    "thai": "ข้อต่อ",
+    "english": "Hate",
+    "thai": "เกลียด",
     "phonetic": ""
   },
   {
@@ -260,18 +50,43 @@
     "phonetic": ""
   },
   {
-    "english": "Back",
-    "thai": "กลับ",
+    "english": "Hair",
+    "thai": "ผม",
     "phonetic": ""
   },
   {
-    "english": "Mouth",
-    "thai": "ปาก",
+    "english": "Guilt",
+    "thai": "ความรู้สึกผิด",
     "phonetic": ""
   },
   {
-    "english": "Ligament",
-    "thai": "เอ็น",
+    "english": "Love",
+    "thai": "รัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Sadness",
+    "thai": "ความเศร้าโศก",
+    "phonetic": ""
+  },
+  {
+    "english": "Envy",
+    "thai": "อิจฉา",
+    "phonetic": ""
+  },
+  {
+    "english": "Courage",
+    "thai": "ความกล้าหาญ",
+    "phonetic": ""
+  },
+  {
+    "english": "Jealousy",
+    "thai": "ความหึงหวง",
+    "phonetic": ""
+  },
+  {
+    "english": "Jaw",
+    "thai": "ขากรรไกร",
     "phonetic": ""
   },
   {
@@ -280,8 +95,63 @@
     "phonetic": ""
   },
   {
-    "english": "Skull",
-    "thai": "กะโหลกศีรษะ",
+    "english": "Desire",
+    "thai": "ความต้องการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Stomach",
+    "thai": "ท้อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Chin",
+    "thai": "คาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Eyelash",
+    "thai": "ขนตา",
+    "phonetic": ""
+  },
+  {
+    "english": "Sympathy",
+    "thai": "ความเห็นอกเห็นใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Shame",
+    "thai": "ความอัปยศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Hope",
+    "thai": "หวัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Anticipation",
+    "thai": "การคาดหวัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Throat",
+    "thai": "คอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Heartbeat",
+    "thai": "การเต้นของหัวใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Knee",
+    "thai": "เข่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Body",
+    "thai": "ร่างกาย",
     "phonetic": ""
   },
   {
@@ -290,13 +160,133 @@
     "phonetic": ""
   },
   {
+    "english": "Foot",
+    "thai": "เท้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Sight",
+    "thai": "ภาพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Shoulder",
+    "thai": "ไหล่",
+    "phonetic": ""
+  },
+  {
+    "english": "Shock",
+    "thai": "ช็อก",
+    "phonetic": ""
+  },
+  {
+    "english": "Anger",
+    "thai": "ความโกรธ",
+    "phonetic": ""
+  },
+  {
+    "english": "Appearance",
+    "thai": "รูปร่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Pelvis",
+    "thai": "กระดูกเชิงกราน",
+    "phonetic": ""
+  },
+  {
+    "english": "Eyelid",
+    "thai": "เปลือกตา",
+    "phonetic": ""
+  },
+  {
+    "english": "Complexion",
+    "thai": "ผิว",
+    "phonetic": ""
+  },
+  {
+    "english": "Lungs",
+    "thai": "ปอด",
+    "phonetic": ""
+  },
+  {
+    "english": "Ear",
+    "thai": "หู",
+    "phonetic": ""
+  },
+  {
+    "english": "Wound",
+    "thai": "แผล",
+    "phonetic": ""
+  },
+  {
+    "english": "Kidneys",
+    "thai": "ไต",
+    "phonetic": ""
+  },
+  {
     "english": "Elbow",
     "thai": "ข้อศอก",
     "phonetic": ""
   },
   {
-    "english": "Sprain",
-    "thai": "อาการเคล็ดขัดยอก",
+    "english": "Fracture",
+    "thai": "กระดูกหัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Arm",
+    "thai": "แขน",
+    "phonetic": ""
+  },
+  {
+    "english": "Tongue",
+    "thai": "ลิ้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Pride",
+    "thai": "ความภาคภูมิใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Cheek",
+    "thai": "แก้ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Tooth",
+    "thai": "ฟัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Chest",
+    "thai": "หน้าอก",
+    "phonetic": ""
+  },
+  {
+    "english": "Leg",
+    "thai": "ขา",
+    "phonetic": ""
+  },
+  {
+    "english": "Palm",
+    "thai": "ปาล์ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Eye",
+    "thai": "ดวงตา",
+    "phonetic": ""
+  },
+  {
+    "english": "Movement",
+    "thai": "ความเคลื่อนไหว",
+    "phonetic": ""
+  },
+  {
+    "english": "Compassion",
+    "thai": "ความเมตตา",
     "phonetic": ""
   },
   {
@@ -310,33 +300,13 @@
     "phonetic": ""
   },
   {
-    "english": "Cell",
-    "thai": "เซลล์",
+    "english": "Mouth",
+    "thai": "ปาก",
     "phonetic": ""
   },
   {
-    "english": "Face",
-    "thai": "ใบหน้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Nose",
-    "thai": "จมูก",
-    "phonetic": ""
-  },
-  {
-    "english": "Stomach",
-    "thai": "ท้อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Sadness",
-    "thai": "ความเศร้าโศก",
-    "phonetic": ""
-  },
-  {
-    "english": "Pulse",
-    "thai": "ชีพจร",
+    "english": "Toe",
+    "thai": "แล้ว",
     "phonetic": ""
   },
   {
@@ -345,53 +315,18 @@
     "phonetic": ""
   },
   {
-    "english": "Thumb",
-    "thai": "นิ้วหัวแม่มือ",
+    "english": "Back",
+    "thai": "กลับ",
     "phonetic": ""
   },
   {
-    "english": "Sight",
-    "thai": "ภาพ",
+    "english": "Bruise",
+    "thai": "รอยฟกช้ำ",
     "phonetic": ""
   },
   {
-    "english": "Smell",
-    "thai": "กลิ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Appearance",
-    "thai": "รูปร่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Finger",
-    "thai": "นิ้ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Empathy",
-    "thai": "ความเข้าอกเข้าใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Eye",
-    "thai": "ดวงตา",
-    "phonetic": ""
-  },
-  {
-    "english": "Palm",
-    "thai": "ปาล์ม",
-    "phonetic": ""
-  },
-  {
-    "english": "Cheek",
-    "thai": "แก้ม",
-    "phonetic": ""
-  },
-  {
-    "english": "Wrist",
-    "thai": "ข้อมือ",
+    "english": "Sense",
+    "thai": "ความรู้สึก",
     "phonetic": ""
   },
   {
@@ -400,78 +335,8 @@
     "phonetic": ""
   },
   {
-    "english": "Hope",
-    "thai": "หวัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Anger",
-    "thai": "ความโกรธ",
-    "phonetic": ""
-  },
-  {
-    "english": "Complexion",
-    "thai": "ผิว",
-    "phonetic": ""
-  },
-  {
-    "english": "Fear",
-    "thai": "กลัว",
-    "phonetic": ""
-  },
-  {
-    "english": "Compassion",
-    "thai": "ความเมตตา",
-    "phonetic": ""
-  },
-  {
-    "english": "Hate",
-    "thai": "เกลียด",
-    "phonetic": ""
-  },
-  {
-    "english": "Gland",
-    "thai": "ต่อม",
-    "phonetic": ""
-  },
-  {
-    "english": "Love",
-    "thai": "รัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Liver",
-    "thai": "ตับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Spine",
-    "thai": "กระดูกสันหลัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Chin",
-    "thai": "คาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Thigh",
-    "thai": "ต้นขา",
-    "phonetic": ""
-  },
-  {
     "english": "Heel",
     "thai": "ทั้งหมด",
-    "phonetic": ""
-  },
-  {
-    "english": "Ear",
-    "thai": "หู",
-    "phonetic": ""
-  },
-  {
-    "english": "Pelvis",
-    "thai": "กระดูกเชิงกราน",
     "phonetic": ""
   },
   {
@@ -480,23 +345,158 @@
     "phonetic": ""
   },
   {
-    "english": "Jaw",
-    "thai": "ขากรรไกร",
+    "english": "Liver",
+    "thai": "ตับ",
     "phonetic": ""
   },
   {
-    "english": "Chest",
-    "thai": "หน้าอก",
+    "english": "Hearing",
+    "thai": "การได้ยิน",
     "phonetic": ""
   },
   {
-    "english": "Arm",
-    "thai": "แขน",
+    "english": "Ligament",
+    "thai": "เอ็น",
     "phonetic": ""
   },
   {
-    "english": "Sense",
-    "thai": "ความรู้สึก",
+    "english": "Waist",
+    "thai": "เอว",
+    "phonetic": ""
+  },
+  {
+    "english": "Gland",
+    "thai": "ต่อม",
+    "phonetic": ""
+  },
+  {
+    "english": "Wrist",
+    "thai": "ข้อมือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Scar",
+    "thai": "แผลเป็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Tissue",
+    "thai": "เนื้อเยื่อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Skull",
+    "thai": "กะโหลกศีรษะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Breath",
+    "thai": "ลมหายใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Spine",
+    "thai": "กระดูกสันหลัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Posture",
+    "thai": "ท่าทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Ribs",
+    "thai": "ซี่โครง",
+    "phonetic": ""
+  },
+  {
+    "english": "Trauma",
+    "thai": "บาดแผล",
+    "phonetic": ""
+  },
+  {
+    "english": "Hip",
+    "thai": "สะโพก",
+    "phonetic": ""
+  },
+  {
+    "english": "Cell",
+    "thai": "เซลล์",
+    "phonetic": ""
+  },
+  {
+    "english": "Smell",
+    "thai": "กลิ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Concussion",
+    "thai": "อาการกระทบกระเทือนทางสมอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Thigh",
+    "thai": "ต้นขา",
+    "phonetic": ""
+  },
+  {
+    "english": "Pulse",
+    "thai": "ชีพจร",
+    "phonetic": ""
+  },
+  {
+    "english": "Tendon",
+    "thai": "เอ็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Skeleton",
+    "thai": "โครงกระดูก",
+    "phonetic": ""
+  },
+  {
+    "english": "Sprain",
+    "thai": "อาการเคล็ดขัดยอก",
+    "phonetic": ""
+  },
+  {
+    "english": "Brain",
+    "thai": "สมอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Head",
+    "thai": "ศีรษะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Organ",
+    "thai": "ออร์แกน",
+    "phonetic": ""
+  },
+  {
+    "english": "Nerves",
+    "thai": "เส้นประสาท",
+    "phonetic": ""
+  },
+  {
+    "english": "Ankle",
+    "thai": "ข้อเท้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Membrane",
+    "thai": "เยื่อหุ้มเซลล์",
+    "phonetic": ""
+  },
+  {
+    "english": "Joints",
+    "thai": "ข้อต่อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Thumb",
+    "thai": "นิ้วหัวแม่มือ",
     "phonetic": ""
   }
 ]

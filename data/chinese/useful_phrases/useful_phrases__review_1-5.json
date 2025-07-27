@@ -1,32 +1,7 @@
 [
   {
-    "chinese": "态度",
-    "thai": "มารยาท",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你来自哪里",
-    "thai": "คุณมาจากที่ไหน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我有两个孩子",
-    "thai": "ฉันมีลูกสองคน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你喜欢旅行吗",
-    "thai": "คุณชอบการเดินทางหรือเปล่า?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我最喜欢披萨",
-    "thai": "ฉันชอบพิซซ่าที่สุด",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你好",
-    "thai": "สวัสดี",
+    "chinese": "建议",
+    "thai": "คำแนะนำ",
     "pinyin": "missing pinyin"
   },
   {
@@ -35,268 +10,8 @@
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "你去过哪里",
-    "thai": "คุณไปอยู่ที่ไหนมา?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你喜欢做饭吗",
-    "thai": "คุณชอบทำอาหารไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你能帮我吗",
-    "thai": "คุณช่วยฉันได้ไหม",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我岁了",
-    "thai": "ฉันอายุปีแล้ว",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你叫什么名字",
-    "thai": "ฉันขอทราบชื่อของคุณได้ไหม",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我需要帮助",
-    "thai": "ฉันต้องการความช่วยเหลือ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我梦想的目的地是日本",
-    "thai": "จุดหมายปลายทางในฝันของฉันคือประเทศญี่ปุ่น",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你最喜欢什么食物",
-    "thai": "อาหารที่คุณชอบคืออะไร?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "大喊",
-    "thai": "โทรออก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "批评",
-    "thai": "วิพากษ์วิจารณ์",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我最喜欢电影",
-    "thai": "หนังเรื่องโปรดของฉัน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我去过很多国家",
-    "thai": "ฉันเคยไปหลายประเทศแล้ว",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我是老师",
-    "thai": "ฉันเป็นครู",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我需要一张去...的票",
-    "thai": "ฉันต้องการตั๋วไป...",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "表情",
-    "thai": "การแสดงออก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "有直达巴士吗",
-    "thai": "มีรถบัสตรงไหมคะ?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我有一个转机航班",
-    "thai": "ฉันมีเที่ยวบินต่อเครื่อง",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "赞美",
-    "thai": "ชื่นชม",
-    "pinyin": "missing pinyin"
-  },
-  {
     "chinese": "下午好",
     "thai": "สวัสดีตอนบ่าย",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "是",
-    "thai": "ใช่",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "事实",
-    "thai": "ข้อเท็จจริง",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我退休了",
-    "thai": "ฉันเกษียณแล้ว",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "请",
-    "thai": "โปรด",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "这是我的荣幸",
-    "thai": "ฉันมีความยินดี",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我的爱好是阅读",
-    "thai": "งานอดิเรกของฉันคือการอ่านหนังสือ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我想办理退房",
-    "thai": "ฉันอยากจะเช็คเอาท์",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "情感",
-    "thai": "อารมณ์",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "情绪",
-    "thai": "อารมณ์",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我没有孩子",
-    "thai": "ฉันไม่มีลูก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我能帮你吗",
-    "thai": "ฉันสามารถช่วยคุณได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "没关系",
-    "thai": "ไม่สำคัญ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "对不起",
-    "thai": "ขอโทษ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你结婚了吗",
-    "thai": "คุณแต่งงานหรือยัง",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我怎么去火车站",
-    "thai": "ฉันจะไปสถานีรถไฟได้อย่างไร?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我叫",
-    "thai": "ชื่อของฉันคือ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "能给我一个叫醒服务吗",
-    "thai": "คุณช่วยโทรปลุกฉันหน่อยได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "打的去酒店多少钱",
-    "thai": "ค่าแท็กซี่ไปโรงแรมเท่าไหร่?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我没有宠物",
-    "thai": "ฉันไม่มีสัตว์เลี้ยง",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你梦想的目的地是哪里",
-    "thai": "จุดหมายปลายทางในฝันของคุณอยู่ที่ไหน?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我们找个时间聚聚吧",
-    "thai": "เรามาหาเวลาพบปะสังสรรค์กันบ้างดีกว่า",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "不是",
-    "thai": "เลขที่",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "不用谢",
-    "thai": "ด้วยความยินดี",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "思想",
-    "thai": "คิด",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "有班车服务吗",
-    "thai": "มีบริการรถรับส่งไหมคะ?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我有一个孩子",
-    "thai": "ฉันมีลูก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你做什么工作",
-    "thai": "คุณทำงานอะไร",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我想办理入住",
-    "thai": "ฉันต้องการเช็คอิน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "航班什么时候起飞",
-    "thai": "เครื่องบินจะออกเดินทางเมื่อไหร่?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "再见",
-    "thai": "ลาก่อน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你有孩子吗",
-    "thai": "คุณมีลูกไหม",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "声音",
-    "thai": "เสียง",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "是的我喜欢做饭",
-    "thai": "ใช่ ฉันชอบทำอาหาร",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "当地有什么景点",
-    "thai": "ในบริเวณนั้นมีสถานที่ท่องเที่ยวอะไรบ้าง?",
     "pinyin": "missing pinyin"
   },
   {
@@ -305,158 +20,28 @@
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "最近的货币兑换处在哪里",
-    "thai": "สำนักงานแลกเปลี่ยนเงินตราที่ใกล้ที่สุดอยู่ที่ไหน?",
+    "chinese": "请",
+    "thai": "โปรด",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "意见",
-    "thai": "ความคิดเห็น",
+    "chinese": "你做什么工作",
+    "thai": "คุณทำงานอะไร",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "请问",
-    "thai": "ขออนุญาต",
+    "chinese": "你来自哪里",
+    "thai": "คุณมาจากที่ไหน",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "你太好了",
-    "thai": "คุณเป็นคนดีมาก",
+    "chinese": "我最喜欢电影",
+    "thai": "หนังเรื่องโปรดของฉัน",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "是的我喜欢旅行",
-    "thai": "ใช่ ฉันชอบการเดินทาง",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "早上好",
-    "thai": "สวัสดีตอนเช้า",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我结婚了",
-    "thai": "ฉันแต่งงานแล้ว",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "侮辱",
-    "thai": "สบประมาท",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "姿态",
-    "thai": "ทัศนคติ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "谢谢",
-    "thai": "ขอบคุณ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "不客气",
-    "thai": "ด้วยความยินดี",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "耳语",
-    "thai": "กระซิบ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我单身",
-    "thai": "ฉันโสด",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我能为你做什么",
-    "thai": "ฉันทำอะไรให้คุณได้บ้าง?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我有一只猫",
-    "thai": "ฉันมีแมว",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我是工程师",
-    "thai": "ฉันเป็นวิศวกร",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "感觉",
-    "thai": "รู้สึก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "建议",
-    "thai": "คำแนะนำ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你最喜欢什么电影",
-    "thai": "ภาพยนตร์ที่คุณชอบคือเรื่องใด?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我有一只狗",
-    "thai": "ฉันมีสุนัข",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "语气",
-    "thai": "โทนเสียง",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我来自",
-    "thai": "ฉันมาจาก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "信仰",
-    "thai": "ความเชื่อ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "表扬",
-    "thai": "ชื่นชม",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "火车什么时候到",
-    "thai": "รถไฟจะมาถึงเมื่อไหร่?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "机场在哪里",
-    "thai": "สนามบินอยู่ที่ไหน?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你有城市地图吗",
-    "thai": "คุณมีแผนที่เมืองไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你的爱好是什么",
-    "thai": "งานอดิเรกของคุณคืออะไร?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "想法",
-    "thai": "ความคิด",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "这是去市中心的公共汽车吗",
-    "thai": "นี่คือรถบัสไปใจกลางเมืองใช่ไหม",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你多大了",
-    "thai": "คุณอายุเท่าไร",
+    "chinese": "你好",
+    "thai": "สวัสดี",
     "pinyin": "missing pinyin"
   },
   {
@@ -465,23 +50,258 @@
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "我的航班延误了吗",
-    "thai": "เที่ยวบินของฉันล่าช้าหรือเปล่า?",
+    "chinese": "我是工程师",
+    "thai": "ฉันเป็นวิศวกร",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "单程还是往返",
-    "thai": "เที่ยวเดียวหรือไปกลับ",
+    "chinese": "你的爱好是什么",
+    "thai": "งานอดิเรกของคุณคืออะไร?",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "行李提取处在哪里",
-    "thai": "พื้นที่รับกระเป๋าอยู่ที่ไหน?",
+    "chinese": "我结婚了",
+    "thai": "ฉันแต่งงานแล้ว",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "没问题",
-    "thai": "ไม่มีปัญหา",
+    "chinese": "你最喜欢什么电影",
+    "thai": "ภาพยนตร์ที่คุณชอบคือเรื่องใด?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "是的我喜欢旅行",
+    "thai": "ใช่ ฉันชอบการเดินทาง",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我退休了",
+    "thai": "ฉันเกษียณแล้ว",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "请问",
+    "thai": "ขออนุญาต",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "没关系",
+    "thai": "ไม่สำคัญ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你叫什么名字",
+    "thai": "ฉันขอทราบชื่อของคุณได้ไหม",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我没有孩子",
+    "thai": "ฉันไม่มีลูก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你有孩子吗",
+    "thai": "คุณมีลูกไหม",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我的爱好是阅读",
+    "thai": "งานอดิเรกของฉันคือการอ่านหนังสือ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你喜欢旅行吗",
+    "thai": "คุณชอบการเดินทางหรือเปล่า?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我有一个孩子",
+    "thai": "ฉันมีลูก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "情感",
+    "thai": "อารมณ์",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "是的我喜欢做饭",
+    "thai": "ใช่ ฉันชอบทำอาหาร",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我有一个转机航班",
+    "thai": "ฉันมีเที่ยวบินต่อเครื่อง",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我有两个孩子",
+    "thai": "ฉันมีลูกสองคน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "最近的货币兑换处在哪里",
+    "thai": "สำนักงานแลกเปลี่ยนเงินตราที่ใกล้ที่สุดอยู่ที่ไหน?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我单身",
+    "thai": "ฉันโสด",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "思想",
+    "thai": "คิด",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我能帮你吗",
+    "thai": "ฉันสามารถช่วยคุณได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "再见",
+    "thai": "ลาก่อน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我梦想的目的地是日本",
+    "thai": "จุดหมายปลายทางในฝันของฉันคือประเทศญี่ปุ่น",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "意见",
+    "thai": "ความคิดเห็น",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你梦想的目的地是哪里",
+    "thai": "จุดหมายปลายทางในฝันของคุณอยู่ที่ไหน?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我想办理退房",
+    "thai": "ฉันอยากจะเช็คเอาท์",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你结婚了吗",
+    "thai": "คุณแต่งงานหรือยัง",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "机场在哪里",
+    "thai": "สนามบินอยู่ที่ไหน?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我是老师",
+    "thai": "ฉันเป็นครู",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你能帮我吗",
+    "thai": "คุณช่วยฉันได้ไหม",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "不客气",
+    "thai": "ด้วยความยินดี",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我能为你做什么",
+    "thai": "ฉันทำอะไรให้คุณได้บ้าง?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "这是我的荣幸",
+    "thai": "ฉันมีความยินดี",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我来自",
+    "thai": "ฉันมาจาก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "姿态",
+    "thai": "ทัศนคติ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "事实",
+    "thai": "ข้อเท็จจริง",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我最喜欢披萨",
+    "thai": "ฉันชอบพิซซ่าที่สุด",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你多大了",
+    "thai": "คุณอายุเท่าไร",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我没有宠物",
+    "thai": "ฉันไม่มีสัตว์เลี้ยง",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "这是去市中心的公共汽车吗",
+    "thai": "นี่คือรถบัสไปใจกลางเมืองใช่ไหม",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "表情",
+    "thai": "การแสดงออก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我怎么去火车站",
+    "thai": "ฉันจะไปสถานีรถไฟได้อย่างไร?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你喜欢做饭吗",
+    "thai": "คุณชอบทำอาหารไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我有一只狗",
+    "thai": "ฉันมีสุนัข",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我们找个时间聚聚吧",
+    "thai": "เรามาหาเวลาพบปะสังสรรค์กันบ้างดีกว่า",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "头等舱还是经济舱",
+    "thai": "ชั้นหนึ่งหรือชั้นประหยัด",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我有一只猫",
+    "thai": "ฉันมีแมว",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "声音",
+    "thai": "เสียง",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "谢谢",
+    "thai": "ขอบคุณ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "表扬",
+    "thai": "ชื่นชม",
     "pinyin": "missing pinyin"
   },
   {
@@ -490,13 +310,193 @@
     "pinyin": "missing pinyin"
   },
   {
+    "chinese": "是",
+    "thai": "ใช่",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我叫",
+    "thai": "ชื่อของฉันคือ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "不是",
+    "thai": "เลขที่",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "耳语",
+    "thai": "กระซิบ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我需要帮助",
+    "thai": "ฉันต้องการความช่วยเหลือ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "对不起",
+    "thai": "ขอโทษ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我去过很多国家",
+    "thai": "ฉันเคยไปหลายประเทศแล้ว",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "不用谢",
+    "thai": "ด้วยความยินดี",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你最喜欢什么食物",
+    "thai": "อาหารที่คุณชอบคืออะไร?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你去过哪里",
+    "thai": "คุณไปอยู่ที่ไหนมา?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "单程还是往返",
+    "thai": "เที่ยวเดียวหรือไปกลับ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "侮辱",
+    "thai": "สบประมาท",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我岁了",
+    "thai": "ฉันอายุปีแล้ว",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "早上好",
+    "thai": "สวัสดีตอนเช้า",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "感觉",
+    "thai": "รู้สึก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你太好了",
+    "thai": "คุณเป็นคนดีมาก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "想法",
+    "thai": "ความคิด",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "大喊",
+    "thai": "โทรออก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "当地有什么景点",
+    "thai": "ในบริเวณนั้นมีสถานที่ท่องเที่ยวอะไรบ้าง?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "航班什么时候起飞",
+    "thai": "เครื่องบินจะออกเดินทางเมื่อไหร่?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我需要一张去...的票",
+    "thai": "ฉันต้องการตั๋วไป...",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "赞美",
+    "thai": "ชื่นชม",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我的航班延误了吗",
+    "thai": "เที่ยวบินของฉันล่าช้าหรือเปล่า?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "信仰",
+    "thai": "ความเชื่อ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "有直达巴士吗",
+    "thai": "มีรถบัสตรงไหมคะ?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "批评",
+    "thai": "วิพากษ์วิจารณ์",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "火车什么时候到",
+    "thai": "รถไฟจะมาถึงเมื่อไหร่?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "语气",
+    "thai": "โทนเสียง",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "态度",
+    "thai": "มารยาท",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我想办理入住",
+    "thai": "ฉันต้องการเช็คอิน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "行李提取处在哪里",
+    "thai": "พื้นที่รับกระเป๋าอยู่ที่ไหน?",
+    "pinyin": "missing pinyin"
+  },
+  {
     "chinese": "很高兴能帮上忙",
     "thai": "ยินดีให้ความช่วยเหลือ",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "头等舱还是经济舱",
-    "thai": "ชั้นหนึ่งหรือชั้นประหยัด",
+    "chinese": "能给我一个叫醒服务吗",
+    "thai": "คุณช่วยโทรปลุกฉันหน่อยได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你有城市地图吗",
+    "thai": "คุณมีแผนที่เมืองไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "打的去酒店多少钱",
+    "thai": "ค่าแท็กซี่ไปโรงแรมเท่าไหร่?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "情绪",
+    "thai": "อารมณ์",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "有班车服务吗",
+    "thai": "มีบริการรถรับส่งไหมคะ?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "没问题",
+    "thai": "ไม่มีปัญหา",
     "pinyin": "missing pinyin"
   }
 ]

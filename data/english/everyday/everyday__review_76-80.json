@@ -1,27 +1,42 @@
 [
   {
-    "english": "Decentralized Application",
-    "thai": "แอปพลิเคชันแบบกระจายอำนาจ",
+    "english": "River",
+    "thai": "แม่น้ำ",
     "phonetic": ""
   },
   {
-    "english": "Actuator",
-    "thai": "ตัวกระตุ้น",
+    "english": "Hydropower",
+    "thai": "พลังงานน้ำ",
     "phonetic": ""
   },
   {
-    "english": "Sky",
-    "thai": "ท้องฟ้า",
+    "english": "Decentralized Autonomous Organization",
+    "thai": "องค์กรอิสระแบบกระจายอำนาจ",
     "phonetic": ""
   },
   {
-    "english": "Augmented reality",
-    "thai": "ความจริงเสริม",
+    "english": "Decentralized Finance",
+    "thai": "การเงินแบบกระจายอำนาจ",
     "phonetic": ""
   },
   {
-    "english": "Wind power",
-    "thai": "พลังงานลม",
+    "english": "Fog computing",
+    "thai": "การประมวลผลหมอก",
+    "phonetic": ""
+  },
+  {
+    "english": "Robotics",
+    "thai": "หุ่นยนต์",
+    "phonetic": ""
+  },
+  {
+    "english": "Quantum computing",
+    "thai": "การประมวลผลควอนตัม",
+    "phonetic": ""
+  },
+  {
+    "english": "Metaverse",
+    "thai": "เมตาเวิร์ส",
     "phonetic": ""
   },
   {
@@ -30,48 +45,43 @@
     "phonetic": ""
   },
   {
-    "english": "Climate change",
-    "thai": "การเปลี่ยนแปลงสภาพภูมิอากาศ",
+    "english": "Non-Fungible Token",
+    "thai": "โทเค็นที่ไม่สามารถทดแทนได้",
     "phonetic": ""
   },
   {
-    "english": "Plant",
-    "thai": "ปลูก",
+    "english": "Insect",
+    "thai": "แมลง",
     "phonetic": ""
   },
   {
-    "english": "Security Token Offering",
-    "thai": "การเสนอโทเค็นความปลอดภัย",
+    "english": "Augmented reality",
+    "thai": "ความจริงเสริม",
     "phonetic": ""
   },
   {
-    "english": "Data visualization",
-    "thai": "การแสดงภาพข้อมูล",
+    "english": "Virtual reality",
+    "thai": "ความเป็นจริงเสมือน",
     "phonetic": ""
   },
   {
-    "english": "Food chain",
-    "thai": "ห่วงโซ่อาหาร",
+    "english": "Bitcoin",
+    "thai": "บิทคอยน์",
     "phonetic": ""
   },
   {
-    "english": "Sea",
-    "thai": "ทะเล",
+    "english": "Initial Exchange Offering",
+    "thai": "การเสนอขายแลกเปลี่ยนครั้งแรก",
     "phonetic": ""
   },
   {
-    "english": "Omnivore",
-    "thai": "สัตว์กินทั้งพืชและสัตว์",
+    "english": "Central Bank Digital Currency",
+    "thai": "สกุลเงินดิจิทัลของธนาคารกลาง",
     "phonetic": ""
   },
   {
-    "english": "Ocean",
-    "thai": "มหาสมุทร",
-    "phonetic": ""
-  },
-  {
-    "english": "Oil",
-    "thai": "น้ำมัน",
+    "english": "Cloud computing",
+    "thai": "การประมวลผลแบบคลาวด์",
     "phonetic": ""
   },
   {
@@ -80,18 +90,8 @@
     "phonetic": ""
   },
   {
-    "english": "Pollution",
-    "thai": "มลพิษ",
-    "phonetic": ""
-  },
-  {
-    "english": "Flower",
-    "thai": "ดอกไม้",
-    "phonetic": ""
-  },
-  {
-    "english": "Decentralized Autonomous Organization",
-    "thai": "องค์กรอิสระแบบกระจายอำนาจ",
+    "english": "Coal",
+    "thai": "ถ่านหิน",
     "phonetic": ""
   },
   {
@@ -105,58 +105,18 @@
     "phonetic": ""
   },
   {
-    "english": "Cloud computing",
-    "thai": "การประมวลผลแบบคลาวด์",
+    "english": "Prey",
+    "thai": "เหยื่อ",
     "phonetic": ""
   },
   {
-    "english": "Web3",
-    "thai": "เว็บ3",
+    "english": "Desert",
+    "thai": "ทะเลทราย",
     "phonetic": ""
   },
   {
-    "english": "Solar power",
-    "thai": "พลังงานแสงอาทิตย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Predator",
-    "thai": "นักล่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Moon",
-    "thai": "ดวงจันทร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Drone",
-    "thai": "โดรน",
-    "phonetic": ""
-  },
-  {
-    "english": "River",
-    "thai": "แม่น้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Bitcoin",
-    "thai": "บิทคอยน์",
-    "phonetic": ""
-  },
-  {
-    "english": "Indicator species",
-    "thai": "ชนิดตัวบ่งชี้",
-    "phonetic": ""
-  },
-  {
-    "english": "Flagship species",
-    "thai": "สายพันธุ์เรือธง",
-    "phonetic": ""
-  },
-  {
-    "english": "Quantum computing",
-    "thai": "การประมวลผลควอนตัม",
+    "english": "Actuator",
+    "thai": "ตัวกระตุ้น",
     "phonetic": ""
   },
   {
@@ -165,133 +125,13 @@
     "phonetic": ""
   },
   {
-    "english": "Consumer",
-    "thai": "ผู้บริโภค",
+    "english": "Jungle",
+    "thai": "ป่า",
     "phonetic": ""
   },
   {
-    "english": "Token",
-    "thai": "โทเค็น",
-    "phonetic": ""
-  },
-  {
-    "english": "Nature",
-    "thai": "ธรรมชาติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Central Bank Digital Currency",
-    "thai": "สกุลเงินดิจิทัลของธนาคารกลาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Deep learning",
-    "thai": "การเรียนรู้เชิงลึก",
-    "phonetic": ""
-  },
-  {
-    "english": "Valley",
-    "thai": "หุบเขา",
-    "phonetic": ""
-  },
-  {
-    "english": "Endangered species",
-    "thai": "สัตว์ใกล้สูญพันธุ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Biomass",
-    "thai": "ชีวมวล",
-    "phonetic": ""
-  },
-  {
-    "english": "Internet of Things",
-    "thai": "อินเทอร์เน็ตของสรรพสิ่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Edge computing",
-    "thai": "การประมวลผลแบบเอจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Tree",
-    "thai": "ต้นไม้",
-    "phonetic": ""
-  },
-  {
-    "english": "Lake",
-    "thai": "ทะเลสาบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Neural network",
-    "thai": "เครือข่ายประสาท",
-    "phonetic": ""
-  },
-  {
-    "english": "Renewable energy",
-    "thai": "พลังงานหมุนเวียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Prey",
-    "thai": "เหยื่อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Sustainability",
-    "thai": "ความยั่งยืน",
-    "phonetic": ""
-  },
-  {
-    "english": "Initial DEX Offering",
-    "thai": "การเสนอขาย DEX ครั้งแรก",
-    "phonetic": ""
-  },
-  {
-    "english": "Smart contract",
-    "thai": "สัญญาอัจฉริยะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Natural language processing",
-    "thai": "การประมวลผลภาษาธรรมชาติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Metaverse",
-    "thai": "เมตาเวิร์ส",
-    "phonetic": ""
-  },
-  {
-    "english": "Decomposer",
-    "thai": "ผู้ย่อยสลาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Fog computing",
-    "thai": "การประมวลผลหมอก",
-    "phonetic": ""
-  },
-  {
-    "english": "Foundation species",
-    "thai": "สายพันธุ์พื้นฐาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Machine learning",
-    "thai": "การเรียนรู้ของเครื่องจักร",
-    "phonetic": ""
-  },
-  {
-    "english": "Ethereum",
-    "thai": "อีเธอเรียม",
-    "phonetic": ""
-  },
-  {
-    "english": "Data analysis",
-    "thai": "การวิเคราะห์ข้อมูล",
+    "english": "Invasive species",
+    "thai": "สายพันธุ์ต่างถิ่น",
     "phonetic": ""
   },
   {
@@ -300,23 +140,8 @@
     "phonetic": ""
   },
   {
-    "english": "Fossil fuels",
-    "thai": "เชื้อเพลิงฟอสซิล",
-    "phonetic": ""
-  },
-  {
-    "english": "Coal",
-    "thai": "ถ่านหิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Recycling",
-    "thai": "การรีไซเคิล",
-    "phonetic": ""
-  },
-  {
-    "english": "Umbrella species",
-    "thai": "พันธุ์ไม้ร่ม",
+    "english": "Indicator species",
+    "thai": "ชนิดตัวบ่งชี้",
     "phonetic": ""
   },
   {
@@ -325,43 +150,38 @@
     "phonetic": ""
   },
   {
-    "english": "Sensor",
-    "thai": "เซ็นเซอร์",
+    "english": "Moon",
+    "thai": "ดวงจันทร์",
     "phonetic": ""
   },
   {
-    "english": "Extinction",
-    "thai": "การสูญพันธุ์",
+    "english": "Lake",
+    "thai": "ทะเลสาบ",
     "phonetic": ""
   },
   {
-    "english": "Robotics",
-    "thai": "หุ่นยนต์",
+    "english": "Endangered species",
+    "thai": "สัตว์ใกล้สูญพันธุ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Decomposer",
+    "thai": "ผู้ย่อยสลาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Valley",
+    "thai": "หุบเขา",
+    "phonetic": ""
+  },
+  {
+    "english": "Sustainability",
+    "thai": "ความยั่งยืน",
     "phonetic": ""
   },
   {
     "english": "Carbon footprint",
     "thai": "รอยเท้าคาร์บอน",
-    "phonetic": ""
-  },
-  {
-    "english": "Jungle",
-    "thai": "ป่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Sun",
-    "thai": "ดวงอาทิตย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Environment",
-    "thai": "สิ่งแวดล้อม",
-    "phonetic": ""
-  },
-  {
-    "english": "Greenhouse effect",
-    "thai": "ปรากฏการณ์เรือนกระจก",
     "phonetic": ""
   },
   {
@@ -375,58 +195,8 @@
     "phonetic": ""
   },
   {
-    "english": "Decentralized Finance",
-    "thai": "การเงินแบบกระจายอำนาจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Virtual reality",
-    "thai": "ความเป็นจริงเสมือน",
-    "phonetic": ""
-  },
-  {
-    "english": "Desert",
-    "thai": "ทะเลทราย",
-    "phonetic": ""
-  },
-  {
-    "english": "Natural gas",
-    "thai": "ก๊าซธรรมชาติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Mixed reality",
-    "thai": "ความจริงแบบผสมผสาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Hydropower",
-    "thai": "พลังงานน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Non-Fungible Token",
-    "thai": "โทเค็นที่ไม่สามารถทดแทนได้",
-    "phonetic": ""
-  },
-  {
-    "english": "5G",
-    "thai": "5จี",
-    "phonetic": ""
-  },
-  {
-    "english": "Initial Exchange Offering",
-    "thai": "การเสนอขายแลกเปลี่ยนครั้งแรก",
-    "phonetic": ""
-  },
-  {
-    "english": "Herbivore",
-    "thai": "สัตว์กินพืช",
-    "phonetic": ""
-  },
-  {
-    "english": "Serverless",
-    "thai": "ไร้เซิร์ฟเวอร์",
+    "english": "Carnivore",
+    "thai": "สัตว์กินเนื้อ",
     "phonetic": ""
   },
   {
@@ -435,18 +205,43 @@
     "phonetic": ""
   },
   {
-    "english": "Insect",
-    "thai": "แมลง",
+    "english": "Natural language processing",
+    "thai": "การประมวลผลภาษาธรรมชาติ",
     "phonetic": ""
   },
   {
-    "english": "Data science",
-    "thai": "วิทยาศาสตร์ข้อมูล",
+    "english": "Predator",
+    "thai": "นักล่า",
     "phonetic": ""
   },
   {
-    "english": "Forest",
-    "thai": "ป่า",
+    "english": "Data visualization",
+    "thai": "การแสดงภาพข้อมูล",
+    "phonetic": ""
+  },
+  {
+    "english": "Climate change",
+    "thai": "การเปลี่ยนแปลงสภาพภูมิอากาศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Initial Coin Offering",
+    "thai": "การเสนอขายเหรียญครั้งแรก",
+    "phonetic": ""
+  },
+  {
+    "english": "Pollution",
+    "thai": "มลพิษ",
+    "phonetic": ""
+  },
+  {
+    "english": "Flagship species",
+    "thai": "สายพันธุ์เรือธง",
+    "phonetic": ""
+  },
+  {
+    "english": "Serverless",
+    "thai": "ไร้เซิร์ฟเวอร์",
     "phonetic": ""
   },
   {
@@ -455,18 +250,58 @@
     "phonetic": ""
   },
   {
-    "english": "Habitat",
-    "thai": "ที่อยู่อาศัย",
+    "english": "Ecosystem",
+    "thai": "ระบบนิเวศ",
     "phonetic": ""
   },
   {
-    "english": "Biodiversity",
-    "thai": "ความหลากหลายทางชีวภาพ",
+    "english": "Plant",
+    "thai": "ปลูก",
     "phonetic": ""
   },
   {
-    "english": "Carnivore",
-    "thai": "สัตว์กินเนื้อ",
+    "english": "Nature",
+    "thai": "ธรรมชาติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Greenhouse effect",
+    "thai": "ปรากฏการณ์เรือนกระจก",
+    "phonetic": ""
+  },
+  {
+    "english": "Tree",
+    "thai": "ต้นไม้",
+    "phonetic": ""
+  },
+  {
+    "english": "Extinction",
+    "thai": "การสูญพันธุ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Ethereum",
+    "thai": "อีเธอเรียม",
+    "phonetic": ""
+  },
+  {
+    "english": "Flower",
+    "thai": "ดอกไม้",
+    "phonetic": ""
+  },
+  {
+    "english": "Food chain",
+    "thai": "ห่วงโซ่อาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Sun",
+    "thai": "ดวงอาทิตย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Biomass",
+    "thai": "ชีวมวล",
     "phonetic": ""
   },
   {
@@ -475,28 +310,193 @@
     "phonetic": ""
   },
   {
+    "english": "5G",
+    "thai": "5จี",
+    "phonetic": ""
+  },
+  {
+    "english": "Machine learning",
+    "thai": "การเรียนรู้ของเครื่องจักร",
+    "phonetic": ""
+  },
+  {
+    "english": "Omnivore",
+    "thai": "สัตว์กินทั้งพืชและสัตว์",
+    "phonetic": ""
+  },
+  {
+    "english": "Environment",
+    "thai": "สิ่งแวดล้อม",
+    "phonetic": ""
+  },
+  {
+    "english": "Foundation species",
+    "thai": "สายพันธุ์พื้นฐาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Sensor",
+    "thai": "เซ็นเซอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Natural gas",
+    "thai": "ก๊าซธรรมชาติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Consumer",
+    "thai": "ผู้บริโภค",
+    "phonetic": ""
+  },
+  {
+    "english": "Sea",
+    "thai": "ทะเล",
+    "phonetic": ""
+  },
+  {
+    "english": "Neural network",
+    "thai": "เครือข่ายประสาท",
+    "phonetic": ""
+  },
+  {
+    "english": "Recycling",
+    "thai": "การรีไซเคิล",
+    "phonetic": ""
+  },
+  {
+    "english": "Drone",
+    "thai": "โดรน",
+    "phonetic": ""
+  },
+  {
+    "english": "Mixed reality",
+    "thai": "ความจริงแบบผสมผสาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Deep learning",
+    "thai": "การเรียนรู้เชิงลึก",
+    "phonetic": ""
+  },
+  {
+    "english": "Security Token Offering",
+    "thai": "การเสนอโทเค็นความปลอดภัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Forest",
+    "thai": "ป่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Sky",
+    "thai": "ท้องฟ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Data analysis",
+    "thai": "การวิเคราะห์ข้อมูล",
+    "phonetic": ""
+  },
+  {
+    "english": "Data science",
+    "thai": "วิทยาศาสตร์ข้อมูล",
+    "phonetic": ""
+  },
+  {
+    "english": "Umbrella species",
+    "thai": "พันธุ์ไม้ร่ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Decentralized Application",
+    "thai": "แอปพลิเคชันแบบกระจายอำนาจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Oil",
+    "thai": "น้ำมัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Habitat",
+    "thai": "ที่อยู่อาศัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Internet of Things",
+    "thai": "อินเทอร์เน็ตของสรรพสิ่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Token",
+    "thai": "โทเค็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Fossil fuels",
+    "thai": "เชื้อเพลิงฟอสซิล",
+    "phonetic": ""
+  },
+  {
+    "english": "Herbivore",
+    "thai": "สัตว์กินพืช",
+    "phonetic": ""
+  },
+  {
+    "english": "Edge computing",
+    "thai": "การประมวลผลแบบเอจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Ocean",
+    "thai": "มหาสมุทร",
+    "phonetic": ""
+  },
+  {
+    "english": "Wind power",
+    "thai": "พลังงานลม",
+    "phonetic": ""
+  },
+  {
+    "english": "Initial DEX Offering",
+    "thai": "การเสนอขาย DEX ครั้งแรก",
+    "phonetic": ""
+  },
+  {
     "english": "Producer",
     "thai": "โปรดิวเซอร์",
     "phonetic": ""
   },
   {
+    "english": "Solar power",
+    "thai": "พลังงานแสงอาทิตย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Web3",
+    "thai": "เว็บ3",
+    "phonetic": ""
+  },
+  {
+    "english": "Smart contract",
+    "thai": "สัญญาอัจฉริยะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Biodiversity",
+    "thai": "ความหลากหลายทางชีวภาพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Renewable energy",
+    "thai": "พลังงานหมุนเวียน",
+    "phonetic": ""
+  },
+  {
     "english": "Composting",
     "thai": "การทำปุ๋ยหมัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Ecosystem",
-    "thai": "ระบบนิเวศ",
-    "phonetic": ""
-  },
-  {
-    "english": "Invasive species",
-    "thai": "สายพันธุ์ต่างถิ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Initial Coin Offering",
-    "thai": "การเสนอขายเหรียญครั้งแรก",
     "phonetic": ""
   }
 ]

@@ -639,34 +639,40 @@
       "name_th": "คำศัพท์ IELTS",
       "lessons": [
         {
-          "name": "Ielts Vocabulary  Lesson 1",
-          "name_th": "คำศัพท์ IELTS",
+          "name": "IELTS Vocabulary: Lesson 1",
+          "name_th": "คำศัพท์ IELTS: บทที่ 1",
           "file": "english/ielts_vocabulary/ielts_vocabulary__lesson_1.json",
           "isReview": false
         },
         {
-          "name": "Ielts Vocabulary  Lesson 2",
-          "name_th": "คำศัพท์ IELTS",
+          "name": "IELTS Vocabulary: Lesson 2",
+          "name_th": "คำศัพท์ IELTS: บทที่ 2",
           "file": "english/ielts_vocabulary/ielts_vocabulary__lesson_2.json",
           "isReview": false
         },
         {
-          "name": "Ielts Vocabulary  Lesson 3",
-          "name_th": "คำศัพท์ IELTS",
+          "name": "IELTS Vocabulary: Lesson 3",
+          "name_th": "คำศัพท์ IELTS: บทที่ 3",
           "file": "english/ielts_vocabulary/ielts_vocabulary__lesson_3.json",
           "isReview": false
         },
         {
-          "name": "Ielts Vocabulary  Lesson 4",
-          "name_th": "คำศัพท์ IELTS",
+          "name": "IELTS Vocabulary: Lesson 4",
+          "name_th": "คำศัพท์ IELTS: บทที่ 4",
           "file": "english/ielts_vocabulary/ielts_vocabulary__lesson_4.json",
           "isReview": false
         },
         {
-          "name": "Ielts Vocabulary  Lesson 5",
-          "name_th": "คำศัพท์ IELTS",
+          "name": "IELTS Vocabulary: Lesson 5",
+          "name_th": "คำศัพท์ IELTS: บทที่ 5",
           "file": "english/ielts_vocabulary/ielts_vocabulary__lesson_5.json",
           "isReview": false
+        },
+        {
+          "name": "IELTS Vocabulary: Review 1-5",
+          "name_th": "ทบทวน: บทที่ 1-5",
+          "file": "english/ielts_vocabulary/ielts_vocabulary__review_1-5.json",
+          "isReview": true
         }
       ]
     },
@@ -837,64 +843,76 @@
       "name_th": "HSK 1",
       "lessons": [
         {
-          "name": "Hsk 1  Lesson 10",
-          "name_th": "HSK 1",
+          "name": "HSK 1: Lesson 1",
+          "name_th": "HSK 1: บทที่ 1",
           "file": "chinese/hsk_1/hsk_1__lesson_10.json",
           "isReview": false
         },
         {
-          "name": "Hsk 1  Lesson 2",
-          "name_th": "HSK 1",
+          "name": "HSK 1: Lesson 2",
+          "name_th": "HSK 1: บทที่ 2",
           "file": "chinese/hsk_1/hsk_1__lesson_2.json",
           "isReview": false
         },
         {
-          "name": "Hsk 1  Lesson 3",
-          "name_th": "HSK 1",
+          "name": "HSK 1: Lesson 3",
+          "name_th": "HSK 1: บทที่ 3",
           "file": "chinese/hsk_1/hsk_1__lesson_3.json",
           "isReview": false
         },
         {
-          "name": "Hsk 1  Lesson 4",
-          "name_th": "HSK 1",
+          "name": "HSK 1: Lesson 4",
+          "name_th": "HSK 1: บทที่ 4",
           "file": "chinese/hsk_1/hsk_1__lesson_4.json",
           "isReview": false
         },
         {
-          "name": "Hsk 1  Lesson 5",
-          "name_th": "HSK 1",
+          "name": "HSK 1: Lesson 5",
+          "name_th": "HSK 1: บทที่ 5",
           "file": "chinese/hsk_1/hsk_1__lesson_5.json",
           "isReview": false
         },
         {
-          "name": "Hsk 1  Lesson 6",
-          "name_th": "HSK 1",
+          "name": "HSK 1: Review 1-5",
+          "name_th": "ทบทวน: บทที่ 1-5",
+          "file": "chinese/hsk_1/hsk_1__review_1-5.json",
+          "isReview": true
+        },
+        {
+          "name": "HSK 1: Lesson 6",
+          "name_th": "HSK 1: บทที่ 6",
           "file": "chinese/hsk_1/hsk_1__lesson_6.json",
           "isReview": false
         },
         {
-          "name": "Hsk 1  Lesson 7",
-          "name_th": "HSK 1",
+          "name": "HSK 1: Lesson 7",
+          "name_th": "HSK 1: บทที่ 7",
           "file": "chinese/hsk_1/hsk_1__lesson_7.json",
           "isReview": false
         },
         {
-          "name": "Hsk 1  Lesson 8",
-          "name_th": "HSK 1",
+          "name": "HSK 1: Lesson 8",
+          "name_th": "HSK 1: บทที่ 8",
           "file": "chinese/hsk_1/hsk_1__lesson_8.json",
           "isReview": false
         },
         {
-          "name": "Hsk 1  Lesson 9",
-          "name_th": "HSK 1",
+          "name": "HSK 1: Lesson 9",
+          "name_th": "HSK 1: บทที่ 9",
           "file": "chinese/hsk_1/hsk_1__lesson_9.json",
           "isReview": false
         },
         {
-          "name": "Hsk 1  Part 1",
-          "name_th": "HSK 1",
+          "name": "HSK 1: Lesson 10",
+          "name_th": "HSK 1: บทที่ 10",
           "file": "chinese/hsk_1/hsk_1__part_1.json",
           "isReview": false
+        },
+        {
+          "name": "HSK 1: Review 6-10",
+          "name_th": "ทบทวน: บทที่ 6-10",
+          "file": "chinese/hsk_1/hsk_1__review_6-10.json",
+          "isReview": true
         }
       ]
     },

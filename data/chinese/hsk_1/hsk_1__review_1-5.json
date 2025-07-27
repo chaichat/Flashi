@@ -1,0 +1,377 @@
+[
+  {
+    "chinese": "北京",
+    "thai": "ปักกิ่ง",
+    "pinyin": "Běijīng"
+  },
+  {
+    "chinese": "上",
+    "thai": "บน",
+    "pinyin": "shàng"
+  },
+  {
+    "chinese": "米饭",
+    "thai": "ข้าวสวย",
+    "pinyin": "mǐfàn"
+  },
+  {
+    "chinese": "来",
+    "thai": "มา",
+    "pinyin": "lái"
+  },
+  {
+    "chinese": "中国",
+    "thai": "ประเทศจีน",
+    "pinyin": "Zhōngguó"
+  },
+  {
+    "chinese": "牛奶",
+    "thai": "นม",
+    "pinyin": "niúnǎi"
+  },
+  {
+    "chinese": "看",
+    "thai": "ดู",
+    "pinyin": "kàn"
+  },
+  {
+    "chinese": "写",
+    "thai": "เขียน",
+    "pinyin": "xiě"
+  },
+  {
+    "chinese": "白",
+    "thai": "ขาว",
+    "pinyin": "bái"
+  },
+  {
+    "chinese": "绿",
+    "thai": "เขียว",
+    "pinyin": "lǜ"
+  },
+  {
+    "chinese": "大",
+    "thai": "ใหญ่",
+    "pinyin": "dà"
+  },
+  {
+    "chinese": "这",
+    "thai": "นี่",
+    "pinyin": "zhè"
+  },
+  {
+    "chinese": "站",
+    "thai": "ยืน",
+    "pinyin": "zhàn"
+  },
+  {
+    "chinese": "面包",
+    "thai": "ขนมปัง",
+    "pinyin": "miànbāo"
+  },
+  {
+    "chinese": "什么",
+    "thai": "อะไร",
+    "pinyin": "shénme"
+  },
+  {
+    "chinese": "红",
+    "thai": "แดง",
+    "pinyin": "hóng"
+  },
+  {
+    "chinese": "饭店",
+    "thai": "ร้านอาหาร/โรงแรม",
+    "pinyin": "fàndiàn"
+  },
+  {
+    "chinese": "有",
+    "thai": "มี",
+    "pinyin": "yǒu"
+  },
+  {
+    "chinese": "香蕉",
+    "thai": "กล้วย",
+    "pinyin": "xiāngjiāo"
+  },
+  {
+    "chinese": "那",
+    "thai": "นั่น",
+    "pinyin": "nà"
+  },
+  {
+    "chinese": "果汁",
+    "thai": "น้ำผลไม้",
+    "pinyin": "guǒzhī"
+  },
+  {
+    "chinese": "吗",
+    "thai": "ไหม (คำถาม)",
+    "pinyin": "ma"
+  },
+  {
+    "chinese": "多少",
+    "thai": "เท่าไหร่",
+    "pinyin": "duōshao"
+  },
+  {
+    "chinese": "这儿",
+    "thai": "ที่นี่",
+    "pinyin": "zhèr"
+  },
+  {
+    "chinese": "家",
+    "thai": "บ้าน",
+    "pinyin": "jiā"
+  },
+  {
+    "chinese": "学校",
+    "thai": "โรงเรียน",
+    "pinyin": "xuéxiào"
+  },
+  {
+    "chinese": "鸡蛋",
+    "thai": "ไข่",
+    "pinyin": "jīdàn"
+  },
+  {
+    "chinese": "茶",
+    "thai": "ชา",
+    "pinyin": "chá"
+  },
+  {
+    "chinese": "啤酒",
+    "thai": "เบียร์",
+    "pinyin": "píjiǔ"
+  },
+  {
+    "chinese": "黄",
+    "thai": "เหลือง",
+    "pinyin": "huáng"
+  },
+  {
+    "chinese": "跑",
+    "thai": "วิ่ง",
+    "pinyin": "pǎo"
+  },
+  {
+    "chinese": "面条",
+    "thai": "บะหมี่",
+    "pinyin": "miàntiáo"
+  },
+  {
+    "chinese": "学习",
+    "thai": "เรียน",
+    "pinyin": "xuéxí"
+  },
+  {
+    "chinese": "火车站",
+    "thai": "สถานีรถไฟ",
+    "pinyin": "huǒchēzhàn"
+  },
+  {
+    "chinese": "坐",
+    "thai": "นั่ง",
+    "pinyin": "zuò"
+  },
+  {
+    "chinese": "哪儿",
+    "thai": "ที่ไหน",
+    "pinyin": "nǎr"
+  },
+  {
+    "chinese": "下",
+    "thai": "ล่าง",
+    "pinyin": "xià"
+  },
+  {
+    "chinese": "颜色",
+    "thai": "สี",
+    "pinyin": "yánsè"
+  },
+  {
+    "chinese": "几",
+    "thai": "กี่ (จำนวนน้อย)",
+    "pinyin": "jǐ"
+  },
+  {
+    "chinese": "走",
+    "thai": "เดิน",
+    "pinyin": "zǒu"
+  },
+  {
+    "chinese": "苹果",
+    "thai": "แอปเปิ้ล",
+    "pinyin": "píngguǒ"
+  },
+  {
+    "chinese": "水果",
+    "thai": "ผลไม้",
+    "pinyin": "shuǐguǒ"
+  },
+  {
+    "chinese": "鱼",
+    "thai": "ปลา",
+    "pinyin": "yú"
+  },
+  {
+    "chinese": "喜欢",
+    "thai": "ชอบ",
+    "pinyin": "xǐhuan"
+  },
+  {
+    "chinese": "开车",
+    "thai": "ขับรถ",
+    "pinyin": "kāichē"
+  },
+  {
+    "chinese": "读",
+    "thai": "อ่าน",
+    "pinyin": "dú"
+  },
+  {
+    "chinese": "黑",
+    "thai": "ดำ",
+    "pinyin": "hēi"
+  },
+  {
+    "chinese": "美国",
+    "thai": "ประเทศอเมริกา",
+    "pinyin": "Měiguó"
+  },
+  {
+    "chinese": "吃",
+    "thai": "กิน",
+    "pinyin": "chī"
+  },
+  {
+    "chinese": "前",
+    "thai": "หน้า",
+    "pinyin": "qián"
+  },
+  {
+    "chinese": "呢",
+    "thai": "ล่ะ (คำถาม)",
+    "pinyin": "ne"
+  },
+  {
+    "chinese": "穿",
+    "thai": "ใส่ (เสื้อผ้า)",
+    "pinyin": "chuān"
+  },
+  {
+    "chinese": "去",
+    "thai": "ไป",
+    "pinyin": "qù"
+  },
+  {
+    "chinese": "医院",
+    "thai": "โรงพยาบาล",
+    "pinyin": "yīyuàn"
+  },
+  {
+    "chinese": "谁",
+    "thai": "ใคร",
+    "pinyin": "shéi"
+  },
+  {
+    "chinese": "没有",
+    "thai": "ไม่มี",
+    "pinyin": "méiyǒu"
+  },
+  {
+    "chinese": "蓝",
+    "thai": "น้ำเงิน",
+    "pinyin": "lán"
+  },
+  {
+    "chinese": "肉",
+    "thai": "เนื้อ",
+    "pinyin": "ròu"
+  },
+  {
+    "chinese": "泰国",
+    "thai": "ประเทศไทย",
+    "pinyin": "Tàiguó"
+  },
+  {
+    "chinese": "可乐",
+    "thai": "โค้ก",
+    "pinyin": "kělè"
+  },
+  {
+    "chinese": "那儿",
+    "thai": "ที่นั่น",
+    "pinyin": "nàr"
+  },
+  {
+    "chinese": "菜",
+    "thai": "กับข้าว/ผัก",
+    "pinyin": "cài"
+  },
+  {
+    "chinese": "说",
+    "thai": "พูด",
+    "pinyin": "shuō"
+  },
+  {
+    "chinese": "们",
+    "thai": "พวก (คำเสริมท้าย)",
+    "pinyin": "men"
+  },
+  {
+    "chinese": "喝",
+    "thai": "ดื่ม",
+    "pinyin": "hē"
+  },
+  {
+    "chinese": "很",
+    "thai": "มาก",
+    "pinyin": "hěn"
+  },
+  {
+    "chinese": "飞机场",
+    "thai": "สนามบิน",
+    "pinyin": "fēijīchǎng"
+  },
+  {
+    "chinese": "商店",
+    "thai": "ร้านค้า",
+    "pinyin": "shāngdiàn"
+  },
+  {
+    "chinese": "后",
+    "thai": "หลัง",
+    "pinyin": "hòu"
+  },
+  {
+    "chinese": "咖啡",
+    "thai": "กาแฟ",
+    "pinyin": "kāfēi"
+  },
+  {
+    "chinese": "听",
+    "thai": "ฟัง",
+    "pinyin": "tīng"
+  },
+  {
+    "chinese": "漂亮",
+    "thai": "สวย",
+    "pinyin": "piàoliang"
+  },
+  {
+    "chinese": "饭",
+    "thai": "ข้าว",
+    "pinyin": "fàn"
+  },
+  {
+    "chinese": "小",
+    "thai": "เล็ก",
+    "pinyin": "xiǎo"
+  },
+  {
+    "chinese": "个",
+    "thai": "ตัว/อัน (ลักษณะนาม)",
+    "pinyin": "gè"
+  }
+]

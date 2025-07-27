@@ -1,142 +1,7 @@
 [
   {
-    "chinese": "我能用手机支付吗",
-    "thai": "ฉันสามารถชำระเงินด้วยโทรศัพท์มือถือได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "固定受伤部位",
-    "thai": "ตรึงส่วนที่ได้รับบาดเจ็บ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "谁负责",
-    "thai": "ใครเป็นผู้รับผิดชอบ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我能作证",
-    "thai": "ฉันสามารถเป็นพยานได้",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我有一个视频",
-    "thai": "ฉันมีวีดีโอ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "谢谢你的服务",
-    "thai": "ขอบคุณสำหรับการบริการของคุณ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我不吃猪肉",
-    "thai": "ฉันไม่กินหมู",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "请给我账单",
-    "thai": "กรุณาส่งบิลให้ฉันด้วย",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我有一张照片",
-    "thai": "ฉันมีรูปถ่าย",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你的警号是多少",
-    "thai": "หมายเลขตำรวจของคุณคืออะไร?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "食物太苦了",
-    "thai": "อาหารขมเกินไป",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你推荐什么",
-    "thai": "คุณแนะนำเมนูใด",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "食物太咸了",
-    "thai": "อาหารเค็มเกินไป",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "食物太酸了",
-    "thai": "อาหารเปรี้ยวเกินไป",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我对坚果过敏",
-    "thai": "ฉันแพ้ถั่ว",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "不要动",
-    "thai": "อย่าขยับ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我想吃",
-    "thai": "ฉันอยากกิน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "呼救",
-    "thai": "เรียกขอความช่วยเหลือ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我能刷卡吗",
-    "thai": "ฉันสามารถชำระเงินด้วยบัตรเครดิตได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "挥手求救",
-    "thai": "โบกมือขอความช่วยเหลือ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "保持静止",
-    "thai": "อยู่นิ่งๆ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我能和经理谈谈吗",
-    "thai": "ฉันสามารถพูดคุยกับผู้จัดการได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我能描述那辆车",
-    "thai": "ฉันสามารถอธิบายรถคันนั้นได้",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "食物很美味",
-    "thai": "อาหารอร่อย",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我渴了",
-    "thai": "ฉันกระหายน้ำ",
-    "pinyin": "missing pinyin"
-  },
-  {
     "chinese": "能给我多一点餐巾纸吗",
     "thai": "ฉันขอผ้าเช็ดปากเพิ่มได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "非常棒",
-    "thai": "ดีมาก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "能给我多一点面包吗",
-    "thai": "คุณให้ขนมปังฉันเพิ่มอีกได้ไหม?",
     "pinyin": "missing pinyin"
   },
   {
@@ -145,8 +10,18 @@
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "我很享受这顿饭",
-    "thai": "ฉันมีความสุขกับมื้ออาหารนี้",
+    "chinese": "保持温暖",
+    "thai": "อยู่ให้อบอุ่น",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "大家都安全吗",
+    "thai": "ทุกคนปลอดภัยดีมั้ย?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我能付现金吗",
+    "thai": "ฉันสามารถชำระเป็นเงินสดได้ไหม?",
     "pinyin": "missing pinyin"
   },
   {
@@ -155,123 +30,23 @@
     "pinyin": "missing pinyin"
   },
   {
+    "chinese": "我需要做笔录",
+    "thai": "ฉันต้องจดบันทึก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "发出信号",
+    "thai": "การส่งสัญญาณ",
+    "pinyin": "missing pinyin"
+  },
+  {
     "chinese": "使用信号弹",
     "thai": "ใช้แฟลร์",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "能给我一个盘子吗",
-    "thai": "ขอจานนึงได้มั้ย?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我是素食主义者",
-    "thai": "ฉันเป็นมังสวิรัติ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "这不是我点的菜",
-    "thai": "นี่ไม่ใช่คำสั่งของฉัน",
-    "pinyin": "missing pinyin"
-  },
-  {
     "chinese": "使用镜子",
     "thai": "ใช้กระจก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "能给我一个外卖盒吗",
-    "thai": "ฉันสามารถรับกล่องกลับบ้านได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我明白了",
-    "thai": "ฉันเห็น",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "请重复一遍",
-    "thai": "กรุณาพูดซ้ำอีกครั้ง",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "食物刚刚好",
-    "thai": "อาหารก็อร่อยพอดี",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "抬高肢体",
-    "thai": "ยกแขนขาขึ้น",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "这道菜是冷的吗",
-    "thai": "จานนี้เสิร์ฟเย็นใช่ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "食物太辣了",
-    "thai": "อาหารรสเผ็ดมาก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "能给我一个叉子吗",
-    "thai": "ฉันขอส้อมหน่อยได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "发生什么事了",
-    "thai": "เกิดอะไรขึ้น",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "给水",
-    "thai": "การประปา",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你能做辣一点吗",
-    "thai": "เผ็ดได้ไหมคะ?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "这是怎么发生的",
-    "thai": "เรื่องนี้เกิดขึ้นได้อย่างไร",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "大声呼救",
-    "thai": "ตะโกนขอความช่วยเหลือ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我能要一份报告副本吗",
-    "thai": "ฉันขอสำเนารายงานได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我是纯素食主义者",
-    "thai": "ฉันเป็นมังสวิรัติ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "能给我一个杯子吗",
-    "thai": "ขอสักถ้วยได้ไหมคะ?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "能给我一个吸管吗",
-    "thai": "ฉันขอหลอดได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "能给我一个打包盒吗",
-    "thai": "คุณให้กล่องแพ็คให้ฉันได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "保持温暖",
-    "thai": "อยู่ให้อบอุ่น",
     "pinyin": "missing pinyin"
   },
   {
@@ -285,38 +60,8 @@
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "我能描述那个人",
-    "thai": "ฉันสามารถอธิบายบุคคลนั้นได้",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我能付现金吗",
-    "thai": "ฉันสามารถชำระเป็นเงินสดได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我能打折吗",
-    "thai": "ฉันจะได้รับส่วนลดไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "大家都安全吗",
-    "thai": "ทุกคนปลอดภัยดีมั้ย?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我想投诉",
-    "thai": "ฉันต้องการร้องเรียน",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "能给我一杯茶吗",
-    "thai": "ฉันขอชาสักถ้วยได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我喜欢吃辣",
-    "thai": "ฉันชอบอาหารรสเผ็ด",
+    "chinese": "我渴了",
+    "thai": "ฉันกระหายน้ำ",
     "pinyin": "missing pinyin"
   },
   {
@@ -325,8 +70,8 @@
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "你能做淡一点吗",
-    "thai": "คุณสามารถทำให้มันเบากว่านี้ได้ไหม?",
+    "chinese": "谢谢你的服务",
+    "thai": "ขอบคุณสำหรับการบริการของคุณ",
     "pinyin": "missing pinyin"
   },
   {
@@ -335,78 +80,23 @@
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "我不吃牛肉",
-    "thai": "ฉันไม่กินเนื้อวัว",
+    "chinese": "不要给水",
+    "thai": "อย่าให้น้ำ",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "使用哨子",
-    "thai": "การใช้เสียงนกหวีด",
+    "chinese": "我不吃鱼",
+    "thai": "ฉันไม่กินปลา",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "今天有什么特色菜",
-    "thai": "วันนี้มีเมนูพิเศษอะไรคะ?",
+    "chinese": "我是纯素食主义者",
+    "thai": "ฉันเป็นมังสวิรัติ",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "我看到了",
-    "thai": "ฉันเห็น",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "谢谢这顿饭",
-    "thai": "ขอบคุณสำหรับมื้ออาหาร",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "能给我筷子吗",
-    "thai": "คุณให้ตะเกียบฉันได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我还是饿",
-    "thai": "ฉันยังหิวอยู่",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我想表扬",
-    "thai": "ฉันอยากจะสรรเสริญ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我需要做笔录",
-    "thai": "ฉันต้องจดบันทึก",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我不喜欢",
-    "thai": "ฉันไม่ชอบ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "听从指示",
-    "thai": "ปฏิบัติตามคำแนะนำ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "能给我续杯吗",
-    "thai": "ฉันสามารถขอเติมได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "你们有会员计划吗",
-    "thai": "คุณมีโปรแกรมสมาชิกหรือไม่?",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "发出信号",
-    "thai": "การส่งสัญญาณ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我不喜欢吃辣",
-    "thai": "ฉันไม่ชอบอาหารรสเผ็ด",
+    "chinese": "挥手求救",
+    "thai": "โบกมือขอความช่วยเหลือ",
     "pinyin": "missing pinyin"
   },
   {
@@ -415,58 +105,63 @@
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "不要惊慌",
-    "thai": "อย่าตื่นตกใจ",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "我饱了",
-    "thai": "ฉันอิ่มแล้ว",
-    "pinyin": "missing pinyin"
-  },
-  {
-    "chinese": "能给我多一点米饭吗",
-    "thai": "ฉันขอข้าวเพิ่มได้ไหม?",
-    "pinyin": "missing pinyin"
-  },
-  {
     "chinese": "食物太甜了",
     "thai": "อาหารหวานเกินไป",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "保持可见",
-    "thai": "อยู่ให้มองเห็นได้",
+    "chinese": "我想投诉",
+    "thai": "ฉันต้องการร้องเรียน",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "这道菜是热的吗",
-    "thai": "จานนี้เสิร์ฟร้อนไหมคะ?",
+    "chinese": "发生什么事了",
+    "thai": "เกิดอะไรขึ้น",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "我不明白",
-    "thai": "ฉันไม่เข้าใจ",
+    "chinese": "抬高肢体",
+    "thai": "ยกแขนขาขึ้น",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "包含服务费吗",
-    "thai": "รวมค่าบริการแล้วหรือเปล่า?",
+    "chinese": "使用哨子",
+    "thai": "การใช้เสียงนกหวีด",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "保持冷静",
-    "thai": "ใจเย็นๆ",
+    "chinese": "我有一个视频",
+    "thai": "ฉันมีวีดีโอ",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "不要给水",
-    "thai": "อย่าให้น้ำ",
+    "chinese": "食物太辣了",
+    "thai": "อาหารรสเผ็ดมาก",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "能给我一个碗吗",
-    "thai": "ขอชามนึงได้มั้ย?",
+    "chinese": "能给我一个打包盒吗",
+    "thai": "คุณให้กล่องแพ็คให้ฉันได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我不吃牛肉",
+    "thai": "ฉันไม่กินเนื้อวัว",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我不吃猪肉",
+    "thai": "ฉันไม่กินหมู",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我对坚果过敏",
+    "thai": "ฉันแพ้ถั่ว",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "食物很美味",
+    "thai": "อาหารอร่อย",
     "pinyin": "missing pinyin"
   },
   {
@@ -475,13 +170,93 @@
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "你能解释一下吗",
-    "thai": "คุณสามารถอธิบายเรื่องนี้ได้ไหม?",
+    "chinese": "我明白了",
+    "thai": "ฉันเห็น",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "能给我多一点水吗",
-    "thai": "คุณช่วยเติมน้ำให้ฉันอีกหน่อยได้ไหม?",
+    "chinese": "我能作证",
+    "thai": "ฉันสามารถเป็นพยานได้",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "请重复一遍",
+    "thai": "กรุณาพูดซ้ำอีกครั้ง",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我喜欢吃辣",
+    "thai": "ฉันชอบอาหารรสเผ็ด",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我不喜欢吃辣",
+    "thai": "ฉันไม่ชอบอาหารรสเผ็ด",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你的警号是多少",
+    "thai": "หมายเลขตำรวจของคุณคืออะไร?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你推荐什么",
+    "thai": "คุณแนะนำเมนูใด",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "大声呼救",
+    "thai": "ตะโกนขอความช่วยเหลือ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "非常棒",
+    "thai": "ดีมาก",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你们有会员计划吗",
+    "thai": "คุณมีโปรแกรมสมาชิกหรือไม่?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "今天有什么特色菜",
+    "thai": "วันนี้มีเมนูพิเศษอะไรคะ?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "不要惊慌",
+    "thai": "อย่าตื่นตกใจ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我想吃",
+    "thai": "ฉันอยากกิน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "这不是我点的菜",
+    "thai": "นี่ไม่ใช่คำสั่งของฉัน",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我能用手机支付吗",
+    "thai": "ฉันสามารถชำระเงินด้วยโทรศัพท์มือถือได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我能刷卡吗",
+    "thai": "ฉันสามารถชำระเงินด้วยบัตรเครดิตได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "能给我一个杯子吗",
+    "thai": "ขอสักถ้วยได้ไหมคะ?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我看到了",
+    "thai": "ฉันเห็น",
     "pinyin": "missing pinyin"
   },
   {
@@ -490,13 +265,238 @@
     "pinyin": "missing pinyin"
   },
   {
+    "chinese": "能给我一个碗吗",
+    "thai": "ขอชามนึงได้มั้ย?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我能要一份报告副本吗",
+    "thai": "ฉันขอสำเนารายงานได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我有一张照片",
+    "thai": "ฉันมีรูปถ่าย",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我想表扬",
+    "thai": "ฉันอยากจะสรรเสริญ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "这道菜是冷的吗",
+    "thai": "จานนี้เสิร์ฟเย็นใช่ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "保持可见",
+    "thai": "อยู่ให้มองเห็นได้",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "请给我账单",
+    "thai": "กรุณาส่งบิลให้ฉันด้วย",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我很享受这顿饭",
+    "thai": "ฉันเพลิดเพลินกับมื้ออาหารนี้",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "能给我一个吸管吗",
+    "thai": "ฉันขอหลอดได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我不喜欢",
+    "thai": "ฉันไม่ชอบ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我还是饿",
+    "thai": "ฉันยังหิวอยู่",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "谢谢这顿饭",
+    "thai": "ขอบคุณสำหรับมื้ออาหาร",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "能给我多一点米饭吗",
+    "thai": "ฉันขอข้าวเพิ่มได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "食物太苦了",
+    "thai": "อาหารขมเกินไป",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "呼救",
+    "thai": "เรียกขอความช่วยเหลือ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "给水",
+    "thai": "การประปา",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "听从指示",
+    "thai": "ปฏิบัติตามคำแนะนำ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "食物刚刚好",
+    "thai": "อาหารก็อร่อยพอดี",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你能做辣一点吗",
+    "thai": "เผ็ดได้ไหมคะ?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我能和经理谈谈吗",
+    "thai": "ฉันสามารถพูดคุยกับผู้จัดการได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "能给我多一点水吗",
+    "thai": "คุณช่วยเติมน้ำให้ฉันอีกหน่อยได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我能描述那辆车",
+    "thai": "ฉันสามารถอธิบายรถได้",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "能给我一杯茶吗",
+    "thai": "ฉันขอชาสักถ้วยได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "谁负责",
+    "thai": "ใครเป็นผู้รับผิดชอบ",
+    "pinyin": "missing pinyin"
+  },
+  {
     "chinese": "能给我一把刀吗",
     "thai": "คุณให้มีดฉันได้ไหม?",
     "pinyin": "missing pinyin"
   },
   {
-    "chinese": "我不吃鱼",
-    "thai": "ฉันไม่กินปลา",
+    "chinese": "能给我一个盘子吗",
+    "thai": "ขอจานนึงได้มั้ย?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "能给我筷子吗",
+    "thai": "คุณให้ตะเกียบฉันได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "保持静止",
+    "thai": "อยู่นิ่งๆ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "这道菜是热的吗",
+    "thai": "จานนี้เสิร์ฟร้อนไหมคะ?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "能给我一个叉子吗",
+    "thai": "ฉันขอส้อมหน่อยได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "能给我多一点面包吗",
+    "thai": "คุณให้ขนมปังฉันเพิ่มอีกได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我饱了",
+    "thai": "ฉันอิ่มแล้ว",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "保持冷静",
+    "thai": "ใจเย็นๆ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "不要动",
+    "thai": "อย่าขยับ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "食物太酸了",
+    "thai": "อาหารเปรี้ยวเกินไป",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你能解释一下吗",
+    "thai": "คุณสามารถอธิบายเรื่องนี้ได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "这是怎么发生的",
+    "thai": "เรื่องนี้เกิดขึ้นได้อย่างไร",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "能给我一个外卖盒吗",
+    "thai": "ฉันสามารถรับกล่องกลับบ้านได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我不明白",
+    "thai": "ฉันไม่เข้าใจ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "你能做淡一点吗",
+    "thai": "คุณสามารถทำให้มันเบากว่านี้ได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我能打折吗",
+    "thai": "ฉันจะได้รับส่วนลดได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "固定受伤部位",
+    "thai": "ตรึงส่วนที่ได้รับบาดเจ็บ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我能描述那个人",
+    "thai": "ฉันสามารถอธิบายบุคคลนั้นได้",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "能给我续杯吗",
+    "thai": "ฉันสามารถขอเติมได้ไหม?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "我是素食主义者",
+    "thai": "ฉันเป็นมังสวิรัติ",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "包含服务费吗",
+    "thai": "รวมค่าบริการแล้วหรือเปล่า?",
+    "pinyin": "missing pinyin"
+  },
+  {
+    "chinese": "食物太咸了",
+    "thai": "อาหารเค็มเกินไป",
     "pinyin": "missing pinyin"
   }
 ]

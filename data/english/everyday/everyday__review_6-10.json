@@ -1,157 +1,7 @@
 [
   {
-    "english": "Management",
-    "thai": "การจัดการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Content",
-    "thai": "เนื้อหา",
-    "phonetic": ""
-  },
-  {
-    "english": "Grit",
-    "thai": "ขบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Bookkeeping",
-    "thai": "การทำบัญชี",
-    "phonetic": ""
-  },
-  {
-    "english": "Conversion",
-    "thai": "การแปลง",
-    "phonetic": ""
-  },
-  {
-    "english": "Forum",
-    "thai": "ฟอรั่ม",
-    "phonetic": ""
-  },
-  {
-    "english": "Problem-solving",
-    "thai": "การแก้ไขปัญหา",
-    "phonetic": ""
-  },
-  {
-    "english": "Handling",
-    "thai": "การจัดการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Referral",
-    "thai": "การอ้างอิง",
-    "phonetic": ""
-  },
-  {
-    "english": "Planning",
-    "thai": "การวางแผน",
-    "phonetic": ""
-  },
-  {
-    "english": "Flexibility",
-    "thai": "ความยืดหยุ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Follow-up",
-    "thai": "ติดตามผล",
-    "phonetic": ""
-  },
-  {
-    "english": "Resilience",
-    "thai": "ความยืดหยุ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Workflow",
-    "thai": "เวิร์กโฟลว์",
-    "phonetic": ""
-  },
-  {
-    "english": "Creativity",
-    "thai": "ความคิดสร้างสรรค์",
-    "phonetic": ""
-  },
-  {
-    "english": "Account",
-    "thai": "บัญชี",
-    "phonetic": ""
-  },
-  {
-    "english": "Tool",
-    "thai": "เครื่องมือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Search Engine Optimization",
-    "thai": "การเพิ่มประสิทธิภาพเครื่องมือค้นหา",
-    "phonetic": ""
-  },
-  {
-    "english": "Pipeline",
-    "thai": "ท่อส่งน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Introduction",
-    "thai": "การแนะนำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Case study",
-    "thai": "กรณีศึกษา",
-    "phonetic": ""
-  },
-  {
-    "english": "Marketing",
-    "thai": "การตลาด",
-    "phonetic": ""
-  },
-  {
-    "english": "Proposal",
-    "thai": "ข้อเสนอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Modeling",
-    "thai": "การสร้างแบบจำลอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Taxation",
-    "thai": "การจัดเก็บภาษี",
-    "phonetic": ""
-  },
-  {
-    "english": "Forecasting",
-    "thai": "การพยากรณ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Branding",
-    "thai": "การสร้างแบรนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Reporting",
-    "thai": "การรายงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Motivation",
-    "thai": "แรงจูงใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Auditing",
-    "thai": "การตรวจสอบบัญชี",
-    "phonetic": ""
-  },
-  {
-    "english": "Funnel",
-    "thai": "กรวย",
+    "english": "Community",
+    "thai": "ชุมชน",
     "phonetic": ""
   },
   {
@@ -160,213 +10,13 @@
     "phonetic": ""
   },
   {
-    "english": "Contact",
-    "thai": "ติดต่อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Innovation",
-    "thai": "นวัตกรรม",
+    "english": "Adaptability",
+    "thai": "ความสามารถในการปรับตัว",
     "phonetic": ""
   },
   {
     "english": "Public Relations",
     "thai": "ประชาสัมพันธ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Conference",
-    "thai": "การประชุม",
-    "phonetic": ""
-  },
-  {
-    "english": "Affiliate",
-    "thai": "พันธมิตร",
-    "phonetic": ""
-  },
-  {
-    "english": "Assurance",
-    "thai": "การรับประกัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Blog",
-    "thai": "บล็อก",
-    "phonetic": ""
-  },
-  {
-    "english": "International Financial Reporting Standards",
-    "thai": "มาตรฐานการรายงานทางการเงินระหว่างประเทศ",
-    "phonetic": ""
-  },
-  {
-    "english": "Relationship",
-    "thai": "ความสัมพันธ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Payroll",
-    "thai": "การจ่ายเงินเดือน",
-    "phonetic": ""
-  },
-  {
-    "english": "Lifetime Value",
-    "thai": "มูลค่าตลอดอายุการใช้งาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Podcast",
-    "thai": "พอดแคสต์",
-    "phonetic": ""
-  },
-  {
-    "english": "Return on Investment",
-    "thai": "ผลตอบแทนจากการลงทุน",
-    "phonetic": ""
-  },
-  {
-    "english": "Seminar",
-    "thai": "สัมมนา",
-    "phonetic": ""
-  },
-  {
-    "english": "Achievement",
-    "thai": "ความสำเร็จ",
-    "phonetic": ""
-  },
-  {
-    "english": "Leadership",
-    "thai": "ความเป็นผู้นำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Churn",
-    "thai": "ปั่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Collaboration",
-    "thai": "การทำงานร่วมกัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Event",
-    "thai": "เหตุการณ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Persistence",
-    "thai": "ความคงอยู่",
-    "phonetic": ""
-  },
-  {
-    "english": "Demonstration",
-    "thai": "สาธิต",
-    "phonetic": ""
-  },
-  {
-    "english": "Generally Accepted Accounting Principles",
-    "thai": "หลักการบัญชีที่ยอมรับโดยทั่วไป",
-    "phonetic": ""
-  },
-  {
-    "english": "Teamwork",
-    "thai": "การทำงานเป็นทีม",
-    "phonetic": ""
-  },
-  {
-    "english": "External",
-    "thai": "ภายนอก",
-    "phonetic": ""
-  },
-  {
-    "english": "Compliance",
-    "thai": "การปฏิบัติตาม",
-    "phonetic": ""
-  },
-  {
-    "english": "Guerilla",
-    "thai": "กองโจร",
-    "phonetic": ""
-  },
-  {
-    "english": "Testimonial",
-    "thai": "คำรับรอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Word-of-mouth",
-    "thai": "การบอกต่อแบบปากต่อปาก",
-    "phonetic": ""
-  },
-  {
-    "english": "Upsell",
-    "thai": "อัพเซลล์",
-    "phonetic": ""
-  },
-  {
-    "english": "Quota",
-    "thai": "โควต้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Vlog",
-    "thai": "วล็อก",
-    "phonetic": ""
-  },
-  {
-    "english": "Prospect",
-    "thai": "แนวโน้ม",
-    "phonetic": ""
-  },
-  {
-    "english": "Valuation",
-    "thai": "การประเมินมูลค่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Webinar",
-    "thai": "สัมมนาออนไลน์",
-    "phonetic": ""
-  },
-  {
-    "english": "Territory",
-    "thai": "อาณาเขต",
-    "phonetic": ""
-  },
-  {
-    "english": "Bonus",
-    "thai": "โบนัส",
-    "phonetic": ""
-  },
-  {
-    "english": "Social media",
-    "thai": "โซเชียลมีเดีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Finance",
-    "thai": "การเงิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Communication",
-    "thai": "การสื่อสาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Platform",
-    "thai": "แพลตฟอร์ม",
-    "phonetic": ""
-  },
-  {
-    "english": "Regulation",
-    "thai": "ระเบียบข้อบังคับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Automation",
-    "thai": "ระบบอัตโนมัติ",
     "phonetic": ""
   },
   {
@@ -380,73 +30,33 @@
     "phonetic": ""
   },
   {
-    "english": "Productivity",
-    "thai": "ผลผลิต",
+    "english": "Proposal",
+    "thai": "ข้อเสนอ",
     "phonetic": ""
   },
   {
-    "english": "Resource",
-    "thai": "ทรัพยากร",
+    "english": "Return on Investment",
+    "thai": "ผลตอบแทนจากการลงทุน",
     "phonetic": ""
   },
   {
-    "english": "Accounting",
-    "thai": "การบัญชี",
+    "english": "Forecasting",
+    "thai": "การพยากรณ์",
     "phonetic": ""
   },
   {
-    "english": "Search Engine Marketing",
-    "thai": "การตลาดเครื่องมือค้นหา",
+    "english": "Planning",
+    "thai": "การวางแผน",
     "phonetic": ""
   },
   {
-    "english": "Objection",
-    "thai": "การคัดค้าน",
+    "english": "Analytics",
+    "thai": "การวิเคราะห์",
     "phonetic": ""
   },
   {
-    "english": "Decision-making",
-    "thai": "การตัดสินใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Internal",
-    "thai": "ภายใน",
-    "phonetic": ""
-  },
-  {
-    "english": "Mobile",
-    "thai": "มือถือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Advocacy",
-    "thai": "การสนับสนุน",
-    "phonetic": ""
-  },
-  {
-    "english": "Workshop",
-    "thai": "เวิร์คช็อป",
-    "phonetic": ""
-  },
-  {
-    "english": "Adaptability",
-    "thai": "ความสามารถในการปรับตัว",
-    "phonetic": ""
-  },
-  {
-    "english": "Networking",
-    "thai": "การสร้างเครือข่าย",
-    "phonetic": ""
-  },
-  {
-    "english": "Copywriting",
-    "thai": "การเขียนบทโฆษณา",
-    "phonetic": ""
-  },
-  {
-    "english": "Cross-sell",
-    "thai": "การขายแบบไขว้",
+    "english": "Funnel",
+    "thai": "กรวย",
     "phonetic": ""
   },
   {
@@ -455,13 +65,38 @@
     "phonetic": ""
   },
   {
+    "english": "Taxation",
+    "thai": "การจัดเก็บภาษี",
+    "phonetic": ""
+  },
+  {
     "english": "Viral",
     "thai": "ไวรัล",
     "phonetic": ""
   },
   {
-    "english": "Community",
-    "thai": "ชุมชน",
+    "english": "Platform",
+    "thai": "แพลตฟอร์ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Copywriting",
+    "thai": "การเขียนบทโฆษณา",
+    "phonetic": ""
+  },
+  {
+    "english": "Objection",
+    "thai": "การคัดค้าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Valuation",
+    "thai": "การประเมินมูลค่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Workflow",
+    "thai": "เวิร์กโฟลว์",
     "phonetic": ""
   },
   {
@@ -470,13 +105,68 @@
     "phonetic": ""
   },
   {
-    "english": "Closing",
-    "thai": "การปิด",
+    "english": "Internal",
+    "thai": "ภายใน",
     "phonetic": ""
   },
   {
-    "english": "Awareness",
-    "thai": "การรับรู้",
+    "english": "Quota",
+    "thai": "โควต้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Forum",
+    "thai": "ฟอรั่ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Upsell",
+    "thai": "อัพเซลล์",
+    "phonetic": ""
+  },
+  {
+    "english": "Innovation",
+    "thai": "นวัตกรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Branding",
+    "thai": "การสร้างแบรนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Churn",
+    "thai": "ปั่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Teamwork",
+    "thai": "การทำงานเป็นทีม",
+    "phonetic": ""
+  },
+  {
+    "english": "Lifetime Value",
+    "thai": "มูลค่าตลอดอายุการใช้งาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Finance",
+    "thai": "การเงิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Bookkeeping",
+    "thai": "การทำบัญชี",
+    "phonetic": ""
+  },
+  {
+    "english": "Resource",
+    "thai": "ทรัพยากร",
+    "phonetic": ""
+  },
+  {
+    "english": "Blog",
+    "thai": "บล็อก",
     "phonetic": ""
   },
   {
@@ -485,8 +175,288 @@
     "phonetic": ""
   },
   {
+    "english": "Generally Accepted Accounting Principles",
+    "thai": "หลักการบัญชีที่ยอมรับโดยทั่วไป",
+    "phonetic": ""
+  },
+  {
+    "english": "Search Engine Marketing",
+    "thai": "การตลาดเครื่องมือค้นหา",
+    "phonetic": ""
+  },
+  {
+    "english": "Marketing",
+    "thai": "การตลาด",
+    "phonetic": ""
+  },
+  {
+    "english": "Relationship",
+    "thai": "ความสัมพันธ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Handling",
+    "thai": "การจัดการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Conversion",
+    "thai": "การแปลง",
+    "phonetic": ""
+  },
+  {
+    "english": "Accounting",
+    "thai": "การบัญชี",
+    "phonetic": ""
+  },
+  {
+    "english": "Conference",
+    "thai": "การประชุม",
+    "phonetic": ""
+  },
+  {
+    "english": "Advocacy",
+    "thai": "การสนับสนุน",
+    "phonetic": ""
+  },
+  {
+    "english": "Collaboration",
+    "thai": "การทำงานร่วมกัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Achievement",
+    "thai": "ความสำเร็จ",
+    "phonetic": ""
+  },
+  {
+    "english": "Closing",
+    "thai": "การปิด",
+    "phonetic": ""
+  },
+  {
+    "english": "Affiliate",
+    "thai": "พันธมิตร",
+    "phonetic": ""
+  },
+  {
+    "english": "Creativity",
+    "thai": "ความคิดสร้างสรรค์",
+    "phonetic": ""
+  },
+  {
+    "english": "Reporting",
+    "thai": "การรายงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Leadership",
+    "thai": "ความเป็นผู้นำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Territory",
+    "thai": "อาณาเขต",
+    "phonetic": ""
+  },
+  {
+    "english": "Word-of-mouth",
+    "thai": "การบอกต่อแบบปากต่อปาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Prospect",
+    "thai": "แนวโน้ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Webinar",
+    "thai": "สัมมนาออนไลน์",
+    "phonetic": ""
+  },
+  {
+    "english": "Auditing",
+    "thai": "การตรวจสอบบัญชี",
+    "phonetic": ""
+  },
+  {
+    "english": "Tool",
+    "thai": "เครื่องมือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Pipeline",
+    "thai": "ท่อส่งน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Modeling",
+    "thai": "การสร้างแบบจำลอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Automation",
+    "thai": "ระบบอัตโนมัติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Bonus",
+    "thai": "โบนัส",
+    "phonetic": ""
+  },
+  {
+    "english": "Introduction",
+    "thai": "การแนะนำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Search Engine Optimization",
+    "thai": "การเพิ่มประสิทธิภาพเครื่องมือค้นหา",
+    "phonetic": ""
+  },
+  {
+    "english": "Referral",
+    "thai": "การอ้างอิง",
+    "phonetic": ""
+  },
+  {
+    "english": "Assurance",
+    "thai": "การรับประกัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Motivation",
+    "thai": "แรงจูงใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Workshop",
+    "thai": "เวิร์คช็อป",
+    "phonetic": ""
+  },
+  {
+    "english": "Social media",
+    "thai": "โซเชียลมีเดีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Productivity",
+    "thai": "ผลผลิต",
+    "phonetic": ""
+  },
+  {
+    "english": "Management",
+    "thai": "การจัดการ",
+    "phonetic": ""
+  },
+  {
+    "english": "External",
+    "thai": "ภายนอก",
+    "phonetic": ""
+  },
+  {
+    "english": "Grit",
+    "thai": "ขบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Resilience",
+    "thai": "ความยืดหยุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Account",
+    "thai": "บัญชี",
+    "phonetic": ""
+  },
+  {
+    "english": "Podcast",
+    "thai": "พอดแคสต์",
+    "phonetic": ""
+  },
+  {
+    "english": "Persistence",
+    "thai": "ความคงอยู่",
+    "phonetic": ""
+  },
+  {
+    "english": "Regulation",
+    "thai": "ระเบียบข้อบังคับ",
+    "phonetic": ""
+  },
+  {
     "english": "Signature",
     "thai": "ลายเซ็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Decision-making",
+    "thai": "การตัดสินใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Compliance",
+    "thai": "การปฏิบัติตาม",
+    "phonetic": ""
+  },
+  {
+    "english": "Event",
+    "thai": "เหตุการณ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Seminar",
+    "thai": "สัมมนา",
+    "phonetic": ""
+  },
+  {
+    "english": "Vlog",
+    "thai": "วล็อก",
+    "phonetic": ""
+  },
+  {
+    "english": "Content",
+    "thai": "เนื้อหา",
+    "phonetic": ""
+  },
+  {
+    "english": "Flexibility",
+    "thai": "ความยืดหยุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Testimonial",
+    "thai": "คำรับรอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Contact",
+    "thai": "ติดต่อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Cross-sell",
+    "thai": "การขายแบบไขว้",
+    "phonetic": ""
+  },
+  {
+    "english": "Networking",
+    "thai": "การสร้างเครือข่าย",
+    "phonetic": ""
+  },
+  {
+    "english": "International Financial Reporting Standards",
+    "thai": "มาตรฐานการรายงานทางการเงินระหว่างประเทศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Demonstration",
+    "thai": "สาธิต",
+    "phonetic": ""
+  },
+  {
+    "english": "Mobile",
+    "thai": "มือถือ",
     "phonetic": ""
   },
   {
@@ -495,8 +465,38 @@
     "phonetic": ""
   },
   {
-    "english": "Analytics",
-    "thai": "การวิเคราะห์",
+    "english": "Case study",
+    "thai": "กรณีศึกษา",
+    "phonetic": ""
+  },
+  {
+    "english": "Guerilla",
+    "thai": "กองโจร",
+    "phonetic": ""
+  },
+  {
+    "english": "Communication",
+    "thai": "การสื่อสาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Problem-solving",
+    "thai": "การแก้ไขปัญหา",
+    "phonetic": ""
+  },
+  {
+    "english": "Follow-up",
+    "thai": "ติดตามผล",
+    "phonetic": ""
+  },
+  {
+    "english": "Payroll",
+    "thai": "การจ่ายเงินเดือน",
+    "phonetic": ""
+  },
+  {
+    "english": "Awareness",
+    "thai": "การรับรู้",
     "phonetic": ""
   }
 ]

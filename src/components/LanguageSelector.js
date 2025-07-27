@@ -46,10 +46,15 @@ class LanguageSelector {
         this.state.setCurrentLanguage(language);
         this.storageService.setLanguage(language);
         
-        // Warm up speech synthesis
+        // Android fix: Warm up speech synthesis with actual text in user gesture
         const speechService = this.router.app.speechService;
         if (speechService && !speechService.isSpeaking()) {
-            speechService.speak('', 'en-US');
+            // Use a very short, barely audible sound to enable speech on Android
+            speechService.speak('Hi', language === 'english' ? 'en-US' : 'zh-CN');
+            // Cancel immediately to make it silent but enable speech permissions
+            setTimeout(() => {
+                speechService.cancel();
+            }, 50);
         }
 
         this.router.navigateToCategories();

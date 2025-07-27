@@ -75,6 +75,18 @@ class SpeechService {
             return;
         }
 
+        // Android fix: Ensure voices are loaded before speaking
+        if (this.voices.length === 0) {
+            console.warn('Voices not loaded yet, retrying...');
+            setTimeout(() => {
+                this.populateVoiceList();
+                if (this.voices.length > 0) {
+                    this.speak(text, lang);
+                }
+            }, 100);
+            return;
+        }
+
         const utterThis = new SpeechSynthesisUtterance(text);
         utterThis.lang = lang;
         utterThis.pitch = 1;
@@ -86,6 +98,15 @@ class SpeechService {
         } else {
             console.warn(`Voice for lang '${lang}' not found. Using default.`);
         }
+
+        // Android fix: Add error handling
+        utterThis.onerror = (event) => {
+            console.error('Speech synthesis error:', event);
+        };
+
+        utterThis.onstart = () => {
+            console.log('Speech started');
+        };
 
         this.synth.speak(utterThis);
     }

@@ -212,14 +212,29 @@ class FlashcardDeck {
 
         const onPointerDown = (e) => {
             isDragging = true;
-            startX = e.clientX || e.touches[0].clientX;
+            // Android fix: Better touch coordinate handling
+            if (e.touches && e.touches.length > 0) {
+                startX = e.touches[0].clientX;
+            } else if (e.clientX !== undefined) {
+                startX = e.clientX;
+            } else {
+                startX = 0;
+            }
             startTime = Date.now();
             DOMHelpers.addClass(card, CARD_CLASSES.DRAGGING);
         };
 
         const onPointerMove = (e) => {
             if (!isDragging) return;
-            const currentX = e.clientX || e.touches[0].clientX;
+            // Android fix: Better touch coordinate handling
+            let currentX;
+            if (e.touches && e.touches.length > 0) {
+                currentX = e.touches[0].clientX;
+            } else if (e.clientX !== undefined) {
+                currentX = e.clientX;
+            } else {
+                return;
+            }
             const diffX = currentX - startX;
             DOMHelpers.setStyles(card, {
                 transform: `translateX(${diffX}px) rotate(${diffX / 20}deg) translateZ(0)`
@@ -232,14 +247,25 @@ class FlashcardDeck {
             isDragging = false;
             DOMHelpers.removeClass(card, CARD_CLASSES.DRAGGING);
 
-            const diffX = (e.clientX || e.changedTouches[0].clientX) - startX;
+            // Android fix: Better touch coordinate handling for end event
+            let endX;
+            if (e.changedTouches && e.changedTouches.length > 0) {
+                endX = e.changedTouches[0].clientX;
+            } else if (e.clientX !== undefined) {
+                endX = e.clientX;
+            } else {
+                endX = startX; // Fallback to prevent NaN
+            }
+
+            const diffX = endX - startX;
             const timeElapsed = Date.now() - startTime;
             const velocity = Math.abs(diffX) / timeElapsed;
 
             const isLearnMode = this.state.isInLearnMode();
 
-            // Handle tap for speech in learn mode
-            if (isLearnMode && Math.abs(diffX) < 10 && timeElapsed < 200) {
+            // Handle tap for speech in learn mode - Android fix: More lenient tap detection
+            if (isLearnMode && Math.abs(diffX) < 15 && timeElapsed < 300) {
+                console.log('Attempting speech for:', cardData.english || cardData.chinese);
                 this.speechService.speakCard(cardData, this.state.getCurrentLanguage());
                 DOMHelpers.setStyles(card, { transform: '' });
                 return;

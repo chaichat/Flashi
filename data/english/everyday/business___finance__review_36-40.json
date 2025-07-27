@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Business",
+    "thai": "ธุรกิจ",
+    "phonetic": "BIZ-nis"
+  },
+  {
+    "english": "Company",
+    "thai": "บริษัท",
+    "phonetic": "KUHM-puh-nee"
+  },
+  {
+    "english": "Money",
+    "thai": "เงิน",
+    "phonetic": "MUHN-ee"
+  },
+  {
+    "english": "Price",
+    "thai": "ราคา",
+    "phonetic": "prys"
+  },
+  {
+    "english": "Cost",
+    "thai": "ค่าใช้จ่าย",
+    "phonetic": "kawst"
+  },
+  {
+    "english": "Profit",
+    "thai": "กำไร",
+    "phonetic": "PRAH-fit"
+  },
+  {
+    "english": "Loss",
+    "thai": "ขาดทุน",
+    "phonetic": "laws"
+  },
+  {
+    "english": "Investment",
+    "thai": "การลงทุน",
+    "phonetic": "in-VEST-ment"
+  },
+  {
+    "english": "Budget",
+    "thai": "งบประมาณ",
+    "phonetic": "BUHJ-it"
+  },
+  {
+    "english": "Contract",
+    "thai": "สัญญา",
+    "phonetic": "KON-trakt"
+  },
+  {
+    "english": "Client",
+    "thai": "ลูกค้า",
+    "phonetic": "KLY-ent"
+  },
+  {
+    "english": "Service",
+    "thai": "บริการ",
+    "phonetic": "SUR-vis"
+  },
+  {
+    "english": "Product",
+    "thai": "ผลิตภัณฑ์",
+    "phonetic": "PRAH-duhkt"
+  },
+  {
+    "english": "Market",
+    "thai": "ตลาด",
+    "phonetic": "MAR-kit"
+  },
+  {
+    "english": "Sales",
+    "thai": "การขาย",
+    "phonetic": "saylz"
+  },
+  {
+    "english": "Purchase",
+    "thai": "การซื้อ",
+    "phonetic": "PUR-chas"
+  },
+  {
+    "english": "Invoice",
+    "thai": "ใบแจ้งหนี้",
+    "phonetic": "IN-voys"
+  },
+  {
+    "english": "Tax",
+    "thai": "ภาษี",
+    "phonetic": "taks"
+  },
+  {
+    "english": "Bank",
+    "thai": "ธนาคาร",
+    "phonetic": "bangk"
+  },
+  {
+    "english": "Interest",
+    "thai": "ดอกเบี้ย",
+    "phonetic": "IN-ter-est"
+  }
+]

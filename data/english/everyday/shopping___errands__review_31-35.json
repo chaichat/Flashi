@@ -5,33 +5,8 @@
     "phonetic": ""
   },
   {
-    "english": "Laundry",
-    "thai": "ซักรีด",
-    "phonetic": ""
-  },
-  {
-    "english": "Tailor",
-    "thai": "ช่างตัดเสื้อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Barber",
-    "thai": "ช่างตัดผม",
-    "phonetic": ""
-  },
-  {
     "english": "Salon",
     "thai": "ร้านเสริมสวย",
-    "phonetic": ""
-  },
-  {
-    "english": "Spa",
-    "thai": "สปา",
-    "phonetic": ""
-  },
-  {
-    "english": "Gym",
-    "thai": "โรงยิม",
     "phonetic": ""
   },
   {
@@ -40,73 +15,13 @@
     "phonetic": ""
   },
   {
-    "english": "Theater",
-    "thai": "โรงภาพยนตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Concert",
-    "thai": "คอนเสิร์ต",
-    "phonetic": ""
-  },
-  {
-    "english": "Playground",
-    "thai": "สนามเด็กเล่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Zoo",
-    "thai": "สวนสัตว์",
-    "phonetic": ""
-  },
-  {
-    "english": "Aquarium",
-    "thai": "พิพิธภัณฑ์สัตว์น้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Garden",
-    "thai": "สวน",
-    "phonetic": ""
-  },
-  {
-    "english": "City hall",
-    "thai": "ศาลากลางจังหวัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Courthouse",
-    "thai": "ศาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Police",
-    "thai": "ตำรวจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Fire",
-    "thai": "ไฟ",
-    "phonetic": ""
-  },
-  {
     "english": "Hospital",
     "thai": "โรงพยาบาล",
     "phonetic": "HOS-pi-tl"
   },
   {
-    "english": "Clinic",
-    "thai": "คลินิก",
-    "phonetic": ""
-  },
-  {
     "english": "Supermarket",
     "thai": "ซูเปอร์มาร์เก็ต",
-    "phonetic": ""
-  },
-  {
-    "english": "Department store",
-    "thai": "ห้างสรรพสินค้า",
     "phonetic": ""
   },
   {
@@ -115,73 +30,13 @@
     "phonetic": ""
   },
   {
-    "english": "Cashier",
-    "thai": "แคชเชียร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Shopping cart",
-    "thai": "รถเข็นช็อปปิ้ง",
-    "phonetic": ""
-  },
-  {
     "english": "Receipt",
     "thai": "ใบเสร็จ",
     "phonetic": ""
   },
   {
-    "english": "Price tag",
-    "thai": "ป้ายราคา",
-    "phonetic": ""
-  },
-  {
     "english": "Discount",
     "thai": "ส่วนลด",
-    "phonetic": ""
-  },
-  {
-    "english": "Sale",
-    "thai": "ลดราคา",
-    "phonetic": ""
-  },
-  {
-    "english": "Bargain",
-    "thai": "ของราคาถูก",
-    "phonetic": ""
-  },
-  {
-    "english": "Checkout",
-    "thai": "จุดชำระเงิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Aisle",
-    "thai": "ทางเดินระหว่างชั้นสินค้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Shelf",
-    "thai": "ชั้นวางสินค้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Counter",
-    "thai": "เคาน์เตอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Fitting room",
-    "thai": "ห้องลองเสื้อผ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Customer",
-    "thai": "ลูกค้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Shopping bag",
-    "thai": "ถุงช็อปปิ้ง",
     "phonetic": ""
   },
   {
@@ -195,11 +50,6 @@
     "phonetic": ""
   },
   {
-    "english": "Change",
-    "thai": "เงินทอน",
-    "phonetic": ""
-  },
-  {
     "english": "Bank",
     "thai": "ธนาคาร",
     "phonetic": ""
@@ -210,53 +60,8 @@
     "phonetic": ""
   },
   {
-    "english": "Deposit",
-    "thai": "ฝากเงิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Withdraw",
-    "thai": "ถอนเงิน",
-    "phonetic": ""
-  },
-  {
     "english": "Account",
     "thai": "บัญชี",
-    "phonetic": ""
-  },
-  {
-    "english": "Loan",
-    "thai": "เงินกู้",
-    "phonetic": ""
-  },
-  {
-    "english": "Debit card",
-    "thai": "บัตรเดบิต",
-    "phonetic": ""
-  },
-  {
-    "english": "Mortgage",
-    "thai": "จำนอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Insurance",
-    "thai": "ประกันภัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Investment",
-    "thai": "การลงทุน",
-    "phonetic": ""
-  },
-  {
-    "english": "Savings",
-    "thai": "เงินออม",
-    "phonetic": ""
-  },
-  {
-    "english": "Checking account",
-    "thai": "บัญชีกระแสรายวัน",
     "phonetic": ""
   },
   {
@@ -265,48 +70,8 @@
     "phonetic": ""
   },
   {
-    "english": "Balance",
-    "thai": "ยอดเงิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Interest",
-    "thai": "ดอกเบี้ย",
-    "phonetic": ""
-  },
-  {
-    "english": "Teller",
-    "thai": "พนักงานธนาคาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Statement",
-    "thai": "รายการธุรกรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "PIN",
-    "thai": "รหัสผ่าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Fee",
-    "thai": "ค่าธรรมเนียม",
-    "phonetic": ""
-  },
-  {
-    "english": "Currency",
-    "thai": "สกุลเงิน",
-    "phonetic": ""
-  },
-  {
     "english": "Post office",
     "thai": "ไปรษณีย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Mail",
-    "thai": "จดหมาย",
     "phonetic": ""
   },
   {
@@ -315,18 +80,8 @@
     "phonetic": ""
   },
   {
-    "english": "Envelope",
-    "thai": "ซองจดหมาย",
-    "phonetic": ""
-  },
-  {
     "english": "Stamp",
     "thai": "แสตมป์",
-    "phonetic": ""
-  },
-  {
-    "english": "Address",
-    "thai": "ที่อยู่",
     "phonetic": ""
   },
   {
@@ -335,168 +90,13 @@
     "phonetic": ""
   },
   {
-    "english": "Courier",
-    "thai": "บริการส่งด่วน",
-    "phonetic": ""
-  },
-  {
-    "english": "Express mail",
-    "thai": "ไปรษณีย์ด่วน",
-    "phonetic": ""
-  },
-  {
-    "english": "Registered mail",
-    "thai": "ไปรษณีย์ลงทะเบียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Mailbox",
-    "thai": "ตู้จดหมาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Postcard",
-    "thai": "โปสการ์ด",
-    "phonetic": ""
-  },
-  {
-    "english": "Sender",
-    "thai": "ผู้ส่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Recipient",
-    "thai": "ผู้รับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Tracking",
-    "thai": "ติดตาม",
-    "phonetic": ""
-  },
-  {
-    "english": "Postage",
-    "thai": "ค่าไปรษณีย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Zip code",
-    "thai": "รหัสไปรษณีย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Return",
-    "thai": "ส่งคืน",
-    "phonetic": ""
-  },
-  {
-    "english": "Priority",
-    "thai": "ลำดับความสำคัญ",
-    "phonetic": ""
-  },
-  {
-    "english": "Signature",
-    "thai": "ลายเซ็น",
-    "phonetic": ""
-  },
-  {
     "english": "Repair shop",
     "thai": "ร้านซ่อม",
     "phonetic": ""
   },
   {
-    "english": "Mechanic",
-    "thai": "ช่างเครื่อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Plumber",
-    "thai": "ช่างประปา",
-    "phonetic": ""
-  },
-  {
-    "english": "Electrician",
-    "thai": "ช่างไฟฟ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Carpenter",
-    "thai": "ช่างไม้",
-    "phonetic": ""
-  },
-  {
-    "english": "Painter",
-    "thai": "ช่างทาสี",
-    "phonetic": ""
-  },
-  {
-    "english": "Locksmith",
-    "thai": "ช่างกุญแจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Utility bill",
-    "thai": "ค่าสาธารณูปโภค",
-    "phonetic": ""
-  },
-  {
-    "english": "Electricity",
-    "thai": "ไฟฟ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Water",
-    "thai": "น้ำประปา",
-    "phonetic": ""
-  },
-  {
-    "english": "Gas",
-    "thai": "แก๊ส",
-    "phonetic": ""
-  },
-  {
-    "english": "Internet",
-    "thai": "อินเทอร์เน็ต",
-    "phonetic": ""
-  },
-  {
-    "english": "Cable",
-    "thai": "เคเบิล",
-    "phonetic": ""
-  },
-  {
-    "english": "Technician",
-    "thai": "ช่างเทคนิค",
-    "phonetic": ""
-  },
-  {
-    "english": "Maintenance",
-    "thai": "การบำรุงรักษา",
-    "phonetic": ""
-  },
-  {
-    "english": "Installation",
-    "thai": "การติดตั้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Estimate",
-    "thai": "ประมาณการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Warranty",
-    "thai": "การรับประกัน",
-    "phonetic": ""
-  },
-  {
     "english": "Service",
     "thai": "บริการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Invoice",
-    "thai": "ใบแจ้งหนี้",
     "phonetic": ""
   }
 ]

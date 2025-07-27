@@ -96,6 +96,7 @@ class LanguageSelector {
         // Check if already installed
         window.addEventListener('appinstalled', () => {
             console.log('PWA was installed');
+            localStorage.setItem('flashi-app-installed', 'true');
             this.hideInstallPrompt();
             this.deferredPrompt = null;
         });
@@ -219,6 +220,18 @@ class LanguageSelector {
         
         if (subtitle) {
             DOMHelpers.setText(subtitle, UI_TEXT.THAI.SELECT_LANGUAGE);
+        }
+
+        // Check if app is already installed (never show install prompt again)
+        if (localStorage.getItem('flashi-app-installed') === 'true') {
+            this.hideInstallPrompt();
+            return;
+        }
+
+        // Check if currently running in standalone mode (installed app)
+        if (this.isInStandaloneMode()) {
+            this.hideInstallPrompt();
+            return;
         }
 
         // Check if user previously dismissed install prompt

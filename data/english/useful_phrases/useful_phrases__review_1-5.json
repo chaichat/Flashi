@@ -1,202 +1,7 @@
 [
   {
-    "english": "My favorite color is blue",
-    "thai": "สีที่ฉันชอบคือสีฟ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Can you help me",
-    "thai": "คุณช่วยฉันได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I have two children",
-    "thai": "ฉันมีลูกสองคน",
-    "phonetic": ""
-  },
-  {
-    "english": "My name is",
-    "thai": "ชื่อของฉันคือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Maybe",
-    "thai": "อาจจะ",
-    "phonetic": ""
-  },
-  {
-    "english": "My favorite movie is",
-    "thai": "หนังเรื่องโปรดของฉันคือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Where have you traveled",
-    "thai": "คุณไปเที่ยวที่ไหนมา",
-    "phonetic": ""
-  },
-  {
-    "english": "What can I do for you",
-    "thai": "ฉันทำอะไรให้คุณได้บ้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Nice to meet you",
-    "thai": "ยินดีที่ได้รู้จัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Good night",
-    "thai": "ราตรีสวัสดิ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Take care",
-    "thai": "ดูแล",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I help you",
-    "thai": "ฉันสามารถช่วยคุณได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "What is your favorite food",
-    "thai": "อาหารที่คุณชอบคืออะไร",
-    "phonetic": ""
-  },
-  {
-    "english": "I have no pets",
-    "thai": "ฉันไม่มีสัตว์เลี้ยง",
-    "phonetic": ""
-  },
-  {
-    "english": "Happy to help",
-    "thai": "ยินดีให้ความช่วยเหลือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Do you like to cook",
-    "thai": "คุณชอบทำอาหารไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Can you speak slower",
-    "thai": "คุณพูดช้าลงได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I would love to",
-    "thai": "ฉันอยากจะรัก",
-    "phonetic": ""
-  },
-  {
-    "english": "How do you say this",
-    "thai": "จะพูดยังไงดีล่ะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Can you repeat that",
-    "thai": "คุณพูดซ้ำอีกครั้งได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "Do you have any pets",
-    "thai": "คุณมีสัตว์เลี้ยงไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I am married",
-    "thai": "ฉันแต่งงานแล้ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Where is the restroom",
-    "thai": "ห้องน้ำอยู่ไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "Don't mention it",
-    "thai": "อย่าพูดถึงมัน",
-    "phonetic": ""
-  },
-  {
-    "english": "What time is it",
-    "thai": "ตอนนี้กี่โมงแล้ว",
-    "phonetic": ""
-  },
-  {
-    "english": "I am from",
-    "thai": "ฉันมาจาก",
-    "phonetic": ""
-  },
-  {
-    "english": "I am years old",
-    "thai": "ฉันอายุปีแล้ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Maybe next time",
-    "thai": "บางทีคราวหน้า",
-    "phonetic": ""
-  },
-  {
-    "english": "I am sorry",
-    "thai": "ฉันขอโทษ",
-    "phonetic": ""
-  },
-  {
-    "english": "I have a dog",
-    "thai": "ฉันมีสุนัข",
-    "phonetic": ""
-  },
-  {
-    "english": "Your English is good",
-    "thai": "ภาษาอังกฤษของคุณดี",
-    "phonetic": ""
-  },
-  {
-    "english": "I am grateful",
-    "thai": "ฉันรู้สึกขอบคุณ",
-    "phonetic": ""
-  },
-  {
-    "english": "I am a teacher",
-    "thai": "ฉันเป็นครู",
-    "phonetic": ""
-  },
-  {
-    "english": "I am lost",
-    "thai": "ฉันหลงทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "My favorite food is pizza",
-    "thai": "อาหารที่ฉันชอบคือพิซซ่า",
-    "phonetic": ""
-  },
-  {
-    "english": "What is your name",
-    "thai": "คุณชื่ออะไร",
-    "phonetic": ""
-  },
-  {
-    "english": "Excuse me",
-    "thai": "ขออนุญาต",
-    "phonetic": ""
-  },
-  {
-    "english": "I have no children",
-    "thai": "ฉันไม่มีลูก",
-    "phonetic": ""
-  },
-  {
-    "english": "Do you like to travel",
-    "thai": "คุณชอบท่องเที่ยวไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I appreciate it",
-    "thai": "ฉันชื่นชมมัน",
+    "english": "I am a student",
+    "thai": "ฉันเป็นนักเรียน",
     "phonetic": ""
   },
   {
@@ -205,23 +10,18 @@
     "phonetic": ""
   },
   {
-    "english": "What is your favorite movie",
-    "thai": "หนังเรื่องโปรดของคุณคือเรื่องอะไร",
+    "english": "Can I have the bill",
+    "thai": "ฉันขอบิลได้ไหม",
     "phonetic": ""
   },
   {
-    "english": "You are welcome",
-    "thai": "ยินดี",
+    "english": "Hello",
+    "thai": "สวัสดี",
     "phonetic": ""
   },
   {
-    "english": "What is your favorite color",
-    "thai": "สีที่คุณชอบคืออะไร",
-    "phonetic": ""
-  },
-  {
-    "english": "How can I help you",
-    "thai": "ฉันจะช่วยคุณได้อย่างไร",
+    "english": "What kind of music do you like",
+    "thai": "คุณชอบดนตรีประเภทไหน",
     "phonetic": ""
   },
   {
@@ -230,53 +30,18 @@
     "phonetic": ""
   },
   {
-    "english": "I need help",
-    "thai": "ฉันต้องการความช่วยเหลือ",
+    "english": "I would like to order",
+    "thai": "ฉันต้องการสั่งซื้อ",
     "phonetic": ""
   },
   {
-    "english": "You are too kind",
-    "thai": "คุณใจดีเกินไป",
+    "english": "Do you like to travel",
+    "thai": "คุณชอบท่องเที่ยวไหม",
     "phonetic": ""
   },
   {
-    "english": "My hobby is reading",
-    "thai": "งานอดิเรกของฉันคือการอ่านหนังสือ",
-    "phonetic": ""
-  },
-  {
-    "english": "It was my pleasure",
-    "thai": "มันเป็นความยินดีของฉัน",
-    "phonetic": ""
-  },
-  {
-    "english": "I have traveled to many countries",
-    "thai": "ฉันได้เดินทางไปหลายประเทศ",
-    "phonetic": ""
-  },
-  {
-    "english": "Please",
-    "thai": "โปรด",
-    "phonetic": ""
-  },
-  {
-    "english": "I am single",
-    "thai": "ฉันโสด",
-    "phonetic": ""
-  },
-  {
-    "english": "Can I have the bill",
-    "thai": "ฉันขอบิลได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "I like pop music",
-    "thai": "ฉันชอบเพลงป๊อป",
-    "phonetic": ""
-  },
-  {
-    "english": "Where is the nearest",
-    "thai": "ใกล้ที่สุดอยู่ที่ไหน",
+    "english": "How much does it cost",
+    "thai": "ราคาเท่าไหร่คะ",
     "phonetic": ""
   },
   {
@@ -285,23 +50,28 @@
     "phonetic": ""
   },
   {
-    "english": "No",
-    "thai": "เลขที่",
+    "english": "Do you like to cook",
+    "thai": "คุณชอบทำอาหารไหม",
     "phonetic": ""
   },
   {
-    "english": "My dream destination is Japan",
-    "thai": "จุดหมายปลายทางในฝันของฉันคือประเทศญี่ปุ่น",
+    "english": "Maybe",
+    "thai": "อาจจะ",
     "phonetic": ""
   },
   {
-    "english": "What do you do",
-    "thai": "คุณทำงานอะไร",
+    "english": "My favorite food is pizza",
+    "thai": "อาหารที่ฉันชอบคือพิซซ่า",
     "phonetic": ""
   },
   {
-    "english": "That is very kind of you",
-    "thai": "คุณใจดีมาก",
+    "english": "What can I do for you",
+    "thai": "ฉันทำอะไรให้คุณได้บ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Where is the nearest",
+    "thai": "ใกล้ที่สุดอยู่ที่ไหน",
     "phonetic": ""
   },
   {
@@ -310,73 +80,8 @@
     "phonetic": ""
   },
   {
-    "english": "I have one child",
-    "thai": "ฉันมีลูกหนึ่งคน",
-    "phonetic": ""
-  },
-  {
-    "english": "I have a cat",
-    "thai": "ฉันมีแมว",
-    "phonetic": ""
-  },
-  {
-    "english": "Thank you",
-    "thai": "ขอบคุณ",
-    "phonetic": ""
-  },
-  {
-    "english": "I need a translator",
-    "thai": "ฉันต้องการนักแปล",
-    "phonetic": ""
-  },
-  {
-    "english": "I am retired",
-    "thai": "ฉันเกษียณแล้ว",
-    "phonetic": ""
-  },
-  {
-    "english": "How much is this",
-    "thai": "อันนี้ราคาเท่าไหร่คะ",
-    "phonetic": ""
-  },
-  {
-    "english": "I would like to order",
-    "thai": "ฉันต้องการสั่งซื้อ",
-    "phonetic": ""
-  },
-  {
-    "english": "I have to go",
-    "thai": "ฉันต้องไป",
-    "phonetic": ""
-  },
-  {
-    "english": "Goodbye",
-    "thai": "ลาก่อน",
-    "phonetic": ""
-  },
-  {
-    "english": "Thank you for your help",
-    "thai": "ขอบคุณสำหรับความช่วยเหลือของคุณ",
-    "phonetic": ""
-  },
-  {
-    "english": "Yes I like to cook",
-    "thai": "ใช่ ฉันชอบทำอาหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Have a good day",
-    "thai": "ขอให้เป็นวันที่ดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Are you married",
-    "thai": "คุณแต่งงานหรือยัง",
-    "phonetic": ""
-  },
-  {
-    "english": "I am fine",
-    "thai": "ฉันสบายดี",
+    "english": "That is very kind of you",
+    "thai": "คุณใจดีมาก",
     "phonetic": ""
   },
   {
@@ -385,13 +90,63 @@
     "phonetic": ""
   },
   {
+    "english": "No problem",
+    "thai": "ไม่มีปัญหา",
+    "phonetic": ""
+  },
+  {
+    "english": "What do you do",
+    "thai": "คุณทำงานอะไร",
+    "phonetic": ""
+  },
+  {
+    "english": "I have a dog",
+    "thai": "ฉันมีสุนัข",
+    "phonetic": ""
+  },
+  {
+    "english": "How can I help you",
+    "thai": "ฉันจะช่วยคุณได้อย่างไร",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I try this on",
+    "thai": "ฉันสามารถลองสิ่งนี้ได้ไหม",
+    "phonetic": ""
+  },
+  {
     "english": "See you later",
     "thai": "เจอกันใหม่นะ",
     "phonetic": ""
   },
   {
-    "english": "Yes I love to travel",
-    "thai": "ใช่ ฉันชอบเดินทาง",
+    "english": "I have traveled to many countries",
+    "thai": "ฉันได้เดินทางไปหลายประเทศ",
+    "phonetic": ""
+  },
+  {
+    "english": "I have two children",
+    "thai": "ฉันมีลูกสองคน",
+    "phonetic": ""
+  },
+  {
+    "english": "Goodbye",
+    "thai": "ลาก่อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Can you write it down",
+    "thai": "คุณเขียนมันลงไปได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I have no children",
+    "thai": "ฉันไม่มีลูก",
+    "phonetic": ""
+  },
+  {
+    "english": "Can you help me",
+    "thai": "คุณช่วยฉันได้ไหม",
     "phonetic": ""
   },
   {
@@ -400,8 +155,268 @@
     "phonetic": ""
   },
   {
-    "english": "How much does it cost",
-    "thai": "ราคาเท่าไหร่คะ",
+    "english": "I do not understand",
+    "thai": "ฉันไม่เข้าใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "I have no pets",
+    "thai": "ฉันไม่มีสัตว์เลี้ยง",
+    "phonetic": ""
+  },
+  {
+    "english": "I am lost",
+    "thai": "ฉันหลงทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you accept credit cards",
+    "thai": "คุณรับบัตรเครดิตไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Take care",
+    "thai": "ดูแล",
+    "phonetic": ""
+  },
+  {
+    "english": "My dream destination is Japan",
+    "thai": "จุดหมายปลายทางในฝันของฉันคือประเทศญี่ปุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "I have a cat",
+    "thai": "ฉันมีแมว",
+    "phonetic": ""
+  },
+  {
+    "english": "What does this mean",
+    "thai": "นี่หมายความว่าอะไร",
+    "phonetic": ""
+  },
+  {
+    "english": "I would love to",
+    "thai": "ฉันอยากจะรัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Where have you traveled",
+    "thai": "คุณไปเที่ยวที่ไหนมา",
+    "phonetic": ""
+  },
+  {
+    "english": "I am fine",
+    "thai": "ฉันสบายดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Thank you for your help",
+    "thai": "ขอบคุณสำหรับความช่วยเหลือของคุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Your English is good",
+    "thai": "ภาษาอังกฤษของคุณดี",
+    "phonetic": ""
+  },
+  {
+    "english": "I like pop music",
+    "thai": "ฉันชอบเพลงป๊อป",
+    "phonetic": ""
+  },
+  {
+    "english": "I have to go",
+    "thai": "ฉันต้องไป",
+    "phonetic": ""
+  },
+  {
+    "english": "What is your favorite color",
+    "thai": "สีที่คุณชอบคืออะไร",
+    "phonetic": ""
+  },
+  {
+    "english": "My name is",
+    "thai": "ชื่อของฉันคือ",
+    "phonetic": ""
+  },
+  {
+    "english": "I am from",
+    "thai": "ฉันมาจาก",
+    "phonetic": ""
+  },
+  {
+    "english": "I am a teacher",
+    "thai": "ฉันเป็นครู",
+    "phonetic": ""
+  },
+  {
+    "english": "I am retired",
+    "thai": "ฉันเกษียณแล้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "My favorite color is blue",
+    "thai": "สีที่ฉันชอบคือสีฟ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "What time is it",
+    "thai": "ตอนนี้กี่โมงแล้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Can you repeat that",
+    "thai": "คุณพูดซ้ำอีกครั้งได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I am sorry",
+    "thai": "ฉันขอโทษ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sounds good",
+    "thai": "ฟังดูดีนะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Where is the restroom",
+    "thai": "ห้องน้ำอยู่ไหน",
+    "phonetic": ""
+  },
+  {
+    "english": "How do you say this",
+    "thai": "จะพูดยังไงดีล่ะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I help you",
+    "thai": "ฉันสามารถช่วยคุณได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I am grateful",
+    "thai": "ฉันรู้สึกขอบคุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "I need a translator",
+    "thai": "ฉันต้องการนักแปล",
+    "phonetic": ""
+  },
+  {
+    "english": "What is your name",
+    "thai": "คุณชื่ออะไร",
+    "phonetic": ""
+  },
+  {
+    "english": "Maybe next time",
+    "thai": "บางทีคราวหน้า",
+    "phonetic": ""
+  },
+  {
+    "english": "My hobby is reading",
+    "thai": "งานอดิเรกของฉันคือการอ่านหนังสือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Good afternoon",
+    "thai": "สวัสดีตอนบ่าย",
+    "phonetic": ""
+  },
+  {
+    "english": "No",
+    "thai": "เลขที่",
+    "phonetic": ""
+  },
+  {
+    "english": "I have one child",
+    "thai": "ฉันมีลูกหนึ่งคน",
+    "phonetic": ""
+  },
+  {
+    "english": "Let us get together soon",
+    "thai": "มาพบกันใหม่เร็วๆ นี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Nice to meet you",
+    "thai": "ยินดีที่ได้รู้จัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Are you married",
+    "thai": "คุณแต่งงานหรือยัง",
+    "phonetic": ""
+  },
+  {
+    "english": "I appreciate it",
+    "thai": "ฉันชื่นชมมัน",
+    "phonetic": ""
+  },
+  {
+    "english": "How much is this",
+    "thai": "อันนี้ราคาเท่าไหร่คะ",
+    "phonetic": ""
+  },
+  {
+    "english": "I need help",
+    "thai": "ฉันต้องการความช่วยเหลือ",
+    "phonetic": ""
+  },
+  {
+    "english": "I am married",
+    "thai": "ฉันแต่งงานแล้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Happy to help",
+    "thai": "ยินดีให้ความช่วยเหลือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Yes I like to cook",
+    "thai": "ใช่ ฉันชอบทำอาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Thank you",
+    "thai": "ขอบคุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "You are welcome",
+    "thai": "ยินดี",
+    "phonetic": ""
+  },
+  {
+    "english": "What is your favorite movie",
+    "thai": "หนังเรื่องโปรดของคุณคือเรื่องอะไร",
+    "phonetic": ""
+  },
+  {
+    "english": "Yes I love to travel",
+    "thai": "ใช่ ฉันชอบเดินทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "What is your favorite food",
+    "thai": "อาหารที่คุณชอบคืออะไร",
+    "phonetic": ""
+  },
+  {
+    "english": "My favorite movie is",
+    "thai": "หนังเรื่องโปรดของฉันคือ",
+    "phonetic": ""
+  },
+  {
+    "english": "You are too kind",
+    "thai": "คุณใจดีเกินไป",
+    "phonetic": ""
+  },
+  {
+    "english": "I am years old",
+    "thai": "ฉันอายุปีแล้ว",
     "phonetic": ""
   },
   {
@@ -415,48 +430,43 @@
     "phonetic": ""
   },
   {
+    "english": "What is your dream destination",
+    "thai": "จุดหมายปลายทางในฝันของคุณคืออะไร",
+    "phonetic": ""
+  },
+  {
+    "english": "Can you speak slower",
+    "thai": "คุณพูดช้าลงได้ไหม",
+    "phonetic": ""
+  },
+  {
     "english": "I am an engineer",
     "thai": "ฉันเป็นวิศวกร",
     "phonetic": ""
   },
   {
-    "english": "No problem",
-    "thai": "ไม่มีปัญหา",
+    "english": "Excuse me",
+    "thai": "ขออนุญาต",
     "phonetic": ""
   },
   {
-    "english": "Let us get together soon",
-    "thai": "มาพบกันใหม่เร็วๆ นี้",
+    "english": "Don't mention it",
+    "thai": "อย่าพูดถึงมัน",
     "phonetic": ""
   },
   {
-    "english": "What does this mean",
-    "thai": "นี่หมายความว่าอะไร",
+    "english": "Good night",
+    "thai": "ราตรีสวัสดิ์",
     "phonetic": ""
   },
   {
-    "english": "Do you accept credit cards",
-    "thai": "คุณรับบัตรเครดิตไหม",
+    "english": "Please",
+    "thai": "โปรด",
     "phonetic": ""
   },
   {
-    "english": "Hello",
-    "thai": "สวัสดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Sounds good",
-    "thai": "ฟังดูดีนะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Do you have children",
-    "thai": "คุณมีลูกไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "What is your dream destination",
-    "thai": "จุดหมายปลายทางในฝันของคุณคืออะไร",
+    "english": "Have a good day",
+    "thai": "ขอให้เป็นวันที่ดี",
     "phonetic": ""
   },
   {
@@ -465,28 +475,18 @@
     "phonetic": ""
   },
   {
-    "english": "I am a student",
-    "thai": "ฉันเป็นนักเรียน",
+    "english": "Do you have children",
+    "thai": "คุณมีลูกไหม",
     "phonetic": ""
   },
   {
-    "english": "Good afternoon",
-    "thai": "สวัสดีตอนบ่าย",
+    "english": "It was my pleasure",
+    "thai": "มันเป็นความยินดีของฉัน",
     "phonetic": ""
   },
   {
-    "english": "Can you write it down",
-    "thai": "คุณเขียนมันลงไปได้ไหม",
-    "phonetic": ""
-  },
-  {
-    "english": "What kind of music do you like",
-    "thai": "คุณชอบดนตรีประเภทไหน",
-    "phonetic": ""
-  },
-  {
-    "english": "I do not understand",
-    "thai": "ฉันไม่เข้าใจ",
+    "english": "I am single",
+    "thai": "ฉันโสด",
     "phonetic": ""
   },
   {
@@ -495,8 +495,8 @@
     "phonetic": ""
   },
   {
-    "english": "Can I try this on",
-    "thai": "ฉันสามารถลองสิ่งนี้ได้ไหม",
+    "english": "Do you have any pets",
+    "thai": "คุณมีสัตว์เลี้ยงไหม",
     "phonetic": ""
   }
 ]

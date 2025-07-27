@@ -218,7 +218,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             `;
         } else { // Test Mode
-            const testPhoneticHTML = phonetic ? `<p class="text-2xl text-gray-500 mt-2">[${phonetic}]</p>` : '';
             topHalfHTML = `
                 <div class="top-half w-full h-1/2 flex justify-center items-center ${bgColor} hidden">
                     <h3 class="text-5xl font-bold text-gray-800/80 pointer-events-none">${targetLang}</h3>
@@ -228,7 +227,7 @@ document.addEventListener('DOMContentLoaded', () => {
                  <div class="bottom-half w-full h-full flex flex-col justify-center items-center p-6">
                     <p class="text-5xl text-blue-600 font-bold">${cardData.thai}</p>
                     <div class="reveal-content mt-4 opacity-0 transition-opacity duration-300">
-                        ${testPhoneticHTML}
+                        ${phoneticHTML}
                     </div>
                 </div>
             `;

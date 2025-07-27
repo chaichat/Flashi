@@ -63,6 +63,12 @@ class LanguageSelector {
     }
 
     setupPWAInstall() {
+        console.log('Setting up PWA install...');
+        console.log('User agent:', navigator.userAgent);
+        console.log('Is iOS:', this.isIOS());
+        console.log('Is Android:', this.isAndroid());
+        console.log('Is standalone:', this.isInStandaloneMode());
+
         // Listen for the beforeinstallprompt event
         window.addEventListener('beforeinstallprompt', (e) => {
             console.log('PWA install prompt available');
@@ -98,6 +104,14 @@ class LanguageSelector {
         if (this.isIOS() && !this.isInStandaloneMode()) {
             this.showIOSInstallInstructions();
         }
+
+        // For Android Chrome, show fallback if beforeinstallprompt doesn't fire
+        // This happens if user previously dismissed or on some Android versions
+        setTimeout(() => {
+            if (!this.deferredPrompt && this.isAndroid() && !this.isInStandaloneMode()) {
+                this.showAndroidFallbackInstructions();
+            }
+        }, 3000); // Wait 3 seconds for beforeinstallprompt
     }
 
     async installPWA() {
@@ -164,9 +178,33 @@ class LanguageSelector {
         return /iPad|iPhone|iPod/.test(navigator.userAgent);
     }
 
+    isAndroid() {
+        return /Android/.test(navigator.userAgent);
+    }
+
     isInStandaloneMode() {
         return window.matchMedia('(display-mode: standalone)').matches ||
                window.navigator.standalone === true;
+    }
+
+    showAndroidFallbackInstructions() {
+        const installPrompt = DOMHelpers.getElementById('install-prompt');
+        const instructionText = installPrompt?.querySelector('p');
+        const installButton = DOMHelpers.getElementById('install-button');
+        
+        if (instructionText && installButton) {
+            DOMHelpers.setText(instructionText, '📱 Install as app: Menu (⋮) → "Add to Home screen"');
+            DOMHelpers.setText(installButton, '💡 Show Me How');
+            DOMHelpers.removeClass(installPrompt, 'hidden');
+            
+            // Change button behavior to show instructions
+            const newButton = installButton.cloneNode(true);
+            installButton.parentNode.replaceChild(newButton, installButton);
+            
+            DOMHelpers.addEventListener(newButton, 'click', () => {
+                alert('To install:\n\n1. Tap the menu button (⋮) in Chrome\n2. Look for "Add to Home screen" or "Install app"\n3. Tap it and follow the prompts\n\nThe app will appear on your home screen!');
+            });
+        }
     }
 
     render() {

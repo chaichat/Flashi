@@ -14,6 +14,8 @@
     "phonetics-modular": "node scripts/populateModularPhonetics.js",
     "phonetics-english": "node scripts/populateEnglishPhonetics.js",
     "phonetics-stats": "node scripts/populateEnglishPhonetics.js --stats",
+    "pinyin-chinese": "node scripts/populateChinesePinyin.js",
+    "pinyin-stats": "node scripts/populateChinesePinyin.js --stats",
     "reset-everyday": "node scripts/resetEverydayLessons.js"
   },
   "keywords": [],

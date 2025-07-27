@@ -7,7 +7,7 @@
   {
     "chinese": "对不起",
     "thai": "ขอโทษ",
-    "pinyin": ""
+    "pinyin": "duì bù qǐ"
   },
   {
     "chinese": "不客气",
@@ -57,7 +57,7 @@
   {
     "chinese": "你多大了",
     "thai": "คุณอายุเท่าไร",
-    "pinyin": ""
+    "pinyin": "nǐ duō dà le"
   },
   {
     "chinese": "我需要帮助",
@@ -72,7 +72,7 @@
   {
     "chinese": "没关系",
     "thai": "ไม่สำคัญ",
-    "pinyin": ""
+    "pinyin": "méi guān xì"
   },
   {
     "chinese": "我退休了",
@@ -102,7 +102,7 @@
   {
     "chinese": "请",
     "thai": "โปรด",
-    "pinyin": ""
+    "pinyin": "qǐng"
   },
   {
     "chinese": "我怎么去火车站",
@@ -217,12 +217,12 @@
   {
     "chinese": "谢谢",
     "thai": "ขอบคุณ",
-    "pinyin": ""
+    "pinyin": "xiè xiè"
   },
   {
     "chinese": "你太好了",
     "thai": "คุณเป็นคนดีมาก",
-    "pinyin": ""
+    "pinyin": "nǐ tài hǎo le"
   },
   {
     "chinese": "很高兴能帮上忙",
@@ -292,7 +292,7 @@
   {
     "chinese": "请问",
     "thai": "ขออนุญาต",
-    "pinyin": ""
+    "pinyin": "qǐng wèn"
   },
   {
     "chinese": "早上好",
@@ -352,12 +352,12 @@
   {
     "chinese": "不是",
     "thai": "เลขที่",
-    "pinyin": ""
+    "pinyin": "bù shì"
   },
   {
     "chinese": "再见",
     "thai": "ลาก่อน",
-    "pinyin": ""
+    "pinyin": "zài jiàn"
   },
   {
     "chinese": "我能为你做什么",
@@ -392,7 +392,7 @@
   {
     "chinese": "你好",
     "thai": "สวัสดี",
-    "pinyin": ""
+    "pinyin": "nǐ hǎo"
   },
   {
     "chinese": "我单身",
@@ -422,7 +422,7 @@
   {
     "chinese": "是",
     "thai": "ใช่",
-    "pinyin": ""
+    "pinyin": "shì"
   },
   {
     "chinese": "我最喜欢电影",
@@ -437,7 +437,7 @@
   {
     "chinese": "你的爱好是什么",
     "thai": "งานอดิเรกของคุณคืออะไร?",
-    "pinyin": ""
+    "pinyin": "nǐ de ài hǎo shì shén me"
   },
   {
     "chinese": "大喊",

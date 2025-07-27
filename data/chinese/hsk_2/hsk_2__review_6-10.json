@@ -1,0 +1,372 @@
+[
+  {
+    "chinese": "考试",
+    "thai": "สอบ",
+    "pinyin": "kǎoshì"
+  },
+  {
+    "chinese": "课",
+    "thai": "คาบเรียน",
+    "pinyin": "kè"
+  },
+  {
+    "chinese": "教室",
+    "thai": "ห้องเรียน",
+    "pinyin": "jiàoshì"
+  },
+  {
+    "chinese": "作业",
+    "thai": "การบ้าน",
+    "pinyin": "zuòyè"
+  },
+  {
+    "chinese": "铅笔",
+    "thai": "ดินสอ",
+    "pinyin": "qiānbǐ"
+  },
+  {
+    "chinese": "纸",
+    "thai": "กระดาษ",
+    "pinyin": "zhǐ"
+  },
+  {
+    "chinese": "本子",
+    "thai": "สมุด",
+    "pinyin": "běnzi"
+  },
+  {
+    "chinese": "字",
+    "thai": "ตัวอักษร",
+    "pinyin": "zì"
+  },
+  {
+    "chinese": "意思",
+    "thai": "ความหมาย",
+    "pinyin": "yìsi"
+  },
+  {
+    "chinese": "懂",
+    "thai": "เข้าใจ",
+    "pinyin": "dǒng"
+  },
+  {
+    "chinese": "知道",
+    "thai": "รู้",
+    "pinyin": "zhīdao"
+  },
+  {
+    "chinese": "想",
+    "thai": "คิด/อยาก",
+    "pinyin": "xiǎng"
+  },
+  {
+    "chinese": "记住",
+    "thai": "จำได้",
+    "pinyin": "jìzhu"
+  },
+  {
+    "chinese": "忘记",
+    "thai": "ลืม",
+    "pinyin": "wàngjì"
+  },
+  {
+    "chinese": "完成",
+    "thai": "เสร็จสิ้น",
+    "pinyin": "wánchéng"
+  },
+  {
+    "chinese": "公共汽车",
+    "thai": "รถเมล์",
+    "pinyin": "gōnggòng qìchē"
+  },
+  {
+    "chinese": "出租车",
+    "thai": "แท็กซี่",
+    "pinyin": "chūzūchē"
+  },
+  {
+    "chinese": "火车",
+    "thai": "รถไฟ",
+    "pinyin": "huǒchē"
+  },
+  {
+    "chinese": "飞机",
+    "thai": "เครื่องบิน",
+    "pinyin": "fēijī"
+  },
+  {
+    "chinese": "机场",
+    "thai": "สนามบิน",
+    "pinyin": "jīchǎng"
+  },
+  {
+    "chinese": "票",
+    "thai": "ตั๋ว",
+    "pinyin": "piào"
+  },
+  {
+    "chinese": "路",
+    "thai": "ถนน",
+    "pinyin": "lù"
+  },
+  {
+    "chinese": "走路",
+    "thai": "เดินไป",
+    "pinyin": "zǒulù"
+  },
+  {
+    "chinese": "旅游",
+    "thai": "เที่ยว",
+    "pinyin": "lǚyóu"
+  },
+  {
+    "chinese": "左边",
+    "thai": "ซ้าย",
+    "pinyin": "zuǒbiān"
+  },
+  {
+    "chinese": "右边",
+    "thai": "ขวา",
+    "pinyin": "yòubiān"
+  },
+  {
+    "chinese": "旁边",
+    "thai": "ข้างๆ",
+    "pinyin": "pángbiān"
+  },
+  {
+    "chinese": "近",
+    "thai": "ใกล้",
+    "pinyin": "jìn"
+  },
+  {
+    "chinese": "远",
+    "thai": "ไกล",
+    "pinyin": "yuǎn"
+  },
+  {
+    "chinese": "地方",
+    "thai": "สถานที่",
+    "pinyin": "dìfang"
+  },
+  {
+    "chinese": "天气",
+    "thai": "อากาศ",
+    "pinyin": "tiānqì"
+  },
+  {
+    "chinese": "晴天",
+    "thai": "แจ่มใส",
+    "pinyin": "qíngtiān"
+  },
+  {
+    "chinese": "下雨",
+    "thai": "ฝนตก",
+    "pinyin": "xiàyǔ"
+  },
+  {
+    "chinese": "雪",
+    "thai": "หิมะ",
+    "pinyin": "xuě"
+  },
+  {
+    "chinese": "风",
+    "thai": "ลม",
+    "pinyin": "fēng"
+  },
+  {
+    "chinese": "冷",
+    "thai": "หนาว",
+    "pinyin": "lěng"
+  },
+  {
+    "chinese": "热",
+    "thai": "ร้อน",
+    "pinyin": "rè"
+  },
+  {
+    "chinese": "暖和",
+    "thai": "อุ่น",
+    "pinyin": "nuǎnhuo"
+  },
+  {
+    "chinese": "凉快",
+    "thai": "เย็นสบาย",
+    "pinyin": "liángkuai"
+  },
+  {
+    "chinese": "春天",
+    "thai": "ฤดูใบไม้ผลิ",
+    "pinyin": "chūntiān"
+  },
+  {
+    "chinese": "夏天",
+    "thai": "ฤดูร้อน",
+    "pinyin": "xiàtiān"
+  },
+  {
+    "chinese": "秋天",
+    "thai": "ฤดูใบไม้ร่วง",
+    "pinyin": "qiūtiān"
+  },
+  {
+    "chinese": "冬天",
+    "thai": "ฤดูหนาว",
+    "pinyin": "dōngtiān"
+  },
+  {
+    "chinese": "外面",
+    "thai": "ข้างนอก",
+    "pinyin": "wàimiàn"
+  },
+  {
+    "chinese": "里面",
+    "thai": "ข้างใน",
+    "pinyin": "lǐmiàn"
+  },
+  {
+    "chinese": "时间",
+    "thai": "เวลา",
+    "pinyin": "shíjiān"
+  },
+  {
+    "chinese": "小时",
+    "thai": "ชั่วโมง",
+    "pinyin": "xiǎoshí"
+  },
+  {
+    "chinese": "分钟",
+    "thai": "นาที",
+    "pinyin": "fēnzhōng"
+  },
+  {
+    "chinese": "秒",
+    "thai": "วินาที",
+    "pinyin": "miǎo"
+  },
+  {
+    "chinese": "早上",
+    "thai": "เช้า",
+    "pinyin": "zǎoshang"
+  },
+  {
+    "chinese": "中午",
+    "thai": "เที่ยง",
+    "pinyin": "zhōngwǔ"
+  },
+  {
+    "chinese": "下午",
+    "thai": "บ่าย",
+    "pinyin": "xiàwǔ"
+  },
+  {
+    "chinese": "晚上",
+    "thai": "เย็น/คืน",
+    "pinyin": "wǎnshang"
+  },
+  {
+    "chinese": "生日",
+    "thai": "วันเกิด",
+    "pinyin": "shēngrì"
+  },
+  {
+    "chinese": "去年",
+    "thai": "ปีที่แล้ว",
+    "pinyin": "qùnián"
+  },
+  {
+    "chinese": "今年",
+    "thai": "ปีนี้",
+    "pinyin": "jīnnián"
+  },
+  {
+    "chinese": "明年",
+    "thai": "ปีหน้า",
+    "pinyin": "míngnián"
+  },
+  {
+    "chinese": "快",
+    "thai": "เร็ว",
+    "pinyin": "kuài"
+  },
+  {
+    "chinese": "慢",
+    "thai": "ช้า",
+    "pinyin": "màn"
+  },
+  {
+    "chinese": "迟到",
+    "thai": "มาสาย",
+    "pinyin": "chídào"
+  },
+  {
+    "chinese": "公司",
+    "thai": "บริษัท",
+    "pinyin": "gōngsī"
+  },
+  {
+    "chinese": "银行",
+    "thai": "ธนาคาร",
+    "pinyin": "yínháng"
+  },
+  {
+    "chinese": "邮局",
+    "thai": "ไปรษณีย์",
+    "pinyin": "yóujú"
+  },
+  {
+    "chinese": "宾馆",
+    "thai": "โรงแรม",
+    "pinyin": "bīnguǎn"
+  },
+  {
+    "chinese": "服务员",
+    "thai": "พนักงานบริการ",
+    "pinyin": "fúwùyuán"
+  },
+  {
+    "chinese": "经理",
+    "thai": "ผู้จัดการ",
+    "pinyin": "jīnglǐ"
+  },
+  {
+    "chinese": "护士",
+    "thai": "พยาบาล",
+    "pinyin": "hùshi"
+  },
+  {
+    "chinese": "司机",
+    "thai": "คนขับรถ",
+    "pinyin": "sījī"
+  },
+  {
+    "chinese": "忙",
+    "thai": "ยุ่ง",
+    "pinyin": "máng"
+  },
+  {
+    "chinese": "休息",
+    "thai": "พักผ่อน",
+    "pinyin": "xiūxi"
+  },
+  {
+    "chinese": "工作",
+    "thai": "ทำงาน",
+    "pinyin": "gōngzuò"
+  },
+  {
+    "chinese": "上班",
+    "thai": "ไปทำงาน",
+    "pinyin": "shàngbān"
+  },
+  {
+    "chinese": "下班",
+    "thai": "เลิกงาน",
+    "pinyin": "xiàbān"
+  },
+  {
+    "chinese": "办公室",
+    "thai": "สำนักงาน",
+    "pinyin": "bàngōngshì"
+  }
+]

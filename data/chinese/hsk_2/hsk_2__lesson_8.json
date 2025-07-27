@@ -1,0 +1,77 @@
+[
+  {
+    "chinese": "天气",
+    "thai": "อากาศ",
+    "pinyin": "tiānqì"
+  },
+  {
+    "chinese": "晴天",
+    "thai": "แจ่มใส",
+    "pinyin": "qíngtiān"
+  },
+  {
+    "chinese": "下雨",
+    "thai": "ฝนตก",
+    "pinyin": "xiàyǔ"
+  },
+  {
+    "chinese": "雪",
+    "thai": "หิมะ",
+    "pinyin": "xuě"
+  },
+  {
+    "chinese": "风",
+    "thai": "ลม",
+    "pinyin": "fēng"
+  },
+  {
+    "chinese": "冷",
+    "thai": "หนาว",
+    "pinyin": "lěng"
+  },
+  {
+    "chinese": "热",
+    "thai": "ร้อน",
+    "pinyin": "rè"
+  },
+  {
+    "chinese": "暖和",
+    "thai": "อุ่น",
+    "pinyin": "nuǎnhuo"
+  },
+  {
+    "chinese": "凉快",
+    "thai": "เย็นสบาย",
+    "pinyin": "liángkuai"
+  },
+  {
+    "chinese": "春天",
+    "thai": "ฤดูใบไม้ผลิ",
+    "pinyin": "chūntiān"
+  },
+  {
+    "chinese": "夏天",
+    "thai": "ฤดูร้อน",
+    "pinyin": "xiàtiān"
+  },
+  {
+    "chinese": "秋天",
+    "thai": "ฤดูใบไม้ร่วง",
+    "pinyin": "qiūtiān"
+  },
+  {
+    "chinese": "冬天",
+    "thai": "ฤดูหนาว",
+    "pinyin": "dōngtiān"
+  },
+  {
+    "chinese": "外面",
+    "thai": "ข้างนอก",
+    "pinyin": "wàimiàn"
+  },
+  {
+    "chinese": "里面",
+    "thai": "ข้างใน",
+    "pinyin": "lǐmiàn"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "chinese": "时间",
+    "thai": "เวลา",
+    "pinyin": "shíjiān"
+  },
+  {
+    "chinese": "小时",
+    "thai": "ชั่วโมง",
+    "pinyin": "xiǎoshí"
+  },
+  {
+    "chinese": "分钟",
+    "thai": "นาที",
+    "pinyin": "fēnzhōng"
+  },
+  {
+    "chinese": "秒",
+    "thai": "วินาที",
+    "pinyin": "miǎo"
+  },
+  {
+    "chinese": "早上",
+    "thai": "เช้า",
+    "pinyin": "zǎoshang"
+  },
+  {
+    "chinese": "中午",
+    "thai": "เที่ยง",
+    "pinyin": "zhōngwǔ"
+  },
+  {
+    "chinese": "下午",
+    "thai": "บ่าย",
+    "pinyin": "xiàwǔ"
+  },
+  {
+    "chinese": "晚上",
+    "thai": "เย็น/คืน",
+    "pinyin": "wǎnshang"
+  },
+  {
+    "chinese": "生日",
+    "thai": "วันเกิด",
+    "pinyin": "shēngrì"
+  },
+  {
+    "chinese": "去年",
+    "thai": "ปีที่แล้ว",
+    "pinyin": "qùnián"
+  },
+  {
+    "chinese": "今年",
+    "thai": "ปีนี้",
+    "pinyin": "jīnnián"
+  },
+  {
+    "chinese": "明年",
+    "thai": "ปีหน้า",
+    "pinyin": "míngnián"
+  },
+  {
+    "chinese": "快",
+    "thai": "เร็ว",
+    "pinyin": "kuài"
+  },
+  {
+    "chinese": "慢",
+    "thai": "ช้า",
+    "pinyin": "màn"
+  },
+  {
+    "chinese": "迟到",
+    "thai": "มาสาย",
+    "pinyin": "chídào"
+  }
+]

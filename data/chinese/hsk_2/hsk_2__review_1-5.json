@@ -1,0 +1,372 @@
+[
+  {
+    "chinese": "吧",
+    "thai": "บ้าง (คำลงท้ายแสดงข้อเสนอแนะ)",
+    "pinyin": "ba"
+  },
+  {
+    "chinese": "别",
+    "thai": "อย่า",
+    "pinyin": "bié"
+  },
+  {
+    "chinese": "为什么",
+    "thai": "ทำไม",
+    "pinyin": "wèishénme"
+  },
+  {
+    "chinese": "因为",
+    "thai": "เพราะว่า",
+    "pinyin": "yīnwèi"
+  },
+  {
+    "chinese": "所以",
+    "thai": "ดังนั้น",
+    "pinyin": "suǒyǐ"
+  },
+  {
+    "chinese": "但是",
+    "thai": "แต่",
+    "pinyin": "dànshì"
+  },
+  {
+    "chinese": "还是",
+    "thai": "หรือ",
+    "pinyin": "háishì"
+  },
+  {
+    "chinese": "还",
+    "thai": "ยัง",
+    "pinyin": "hái"
+  },
+  {
+    "chinese": "就",
+    "thai": "ก็",
+    "pinyin": "jiù"
+  },
+  {
+    "chinese": "已经",
+    "thai": "แล้ว",
+    "pinyin": "yǐjīng"
+  },
+  {
+    "chinese": "正在",
+    "thai": "กำลัง",
+    "pinyin": "zhèngzài"
+  },
+  {
+    "chinese": "再",
+    "thai": "อีก",
+    "pinyin": "zài"
+  },
+  {
+    "chinese": "一起",
+    "thai": "ด้วยกัน",
+    "pinyin": "yīqǐ"
+  },
+  {
+    "chinese": "非常",
+    "thai": "มากๆ",
+    "pinyin": "fēicháng"
+  },
+  {
+    "chinese": "真",
+    "thai": "จริงๆ",
+    "pinyin": "zhēn"
+  },
+  {
+    "chinese": "零",
+    "thai": "ศูนย์",
+    "pinyin": "líng"
+  },
+  {
+    "chinese": "两",
+    "thai": "สอง",
+    "pinyin": "liǎng"
+  },
+  {
+    "chinese": "百",
+    "thai": "ร้อย",
+    "pinyin": "bǎi"
+  },
+  {
+    "chinese": "千",
+    "thai": "พัน",
+    "pinyin": "qiān"
+  },
+  {
+    "chinese": "第一",
+    "thai": "ที่หนึ่ง",
+    "pinyin": "dìyī"
+  },
+  {
+    "chinese": "第二",
+    "thai": "ที่สอง",
+    "pinyin": "dì'èr"
+  },
+  {
+    "chinese": "次",
+    "thai": "ครั้ง",
+    "pinyin": "cì"
+  },
+  {
+    "chinese": "一下",
+    "thai": "หน่อย",
+    "pinyin": "yīxià"
+  },
+  {
+    "chinese": "每",
+    "thai": "แต่ละ",
+    "pinyin": "měi"
+  },
+  {
+    "chinese": "都",
+    "thai": "ทั้งหมด",
+    "pinyin": "dōu"
+  },
+  {
+    "chinese": "最",
+    "thai": "ที่สุด",
+    "pinyin": "zuì"
+  },
+  {
+    "chinese": "比",
+    "thai": "เปรียบเทียบ",
+    "pinyin": "bǐ"
+  },
+  {
+    "chinese": "对",
+    "thai": "ถูก",
+    "pinyin": "duì"
+  },
+  {
+    "chinese": "错",
+    "thai": "ผิด",
+    "pinyin": "cuò"
+  },
+  {
+    "chinese": "题",
+    "thai": "ข้อ/คำถาม",
+    "pinyin": "tí"
+  },
+  {
+    "chinese": "身体",
+    "thai": "ร่างกาย",
+    "pinyin": "shēntǐ"
+  },
+  {
+    "chinese": "眼睛",
+    "thai": "ตา",
+    "pinyin": "yǎnjīng"
+  },
+  {
+    "chinese": "脸",
+    "thai": "หน้า",
+    "pinyin": "liǎn"
+  },
+  {
+    "chinese": "手",
+    "thai": "มือ",
+    "pinyin": "shǒu"
+  },
+  {
+    "chinese": "腿",
+    "thai": "ขา",
+    "pinyin": "tuǐ"
+  },
+  {
+    "chinese": "头",
+    "thai": "หัว",
+    "pinyin": "tóu"
+  },
+  {
+    "chinese": "病",
+    "thai": "ป่วย",
+    "pinyin": "bìng"
+  },
+  {
+    "chinese": "累",
+    "thai": "เหนื่อย",
+    "pinyin": "lèi"
+  },
+  {
+    "chinese": "药",
+    "thai": "ยา",
+    "pinyin": "yào"
+  },
+  {
+    "chinese": "疼",
+    "thai": "เจ็บ",
+    "pinyin": "téng"
+  },
+  {
+    "chinese": "洗",
+    "thai": "ล้าง",
+    "pinyin": "xǐ"
+  },
+  {
+    "chinese": "洗澡",
+    "thai": "อาบน้ำ",
+    "pinyin": "xǐzǎo"
+  },
+  {
+    "chinese": "游泳",
+    "thai": "ว่ายน้ำ",
+    "pinyin": "yóuyǒng"
+  },
+  {
+    "chinese": "跳舞",
+    "thai": "เต้นรำ",
+    "pinyin": "tiàowǔ"
+  },
+  {
+    "chinese": "唱歌",
+    "thai": "ร้องเพลง",
+    "pinyin": "chànggē"
+  },
+  {
+    "chinese": "房间",
+    "thai": "ห้อง",
+    "pinyin": "fángjiān"
+  },
+  {
+    "chinese": "房子",
+    "thai": "บ้าน",
+    "pinyin": "fángzi"
+  },
+  {
+    "chinese": "门",
+    "thai": "ประตู",
+    "pinyin": "mén"
+  },
+  {
+    "chinese": "窗户",
+    "thai": "หน้าต่าง",
+    "pinyin": "chuānghu"
+  },
+  {
+    "chinese": "桌子",
+    "thai": "โต๊ะ",
+    "pinyin": "zhuōzi"
+  },
+  {
+    "chinese": "椅子",
+    "thai": "เก้าอี้",
+    "pinyin": "yǐzi"
+  },
+  {
+    "chinese": "床",
+    "thai": "เตียง",
+    "pinyin": "chuáng"
+  },
+  {
+    "chinese": "把",
+    "thai": "คำลักษณนาม (มีด้าม)",
+    "pinyin": "bǎ"
+  },
+  {
+    "chinese": "件",
+    "thai": "ชิ้น/เรื่อง",
+    "pinyin": "jiàn"
+  },
+  {
+    "chinese": "干净",
+    "thai": "สะอาด",
+    "pinyin": "gānjìng"
+  },
+  {
+    "chinese": "漂亮",
+    "thai": "สวย",
+    "pinyin": "piàoliang"
+  },
+  {
+    "chinese": "新",
+    "thai": "ใหม่",
+    "pinyin": "xīn"
+  },
+  {
+    "chinese": "旧",
+    "thai": "เก่า",
+    "pinyin": "jiù"
+  },
+  {
+    "chinese": "长",
+    "thai": "ยาว",
+    "pinyin": "cháng"
+  },
+  {
+    "chinese": "短",
+    "thai": "สั้น",
+    "pinyin": "duǎn"
+  },
+  {
+    "chinese": "穿",
+    "thai": "ใส่ (เสื้อผ้า)",
+    "pinyin": "chuān"
+  },
+  {
+    "chinese": "戴",
+    "thai": "ใส่ (หมวก/แว่น)",
+    "pinyin": "dài"
+  },
+  {
+    "chinese": "帽子",
+    "thai": "หมวก",
+    "pinyin": "màozi"
+  },
+  {
+    "chinese": "眼镜",
+    "thai": "แว่นตา",
+    "pinyin": "yǎnjìng"
+  },
+  {
+    "chinese": "鞋",
+    "thai": "รองเท้า",
+    "pinyin": "xié"
+  },
+  {
+    "chinese": "裤子",
+    "thai": "กางเกง",
+    "pinyin": "kùzi"
+  },
+  {
+    "chinese": "裙子",
+    "thai": "กระโปรง",
+    "pinyin": "qúnzi"
+  },
+  {
+    "chinese": "条",
+    "thai": "เส้น/สาย",
+    "pinyin": "tiáo"
+  },
+  {
+    "chinese": "双",
+    "thai": "คู่",
+    "pinyin": "shuāng"
+  },
+  {
+    "chinese": "便宜",
+    "thai": "ถูก",
+    "pinyin": "piányi"
+  },
+  {
+    "chinese": "贵",
+    "thai": "แพง",
+    "pinyin": "guì"
+  },
+  {
+    "chinese": "合适",
+    "thai": "เหมาะสม",
+    "pinyin": "héshì"
+  },
+  {
+    "chinese": "试",
+    "thai": "ลอง",
+    "pinyin": "shì"
+  },
+  {
+    "chinese": "换",
+    "thai": "เปลี่ยน",
+    "pinyin": "huàn"
+  }
+]

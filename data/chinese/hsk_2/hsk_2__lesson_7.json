@@ -1,0 +1,77 @@
+[
+  {
+    "chinese": "公共汽车",
+    "thai": "รถเมล์",
+    "pinyin": "gōnggòng qìchē"
+  },
+  {
+    "chinese": "出租车",
+    "thai": "แท็กซี่",
+    "pinyin": "chūzūchē"
+  },
+  {
+    "chinese": "火车",
+    "thai": "รถไฟ",
+    "pinyin": "huǒchē"
+  },
+  {
+    "chinese": "飞机",
+    "thai": "เครื่องบิน",
+    "pinyin": "fēijī"
+  },
+  {
+    "chinese": "机场",
+    "thai": "สนามบิน",
+    "pinyin": "jīchǎng"
+  },
+  {
+    "chinese": "票",
+    "thai": "ตั๋ว",
+    "pinyin": "piào"
+  },
+  {
+    "chinese": "路",
+    "thai": "ถนน",
+    "pinyin": "lù"
+  },
+  {
+    "chinese": "走路",
+    "thai": "เดินไป",
+    "pinyin": "zǒulù"
+  },
+  {
+    "chinese": "旅游",
+    "thai": "เที่ยว",
+    "pinyin": "lǚyóu"
+  },
+  {
+    "chinese": "左边",
+    "thai": "ซ้าย",
+    "pinyin": "zuǒbiān"
+  },
+  {
+    "chinese": "右边",
+    "thai": "ขวา",
+    "pinyin": "yòubiān"
+  },
+  {
+    "chinese": "旁边",
+    "thai": "ข้างๆ",
+    "pinyin": "pángbiān"
+  },
+  {
+    "chinese": "近",
+    "thai": "ใกล้",
+    "pinyin": "jìn"
+  },
+  {
+    "chinese": "远",
+    "thai": "ไกล",
+    "pinyin": "yuǎn"
+  },
+  {
+    "chinese": "地方",
+    "thai": "สถานที่",
+    "pinyin": "dìfang"
+  }
+]

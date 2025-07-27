@@ -934,6 +934,83 @@
         }
       ]
     },
+    "HSK 2": {
+      "name_th": "HSK 2",
+      "lessons": [
+        {
+          "name": "HSK 2: Lesson 1",
+          "name_th": "HSK 2: บทที่ 1",
+          "file": "chinese/hsk_2/hsk_2__lesson_1.json",
+          "isReview": false
+        },
+        {
+          "name": "HSK 2: Lesson 2",
+          "name_th": "HSK 2: บทที่ 2",
+          "file": "chinese/hsk_2/hsk_2__lesson_2.json",
+          "isReview": false
+        },
+        {
+          "name": "HSK 2: Lesson 3",
+          "name_th": "HSK 2: บทที่ 3",
+          "file": "chinese/hsk_2/hsk_2__lesson_3.json",
+          "isReview": false
+        },
+        {
+          "name": "HSK 2: Lesson 4",
+          "name_th": "HSK 2: บทที่ 4",
+          "file": "chinese/hsk_2/hsk_2__lesson_4.json",
+          "isReview": false
+        },
+        {
+          "name": "HSK 2: Lesson 5",
+          "name_th": "HSK 2: บทที่ 5",
+          "file": "chinese/hsk_2/hsk_2__lesson_5.json",
+          "isReview": false
+        },
+        {
+          "name": "HSK 2: Review 1-5",
+          "name_th": "ทบทวน: บทที่ 1-5",
+          "file": "chinese/hsk_2/hsk_2__review_1-5.json",
+          "isReview": true
+        },
+        {
+          "name": "HSK 2: Lesson 6",
+          "name_th": "HSK 2: บทที่ 6",
+          "file": "chinese/hsk_2/hsk_2__lesson_6.json",
+          "isReview": false
+        },
+        {
+          "name": "HSK 2: Lesson 7",
+          "name_th": "HSK 2: บทที่ 7",
+          "file": "chinese/hsk_2/hsk_2__lesson_7.json",
+          "isReview": false
+        },
+        {
+          "name": "HSK 2: Lesson 8",
+          "name_th": "HSK 2: บทที่ 8",
+          "file": "chinese/hsk_2/hsk_2__lesson_8.json",
+          "isReview": false
+        },
+        {
+          "name": "HSK 2: Lesson 9",
+          "name_th": "HSK 2: บทที่ 9",
+          "file": "chinese/hsk_2/hsk_2__lesson_9.json",
+          "isReview": false
+        },
+        {
+          "name": "HSK 2: Lesson 10",
+          "name_th": "HSK 2: บทที่ 10",
+          "file": "chinese/hsk_2/hsk_2__lesson_10.json",
+          "isReview": false
+        },
+        {
+          "name": "HSK 2: Review 6-10",
+          "name_th": "ทบทวน: บทที่ 6-10",
+          "file": "chinese/hsk_2/hsk_2__review_6-10.json",
+          "isReview": true
+        }
+      ]
+    },
     "Useful Phrases": {
       "name_th": "วลีที่ใช้บ่อย",
       "lessons": [

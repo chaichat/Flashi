@@ -1,242 +1,7 @@
 [
   {
-    "english": "Landscaping",
-    "thai": "การจัดภูมิทัศน์",
-    "phonetic": ""
-  },
-  {
-    "english": "Heirloom",
-    "thai": "มรดกตกทอด",
-    "phonetic": ""
-  },
-  {
-    "english": "Masonry",
-    "thai": "งานก่ออิฐ",
-    "phonetic": ""
-  },
-  {
-    "english": "Basement",
-    "thai": "ห้องใต้ดิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Drought",
-    "thai": "ความแห้งแล้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Trinket",
-    "thai": "เครื่องประดับเล็กๆ น้อยๆ",
-    "phonetic": ""
-  },
-  {
-    "english": "Electrical",
-    "thai": "ไฟฟ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Wallpaper",
-    "thai": "วอลเปเปอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Clear",
-    "thai": "ชัดเจน",
-    "phonetic": ""
-  },
-  {
-    "english": "Key",
-    "thai": "สำคัญ",
-    "phonetic": ""
-  },
-  {
-    "english": "Drizzle",
-    "thai": "ฝนตกปรอยๆ",
-    "phonetic": ""
-  },
-  {
-    "english": "Mowing",
-    "thai": "การตัดหญ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Repair",
-    "thai": "ซ่อมแซม",
-    "phonetic": ""
-  },
-  {
-    "english": "Blizzard",
-    "thai": "พายุหิมะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Demolish",
-    "thai": "รื้อถอน",
-    "phonetic": ""
-  },
-  {
-    "english": "Carpentry",
-    "thai": "งานช่างไม้",
-    "phonetic": ""
-  },
-  {
-    "english": "Warm",
-    "thai": "อบอุ่น",
-    "phonetic": ""
-  },
-  {
     "english": "Mailbox",
     "thai": "ตู้ไปรษณีย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Tornado",
-    "thai": "พายุทอร์นาโด",
-    "phonetic": ""
-  },
-  {
-    "english": "Chimney",
-    "thai": "ปล่องไฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "Knick-knack",
-    "thai": "ของกระจุกกระจิก",
-    "phonetic": ""
-  },
-  {
-    "english": "Lightning",
-    "thai": "ฟ้าผ่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Patio",
-    "thai": "ลานบ้าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Sleet",
-    "thai": "ลูกเห็บ",
-    "phonetic": ""
-  },
-  {
-    "english": "Autumn",
-    "thai": "ฤดูใบไม้ร่วง",
-    "phonetic": ""
-  },
-  {
-    "english": "Sunrise",
-    "thai": "พระอาทิตย์ขึ้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Driveway",
-    "thai": "ทางเข้ารถ",
-    "phonetic": ""
-  },
-  {
-    "english": "Dusk",
-    "thai": "พลบค่ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Spring",
-    "thai": "ฤดูใบไม้ผลิ",
-    "phonetic": ""
-  },
-  {
-    "english": "Winter",
-    "thai": "ฤดูหนาว",
-    "phonetic": ""
-  },
-  {
-    "english": "Breeze",
-    "thai": "สายลม",
-    "phonetic": ""
-  },
-  {
-    "english": "Forecast",
-    "thai": "พยากรณ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Attic",
-    "thai": "ห้องใต้หลังคา",
-    "phonetic": ""
-  },
-  {
-    "english": "Downpour",
-    "thai": "ฝนตกหนัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Build",
-    "thai": "สร้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Yard",
-    "thai": "ลาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Twilight",
-    "thai": "พลบค่ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Gardening",
-    "thai": "การทำสวน",
-    "phonetic": ""
-  },
-  {
-    "english": "Weeding",
-    "thai": "การกำจัดวัชพืช",
-    "phonetic": ""
-  },
-  {
-    "english": "Ornament",
-    "thai": "เครื่องประดับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Overcast",
-    "thai": "มีเมฆมาก",
-    "phonetic": ""
-  },
-  {
-    "english": "Pruning",
-    "thai": "การตัดแต่งกิ่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Windy",
-    "thai": "ลมแรง",
-    "phonetic": ""
-  },
-  {
-    "english": "Sunset",
-    "thai": "พระอาทิตย์ตก",
-    "phonetic": ""
-  },
-  {
-    "english": "Gadget",
-    "thai": "แกดเจ็ต",
-    "phonetic": ""
-  },
-  {
-    "english": "Garage",
-    "thai": "โรงรถ",
-    "phonetic": ""
-  },
-  {
-    "english": "Pristine",
-    "thai": "บริสุทธิ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Summer",
-    "thai": "ฤดูร้อน",
     "phonetic": ""
   },
   {
@@ -245,43 +10,8 @@
     "phonetic": ""
   },
   {
-    "english": "Gale",
-    "thai": "พายุ",
-    "phonetic": ""
-  },
-  {
-    "english": "Sunny",
-    "thai": "แดดจัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Rainy",
-    "thai": "ฝนตก",
-    "phonetic": ""
-  },
-  {
-    "english": "Balcony",
-    "thai": "ระเบียง",
-    "phonetic": ""
-  },
-  {
-    "english": "Dawn",
-    "thai": "รุ่งอรุณ",
-    "phonetic": ""
-  },
-  {
-    "english": "Watering",
-    "thai": "การรดน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Mist",
-    "thai": "หมอก",
-    "phonetic": ""
-  },
-  {
-    "english": "Plumbing",
-    "thai": "ประปา",
+    "english": "Climate",
+    "thai": "ภูมิอากาศ",
     "phonetic": ""
   },
   {
@@ -290,33 +20,18 @@
     "phonetic": ""
   },
   {
-    "english": "Cool",
-    "thai": "เย็น",
+    "english": "Downpour",
+    "thai": "ฝนตกหนัก",
     "phonetic": ""
   },
   {
-    "english": "Dry",
-    "thai": "แห้ง",
+    "english": "Warm",
+    "thai": "อบอุ่น",
     "phonetic": ""
   },
   {
-    "english": "Cloudy",
-    "thai": "เมฆมาก",
-    "phonetic": ""
-  },
-  {
-    "english": "Humid",
-    "thai": "ชื้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Thunder",
-    "thai": "ฟ้าร้อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Hail",
-    "thai": "ลูกเห็บ",
+    "english": "Pruning",
+    "thai": "การตัดแต่งกิ่ง",
     "phonetic": ""
   },
   {
@@ -325,13 +40,13 @@
     "phonetic": ""
   },
   {
-    "english": "Snowy",
-    "thai": "สโนวี่",
+    "english": "Weeding",
+    "thai": "การกำจัดวัชพืช",
     "phonetic": ""
   },
   {
-    "english": "Storm",
-    "thai": "พายุ",
+    "english": "Rainy",
+    "thai": "ฝนตก",
     "phonetic": ""
   },
   {
@@ -340,18 +55,163 @@
     "phonetic": ""
   },
   {
-    "english": "Climate",
-    "thai": "ภูมิอากาศ",
+    "english": "Humid",
+    "thai": "ชื้น",
     "phonetic": ""
   },
   {
-    "english": "Flood",
-    "thai": "น้ำท่วม",
+    "english": "Watering",
+    "thai": "การรดน้ำ",
     "phonetic": ""
   },
   {
-    "english": "Furniture",
-    "thai": "เฟอร์นิเจอร์",
+    "english": "Dusk",
+    "thai": "พลบค่ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Clear",
+    "thai": "ชัดเจน",
+    "phonetic": ""
+  },
+  {
+    "english": "Windy",
+    "thai": "ลมแรง",
+    "phonetic": ""
+  },
+  {
+    "english": "Sleet",
+    "thai": "ลูกเห็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Mist",
+    "thai": "หมอก",
+    "phonetic": ""
+  },
+  {
+    "english": "Thunder",
+    "thai": "ฟ้าร้อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Sunrise",
+    "thai": "พระอาทิตย์ขึ้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Masonry",
+    "thai": "งานก่ออิฐ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sunny",
+    "thai": "แดดจัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Twilight",
+    "thai": "พลบค่ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Hail",
+    "thai": "ลูกเห็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Tool",
+    "thai": "เครื่องมือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Dusty",
+    "thai": "ดัสตี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Gale",
+    "thai": "พายุ",
+    "phonetic": ""
+  },
+  {
+    "english": "Drizzle",
+    "thai": "ฝนตกปรอยๆ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sauna",
+    "thai": "ซาวน่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Carpentry",
+    "thai": "งานช่างไม้",
+    "phonetic": ""
+  },
+  {
+    "english": "Spring",
+    "thai": "ฤดูใบไม้ผลิ",
+    "phonetic": ""
+  },
+  {
+    "english": "Utensil",
+    "thai": "ภาชนะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Ornament",
+    "thai": "เครื่องประดับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Cloudy",
+    "thai": "เมฆมาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Device",
+    "thai": "อุปกรณ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Overcast",
+    "thai": "มีเมฆมาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Grout",
+    "thai": "ยาแนว",
+    "phonetic": ""
+  },
+  {
+    "english": "Basement",
+    "thai": "ห้องใต้ดิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Dawn",
+    "thai": "รุ่งอรุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Gadget",
+    "thai": "แกดเจ็ต",
+    "phonetic": ""
+  },
+  {
+    "english": "Balcony",
+    "thai": "ระเบียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Storm",
+    "thai": "พายุ",
+    "phonetic": ""
+  },
+  {
+    "english": "Decor",
+    "thai": "การตกแต่ง",
     "phonetic": ""
   },
   {
@@ -365,68 +225,8 @@
     "phonetic": ""
   },
   {
-    "english": "Doorknob",
-    "thai": "ลูกบิดประตู",
-    "phonetic": ""
-  },
-  {
-    "english": "Maintain",
-    "thai": "บำรุงรักษา",
-    "phonetic": ""
-  },
-  {
-    "english": "Tile",
-    "thai": "กระเบื้อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Mess",
-    "thai": "ความยุ่งเหยิง",
-    "phonetic": ""
-  },
-  {
-    "english": "Spotless",
-    "thai": "ไร้รอยด่างพร้อย",
-    "phonetic": ""
-  },
-  {
-    "english": "Hot tub",
-    "thai": "อ่างน้ำร้อน",
-    "phonetic": ""
-  },
-  {
-    "english": "Tool",
-    "thai": "เครื่องมือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Tidy",
-    "thai": "เรียบร้อย",
-    "phonetic": ""
-  },
-  {
-    "english": "Sauna",
-    "thai": "ซาวน่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Appliance",
-    "thai": "เครื่องใช้ไฟฟ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Decorate",
-    "thai": "ตกแต่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Dusty",
-    "thai": "ดัสตี้",
-    "phonetic": ""
-  },
-  {
-    "english": "Lock",
-    "thai": "ล็อค",
+    "english": "Key",
+    "thai": "สำคัญ",
     "phonetic": ""
   },
   {
@@ -435,53 +235,13 @@
     "phonetic": ""
   },
   {
-    "english": "Renovate",
-    "thai": "ปรับปรุงใหม่",
+    "english": "Tile",
+    "thai": "กระเบื้อง",
     "phonetic": ""
   },
   {
-    "english": "Porch",
-    "thai": "ระเบียง",
-    "phonetic": ""
-  },
-  {
-    "english": "Device",
-    "thai": "อุปกรณ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Roof",
-    "thai": "หลังคา",
-    "phonetic": ""
-  },
-  {
-    "english": "Decor",
-    "thai": "การตกแต่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Antique",
-    "thai": "โบราณ",
-    "phonetic": ""
-  },
-  {
-    "english": "Pool",
-    "thai": "สระน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Utensil",
-    "thai": "ภาชนะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Grout",
-    "thai": "ยาแนว",
-    "phonetic": ""
-  },
-  {
-    "english": "Filthy",
-    "thai": "สกปรก",
+    "english": "Gardening",
+    "thai": "การทำสวน",
     "phonetic": ""
   },
   {
@@ -490,13 +250,253 @@
     "phonetic": ""
   },
   {
-    "english": "Dirty",
-    "thai": "สกปรก",
+    "english": "Lightning",
+    "thai": "ฟ้าผ่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Maintain",
+    "thai": "บำรุงรักษา",
+    "phonetic": ""
+  },
+  {
+    "english": "Porch",
+    "thai": "ระเบียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Chimney",
+    "thai": "ปล่องไฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Breeze",
+    "thai": "สายลม",
+    "phonetic": ""
+  },
+  {
+    "english": "Drought",
+    "thai": "ความแห้งแล้ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Autumn",
+    "thai": "ฤดูใบไม้ร่วง",
+    "phonetic": ""
+  },
+  {
+    "english": "Tornado",
+    "thai": "พายุทอร์นาโด",
+    "phonetic": ""
+  },
+  {
+    "english": "Mess",
+    "thai": "ความยุ่งเหยิง",
+    "phonetic": ""
+  },
+  {
+    "english": "Plumbing",
+    "thai": "ประปา",
+    "phonetic": ""
+  },
+  {
+    "english": "Cool",
+    "thai": "เย็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Lock",
+    "thai": "ล็อค",
+    "phonetic": ""
+  },
+  {
+    "english": "Dry",
+    "thai": "แห้ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Winter",
+    "thai": "ฤดูหนาว",
+    "phonetic": ""
+  },
+  {
+    "english": "Repair",
+    "thai": "ซ่อมแซม",
+    "phonetic": ""
+  },
+  {
+    "english": "Decorate",
+    "thai": "ตกแต่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Landscaping",
+    "thai": "การจัดภูมิทัศน์",
+    "phonetic": ""
+  },
+  {
+    "english": "Blizzard",
+    "thai": "พายุหิมะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Flood",
+    "thai": "น้ำท่วม",
+    "phonetic": ""
+  },
+  {
+    "english": "Summer",
+    "thai": "ฤดูร้อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Garage",
+    "thai": "โรงรถ",
     "phonetic": ""
   },
   {
     "english": "Clutter",
     "thai": "ถ่วง",
+    "phonetic": ""
+  },
+  {
+    "english": "Patio",
+    "thai": "ลานบ้าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Trinket",
+    "thai": "เครื่องประดับเล็กๆ น้อยๆ",
+    "phonetic": ""
+  },
+  {
+    "english": "Build",
+    "thai": "สร้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Antique",
+    "thai": "โบราณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Demolish",
+    "thai": "รื้อถอน",
+    "phonetic": ""
+  },
+  {
+    "english": "Knick-knack",
+    "thai": "ของกระจุกกระจิก",
+    "phonetic": ""
+  },
+  {
+    "english": "Heirloom",
+    "thai": "มรดกตกทอด",
+    "phonetic": ""
+  },
+  {
+    "english": "Driveway",
+    "thai": "ทางเข้ารถ",
+    "phonetic": ""
+  },
+  {
+    "english": "Dirty",
+    "thai": "สกปรก",
+    "phonetic": ""
+  },
+  {
+    "english": "Appliance",
+    "thai": "เครื่องใช้ไฟฟ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Pristine",
+    "thai": "บริสุทธิ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Doorknob",
+    "thai": "ลูกบิดประตู",
+    "phonetic": ""
+  },
+  {
+    "english": "Tidy",
+    "thai": "เรียบร้อย",
+    "phonetic": ""
+  },
+  {
+    "english": "Filthy",
+    "thai": "สกปรก",
+    "phonetic": ""
+  },
+  {
+    "english": "Pool",
+    "thai": "สระน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Roof",
+    "thai": "หลังคา",
+    "phonetic": ""
+  },
+  {
+    "english": "Attic",
+    "thai": "ห้องใต้หลังคา",
+    "phonetic": ""
+  },
+  {
+    "english": "Furniture",
+    "thai": "เฟอร์นิเจอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Spotless",
+    "thai": "ไร้รอยด่างพร้อย",
+    "phonetic": ""
+  },
+  {
+    "english": "Electrical",
+    "thai": "ไฟฟ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Yard",
+    "thai": "ลาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Renovate",
+    "thai": "ปรับปรุงใหม่",
+    "phonetic": ""
+  },
+  {
+    "english": "Forecast",
+    "thai": "พยากรณ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Hot tub",
+    "thai": "อ่างน้ำร้อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Wallpaper",
+    "thai": "วอลเปเปอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Snowy",
+    "thai": "สโนวี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Mowing",
+    "thai": "การตัดหญ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Sunset",
+    "thai": "พระอาทิตย์ตก",
     "phonetic": ""
   }
 ]

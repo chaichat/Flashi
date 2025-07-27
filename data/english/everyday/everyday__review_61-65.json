@@ -1,492 +1,7 @@
 [
   {
-    "english": "Scholarship",
-    "thai": "ทุนการศึกษา",
-    "phonetic": ""
-  },
-  {
-    "english": "Grade",
-    "thai": "ระดับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Class",
-    "thai": "ระดับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Chronology",
-    "thai": "ลำดับเหตุการณ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Course",
-    "thai": "คอร์ส",
-    "phonetic": ""
-  },
-  {
-    "english": "Antiquity",
-    "thai": "สมัยโบราณ",
-    "phonetic": ""
-  },
-  {
-    "english": "Presentation",
-    "thai": "การนำเสนอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Gymnasium",
-    "thai": "โรงยิม",
-    "phonetic": ""
-  },
-  {
-    "english": "Computer Science",
-    "thai": "วิทยาการคอมพิวเตอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Dictionary",
-    "thai": "พจนานุกรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Teaching",
-    "thai": "การสอน",
-    "phonetic": ""
-  },
-  {
-    "english": "Subject",
-    "thai": "เรื่อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Modernity",
-    "thai": "ความทันสมัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Assignment",
-    "thai": "งานที่มอบหมาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Interval",
-    "thai": "ช่วงเวลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Education",
-    "thai": "การศึกษา",
-    "phonetic": ""
-  },
-  {
-    "english": "Future",
-    "thai": "อนาคต",
-    "phonetic": ""
-  },
-  {
-    "english": "Auditorium",
-    "thai": "หอประชุม",
-    "phonetic": ""
-  },
-  {
-    "english": "Certificate",
-    "thai": "ใบรับรอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Eternity",
-    "thai": "ความเป็นนิรันดร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Knowledge",
-    "thai": "ความรู้",
-    "phonetic": ""
-  },
-  {
-    "english": "Engineering",
-    "thai": "วิศวกรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Lecture",
-    "thai": "การบรรยาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Seminar",
-    "thai": "สัมมนา",
-    "phonetic": ""
-  },
-  {
-    "english": "History",
-    "thai": "ประวัติศาสตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Encyclopedia",
-    "thai": "สารานุกรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Diploma",
-    "thai": "ประกาศนียบัตร",
-    "phonetic": ""
-  },
-  {
-    "english": "Present",
-    "thai": "ปัจจุบัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Past",
-    "thai": "อดีต",
-    "phonetic": ""
-  },
-  {
-    "english": "Sentence",
-    "thai": "ประโยค",
-    "phonetic": ""
-  },
-  {
-    "english": "Art",
-    "thai": "ศิลปะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Textbook",
-    "thai": "หนังสือเรียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Tuition",
-    "thai": "ค่าเล่าเรียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Sundial",
-    "thai": "นาฬิกาแดด",
-    "phonetic": ""
-  },
-  {
-    "english": "Dissertation",
-    "thai": "วิทยานิพนธ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Wisdom",
-    "thai": "ภูมิปัญญา",
-    "phonetic": ""
-  },
-  {
-    "english": "Atlas",
-    "thai": "แอตลาส",
-    "phonetic": ""
-  },
-  {
-    "english": "Essay",
-    "thai": "เรียงความ",
-    "phonetic": ""
-  },
-  {
-    "english": "Report",
-    "thai": "รายงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Philosophy",
-    "thai": "ปรัชญา",
-    "phonetic": ""
-  },
-  {
-    "english": "Classroom",
-    "thai": "ห้องเรียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Pencil",
-    "thai": "ดินสอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Book",
-    "thai": "หนังสือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Curriculum",
-    "thai": "หลักสูตร",
-    "phonetic": ""
-  },
-  {
-    "english": "Physics",
-    "thai": "ฟิสิกส์",
-    "phonetic": ""
-  },
-  {
-    "english": "Science",
-    "thai": "ศาสตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "University",
-    "thai": "มหาวิทยาลัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Hourglass",
-    "thai": "นาฬิกาทราย",
-    "phonetic": ""
-  },
-  {
-    "english": "Timeline",
-    "thai": "ไทม์ไลน์",
-    "phonetic": ""
-  },
-  {
-    "english": "Student",
-    "thai": "นักเรียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Syllabus",
-    "thai": "หลักสูตร",
-    "phonetic": ""
-  },
-  {
-    "english": "School",
-    "thai": "โรงเรียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Astronomy",
-    "thai": "ดาราศาสตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Workbook",
-    "thai": "สมุดงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Exam",
-    "thai": "การสอบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Lesson",
-    "thai": "บทเรียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Chemistry",
-    "thai": "เคมี",
-    "phonetic": ""
-  },
-  {
-    "english": "Infinity",
-    "thai": "อินฟินิตี้",
-    "phonetic": ""
-  },
-  {
-    "english": "Notebook",
-    "thai": "สมุดบันทึก",
-    "phonetic": ""
-  },
-  {
-    "english": "Workshop",
-    "thai": "เวิร์คช็อป",
-    "phonetic": ""
-  },
-  {
-    "english": "Desk",
-    "thai": "โต๊ะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Period",
-    "thai": "ระยะเวลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Posterity",
-    "thai": "ลูกหลาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Literature",
-    "thai": "วรรณกรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Cafeteria",
-    "thai": "โรงอาหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Instant",
-    "thai": "ทันที",
-    "phonetic": ""
-  },
-  {
-    "english": "Pen",
-    "thai": "ปากกา",
-    "phonetic": ""
-  },
-  {
-    "english": "Dormitory",
-    "thai": "หอพัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Religion",
-    "thai": "ศาสนา",
-    "phonetic": ""
-  },
-  {
-    "english": "Timer",
-    "thai": "ตัวจับเวลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Economics",
-    "thai": "เศรษฐศาสตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Test",
-    "thai": "ทดสอบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Watch",
-    "thai": "ดู",
-    "phonetic": ""
-  },
-  {
-    "english": "Teacher",
-    "thai": "ครู",
-    "phonetic": ""
-  },
-  {
-    "english": "Dean",
-    "thai": "คณบดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Manual",
-    "thai": "คู่มือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Business",
-    "thai": "ธุรกิจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Politics",
-    "thai": "การเมือง",
-    "phonetic": ""
-  },
-  {
-    "english": "Tutor",
-    "thai": "ติวเตอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Campus",
-    "thai": "วิทยาเขต",
-    "phonetic": ""
-  },
-  {
-    "english": "Thesis",
-    "thai": "วิทยานิพนธ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Principal",
-    "thai": "อาจารย์ใหญ่",
-    "phonetic": ""
-  },
-  {
-    "english": "Moment",
-    "thai": "ช่วงเวลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Law",
-    "thai": "กฎ",
-    "phonetic": ""
-  },
-  {
-    "english": "Sociology",
-    "thai": "สังคมวิทยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Newspaper",
-    "thai": "หนังสือพิมพ์",
-    "phonetic": ""
-  },
-  {
-    "english": "College",
-    "thai": "วิทยาลัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Chapter",
-    "thai": "บท",
-    "phonetic": ""
-  },
-  {
-    "english": "Psychology",
-    "thai": "จิตวิทยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Learning",
-    "thai": "การเรียนรู้",
-    "phonetic": ""
-  },
-  {
-    "english": "Professor",
-    "thai": "ศาสตราจารย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Article",
-    "thai": "บทความ",
-    "phonetic": ""
-  },
-  {
-    "english": "Geography",
-    "thai": "ภูมิศาสตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Magazine",
-    "thai": "นิตยสาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Mathematics",
-    "thai": "คณิตศาสตร์",
-    "phonetic": ""
-  },
-  {
     "english": "Technology",
     "thai": "เทคโนโลยี",
-    "phonetic": ""
-  },
-  {
-    "english": "Paragraph",
-    "thai": "ย่อหน้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Word",
-    "thai": "คำ",
     "phonetic": ""
   },
   {
@@ -495,8 +10,493 @@
     "phonetic": ""
   },
   {
+    "english": "Business",
+    "thai": "ธุรกิจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Teacher",
+    "thai": "ครู",
+    "phonetic": ""
+  },
+  {
+    "english": "Mathematics",
+    "thai": "คณิตศาสตร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Dean",
+    "thai": "คณบดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Future",
+    "thai": "อนาคต",
+    "phonetic": ""
+  },
+  {
+    "english": "Watch",
+    "thai": "ดู",
+    "phonetic": ""
+  },
+  {
+    "english": "Thesis",
+    "thai": "วิทยานิพนธ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Engineering",
+    "thai": "วิศวกรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Sundial",
+    "thai": "นาฬิกาแดด",
+    "phonetic": ""
+  },
+  {
+    "english": "Grade",
+    "thai": "ระดับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Past",
+    "thai": "อดีต",
+    "phonetic": ""
+  },
+  {
+    "english": "Classroom",
+    "thai": "ห้องเรียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Certificate",
+    "thai": "ใบรับรอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Book",
+    "thai": "หนังสือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Literature",
+    "thai": "วรรณกรรม",
+    "phonetic": ""
+  },
+  {
     "english": "Sequence",
     "thai": "ลำดับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Student",
+    "thai": "นักเรียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Campus",
+    "thai": "วิทยาเขต",
+    "phonetic": ""
+  },
+  {
+    "english": "College",
+    "thai": "วิทยาลัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Sociology",
+    "thai": "สังคมวิทยา",
+    "phonetic": ""
+  },
+  {
+    "english": "University",
+    "thai": "มหาวิทยาลัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Moment",
+    "thai": "ช่วงเวลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Scholarship",
+    "thai": "ทุนการศึกษา",
+    "phonetic": ""
+  },
+  {
+    "english": "Desk",
+    "thai": "โต๊ะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Test",
+    "thai": "ทดสอบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Science",
+    "thai": "ศาสตร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Learning",
+    "thai": "การเรียนรู้",
+    "phonetic": ""
+  },
+  {
+    "english": "Posterity",
+    "thai": "ลูกหลาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Education",
+    "thai": "การศึกษา",
+    "phonetic": ""
+  },
+  {
+    "english": "Antiquity",
+    "thai": "สมัยโบราณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Cafeteria",
+    "thai": "โรงอาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Assignment",
+    "thai": "งานที่มอบหมาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Chronology",
+    "thai": "ลำดับเหตุการณ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Interval",
+    "thai": "ช่วงเวลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Art",
+    "thai": "ศิลปะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Report",
+    "thai": "รายงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Geography",
+    "thai": "ภูมิศาสตร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Politics",
+    "thai": "การเมือง",
+    "phonetic": ""
+  },
+  {
+    "english": "Lesson",
+    "thai": "บทเรียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Pencil",
+    "thai": "ดินสอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Dictionary",
+    "thai": "พจนานุกรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Knowledge",
+    "thai": "ความรู้",
+    "phonetic": ""
+  },
+  {
+    "english": "Textbook",
+    "thai": "หนังสือเรียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Philosophy",
+    "thai": "ปรัชญา",
+    "phonetic": ""
+  },
+  {
+    "english": "Word",
+    "thai": "คำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Article",
+    "thai": "บทความ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sentence",
+    "thai": "ประโยค",
+    "phonetic": ""
+  },
+  {
+    "english": "Magazine",
+    "thai": "นิตยสาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Manual",
+    "thai": "คู่มือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Modernity",
+    "thai": "ความทันสมัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Astronomy",
+    "thai": "ดาราศาสตร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Chapter",
+    "thai": "บท",
+    "phonetic": ""
+  },
+  {
+    "english": "Religion",
+    "thai": "ศาสนา",
+    "phonetic": ""
+  },
+  {
+    "english": "Period",
+    "thai": "ระยะเวลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Syllabus",
+    "thai": "หลักสูตร",
+    "phonetic": ""
+  },
+  {
+    "english": "Infinity",
+    "thai": "อินฟินิตี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Course",
+    "thai": "คอร์ส",
+    "phonetic": ""
+  },
+  {
+    "english": "Subject",
+    "thai": "เรื่อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Newspaper",
+    "thai": "หนังสือพิมพ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Eternity",
+    "thai": "ความเป็นนิรันดร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Law",
+    "thai": "กฎ",
+    "phonetic": ""
+  },
+  {
+    "english": "Timer",
+    "thai": "ตัวจับเวลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Teaching",
+    "thai": "การสอน",
+    "phonetic": ""
+  },
+  {
+    "english": "Encyclopedia",
+    "thai": "สารานุกรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Psychology",
+    "thai": "จิตวิทยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Pen",
+    "thai": "ปากกา",
+    "phonetic": ""
+  },
+  {
+    "english": "Auditorium",
+    "thai": "หอประชุม",
+    "phonetic": ""
+  },
+  {
+    "english": "Atlas",
+    "thai": "แอตลาส",
+    "phonetic": ""
+  },
+  {
+    "english": "Exam",
+    "thai": "การสอบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Class",
+    "thai": "ระดับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Wisdom",
+    "thai": "ภูมิปัญญา",
+    "phonetic": ""
+  },
+  {
+    "english": "Essay",
+    "thai": "เรียงความ",
+    "phonetic": ""
+  },
+  {
+    "english": "Dormitory",
+    "thai": "หอพัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Physics",
+    "thai": "ฟิสิกส์",
+    "phonetic": ""
+  },
+  {
+    "english": "Curriculum",
+    "thai": "หลักสูตร",
+    "phonetic": ""
+  },
+  {
+    "english": "Hourglass",
+    "thai": "นาฬิกาทราย",
+    "phonetic": ""
+  },
+  {
+    "english": "School",
+    "thai": "โรงเรียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Economics",
+    "thai": "เศรษฐศาสตร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Workbook",
+    "thai": "สมุดงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Computer Science",
+    "thai": "วิทยาการคอมพิวเตอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Paragraph",
+    "thai": "ย่อหน้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Diploma",
+    "thai": "ประกาศนียบัตร",
+    "phonetic": ""
+  },
+  {
+    "english": "Dissertation",
+    "thai": "วิทยานิพนธ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Presentation",
+    "thai": "การนำเสนอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Tutor",
+    "thai": "ติวเตอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Tuition",
+    "thai": "ค่าเล่าเรียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Chemistry",
+    "thai": "เคมี",
+    "phonetic": ""
+  },
+  {
+    "english": "Gymnasium",
+    "thai": "โรงยิม",
+    "phonetic": ""
+  },
+  {
+    "english": "Principal",
+    "thai": "อาจารย์ใหญ่",
+    "phonetic": ""
+  },
+  {
+    "english": "Present",
+    "thai": "ปัจจุบัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Instant",
+    "thai": "ทันที",
+    "phonetic": ""
+  },
+  {
+    "english": "Professor",
+    "thai": "ศาสตราจารย์",
+    "phonetic": ""
+  },
+  {
+    "english": "History",
+    "thai": "ประวัติศาสตร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Timeline",
+    "thai": "ไทม์ไลน์",
+    "phonetic": ""
+  },
+  {
+    "english": "Workshop",
+    "thai": "เวิร์คช็อป",
+    "phonetic": ""
+  },
+  {
+    "english": "Notebook",
+    "thai": "สมุดบันทึก",
+    "phonetic": ""
+  },
+  {
+    "english": "Seminar",
+    "thai": "สัมมนา",
+    "phonetic": ""
+  },
+  {
+    "english": "Lecture",
+    "thai": "การบรรยาย",
     "phonetic": ""
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
-    "english": "Holiday",
-    "thai": "วันหยุด",
+    "english": "Criticism",
+    "thai": "การวิจารณ์",
     "phonetic": ""
   },
   {
@@ -10,58 +10,28 @@
     "phonetic": ""
   },
   {
-    "english": "Joke",
-    "thai": "เรื่องตลก",
+    "english": "Invitation",
+    "thai": "การเชิญ",
     "phonetic": ""
   },
   {
-    "english": "Agree",
-    "thai": "เห็นด้วย",
+    "english": "Together",
+    "thai": "ด้วยกัน",
     "phonetic": ""
   },
   {
-    "english": "Criticism",
-    "thai": "การวิจารณ์",
+    "english": "Community",
+    "thai": "ชุมชน",
     "phonetic": ""
   },
   {
-    "english": "Support",
-    "thai": "สนับสนุน",
+    "english": "Alone",
+    "thai": "ตามลำพัง",
     "phonetic": ""
   },
   {
-    "english": "Belief",
-    "thai": "ความเชื่อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Answer",
-    "thai": "คำตอบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Help",
-    "thai": "ช่วย",
-    "phonetic": ""
-  },
-  {
-    "english": "Journey",
-    "thai": "การเดินทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Trust",
-    "thai": "เชื่อมั่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Stranger",
-    "thai": "คนแปลกหน้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Yes",
-    "thai": "ใช่",
+    "english": "Meeting",
+    "thai": "การประชุม",
     "phonetic": ""
   },
   {
@@ -70,88 +40,8 @@
     "phonetic": ""
   },
   {
-    "english": "Oppose",
-    "thai": "คัดค้าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Family",
-    "thai": "ตระกูล",
-    "phonetic": ""
-  },
-  {
-    "english": "Hello",
-    "thai": "สวัสดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Name",
-    "thai": "ชื่อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Allow",
-    "thai": "อนุญาต",
-    "phonetic": ""
-  },
-  {
-    "english": "Thought",
-    "thai": "คิด",
-    "phonetic": ""
-  },
-  {
-    "english": "Praise",
-    "thai": "ชื่นชม",
-    "phonetic": ""
-  },
-  {
-    "english": "Welcome",
-    "thai": "ยินดีต้อนรับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Tone",
-    "thai": "โทนเสียง",
-    "phonetic": ""
-  },
-  {
-    "english": "Doubt",
-    "thai": "สงสัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Company",
-    "thai": "บริษัท",
-    "phonetic": ""
-  },
-  {
-    "english": "Hinder",
-    "thai": "ขัดขวาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Promise",
-    "thai": "สัญญา",
-    "phonetic": ""
-  },
-  {
-    "english": "Respect",
-    "thai": "เคารพ",
-    "phonetic": ""
-  },
-  {
-    "english": "Feeling",
-    "thai": "ความรู้สึก",
-    "phonetic": ""
-  },
-  {
-    "english": "Compliment",
-    "thai": "ชมเชย",
-    "phonetic": ""
-  },
-  {
-    "english": "Encourage",
-    "thai": "ให้กำลังใจ",
+    "english": "Answer",
+    "thai": "คำตอบ",
     "phonetic": ""
   },
   {
@@ -165,33 +55,58 @@
     "phonetic": ""
   },
   {
-    "english": "Rumor",
-    "thai": "ข่าวลือ",
+    "english": "Vacation",
+    "thai": "วันหยุด",
     "phonetic": ""
   },
   {
-    "english": "Gesture",
-    "thai": "ท่าทาง",
+    "english": "Neighbor",
+    "thai": "เพื่อนบ้าน",
     "phonetic": ""
   },
   {
-    "english": "Secret",
-    "thai": "ความลับ",
+    "english": "Yes",
+    "thai": "ใช่",
     "phonetic": ""
   },
   {
-    "english": "Thanks",
-    "thai": "ขอบคุณ",
+    "english": "Farewell",
+    "thai": "ลา",
     "phonetic": ""
   },
   {
-    "english": "Opinion",
-    "thai": "ความคิดเห็น",
+    "english": "Trip",
+    "thai": "การเดินทาง",
     "phonetic": ""
   },
   {
-    "english": "Gossip",
-    "thai": "นินทา",
+    "english": "Thought",
+    "thai": "คิด",
+    "phonetic": ""
+  },
+  {
+    "english": "Voice",
+    "thai": "เสียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Silence",
+    "thai": "ความเงียบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Belief",
+    "thai": "ความเชื่อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Whisper",
+    "thai": "กระซิบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Advice",
+    "thai": "คำแนะนำ",
     "phonetic": ""
   },
   {
@@ -200,8 +115,193 @@
     "phonetic": ""
   },
   {
+    "english": "Question",
+    "thai": "คำถาม",
+    "phonetic": ""
+  },
+  {
+    "english": "Doubt",
+    "thai": "สงสัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Gesture",
+    "thai": "ท่าทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Hello",
+    "thai": "สวัสดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Greeting",
+    "thai": "การทักทาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Adventure",
+    "thai": "การผจญภัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Disagree",
+    "thai": "ไม่เห็นด้วย",
+    "phonetic": ""
+  },
+  {
+    "english": "Crowd",
+    "thai": "ฝูงชน",
+    "phonetic": ""
+  },
+  {
+    "english": "Company",
+    "thai": "บริษัท",
+    "phonetic": ""
+  },
+  {
+    "english": "Thanks",
+    "thai": "ขอบคุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "Memory",
+    "thai": "หน่วยความจำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Joke",
+    "thai": "เรื่องตลก",
+    "phonetic": ""
+  },
+  {
+    "english": "Lie",
+    "thai": "โกหก",
+    "phonetic": ""
+  },
+  {
+    "english": "Disrespect",
+    "thai": "การไม่เคารพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Respect",
+    "thai": "เคารพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Agree",
+    "thai": "เห็นด้วย",
+    "phonetic": ""
+  },
+  {
+    "english": "Guest",
+    "thai": "แขก",
+    "phonetic": ""
+  },
+  {
+    "english": "Feeling",
+    "thai": "ความรู้สึก",
+    "phonetic": ""
+  },
+  {
+    "english": "Refuse",
+    "thai": "ปฏิเสธ",
+    "phonetic": ""
+  },
+  {
+    "english": "Gossip",
+    "thai": "นินทา",
+    "phonetic": ""
+  },
+  {
+    "english": "Never",
+    "thai": "ไม่เคย",
+    "phonetic": ""
+  },
+  {
     "english": "Truth",
     "thai": "ความจริง",
+    "phonetic": ""
+  },
+  {
+    "english": "Stranger",
+    "thai": "คนแปลกหน้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Evening",
+    "thai": "ตอนเย็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Topic",
+    "thai": "หัวข้อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Laughter",
+    "thai": "เสียงหัวเราะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Goodbye",
+    "thai": "ลาก่อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Compliment",
+    "thai": "ชมเชย",
+    "phonetic": ""
+  },
+  {
+    "english": "Emotion",
+    "thai": "อารมณ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Message",
+    "thai": "ข้อความ",
+    "phonetic": ""
+  },
+  {
+    "english": "Allow",
+    "thai": "อนุญาต",
+    "phonetic": ""
+  },
+  {
+    "english": "Encourage",
+    "thai": "ให้กำลังใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Party",
+    "thai": "งานสังสรรค์",
+    "phonetic": ""
+  },
+  {
+    "english": "Celebrate",
+    "thai": "ฉลอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Expression",
+    "thai": "การแสดงออก",
+    "phonetic": ""
+  },
+  {
+    "english": "Information",
+    "thai": "ข้อมูล",
+    "phonetic": ""
+  },
+  {
+    "english": "No",
+    "thai": "เลขที่",
+    "phonetic": ""
+  },
+  {
+    "english": "Mood",
+    "thai": "อารมณ์",
     "phonetic": ""
   },
   {
@@ -215,143 +315,8 @@
     "phonetic": ""
   },
   {
-    "english": "Advice",
-    "thai": "คำแนะนำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Information",
-    "thai": "ข้อมูล",
-    "phonetic": ""
-  },
-  {
-    "english": "Disrespect",
-    "thai": "การไม่เคารพ",
-    "phonetic": ""
-  },
-  {
-    "english": "Insult",
-    "thai": "สบประมาท",
-    "phonetic": ""
-  },
-  {
-    "english": "Gift",
-    "thai": "ของขวัญ",
-    "phonetic": ""
-  },
-  {
-    "english": "Attitude",
-    "thai": "ทัศนคติ",
-    "phonetic": ""
-  },
-  {
-    "english": "No",
-    "thai": "เลขที่",
-    "phonetic": ""
-  },
-  {
-    "english": "Forbid",
-    "thai": "ห้าม",
-    "phonetic": ""
-  },
-  {
-    "english": "Laughter",
-    "thai": "เสียงหัวเราะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Okay",
-    "thai": "ตกลง",
-    "phonetic": ""
-  },
-  {
-    "english": "Celebrate",
-    "thai": "ฉลอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Suggestion",
-    "thai": "คำแนะนำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Fact",
-    "thai": "ข้อเท็จจริง",
-    "phonetic": ""
-  },
-  {
-    "english": "Adventure",
-    "thai": "การผจญภัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Crowd",
-    "thai": "ฝูงชน",
-    "phonetic": ""
-  },
-  {
-    "english": "Together",
-    "thai": "ด้วยกัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Trip",
-    "thai": "การเดินทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Greeting",
-    "thai": "การทักทาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Silence",
-    "thai": "ความเงียบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Emotion",
-    "thai": "อารมณ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Card",
-    "thai": "การ์ด",
-    "phonetic": ""
-  },
-  {
     "english": "Please",
     "thai": "โปรด",
-    "phonetic": ""
-  },
-  {
-    "english": "Farewell",
-    "thai": "ลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Letter",
-    "thai": "จดหมาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Topic",
-    "thai": "หัวข้อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Conversation",
-    "thai": "การสนทนา",
-    "phonetic": ""
-  },
-  {
-    "english": "Memory",
-    "thai": "หน่วยความจำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Event",
-    "thai": "เหตุการณ์",
     "phonetic": ""
   },
   {
@@ -360,63 +325,18 @@
     "phonetic": ""
   },
   {
-    "english": "Voice",
-    "thai": "เสียง",
+    "english": "Support",
+    "thai": "สนับสนุน",
     "phonetic": ""
   },
   {
-    "english": "Vacation",
-    "thai": "วันหยุด",
+    "english": "Journey",
+    "thai": "การเดินทาง",
     "phonetic": ""
   },
   {
-    "english": "Mourn",
-    "thai": "โศกเศร้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Community",
-    "thai": "ชุมชน",
-    "phonetic": ""
-  },
-  {
-    "english": "Introduction",
-    "thai": "การแนะนำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Refuse",
-    "thai": "ปฏิเสธ",
-    "phonetic": ""
-  },
-  {
-    "english": "Party",
-    "thai": "งานสังสรรค์",
-    "phonetic": ""
-  },
-  {
-    "english": "Morning",
-    "thai": "เช้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Idea",
-    "thai": "ความคิด",
-    "phonetic": ""
-  },
-  {
-    "english": "Expression",
-    "thai": "การแสดงออก",
-    "phonetic": ""
-  },
-  {
-    "english": "Mood",
-    "thai": "อารมณ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Disagree",
-    "thai": "ไม่เห็นด้วย",
+    "english": "Trust",
+    "thai": "เชื่อมั่น",
     "phonetic": ""
   },
   {
@@ -425,13 +345,23 @@
     "phonetic": ""
   },
   {
-    "english": "Neighbor",
-    "thai": "เพื่อนบ้าน",
+    "english": "Tone",
+    "thai": "โทนเสียง",
     "phonetic": ""
   },
   {
-    "english": "Surprise",
-    "thai": "เซอร์ไพรส์",
+    "english": "Introduction",
+    "thai": "การแนะนำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Promise",
+    "thai": "สัญญา",
+    "phonetic": ""
+  },
+  {
+    "english": "Attitude",
+    "thai": "ทัศนคติ",
     "phonetic": ""
   },
   {
@@ -440,43 +370,113 @@
     "phonetic": ""
   },
   {
-    "english": "Whisper",
-    "thai": "กระซิบ",
+    "english": "Mourn",
+    "thai": "โศกเศร้า",
     "phonetic": ""
   },
   {
-    "english": "Invitation",
-    "thai": "การเชิญ",
+    "english": "Fact",
+    "thai": "ข้อเท็จจริง",
     "phonetic": ""
   },
   {
-    "english": "Lie",
-    "thai": "โกหก",
+    "english": "Holiday",
+    "thai": "วันหยุด",
     "phonetic": ""
   },
   {
-    "english": "Alone",
-    "thai": "ตามลำพัง",
+    "english": "Welcome",
+    "thai": "ยินดีต้อนรับ",
     "phonetic": ""
   },
   {
-    "english": "Evening",
-    "thai": "ตอนเย็น",
+    "english": "Name",
+    "thai": "ชื่อ",
     "phonetic": ""
   },
   {
-    "english": "Meeting",
-    "thai": "การประชุม",
+    "english": "Insult",
+    "thai": "สบประมาท",
     "phonetic": ""
   },
   {
-    "english": "Goodbye",
-    "thai": "ลาก่อน",
+    "english": "Hinder",
+    "thai": "ขัดขวาง",
     "phonetic": ""
   },
   {
-    "english": "Question",
-    "thai": "คำถาม",
+    "english": "Oppose",
+    "thai": "คัดค้าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Suggestion",
+    "thai": "คำแนะนำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Okay",
+    "thai": "ตกลง",
+    "phonetic": ""
+  },
+  {
+    "english": "Family",
+    "thai": "ตระกูล",
+    "phonetic": ""
+  },
+  {
+    "english": "Help",
+    "thai": "ช่วย",
+    "phonetic": ""
+  },
+  {
+    "english": "Surprise",
+    "thai": "เซอร์ไพรส์",
+    "phonetic": ""
+  },
+  {
+    "english": "Letter",
+    "thai": "จดหมาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Secret",
+    "thai": "ความลับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Forbid",
+    "thai": "ห้าม",
+    "phonetic": ""
+  },
+  {
+    "english": "Morning",
+    "thai": "เช้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Rumor",
+    "thai": "ข่าวลือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Card",
+    "thai": "การ์ด",
+    "phonetic": ""
+  },
+  {
+    "english": "Idea",
+    "thai": "ความคิด",
+    "phonetic": ""
+  },
+  {
+    "english": "Opinion",
+    "thai": "ความคิดเห็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Conversation",
+    "thai": "การสนทนา",
     "phonetic": ""
   },
   {
@@ -485,18 +485,18 @@
     "phonetic": ""
   },
   {
-    "english": "Never",
-    "thai": "ไม่เคย",
+    "english": "Event",
+    "thai": "เหตุการณ์",
     "phonetic": ""
   },
   {
-    "english": "Message",
-    "thai": "ข้อความ",
+    "english": "Gift",
+    "thai": "ของขวัญ",
     "phonetic": ""
   },
   {
-    "english": "Guest",
-    "thai": "แขก",
+    "english": "Praise",
+    "thai": "ชื่นชม",
     "phonetic": ""
   }
 ]

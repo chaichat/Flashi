@@ -1,12 +1,82 @@
 [
   {
-    "english": "Listen",
-    "thai": "ฟัง",
+    "english": "Understand",
+    "thai": "เข้าใจ",
     "phonetic": ""
   },
   {
-    "english": "Part-time",
-    "thai": "พาร์ทไทม์",
+    "english": "Delegation",
+    "thai": "คณะผู้แทน",
+    "phonetic": ""
+  },
+  {
+    "english": "Study",
+    "thai": "ศึกษา",
+    "phonetic": ""
+  },
+  {
+    "english": "Negotiation",
+    "thai": "การเจรจาต่อรอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Application",
+    "thai": "แอปพลิเคชัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Intern",
+    "thai": "นักศึกษาฝึกงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Resilience",
+    "thai": "ความยืดหยุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Profit",
+    "thai": "กำไร",
+    "phonetic": ""
+  },
+  {
+    "english": "Revise",
+    "thai": "ปรับปรุงใหม่",
+    "phonetic": ""
+  },
+  {
+    "english": "Slogan",
+    "thai": "คำขวัญ",
+    "phonetic": ""
+  },
+  {
+    "english": "Productivity",
+    "thai": "ผลผลิต",
+    "phonetic": ""
+  },
+  {
+    "english": "Social media",
+    "thai": "โซเชียลมีเดีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Logo",
+    "thai": "โลโก้",
+    "phonetic": ""
+  },
+  {
+    "english": "Hybrid",
+    "thai": "ไฮบริด",
+    "phonetic": ""
+  },
+  {
+    "english": "Conflict",
+    "thai": "ขัดแย้ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Networking",
+    "thai": "การสร้างเครือข่าย",
     "phonetic": ""
   },
   {
@@ -15,8 +85,23 @@
     "phonetic": ""
   },
   {
-    "english": "Matriculate",
-    "thai": "สอบเข้ามหาวิทยาลัย",
+    "english": "Keyboard",
+    "thai": "คีย์บอร์ด",
+    "phonetic": ""
+  },
+  {
+    "english": "Resolution",
+    "thai": "ปณิธาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Tablet",
+    "thai": "แท็บเล็ต",
+    "phonetic": ""
+  },
+  {
+    "english": "Communication",
+    "thai": "การสื่อสาร",
     "phonetic": ""
   },
   {
@@ -25,8 +110,143 @@
     "phonetic": ""
   },
   {
-    "english": "Analyze",
-    "thai": "วิเคราะห์",
+    "english": "Management",
+    "thai": "การจัดการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Username",
+    "thai": "ชื่อผู้ใช้",
+    "phonetic": ""
+  },
+  {
+    "english": "Supervision",
+    "thai": "การกำกับดูแล",
+    "phonetic": ""
+  },
+  {
+    "english": "Persistence",
+    "thai": "ความคงอยู่",
+    "phonetic": ""
+  },
+  {
+    "english": "Adaptability",
+    "thai": "ความสามารถในการปรับตัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Screen",
+    "thai": "หน้าจอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Innovation",
+    "thai": "นวัตกรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Matriculate",
+    "thai": "สอบเข้ามหาวิทยาลัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Problem-solving",
+    "thai": "การแก้ไขปัญหา",
+    "phonetic": ""
+  },
+  {
+    "english": "Advertising",
+    "thai": "การโฆษณา",
+    "phonetic": ""
+  },
+  {
+    "english": "Password",
+    "thai": "รหัสผ่าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Expense",
+    "thai": "ค่าใช้จ่าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Communicate",
+    "thai": "สื่อสาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Hardware",
+    "thai": "ฮาร์ดแวร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Collaboration",
+    "thai": "การทำงานร่วมกัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Collaborate",
+    "thai": "ร่วมมือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Code",
+    "thai": "รหัส",
+    "phonetic": ""
+  },
+  {
+    "english": "Resignation",
+    "thai": "การลาออก",
+    "phonetic": ""
+  },
+  {
+    "english": "Research",
+    "thai": "วิจัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Part-time",
+    "thai": "พาร์ทไทม์",
+    "phonetic": ""
+  },
+  {
+    "english": "Synthesize",
+    "thai": "สังเคราะห์",
+    "phonetic": ""
+  },
+  {
+    "english": "Failure",
+    "thai": "ความล้มเหลว",
+    "phonetic": ""
+  },
+  {
+    "english": "Evaluate",
+    "thai": "ประเมิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Asset",
+    "thai": "สินทรัพย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Enroll",
+    "thai": "ลงทะเบียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Investment",
+    "thai": "การลงทุน",
+    "phonetic": ""
+  },
+  {
+    "english": "Consultant",
+    "thai": "ที่ปรึกษา",
+    "phonetic": ""
+  },
+  {
+    "english": "Speak",
+    "thai": "พูด",
     "phonetic": ""
   },
   {
@@ -40,278 +260,8 @@
     "phonetic": ""
   },
   {
-    "english": "Enroll",
-    "thai": "ลงทะเบียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Networking",
-    "thai": "การสร้างเครือข่าย",
-    "phonetic": ""
-  },
-  {
-    "english": "Startup",
-    "thai": "การเริ่มต้นธุรกิจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Overtime",
-    "thai": "การทำงานล่วงเวลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Supervision",
-    "thai": "การกำกับดูแล",
-    "phonetic": ""
-  },
-  {
-    "english": "Smartphone",
-    "thai": "สมาร์ทโฟน",
-    "phonetic": ""
-  },
-  {
-    "english": "Coworker",
-    "thai": "เพื่อนร่วมงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Profit",
-    "thai": "กำไร",
-    "phonetic": ""
-  },
-  {
-    "english": "Consultant",
-    "thai": "ที่ปรึกษา",
-    "phonetic": ""
-  },
-  {
-    "english": "Marketing",
-    "thai": "การตลาด",
-    "phonetic": ""
-  },
-  {
-    "english": "Revise",
-    "thai": "ปรับปรุงใหม่",
-    "phonetic": ""
-  },
-  {
-    "english": "Resignation",
-    "thai": "การลาออก",
-    "phonetic": ""
-  },
-  {
-    "english": "Persistence",
-    "thai": "ความคงอยู่",
-    "phonetic": ""
-  },
-  {
-    "english": "Conflict",
-    "thai": "ขัดแย้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Memorize",
-    "thai": "จดจำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Tablet",
-    "thai": "แท็บเล็ต",
-    "phonetic": ""
-  },
-  {
-    "english": "Innovate",
-    "thai": "นวัตกรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Research",
-    "thai": "วิจัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Inspiration",
-    "thai": "แรงบันดาลใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Negotiation",
-    "thai": "การเจรจาต่อรอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Evaluate",
-    "thai": "ประเมิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Communicate",
-    "thai": "สื่อสาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Scanner",
-    "thai": "สแกนเนอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Efficiency",
-    "thai": "ประสิทธิภาพ",
-    "phonetic": ""
-  },
-  {
-    "english": "Freelancer",
-    "thai": "นักเขียนอิสระ",
-    "phonetic": ""
-  },
-  {
-    "english": "Client",
-    "thai": "ลูกค้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Hybrid",
-    "thai": "ไฮบริด",
-    "phonetic": ""
-  },
-  {
-    "english": "Asset",
-    "thai": "สินทรัพย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Mouse",
-    "thai": "หนู",
-    "phonetic": ""
-  },
-  {
-    "english": "Consumer",
-    "thai": "ผู้บริโภค",
-    "phonetic": ""
-  },
-  {
-    "english": "Application",
-    "thai": "แอปพลิเคชัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Teamwork",
-    "thai": "การทำงานเป็นทีม",
-    "phonetic": ""
-  },
-  {
-    "english": "Dividend",
-    "thai": "เงินปันผล",
-    "phonetic": ""
-  },
-  {
-    "english": "Study",
-    "thai": "ศึกษา",
-    "phonetic": ""
-  },
-  {
-    "english": "Innovation",
-    "thai": "นวัตกรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Decision-making",
-    "thai": "การตัดสินใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Expense",
-    "thai": "ค่าใช้จ่าย",
-    "phonetic": ""
-  },
-  {
-    "english": "Stock",
-    "thai": "คลังสินค้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Software",
-    "thai": "ซอฟต์แวร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Entrepreneur",
-    "thai": "ผู้ประกอบการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Grit",
-    "thai": "ขบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Brand",
-    "thai": "ยี่ห้อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Success",
-    "thai": "ความสำเร็จ",
-    "phonetic": ""
-  },
-  {
-    "english": "Advertising",
-    "thai": "การโฆษณา",
-    "phonetic": ""
-  },
-  {
-    "english": "Keyboard",
-    "thai": "คีย์บอร์ด",
-    "phonetic": ""
-  },
-  {
-    "english": "Productivity",
-    "thai": "ผลผลิต",
-    "phonetic": ""
-  },
-  {
-    "english": "Graduate",
-    "thai": "เรียนจบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Problem-solving",
-    "thai": "การแก้ไขปัญหา",
-    "phonetic": ""
-  },
-  {
-    "english": "Read",
-    "thai": "อ่าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Website",
-    "thai": "เว็บไซต์",
-    "phonetic": ""
-  },
-  {
-    "english": "Management",
-    "thai": "การจัดการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Slogan",
-    "thai": "คำขวัญ",
-    "phonetic": ""
-  },
-  {
-    "english": "Full-time",
-    "thai": "เต็มเวลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Resilience",
-    "thai": "ความยืดหยุ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Failure",
-    "thai": "ความล้มเหลว",
+    "english": "Loss",
+    "thai": "การสูญเสีย",
     "phonetic": ""
   },
   {
@@ -320,83 +270,58 @@
     "phonetic": ""
   },
   {
-    "english": "Learn",
-    "thai": "เรียนรู้",
+    "english": "On-site",
+    "thai": "ในสถานที่",
     "phonetic": ""
   },
   {
-    "english": "Creativity",
-    "thai": "ความคิดสร้างสรรค์",
+    "english": "Teamwork",
+    "thai": "การทำงานเป็นทีม",
     "phonetic": ""
   },
   {
-    "english": "Employer",
-    "thai": "นายจ้าง",
+    "english": "Mouse",
+    "thai": "หนู",
     "phonetic": ""
   },
   {
-    "english": "Wi-Fi",
-    "thai": "ไวไฟ",
+    "english": "Website",
+    "thai": "เว็บไซต์",
     "phonetic": ""
   },
   {
-    "english": "Laptop",
-    "thai": "แล็ปท็อป",
+    "english": "Innovate",
+    "thai": "นวัตกรรม",
     "phonetic": ""
   },
   {
-    "english": "Create",
-    "thai": "สร้าง",
+    "english": "Freelancer",
+    "thai": "นักเขียนอิสระ",
     "phonetic": ""
   },
   {
-    "english": "Collaboration",
-    "thai": "การทำงานร่วมกัน",
+    "english": "Read",
+    "thai": "อ่าน",
     "phonetic": ""
   },
   {
-    "english": "Product",
-    "thai": "ผลิตภัณฑ์",
+    "english": "Listen",
+    "thai": "ฟัง",
     "phonetic": ""
   },
   {
-    "english": "Understand",
-    "thai": "เข้าใจ",
+    "english": "Smartphone",
+    "thai": "สมาร์ทโฟน",
     "phonetic": ""
   },
   {
-    "english": "Sales",
-    "thai": "ฝ่ายขาย",
+    "english": "Efficiency",
+    "thai": "ประสิทธิภาพ",
     "phonetic": ""
   },
   {
-    "english": "Speak",
-    "thai": "พูด",
-    "phonetic": ""
-  },
-  {
-    "english": "Logo",
-    "thai": "โลโก้",
-    "phonetic": ""
-  },
-  {
-    "english": "Synthesize",
-    "thai": "สังเคราะห์",
-    "phonetic": ""
-  },
-  {
-    "english": "Loss",
-    "thai": "การสูญเสีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Collaborate",
-    "thai": "ร่วมมือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Social media",
-    "thai": "โซเชียลมีเดีย",
+    "english": "Startup",
+    "thai": "การเริ่มต้นธุรกิจ",
     "phonetic": ""
   },
   {
@@ -405,73 +330,48 @@
     "phonetic": ""
   },
   {
-    "english": "Intern",
-    "thai": "นักศึกษาฝึกงาน",
+    "english": "Graduate",
+    "thai": "เรียนจบ",
     "phonetic": ""
   },
   {
-    "english": "On-site",
-    "thai": "ในสถานที่",
+    "english": "Learn",
+    "thai": "เรียนรู้",
     "phonetic": ""
   },
   {
-    "english": "Share",
-    "thai": "แบ่งปัน",
+    "english": "Memorize",
+    "thai": "จดจำ",
     "phonetic": ""
   },
   {
-    "english": "Screen",
-    "thai": "หน้าจอ",
+    "english": "Analyze",
+    "thai": "วิเคราะห์",
     "phonetic": ""
   },
   {
-    "english": "Communication",
-    "thai": "การสื่อสาร",
+    "english": "Grit",
+    "thai": "ขบ",
     "phonetic": ""
   },
   {
-    "english": "Investment",
-    "thai": "การลงทุน",
+    "english": "Product",
+    "thai": "ผลิตภัณฑ์",
     "phonetic": ""
   },
   {
-    "english": "Equity",
-    "thai": "ทุน",
+    "english": "Corporation",
+    "thai": "บริษัท",
     "phonetic": ""
   },
   {
-    "english": "Password",
-    "thai": "รหัสผ่าน",
+    "english": "Marketing",
+    "thai": "การตลาด",
     "phonetic": ""
   },
   {
-    "english": "Internet",
-    "thai": "อินเทอร์เน็ต",
-    "phonetic": ""
-  },
-  {
-    "english": "Resolution",
-    "thai": "ปณิธาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Hardware",
-    "thai": "ฮาร์ดแวร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Code",
-    "thai": "รหัส",
-    "phonetic": ""
-  },
-  {
-    "english": "Username",
-    "thai": "ชื่อผู้ใช้",
-    "phonetic": ""
-  },
-  {
-    "english": "Program",
-    "thai": "โปรแกรม",
+    "english": "Brand",
+    "thai": "ยี่ห้อ",
     "phonetic": ""
   },
   {
@@ -480,8 +380,78 @@
     "phonetic": ""
   },
   {
-    "english": "Delegation",
-    "thai": "คณะผู้แทน",
+    "english": "Entrepreneur",
+    "thai": "ผู้ประกอบการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Full-time",
+    "thai": "เต็มเวลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Share",
+    "thai": "แบ่งปัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Creativity",
+    "thai": "ความคิดสร้างสรรค์",
+    "phonetic": ""
+  },
+  {
+    "english": "Program",
+    "thai": "โปรแกรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Laptop",
+    "thai": "แล็ปท็อป",
+    "phonetic": ""
+  },
+  {
+    "english": "Success",
+    "thai": "ความสำเร็จ",
+    "phonetic": ""
+  },
+  {
+    "english": "Internet",
+    "thai": "อินเทอร์เน็ต",
+    "phonetic": ""
+  },
+  {
+    "english": "Inspiration",
+    "thai": "แรงบันดาลใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Software",
+    "thai": "ซอฟต์แวร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Scanner",
+    "thai": "สแกนเนอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Coworker",
+    "thai": "เพื่อนร่วมงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Wi-Fi",
+    "thai": "ไวไฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Stock",
+    "thai": "คลังสินค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Sales",
+    "thai": "ฝ่ายขาย",
     "phonetic": ""
   },
   {
@@ -490,13 +460,43 @@
     "phonetic": ""
   },
   {
-    "english": "Adaptability",
-    "thai": "ความสามารถในการปรับตัว",
+    "english": "Overtime",
+    "thai": "การทำงานล่วงเวลา",
     "phonetic": ""
   },
   {
-    "english": "Corporation",
-    "thai": "บริษัท",
+    "english": "Create",
+    "thai": "สร้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Client",
+    "thai": "ลูกค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Decision-making",
+    "thai": "การตัดสินใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Equity",
+    "thai": "ทุน",
+    "phonetic": ""
+  },
+  {
+    "english": "Consumer",
+    "thai": "ผู้บริโภค",
+    "phonetic": ""
+  },
+  {
+    "english": "Employer",
+    "thai": "นายจ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Dividend",
+    "thai": "เงินปันผล",
     "phonetic": ""
   }
 ]

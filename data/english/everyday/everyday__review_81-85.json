@@ -1,92 +1,7 @@
 [
   {
-    "english": "Uruguay",
-    "thai": "อุรุกวัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Parent",
-    "thai": "พ่อแม่",
-    "phonetic": ""
-  },
-  {
-    "english": "Denmark",
-    "thai": "เดนมาร์ก",
-    "phonetic": ""
-  },
-  {
-    "english": "Wife",
-    "thai": "ภรรยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Sibling",
-    "thai": "พี่น้อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Argentina",
-    "thai": "อาร์เจนตินา",
-    "phonetic": ""
-  },
-  {
-    "english": "Dutch",
-    "thai": "ดัตช์",
-    "phonetic": ""
-  },
-  {
-    "english": "Danish",
-    "thai": "เดนมาร์ก",
-    "phonetic": ""
-  },
-  {
-    "english": "Austrian",
-    "thai": "ออสเตรีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Stepfather",
-    "thai": "พ่อเลี้ยง",
-    "phonetic": ""
-  },
-  {
-    "english": "Stepmother",
-    "thai": "แม่เลี้ยง",
-    "phonetic": ""
-  },
-  {
-    "english": "Argentinian",
-    "thai": "ชาวอาร์เจนตินา",
-    "phonetic": ""
-  },
-  {
-    "english": "Son",
-    "thai": "ลูกชาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Bolivia",
-    "thai": "โบลิเวีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Marriage",
-    "thai": "การแต่งงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Aunt",
-    "thai": "ป้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Finland",
-    "thai": "ฟินแลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Belgian",
-    "thai": "เบลเยียม",
+    "english": "Girlfriend",
+    "thai": "แฟน",
     "phonetic": ""
   },
   {
@@ -95,23 +10,13 @@
     "phonetic": ""
   },
   {
-    "english": "Norwegian",
-    "thai": "นอร์เวย์",
+    "english": "Guyana",
+    "thai": "กายอานา",
     "phonetic": ""
   },
   {
-    "english": "Ecuador",
-    "thai": "เอกวาดอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Grandfather",
-    "thai": "ปู่",
-    "phonetic": ""
-  },
-  {
-    "english": "Grandparent",
-    "thai": "ปู่ย่าตายาย",
+    "english": "Daughter",
+    "thai": "ลูกสาว",
     "phonetic": ""
   },
   {
@@ -120,63 +25,8 @@
     "phonetic": ""
   },
   {
-    "english": "Descendant",
-    "thai": "ลูกหลาน",
-    "phonetic": ""
-  },
-  {
     "english": "Colombian",
     "thai": "ชาวโคลอมเบีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Peruvian",
-    "thai": "ชาวเปรู",
-    "phonetic": ""
-  },
-  {
-    "english": "Father",
-    "thai": "พ่อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Sweden",
-    "thai": "สวีเดน",
-    "phonetic": ""
-  },
-  {
-    "english": "Inheritance",
-    "thai": "มรดก",
-    "phonetic": ""
-  },
-  {
-    "english": "Brother",
-    "thai": "พี่ชาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Husband",
-    "thai": "สามี",
-    "phonetic": ""
-  },
-  {
-    "english": "Finnish",
-    "thai": "ฟินแลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Ancestor",
-    "thai": "บรรพบุรุษ",
-    "phonetic": ""
-  },
-  {
-    "english": "Relative",
-    "thai": "ญาติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Girlfriend",
-    "thai": "แฟน",
     "phonetic": ""
   },
   {
@@ -185,53 +35,8 @@
     "phonetic": ""
   },
   {
-    "english": "Honeymoon",
-    "thai": "ฮันนีมูน",
-    "phonetic": ""
-  },
-  {
-    "english": "Wedding",
-    "thai": "งานแต่งงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Relationship",
-    "thai": "ความสัมพันธ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Cousin",
-    "thai": "ลูกพี่ลูกน้อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Partner",
-    "thai": "พันธมิตร",
-    "phonetic": ""
-  },
-  {
-    "english": "In-laws",
-    "thai": "ญาติฝ่ายสามี/ภรรยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Venezuela",
-    "thai": "เวเนซุเอลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Luxembourg",
-    "thai": "ลักเซมเบิร์ก",
-    "phonetic": ""
-  },
-  {
-    "english": "Guyana",
-    "thai": "กายอานา",
-    "phonetic": ""
-  },
-  {
-    "english": "Chile",
-    "thai": "ชิลี",
+    "english": "Netherlands",
+    "thai": "เนเธอร์แลนด์",
     "phonetic": ""
   },
   {
@@ -240,158 +45,13 @@
     "phonetic": ""
   },
   {
-    "english": "Netherlands",
-    "thai": "เนเธอร์แลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Luxembourgish",
-    "thai": "ลักเซมเบิร์ก",
-    "phonetic": ""
-  },
-  {
-    "english": "Mother",
-    "thai": "แม่",
-    "phonetic": ""
-  },
-  {
-    "english": "Kinship",
-    "thai": "ความเป็นเครือญาติ",
-    "phonetic": ""
-  },
-  {
     "english": "Paraguay",
     "thai": "ปารากวัย",
     "phonetic": ""
   },
   {
-    "english": "Venezuelan",
-    "thai": "ชาวเวเนซุเอลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Goddaughter",
-    "thai": "ลูกสาวบุญธรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Uncle",
-    "thai": "ลุง",
-    "phonetic": ""
-  },
-  {
-    "english": "Swedish",
-    "thai": "สวีเดน",
-    "phonetic": ""
-  },
-  {
-    "english": "Estate",
-    "thai": "อสังหาริมทรัพย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Icelandic",
-    "thai": "ไอซ์แลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Paraguayan",
-    "thai": "ปารากวัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Friendship",
-    "thai": "มิตรภาพ",
-    "phonetic": ""
-  },
-  {
-    "english": "Fiancée",
-    "thai": "คู่หมั้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Niece",
-    "thai": "หลานสาว",
-    "phonetic": ""
-  },
-  {
-    "english": "Colombia",
-    "thai": "โคลอมเบีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Peru",
-    "thai": "เปรู",
-    "phonetic": ""
-  },
-  {
-    "english": "Spouse",
-    "thai": "คู่สมรส",
-    "phonetic": ""
-  },
-  {
-    "english": "Testament",
-    "thai": "พินัยกรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Grandmother",
-    "thai": "ยาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Stepsister",
-    "thai": "พี่เลี้ยง",
-    "phonetic": ""
-  },
-  {
-    "english": "Sister",
-    "thai": "น้องสาว",
-    "phonetic": ""
-  },
-  {
-    "english": "Stepbrother",
-    "thai": "พี่ชายต่างแม่",
-    "phonetic": ""
-  },
-  {
-    "english": "Generation",
-    "thai": "รุ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Boyfriend",
-    "thai": "แฟน",
-    "phonetic": ""
-  },
-  {
-    "english": "Guyanese",
-    "thai": "ชาวกายอานา",
-    "phonetic": ""
-  },
-  {
-    "english": "Legacy",
-    "thai": "มรดก",
-    "phonetic": ""
-  },
-  {
-    "english": "Divorce",
-    "thai": "หย่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Uruguayan",
-    "thai": "ชาวอุรุกวัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Engagement",
-    "thai": "การว่าจ้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Godfather",
-    "thai": "เจ้าพ่อ",
+    "english": "Denmark",
+    "thai": "เดนมาร์ก",
     "phonetic": ""
   },
   {
@@ -400,33 +60,73 @@
     "phonetic": ""
   },
   {
-    "english": "Switzerland",
-    "thai": "สวิตเซอร์แลนด์",
+    "english": "Venezuela",
+    "thai": "เวเนซุเอลา",
     "phonetic": ""
   },
   {
-    "english": "Heir",
-    "thai": "ทายาท",
+    "english": "Son",
+    "thai": "ลูกชาย",
     "phonetic": ""
   },
   {
-    "english": "Swiss",
-    "thai": "สวิส",
+    "english": "Fiancée",
+    "thai": "คู่หมั้น",
     "phonetic": ""
   },
   {
-    "english": "Norway",
-    "thai": "นอร์เวย์",
+    "english": "Peru",
+    "thai": "เปรู",
     "phonetic": ""
   },
   {
-    "english": "Offspring",
+    "english": "Uruguay",
+    "thai": "อุรุกวัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Descendant",
     "thai": "ลูกหลาน",
     "phonetic": ""
   },
   {
-    "english": "Lineage",
-    "thai": "เชื้อสาย",
+    "english": "Cousin",
+    "thai": "ลูกพี่ลูกน้อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Goddaughter",
+    "thai": "ลูกสาวบุญธรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Grandfather",
+    "thai": "ปู่",
+    "phonetic": ""
+  },
+  {
+    "english": "Argentinian",
+    "thai": "ชาวอาร์เจนตินา",
+    "phonetic": ""
+  },
+  {
+    "english": "Mother",
+    "thai": "แม่",
+    "phonetic": ""
+  },
+  {
+    "english": "Engagement",
+    "thai": "การว่าจ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Partner",
+    "thai": "พันธมิตร",
+    "phonetic": ""
+  },
+  {
+    "english": "Stepsister",
+    "thai": "พี่เลี้ยง",
     "phonetic": ""
   },
   {
@@ -435,13 +135,28 @@
     "phonetic": ""
   },
   {
-    "english": "Heiress",
-    "thai": "ทายาทหญิง",
+    "english": "Switzerland",
+    "thai": "สวิตเซอร์แลนด์",
     "phonetic": ""
   },
   {
-    "english": "Executor",
-    "thai": "ผู้ดำเนินการ",
+    "english": "Lineage",
+    "thai": "เชื้อสาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Danish",
+    "thai": "เดนมาร์ก",
+    "phonetic": ""
+  },
+  {
+    "english": "Belgian",
+    "thai": "เบลเยียม",
+    "phonetic": ""
+  },
+  {
+    "english": "Generation",
+    "thai": "รุ่น",
     "phonetic": ""
   },
   {
@@ -450,23 +165,8 @@
     "phonetic": ""
   },
   {
-    "english": "Godmother",
-    "thai": "แม่ทูนหัว",
-    "phonetic": ""
-  },
-  {
-    "english": "Nephew",
-    "thai": "หลานชาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Pedigree",
-    "thai": "สายเลือด",
-    "phonetic": ""
-  },
-  {
-    "english": "Dating",
-    "thai": "การออกเดท",
+    "english": "Norwegian",
+    "thai": "นอร์เวย์",
     "phonetic": ""
   },
   {
@@ -475,18 +175,8 @@
     "phonetic": ""
   },
   {
-    "english": "Fiancé",
-    "thai": "คู่หมั้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Godson",
-    "thai": "กอดซัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Anniversary",
-    "thai": "วันครบรอบปี",
+    "english": "Heiress",
+    "thai": "ทายาทหญิง",
     "phonetic": ""
   },
   {
@@ -495,8 +185,318 @@
     "phonetic": ""
   },
   {
-    "english": "Daughter",
-    "thai": "ลูกสาว",
+    "english": "Brother",
+    "thai": "พี่ชาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Sibling",
+    "thai": "พี่น้อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Offspring",
+    "thai": "ลูกหลาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Pedigree",
+    "thai": "สายเลือด",
+    "phonetic": ""
+  },
+  {
+    "english": "Stepmother",
+    "thai": "แม่เลี้ยง",
+    "phonetic": ""
+  },
+  {
+    "english": "Inheritance",
+    "thai": "มรดก",
+    "phonetic": ""
+  },
+  {
+    "english": "Uruguayan",
+    "thai": "ชาวอุรุกวัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Father",
+    "thai": "พ่อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Grandparent",
+    "thai": "ปู่ย่าตายาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Marriage",
+    "thai": "การแต่งงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Dutch",
+    "thai": "ดัตช์",
+    "phonetic": ""
+  },
+  {
+    "english": "Peruvian",
+    "thai": "ชาวเปรู",
+    "phonetic": ""
+  },
+  {
+    "english": "Swiss",
+    "thai": "สวิส",
+    "phonetic": ""
+  },
+  {
+    "english": "Argentina",
+    "thai": "อาร์เจนตินา",
+    "phonetic": ""
+  },
+  {
+    "english": "Wedding",
+    "thai": "งานแต่งงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Testament",
+    "thai": "พินัยกรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Luxembourgish",
+    "thai": "ลักเซมเบิร์ก",
+    "phonetic": ""
+  },
+  {
+    "english": "Divorce",
+    "thai": "หย่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Anniversary",
+    "thai": "วันครบรอบปี",
+    "phonetic": ""
+  },
+  {
+    "english": "Godfather",
+    "thai": "เจ้าพ่อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Honeymoon",
+    "thai": "ฮันนีมูน",
+    "phonetic": ""
+  },
+  {
+    "english": "Grandmother",
+    "thai": "ยาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Dating",
+    "thai": "การออกเดท",
+    "phonetic": ""
+  },
+  {
+    "english": "Nephew",
+    "thai": "หลานชาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Friendship",
+    "thai": "มิตรภาพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Colombia",
+    "thai": "โคลอมเบีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Godmother",
+    "thai": "แม่ทูนหัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Kinship",
+    "thai": "ความเป็นเครือญาติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Ecuador",
+    "thai": "เอกวาดอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Fiancé",
+    "thai": "คู่หมั้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Venezuelan",
+    "thai": "ชาวเวเนซุเอลา",
+    "phonetic": ""
+  },
+  {
+    "english": "In-laws",
+    "thai": "ญาติฝ่ายสามี/ภรรยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Sister",
+    "thai": "น้องสาว",
+    "phonetic": ""
+  },
+  {
+    "english": "Legacy",
+    "thai": "มรดก",
+    "phonetic": ""
+  },
+  {
+    "english": "Uncle",
+    "thai": "ลุง",
+    "phonetic": ""
+  },
+  {
+    "english": "Chile",
+    "thai": "ชิลี",
+    "phonetic": ""
+  },
+  {
+    "english": "Norway",
+    "thai": "นอร์เวย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Bolivia",
+    "thai": "โบลิเวีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Relationship",
+    "thai": "ความสัมพันธ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Stepbrother",
+    "thai": "พี่ชายต่างแม่",
+    "phonetic": ""
+  },
+  {
+    "english": "Relative",
+    "thai": "ญาติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Luxembourg",
+    "thai": "ลักเซมเบิร์ก",
+    "phonetic": ""
+  },
+  {
+    "english": "Sweden",
+    "thai": "สวีเดน",
+    "phonetic": ""
+  },
+  {
+    "english": "Stepfather",
+    "thai": "พ่อเลี้ยง",
+    "phonetic": ""
+  },
+  {
+    "english": "Executor",
+    "thai": "ผู้ดำเนินการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Icelandic",
+    "thai": "ไอซ์แลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Guyanese",
+    "thai": "ชาวกายอานา",
+    "phonetic": ""
+  },
+  {
+    "english": "Paraguayan",
+    "thai": "ปารากวัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Estate",
+    "thai": "อสังหาริมทรัพย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Parent",
+    "thai": "พ่อแม่",
+    "phonetic": ""
+  },
+  {
+    "english": "Austrian",
+    "thai": "ออสเตรีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Ancestor",
+    "thai": "บรรพบุรุษ",
+    "phonetic": ""
+  },
+  {
+    "english": "Swedish",
+    "thai": "สวีเดน",
+    "phonetic": ""
+  },
+  {
+    "english": "Finland",
+    "thai": "ฟินแลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Finnish",
+    "thai": "ฟินแลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Wife",
+    "thai": "ภรรยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Heir",
+    "thai": "ทายาท",
+    "phonetic": ""
+  },
+  {
+    "english": "Husband",
+    "thai": "สามี",
+    "phonetic": ""
+  },
+  {
+    "english": "Boyfriend",
+    "thai": "แฟน",
+    "phonetic": ""
+  },
+  {
+    "english": "Aunt",
+    "thai": "ป้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Niece",
+    "thai": "หลานสาว",
+    "phonetic": ""
+  },
+  {
+    "english": "Spouse",
+    "thai": "คู่สมรส",
+    "phonetic": ""
+  },
+  {
+    "english": "Godson",
+    "thai": "กอดซัน",
     "phonetic": ""
   }
 ]

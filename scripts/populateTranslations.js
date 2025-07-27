@@ -39,16 +39,18 @@ async function populateMissingTranslations() {
             if (Object.hasOwnProperty.call(manifest, language)) {
                 for (const categoryName in manifest[language]) {
                     if (Object.hasOwnProperty.call(manifest[language], categoryName)) {
-                        manifest[language][categoryName].forEach(lessonInfo => {
-                            const lessonFilePath = path.join(dataDir, lessonInfo.file);
-                            allLessonFiles.push(lessonFilePath);
-                            const lessonData = JSON.parse(fs.readFileSync(lessonFilePath, 'utf8'));
-                            lessonData.forEach(card => {
-                                if (card.english && !card.thai) {
-                                    wordsToTranslate.push({ card, lessonFilePath });
-                                }
+                        if (manifest[language][categoryName].lessons) {
+                            manifest[language][categoryName].lessons.forEach(lessonInfo => {
+                                const lessonFilePath = path.join(dataDir, lessonInfo.file);
+                                allLessonFiles.push(lessonFilePath);
+                                const lessonData = JSON.parse(fs.readFileSync(lessonFilePath, 'utf8'));
+                                lessonData.forEach(card => {
+                                    if (card.english && !card.thai) {
+                                        wordsToTranslate.push({ card, lessonFilePath });
+                                    }
+                                });
                             });
-                        });
+                        }
                     }
                 }
             }

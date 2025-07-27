@@ -1,47 +1,12 @@
 [
   {
-    "english": "Sell",
-    "thai": "ขาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Receipt",
-    "thai": "ใบเสร็จ",
-    "phonetic": ""
-  },
-  {
-    "english": "Statement",
-    "thai": "คำแถลง",
-    "phonetic": ""
-  },
-  {
-    "english": "Window shopping",
-    "thai": "ช้อปปิ้งหน้าร้าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Wishlist",
-    "thai": "รายการสิ่งที่อยากได้",
-    "phonetic": ""
-  },
-  {
     "english": "Credit card",
     "thai": "บัตรเครดิต",
     "phonetic": ""
   },
   {
-    "english": "Exchange",
-    "thai": "แลกเปลี่ยน",
-    "phonetic": ""
-  },
-  {
-    "english": "Supermarket",
-    "thai": "ซูเปอร์มาร์เก็ต",
-    "phonetic": ""
-  },
-  {
-    "english": "Money",
-    "thai": "เงิน",
+    "english": "Store",
+    "thai": "เก็บ",
     "phonetic": ""
   },
   {
@@ -50,53 +15,78 @@
     "phonetic": ""
   },
   {
+    "english": "Doctor",
+    "thai": "หมอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Clothes",
+    "thai": "เสื้อผ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Aquarium",
+    "thai": "พิพิธภัณฑ์สัตว์น้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Bestseller",
+    "thai": "หนังสือขายดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Receipt",
+    "thai": "ใบเสร็จ",
+    "phonetic": ""
+  },
+  {
+    "english": "Clinic",
+    "thai": "คลินิก",
+    "phonetic": ""
+  },
+  {
+    "english": "Sell",
+    "thai": "ขาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Laundry",
+    "thai": "ซักรีด",
+    "phonetic": ""
+  },
+  {
+    "english": "Garden",
+    "thai": "สวน",
+    "phonetic": ""
+  },
+  {
+    "english": "Open",
+    "thai": "เปิด",
+    "phonetic": ""
+  },
+  {
     "english": "Clearance",
     "thai": "การเคลียร์",
     "phonetic": ""
   },
   {
-    "english": "Tracking",
-    "thai": "การติดตาม",
+    "english": "Tailor",
+    "thai": "ช่างตัดเสื้อ",
     "phonetic": ""
   },
   {
-    "english": "Salesperson",
-    "thai": "พนักงานขาย",
+    "english": "Buy",
+    "thai": "ซื้อ",
     "phonetic": ""
   },
   {
-    "english": "Exit",
-    "thai": "ทางออก",
+    "english": "Supermarket",
+    "thai": "ซูเปอร์มาร์เก็ต",
     "phonetic": ""
   },
   {
-    "english": "Price",
-    "thai": "ราคา",
-    "phonetic": ""
-  },
-  {
-    "english": "Market",
-    "thai": "ตลาด",
-    "phonetic": ""
-  },
-  {
-    "english": "Constipation",
-    "thai": "ท้องผูก",
-    "phonetic": ""
-  },
-  {
-    "english": "Post office",
-    "thai": "ที่ทำการไปรษณีย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Cheap",
-    "thai": "ราคาถูก",
-    "phonetic": ""
-  },
-  {
-    "english": "Delivery",
-    "thai": "จัดส่ง",
+    "english": "Complaint",
+    "thai": "ร้องเรียน",
     "phonetic": ""
   },
   {
@@ -110,353 +100,8 @@
     "phonetic": ""
   },
   {
-    "english": "Store",
-    "thai": "เก็บ",
-    "phonetic": ""
-  },
-  {
-    "english": "Haggle",
-    "thai": "ต่อรองราคา",
-    "phonetic": ""
-  },
-  {
-    "english": "Open",
-    "thai": "เปิด",
-    "phonetic": ""
-  },
-  {
-    "english": "Defective",
-    "thai": "มีข้อบกพร่อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Theater",
-    "thai": "โรงภาพยนตร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Buy",
-    "thai": "ซื้อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Pharmacy",
-    "thai": "ร้านขายยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Salon",
-    "thai": "ร้านเสริมสวย",
-    "phonetic": ""
-  },
-  {
-    "english": "Clothes",
-    "thai": "เสื้อผ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Dry cleaner",
-    "thai": "ร้านซักแห้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Location",
-    "thai": "ที่ตั้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Color",
-    "thai": "สี",
-    "phonetic": ""
-  },
-  {
-    "english": "Shoes",
-    "thai": "รองเท้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Doctor",
-    "thai": "หมอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Emergency",
-    "thai": "ภาวะฉุกเฉิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Courthouse",
-    "thai": "ศาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Promotion",
-    "thai": "การส่งเสริม",
-    "phonetic": ""
-  },
-  {
-    "english": "Dizzy",
-    "thai": "วิงเวียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Police",
-    "thai": "ตำรวจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Vomiting",
-    "thai": "อาการอาเจียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Fever",
-    "thai": "ไข้",
-    "phonetic": ""
-  },
-  {
-    "english": "Healthy",
-    "thai": "สุขภาพดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Return",
-    "thai": "กลับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Complaint",
-    "thai": "ร้องเรียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Bestseller",
-    "thai": "หนังสือขายดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Aquarium",
-    "thai": "พิพิธภัณฑ์สัตว์น้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Assistance",
-    "thai": "ความช่วยเหลือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Library",
-    "thai": "ห้องสมุด",
-    "phonetic": ""
-  },
-  {
-    "english": "Stomachache",
-    "thai": "ปวดท้อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Concert",
-    "thai": "คอนเสิร์ต",
-    "phonetic": ""
-  },
-  {
-    "english": "Surveillance",
-    "thai": "การเฝ้าระวัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Spa",
-    "thai": "สปา",
-    "phonetic": ""
-  },
-  {
-    "english": "Ambulance",
-    "thai": "รถพยาบาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Well",
-    "thai": "ดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Manager",
-    "thai": "ผู้จัดการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Service",
-    "thai": "บริการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Headache",
-    "thai": "ปวดศีรษะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Sick",
-    "thai": "ป่วย",
-    "phonetic": ""
-  },
-  {
-    "english": "Hospital",
-    "thai": "โรงพยาบาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Alarm",
-    "thai": "เตือน",
-    "phonetic": ""
-  },
-  {
-    "english": "Bank",
-    "thai": "ธนาคาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Gym",
-    "thai": "โรงยิม",
-    "phonetic": ""
-  },
-  {
-    "english": "Nausea",
-    "thai": "อาการคลื่นไส้",
-    "phonetic": ""
-  },
-  {
     "english": "Camera",
     "thai": "กล้อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Shipping",
-    "thai": "การส่งสินค้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Barber",
-    "thai": "ช่างตัดผม",
-    "phonetic": ""
-  },
-  {
-    "english": "Diarrhea",
-    "thai": "ท้องเสีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Food",
-    "thai": "อาหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Closed",
-    "thai": "ปิด",
-    "phonetic": ""
-  },
-  {
-    "english": "Warranty",
-    "thai": "การรับประกัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Payment",
-    "thai": "การชำระเงิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Medicine",
-    "thai": "ยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Clinic",
-    "thai": "คลินิก",
-    "phonetic": ""
-  },
-  {
-    "english": "Entrance",
-    "thai": "ทางเข้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Rest",
-    "thai": "พักผ่อน",
-    "phonetic": ""
-  },
-  {
-    "english": "Hurt",
-    "thai": "เจ็บ",
-    "phonetic": ""
-  },
-  {
-    "english": "Online",
-    "thai": "ออนไลน์",
-    "phonetic": ""
-  },
-  {
-    "english": "Exercise",
-    "thai": "ออกกำลังกาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Limited",
-    "thai": "จำกัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Impulse",
-    "thai": "แรงกระตุ้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Hours",
-    "thai": "ชั่วโมง",
-    "phonetic": ""
-  },
-  {
-    "english": "Offer",
-    "thai": "เสนอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Fire",
-    "thai": "ไฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "City hall",
-    "thai": "ศาลากลางจังหวัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Theft",
-    "thai": "การโจรกรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Laundry",
-    "thai": "ซักรีด",
-    "phonetic": ""
-  },
-  {
-    "english": "Tired",
-    "thai": "เหนื่อย",
-    "phonetic": ""
-  },
-  {
-    "english": "Tailor",
-    "thai": "ช่างตัดเสื้อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Cough",
-    "thai": "ไอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Playground",
-    "thai": "สนามเด็กเล่น",
     "phonetic": ""
   },
   {
@@ -465,28 +110,218 @@
     "phonetic": ""
   },
   {
-    "english": "Garden",
-    "thai": "สวน",
+    "english": "Window shopping",
+    "thai": "ช้อปปิ้งหน้าร้าน",
     "phonetic": ""
   },
   {
-    "english": "Expensive",
-    "thai": "แพง",
+    "english": "Offer",
+    "thai": "เสนอ",
     "phonetic": ""
   },
   {
-    "english": "Invoice",
-    "thai": "ใบแจ้งหนี้",
+    "english": "Spa",
+    "thai": "สปา",
     "phonetic": ""
   },
   {
-    "english": "Refund",
-    "thai": "คืนเงิน",
+    "english": "Hours",
+    "thai": "ชั่วโมง",
     "phonetic": ""
   },
   {
-    "english": "Bargain",
-    "thai": "ต่อรอง",
+    "english": "Alarm",
+    "thai": "เตือน",
+    "phonetic": ""
+  },
+  {
+    "english": "Tired",
+    "thai": "เหนื่อย",
+    "phonetic": ""
+  },
+  {
+    "english": "Salesperson",
+    "thai": "พนักงานขาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Exercise",
+    "thai": "ออกกำลังกาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Medicine",
+    "thai": "ยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Online",
+    "thai": "ออนไลน์",
+    "phonetic": ""
+  },
+  {
+    "english": "Bank",
+    "thai": "ธนาคาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Discount",
+    "thai": "การลดราคา",
+    "phonetic": ""
+  },
+  {
+    "english": "Payment",
+    "thai": "การชำระเงิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Healthy",
+    "thai": "สุขภาพดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Barber",
+    "thai": "ช่างตัดผม",
+    "phonetic": ""
+  },
+  {
+    "english": "Library",
+    "thai": "ห้องสมุด",
+    "phonetic": ""
+  },
+  {
+    "english": "Theater",
+    "thai": "โรงภาพยนตร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Hurt",
+    "thai": "เจ็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Fever",
+    "thai": "ไข้",
+    "phonetic": ""
+  },
+  {
+    "english": "Emergency",
+    "thai": "ภาวะฉุกเฉิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Stomachache",
+    "thai": "ปวดท้อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Gym",
+    "thai": "โรงยิม",
+    "phonetic": ""
+  },
+  {
+    "english": "Fire",
+    "thai": "ไฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Exit",
+    "thai": "ทางออก",
+    "phonetic": ""
+  },
+  {
+    "english": "Cough",
+    "thai": "ไอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Salon",
+    "thai": "ร้านเสริมสวย",
+    "phonetic": ""
+  },
+  {
+    "english": "Police",
+    "thai": "ตำรวจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Playground",
+    "thai": "สนามเด็กเล่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Hospital",
+    "thai": "โรงพยาบาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Concert",
+    "thai": "คอนเสิร์ต",
+    "phonetic": ""
+  },
+  {
+    "english": "Constipation",
+    "thai": "ท้องผูก",
+    "phonetic": ""
+  },
+  {
+    "english": "Diarrhea",
+    "thai": "ท้องเสีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Headache",
+    "thai": "ปวดศีรษะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Rest",
+    "thai": "พักผ่อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Theft",
+    "thai": "การโจรกรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Surveillance",
+    "thai": "การเฝ้าระวัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Ambulance",
+    "thai": "รถพยาบาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Nausea",
+    "thai": "อาการคลื่นไส้",
+    "phonetic": ""
+  },
+  {
+    "english": "Entrance",
+    "thai": "ทางเข้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Vomiting",
+    "thai": "อาการอาเจียน",
+    "phonetic": ""
+  },
+  {
+    "english": "City hall",
+    "thai": "ศาลากลางจังหวัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Courthouse",
+    "thai": "ศาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Dry cleaner",
+    "thai": "ร้านซักแห้ง",
     "phonetic": ""
   },
   {
@@ -495,8 +330,173 @@
     "phonetic": ""
   },
   {
-    "english": "Discount",
-    "thai": "การลดราคา",
+    "english": "Well",
+    "thai": "ดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Closed",
+    "thai": "ปิด",
+    "phonetic": ""
+  },
+  {
+    "english": "Invoice",
+    "thai": "ใบแจ้งหนี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Limited",
+    "thai": "จำกัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Bargain",
+    "thai": "ต่อรอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Shoes",
+    "thai": "รองเท้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Warranty",
+    "thai": "การรับประกัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Tracking",
+    "thai": "การติดตาม",
+    "phonetic": ""
+  },
+  {
+    "english": "Defective",
+    "thai": "มีข้อบกพร่อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Manager",
+    "thai": "ผู้จัดการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Wishlist",
+    "thai": "รายการสิ่งที่อยากได้",
+    "phonetic": ""
+  },
+  {
+    "english": "Post office",
+    "thai": "ที่ทำการไปรษณีย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Food",
+    "thai": "อาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Haggle",
+    "thai": "ต่อรองราคา",
+    "phonetic": ""
+  },
+  {
+    "english": "Cheap",
+    "thai": "ราคาถูก",
+    "phonetic": ""
+  },
+  {
+    "english": "Price",
+    "thai": "ราคา",
+    "phonetic": ""
+  },
+  {
+    "english": "Assistance",
+    "thai": "ความช่วยเหลือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Color",
+    "thai": "สี",
+    "phonetic": ""
+  },
+  {
+    "english": "Delivery",
+    "thai": "จัดส่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Shipping",
+    "thai": "การส่งสินค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Impulse",
+    "thai": "แรงกระตุ้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Market",
+    "thai": "ตลาด",
+    "phonetic": ""
+  },
+  {
+    "english": "Service",
+    "thai": "บริการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Return",
+    "thai": "กลับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Exchange",
+    "thai": "แลกเปลี่ยน",
+    "phonetic": ""
+  },
+  {
+    "english": "Statement",
+    "thai": "คำแถลง",
+    "phonetic": ""
+  },
+  {
+    "english": "Location",
+    "thai": "ที่ตั้ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Refund",
+    "thai": "คืนเงิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Promotion",
+    "thai": "การส่งเสริม",
+    "phonetic": ""
+  },
+  {
+    "english": "Pharmacy",
+    "thai": "ร้านขายยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Expensive",
+    "thai": "แพง",
+    "phonetic": ""
+  },
+  {
+    "english": "Money",
+    "thai": "เงิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Sick",
+    "thai": "ป่วย",
+    "phonetic": ""
+  },
+  {
+    "english": "Dizzy",
+    "thai": "วิงเวียน",
     "phonetic": ""
   }
 ]

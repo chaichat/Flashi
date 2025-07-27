@@ -1,127 +1,12 @@
 [
   {
-    "english": "Cavity",
-    "thai": "โพรง",
+    "english": "Endurance",
+    "thai": "ความอดทน",
     "phonetic": ""
   },
   {
-    "english": "Calories",
-    "thai": "แคลอรี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Glasses",
-    "thai": "แว่นตา",
-    "phonetic": ""
-  },
-  {
-    "english": "Dermatologist",
-    "thai": "แพทย์ผิวหนัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Toothache",
-    "thai": "อาการปวดฟัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Mindfulness",
-    "thai": "สติสัมปชัญญะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Skin",
-    "thai": "ผิว",
-    "phonetic": ""
-  },
-  {
-    "english": "Yoga",
-    "thai": "โยคะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Recovery",
-    "thai": "การกู้คืน",
-    "phonetic": ""
-  },
-  {
-    "english": "Patient",
-    "thai": "อดทน",
-    "phonetic": ""
-  },
-  {
-    "english": "Break",
-    "thai": "หยุดพัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Dentist",
-    "thai": "ทันตแพทย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Virus",
-    "thai": "ไวรัส",
-    "phonetic": ""
-  },
-  {
-    "english": "Self-care",
-    "thai": "การดูแลตนเอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Commute",
-    "thai": "การเดินทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Infection",
-    "thai": "การติดเชื้อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Homework",
-    "thai": "การบ้าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Nutrition",
-    "thai": "โภชนาการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Well-being",
-    "thai": "ความเป็นอยู่ที่ดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Meditate",
-    "thai": "นั่งสมาธิ",
-    "phonetic": ""
-  },
-  {
-    "english": "Nurse",
-    "thai": "พยาบาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Warm-up",
-    "thai": "การวอร์มอัพ",
-    "phonetic": ""
-  },
-  {
-    "english": "Vaccine",
-    "thai": "วัคซีน",
-    "phonetic": ""
-  },
-  {
-    "english": "Review",
-    "thai": "ทบทวน",
-    "phonetic": ""
-  },
-  {
-    "english": "Coordination",
-    "thai": "การประสานงาน",
+    "english": "Prescription",
+    "thai": "ใบสั่งยา",
     "phonetic": ""
   },
   {
@@ -130,38 +15,23 @@
     "phonetic": ""
   },
   {
-    "english": "Vitamins",
-    "thai": "วิตามิน",
+    "english": "Dishes",
+    "thai": "จาน",
     "phonetic": ""
   },
   {
-    "english": "Stretching",
-    "thai": "การยืดกล้ามเนื้อ",
+    "english": "Journal",
+    "thai": "วารสาร",
     "phonetic": ""
   },
   {
-    "english": "Counselor",
-    "thai": "ที่ปรึกษา",
+    "english": "Anxiety",
+    "thai": "ความวิตกกังวล",
     "phonetic": ""
   },
   {
-    "english": "Gymnastics",
-    "thai": "ยิมนาสติก",
-    "phonetic": ""
-  },
-  {
-    "english": "Hydration",
-    "thai": "การเติมน้ำให้ร่างกาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Email",
-    "thai": "อีเมล",
-    "phonetic": ""
-  },
-  {
-    "english": "Vision",
-    "thai": "วิสัยทัศน์",
+    "english": "Bandage",
+    "thai": "ผ้าพันแผล",
     "phonetic": ""
   },
   {
@@ -175,123 +45,33 @@
     "phonetic": ""
   },
   {
-    "english": "Weightlifting",
-    "thai": "ยกน้ำหนัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Temperature",
-    "thai": "อุณหภูมิ",
-    "phonetic": ""
-  },
-  {
-    "english": "Carbohydrates",
-    "thai": "คาร์โบไฮเดรต",
-    "phonetic": ""
-  },
-  {
-    "english": "Diet",
-    "thai": "อาหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Strength",
-    "thai": "ความแข็งแกร่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Cholesterol",
-    "thai": "คอเลสเตอรอล",
-    "phonetic": ""
-  },
-  {
     "english": "Geriatrician",
     "thai": "แพทย์ผู้เชี่ยวชาญด้านผู้สูงอายุ",
     "phonetic": ""
   },
   {
-    "english": "Endurance",
-    "thai": "ความอดทน",
+    "english": "Calories",
+    "thai": "แคลอรี่",
     "phonetic": ""
   },
   {
-    "english": "Prescription",
-    "thai": "ใบสั่งยา",
+    "english": "Weightlifting",
+    "thai": "ยกน้ำหนัก",
     "phonetic": ""
   },
   {
-    "english": "Dishes",
-    "thai": "จาน",
+    "english": "Stretching",
+    "thai": "การยืดกล้ามเนื้อ",
     "phonetic": ""
   },
   {
-    "english": "Depression",
-    "thai": "ภาวะซึมเศร้า",
+    "english": "Gymnastics",
+    "thai": "ยิมนาสติก",
     "phonetic": ""
   },
   {
-    "english": "First aid",
-    "thai": "ปฐมพยาบาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Floss",
-    "thai": "ไหมขัดฟัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Aerobics",
-    "thai": "แอโรบิก",
-    "phonetic": ""
-  },
-  {
-    "english": "Power",
-    "thai": "พลัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Calisthenics",
-    "thai": "การออกกำลังกายแบบคาลิสเธนิกส์",
-    "phonetic": ""
-  },
-  {
-    "english": "Unwind",
-    "thai": "คลี่คลาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Pediatrician",
-    "thai": "กุมารแพทย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Symptom",
-    "thai": "อาการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Athletics",
-    "thai": "กรีฑา",
-    "phonetic": ""
-  },
-  {
-    "english": "Surgery",
-    "thai": "การผ่าตัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Meditation",
-    "thai": "การทำสมาธิ",
-    "phonetic": ""
-  },
-  {
-    "english": "Ultrasound",
-    "thai": "อัลตราซาวนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Agility",
-    "thai": "ความคล่องตัว",
+    "english": "Virus",
+    "thai": "ไวรัส",
     "phonetic": ""
   },
   {
@@ -300,143 +80,8 @@
     "phonetic": ""
   },
   {
-    "english": "Contact lenses",
-    "thai": "คอนแทคเลนส์",
-    "phonetic": ""
-  },
-  {
-    "english": "Stress",
-    "thai": "ความเครียด",
-    "phonetic": ""
-  },
-  {
-    "english": "Mental health",
-    "thai": "สุขภาพจิต",
-    "phonetic": ""
-  },
-  {
-    "english": "Bacteria",
-    "thai": "แบคทีเรีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Journal",
-    "thai": "วารสาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Siesta",
-    "thai": "นอนพักกลางวัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Cardio",
-    "thai": "คาร์ดิโอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Balance",
-    "thai": "สมดุล",
-    "phonetic": ""
-  },
-  {
-    "english": "Trash",
-    "thai": "ขยะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Anxiety",
-    "thai": "ความวิตกกังวล",
-    "phonetic": ""
-  },
-  {
-    "english": "Brush",
-    "thai": "แปรง",
-    "phonetic": ""
-  },
-  {
-    "english": "X-ray",
-    "thai": "เอ็กซ์เรย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Dog",
-    "thai": "สุนัข",
-    "phonetic": ""
-  },
-  {
-    "english": "Therapist",
-    "thai": "นักบำบัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Injury",
-    "thai": "บาดเจ็บ",
-    "phonetic": ""
-  },
-  {
-    "english": "Heart",
-    "thai": "หัวใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Weakness",
-    "thai": "ความอ่อนแอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Bills",
-    "thai": "บิล",
-    "phonetic": ""
-  },
-  {
-    "english": "Cat",
-    "thai": "แมว",
-    "phonetic": ""
-  },
-  {
-    "english": "Goals",
-    "thai": "เป้าหมาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Clean",
-    "thai": "ทำความสะอาด",
-    "phonetic": ""
-  },
-  {
-    "english": "Speed",
-    "thai": "ความเร็ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Pilates",
-    "thai": "พิลาทิส",
-    "phonetic": ""
-  },
-  {
-    "english": "Plants",
-    "thai": "พืช",
-    "phonetic": ""
-  },
-  {
-    "english": "Bandage",
-    "thai": "ผ้าพันแผล",
-    "phonetic": ""
-  },
-  {
-    "english": "Appointment",
-    "thai": "การนัดหมาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Insurance",
-    "thai": "ประกันภัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Blood pressure",
-    "thai": "ความดันโลหิต",
+    "english": "Cardiologist",
+    "thai": "แพทย์โรคหัวใจ",
     "phonetic": ""
   },
   {
@@ -445,18 +90,133 @@
     "phonetic": ""
   },
   {
-    "english": "Cardiologist",
-    "thai": "แพทย์โรคหัวใจ",
+    "english": "Infection",
+    "thai": "การติดเชื้อ",
     "phonetic": ""
   },
   {
-    "english": "Crutches",
-    "thai": "ไม้ค้ำยัน",
+    "english": "Cat",
+    "thai": "แมว",
     "phonetic": ""
   },
   {
-    "english": "Flexibility",
-    "thai": "ความยืดหยุ่น",
+    "english": "Appointment",
+    "thai": "การนัดหมาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Nutrition",
+    "thai": "โภชนาการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Review",
+    "thai": "ทบทวน",
+    "phonetic": ""
+  },
+  {
+    "english": "Mindfulness",
+    "thai": "สติสัมปชัญญะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Diet",
+    "thai": "อาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Meditation",
+    "thai": "การทำสมาธิ",
+    "phonetic": ""
+  },
+  {
+    "english": "Patient",
+    "thai": "อดทน",
+    "phonetic": ""
+  },
+  {
+    "english": "Hydration",
+    "thai": "การเติมน้ำให้ร่างกาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Speed",
+    "thai": "ความเร็ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Blood pressure",
+    "thai": "ความดันโลหิต",
+    "phonetic": ""
+  },
+  {
+    "english": "Athletics",
+    "thai": "กรีฑา",
+    "phonetic": ""
+  },
+  {
+    "english": "Meditate",
+    "thai": "นั่งสมาธิ",
+    "phonetic": ""
+  },
+  {
+    "english": "Insurance",
+    "thai": "ประกันภัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Commute",
+    "thai": "การเดินทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Recovery",
+    "thai": "การกู้คืน",
+    "phonetic": ""
+  },
+  {
+    "english": "Goals",
+    "thai": "เป้าหมาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Toothache",
+    "thai": "อาการปวดฟัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Ultrasound",
+    "thai": "อัลตราซาวนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Self-care",
+    "thai": "การดูแลตนเอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Glasses",
+    "thai": "แว่นตา",
+    "phonetic": ""
+  },
+  {
+    "english": "Minerals",
+    "thai": "แร่ธาตุ",
+    "phonetic": ""
+  },
+  {
+    "english": "Vitamins",
+    "thai": "วิตามิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Calisthenics",
+    "thai": "การออกกำลังกายแบบคาลิสเธนิกส์",
+    "phonetic": ""
+  },
+  {
+    "english": "Cardio",
+    "thai": "คาร์ดิโอ",
     "phonetic": ""
   },
   {
@@ -465,23 +225,63 @@
     "phonetic": ""
   },
   {
+    "english": "Warm-up",
+    "thai": "การวอร์มอัพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Depression",
+    "thai": "ภาวะซึมเศร้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Symptom",
+    "thai": "อาการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Nurse",
+    "thai": "พยาบาล",
+    "phonetic": ""
+  },
+  {
     "english": "Acne",
     "thai": "สิว",
     "phonetic": ""
   },
   {
-    "english": "Fats",
-    "thai": "ไขมัน",
+    "english": "Cavity",
+    "thai": "โพรง",
     "phonetic": ""
   },
   {
-    "english": "Cool-down",
-    "thai": "การผ่อนคลาย",
+    "english": "Floss",
+    "thai": "ไหมขัดฟัน",
     "phonetic": ""
   },
   {
-    "english": "Stamina",
-    "thai": "ความอดทน",
+    "english": "Surgery",
+    "thai": "การผ่าตัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Dog",
+    "thai": "สุนัข",
+    "phonetic": ""
+  },
+  {
+    "english": "X-ray",
+    "thai": "เอ็กซ์เรย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Injury",
+    "thai": "บาดเจ็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Yoga",
+    "thai": "โยคะ",
     "phonetic": ""
   },
   {
@@ -490,13 +290,213 @@
     "phonetic": ""
   },
   {
+    "english": "Mental health",
+    "thai": "สุขภาพจิต",
+    "phonetic": ""
+  },
+  {
+    "english": "Brush",
+    "thai": "แปรง",
+    "phonetic": ""
+  },
+  {
+    "english": "Temperature",
+    "thai": "อุณหภูมิ",
+    "phonetic": ""
+  },
+  {
     "english": "Optometrist",
     "thai": "นักตรวจวัดสายตา",
     "phonetic": ""
   },
   {
-    "english": "Minerals",
-    "thai": "แร่ธาตุ",
+    "english": "Bacteria",
+    "thai": "แบคทีเรีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Vaccine",
+    "thai": "วัคซีน",
+    "phonetic": ""
+  },
+  {
+    "english": "Stress",
+    "thai": "ความเครียด",
+    "phonetic": ""
+  },
+  {
+    "english": "Counselor",
+    "thai": "ที่ปรึกษา",
+    "phonetic": ""
+  },
+  {
+    "english": "Homework",
+    "thai": "การบ้าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Well-being",
+    "thai": "ความเป็นอยู่ที่ดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Vision",
+    "thai": "วิสัยทัศน์",
+    "phonetic": ""
+  },
+  {
+    "english": "Skin",
+    "thai": "ผิว",
+    "phonetic": ""
+  },
+  {
+    "english": "Crutches",
+    "thai": "ไม้ค้ำยัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Cool-down",
+    "thai": "การผ่อนคลาย",
+    "phonetic": ""
+  },
+  {
+    "english": "First aid",
+    "thai": "ปฐมพยาบาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Dentist",
+    "thai": "ทันตแพทย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Heart",
+    "thai": "หัวใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Balance",
+    "thai": "สมดุล",
+    "phonetic": ""
+  },
+  {
+    "english": "Contact lenses",
+    "thai": "คอนแทคเลนส์",
+    "phonetic": ""
+  },
+  {
+    "english": "Therapist",
+    "thai": "นักบำบัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Clean",
+    "thai": "ทำความสะอาด",
+    "phonetic": ""
+  },
+  {
+    "english": "Carbohydrates",
+    "thai": "คาร์โบไฮเดรต",
+    "phonetic": ""
+  },
+  {
+    "english": "Siesta",
+    "thai": "นอนพักกลางวัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Email",
+    "thai": "อีเมล",
+    "phonetic": ""
+  },
+  {
+    "english": "Aerobics",
+    "thai": "แอโรบิก",
+    "phonetic": ""
+  },
+  {
+    "english": "Bills",
+    "thai": "บิล",
+    "phonetic": ""
+  },
+  {
+    "english": "Pilates",
+    "thai": "พิลาทิส",
+    "phonetic": ""
+  },
+  {
+    "english": "Strength",
+    "thai": "ความแข็งแกร่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Unwind",
+    "thai": "คลี่คลาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Trash",
+    "thai": "ขยะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Cholesterol",
+    "thai": "คอเลสเตอรอล",
+    "phonetic": ""
+  },
+  {
+    "english": "Flexibility",
+    "thai": "ความยืดหยุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Dermatologist",
+    "thai": "แพทย์ผิวหนัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Break",
+    "thai": "หยุดพัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Power",
+    "thai": "พลัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Agility",
+    "thai": "ความคล่องตัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Plants",
+    "thai": "พืช",
+    "phonetic": ""
+  },
+  {
+    "english": "Weakness",
+    "thai": "ความอ่อนแอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Stamina",
+    "thai": "ความอดทน",
+    "phonetic": ""
+  },
+  {
+    "english": "Pediatrician",
+    "thai": "กุมารแพทย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Coordination",
+    "thai": "การประสานงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Fats",
+    "thai": "ไขมัน",
     "phonetic": ""
   }
 ]

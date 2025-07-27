@@ -1,22 +1,7 @@
 [
   {
-    "english": "Deadline",
-    "thai": "กำหนดส่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Task",
-    "thai": "งาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Project",
-    "thai": "โครงการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Priority",
-    "thai": "ลำดับความสำคัญ",
+    "english": "Table",
+    "thai": "โต๊ะ",
     "phonetic": ""
   },
   {
@@ -25,28 +10,13 @@
     "phonetic": ""
   },
   {
-    "english": "Calendar",
-    "thai": "ปฏิทิน",
+    "english": "Cycle",
+    "thai": "วงจร",
     "phonetic": ""
   },
   {
-    "english": "Agenda",
-    "thai": "กำหนดการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Routine",
-    "thai": "กิจวัตรประจำวัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Habit",
-    "thai": "นิสัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Custom",
-    "thai": "กำหนดเอง",
+    "english": "Priority",
+    "thai": "ลำดับความสำคัญ",
     "phonetic": ""
   },
   {
@@ -55,78 +25,8 @@
     "phonetic": ""
   },
   {
-    "english": "Lifestyle",
-    "thai": "ไลฟ์สไตล์",
-    "phonetic": ""
-  },
-  {
-    "english": "Pace",
-    "thai": "ก้าว",
-    "phonetic": ""
-  },
-  {
-    "english": "Rhythm",
-    "thai": "จังหวะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Cycle",
-    "thai": "วงจร",
-    "phonetic": ""
-  },
-  {
-    "english": "Pattern",
-    "thai": "ลวดลาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Repetition",
-    "thai": "การทำซ้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Consistency",
-    "thai": "ความสม่ำเสมอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Discipline",
-    "thai": "การลงโทษ",
-    "phonetic": ""
-  },
-  {
-    "english": "Focus",
-    "thai": "จุดสนใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Early",
-    "thai": "แต่แรก",
-    "phonetic": ""
-  },
-  {
-    "english": "Late",
-    "thai": "ช้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Punctual",
-    "thai": "ตรงต่อเวลา",
-    "phonetic": ""
-  },
-  {
     "english": "Tardy",
     "thai": "อืด",
-    "phonetic": ""
-  },
-  {
-    "english": "Hurry",
-    "thai": "รีบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Rush",
-    "thai": "รีบ",
     "phonetic": ""
   },
   {
@@ -135,63 +35,8 @@
     "phonetic": ""
   },
   {
-    "english": "Free time",
-    "thai": "เวลาว่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Hobby",
-    "thai": "งานอดิเรก",
-    "phonetic": ""
-  },
-  {
-    "english": "Interest",
-    "thai": "ความสนใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Passion",
-    "thai": "ความหลงใหล",
-    "phonetic": ""
-  },
-  {
-    "english": "Pastime",
-    "thai": "งานอดิเรก",
-    "phonetic": ""
-  },
-  {
-    "english": "Recreation",
-    "thai": "สันทนาการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Entertainment",
-    "thai": "ความบันเทิง",
-    "phonetic": ""
-  },
-  {
-    "english": "Fun",
-    "thai": "สนุก",
-    "phonetic": ""
-  },
-  {
-    "english": "Joy",
-    "thai": "ความสุข",
-    "phonetic": ""
-  },
-  {
-    "english": "Pleasure",
-    "thai": "ความพึงพอใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Amusement",
-    "thai": "ความบันเทิง",
-    "phonetic": ""
-  },
-  {
-    "english": "Distraction",
-    "thai": "ความฟุ้งซ่าน",
+    "english": "Routine",
+    "thai": "กิจวัตรประจำวัน",
     "phonetic": ""
   },
   {
@@ -200,18 +45,28 @@
     "phonetic": ""
   },
   {
-    "english": "Weekend",
-    "thai": "สุดสัปดาห์",
+    "english": "Task",
+    "thai": "งาน",
     "phonetic": ""
   },
   {
-    "english": "Weekday",
-    "thai": "วันธรรมดา",
+    "english": "Punctual",
+    "thai": "ตรงต่อเวลา",
     "phonetic": ""
   },
   {
-    "english": "Monday",
-    "thai": "วันจันทร์",
+    "english": "Saturday",
+    "thai": "วันเสาร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Lifestyle",
+    "thai": "ไลฟ์สไตล์",
+    "phonetic": ""
+  },
+  {
+    "english": "Pattern",
+    "thai": "ลวดลาย",
     "phonetic": ""
   },
   {
@@ -225,18 +80,18 @@
     "phonetic": ""
   },
   {
+    "english": "Leave",
+    "thai": "ออกจาก",
+    "phonetic": ""
+  },
+  {
     "english": "Thursday",
     "thai": "วันพฤหัสบดี",
     "phonetic": ""
   },
   {
-    "english": "Friday",
-    "thai": "วันศุกร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Saturday",
-    "thai": "วันเสาร์",
+    "english": "Discipline",
+    "thai": "การลงโทษ",
     "phonetic": ""
   },
   {
@@ -245,13 +100,378 @@
     "phonetic": ""
   },
   {
-    "english": "Leave",
-    "thai": "ออกจาก",
+    "english": "Joy",
+    "thai": "ความสุข",
+    "phonetic": ""
+  },
+  {
+    "english": "Habit",
+    "thai": "นิสัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Rush",
+    "thai": "รีบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Calendar",
+    "thai": "ปฏิทิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Recreation",
+    "thai": "สันทนาการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Fun",
+    "thai": "สนุก",
+    "phonetic": ""
+  },
+  {
+    "english": "Agenda",
+    "thai": "กำหนดการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Pastime",
+    "thai": "งานอดิเรก",
+    "phonetic": ""
+  },
+  {
+    "english": "Hurry",
+    "thai": "รีบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Deadline",
+    "thai": "กำหนดส่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Free time",
+    "thai": "เวลาว่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Bathroom",
+    "thai": "ห้องน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Amusement",
+    "thai": "ความบันเทิง",
+    "phonetic": ""
+  },
+  {
+    "english": "Candle",
+    "thai": "เทียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Distraction",
+    "thai": "ความฟุ้งซ่าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Quiet time",
+    "thai": "เวลาเงียบสงบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Faucet",
+    "thai": "ก๊อกน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Towel",
+    "thai": "ผ้าขนหนู",
+    "phonetic": ""
+  },
+  {
+    "english": "Consistency",
+    "thai": "ความสม่ำเสมอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Weekday",
+    "thai": "วันธรรมดา",
+    "phonetic": ""
+  },
+  {
+    "english": "Photograph",
+    "thai": "ภาพถ่าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Family time",
+    "thai": "เวลาครอบครัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Closet",
+    "thai": "ตู้เสื้อผ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Interest",
+    "thai": "ความสนใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Custom",
+    "thai": "กำหนดเอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Bedroom",
+    "thai": "ห้องนอน",
+    "phonetic": ""
+  },
+  {
+    "english": "Hobby",
+    "thai": "งานอดิเรก",
+    "phonetic": ""
+  },
+  {
+    "english": "Vase",
+    "thai": "แจกัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Sink",
+    "thai": "จม",
+    "phonetic": ""
+  },
+  {
+    "english": "Light",
+    "thai": "แสงสว่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Early",
+    "thai": "แต่แรก",
+    "phonetic": ""
+  },
+  {
+    "english": "Curtains",
+    "thai": "ผ้าม่าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Friday",
+    "thai": "วันศุกร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Wall",
+    "thai": "กำแพง",
+    "phonetic": ""
+  },
+  {
+    "english": "Focus",
+    "thai": "จุดสนใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sofa",
+    "thai": "โซฟา",
+    "phonetic": ""
+  },
+  {
+    "english": "Entertainment",
+    "thai": "ความบันเทิง",
+    "phonetic": ""
+  },
+  {
+    "english": "Project",
+    "thai": "โครงการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Rhythm",
+    "thai": "จังหวะ",
     "phonetic": ""
   },
   {
     "english": "Time off",
     "thai": "เวลาว่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Blinds",
+    "thai": "มู่ลี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Pleasure",
+    "thai": "ความพึงพอใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Repetition",
+    "thai": "การทำซ้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Late",
+    "thai": "ช้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Weekend",
+    "thai": "สุดสัปดาห์",
+    "phonetic": ""
+  },
+  {
+    "english": "Pace",
+    "thai": "ก้าว",
+    "phonetic": ""
+  },
+  {
+    "english": "Ceiling",
+    "thai": "เพดาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Refrigerator",
+    "thai": "ตู้เย็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Monday",
+    "thai": "วันจันทร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Passion",
+    "thai": "ความหลงใหล",
+    "phonetic": ""
+  },
+  {
+    "english": "Lamp",
+    "thai": "โคมไฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Door",
+    "thai": "ประตู",
+    "phonetic": ""
+  },
+  {
+    "english": "Computer",
+    "thai": "คอมพิวเตอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Bed",
+    "thai": "เตียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Carpet",
+    "thai": "พรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Screen time",
+    "thai": "เวลาหน้าจอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Remote",
+    "thai": "ระยะไกล",
+    "phonetic": ""
+  },
+  {
+    "english": "Coffee table",
+    "thai": "โต๊ะกาแฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Social time",
+    "thai": "เวลาทางสังคม",
+    "phonetic": ""
+  },
+  {
+    "english": "Bookshelf",
+    "thai": "ชั้นวางหนังสือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Pillow",
+    "thai": "หมอน",
+    "phonetic": ""
+  },
+  {
+    "english": "Me time",
+    "thai": "เวลาของฉัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Living room",
+    "thai": "ห้องนั่งเล่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Nightstand",
+    "thai": "โต๊ะข้างเตียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Downtime",
+    "thai": "เวลาหยุดทำงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Floor",
+    "thai": "พื้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Dresser",
+    "thai": "ตู้เสื้อผ้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Counter",
+    "thai": "เคาน์เตอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Rug",
+    "thai": "พรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Chair",
+    "thai": "เก้าอี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Clock",
+    "thai": "นาฬิกา",
+    "phonetic": ""
+  },
+  {
+    "english": "Drain",
+    "thai": "ท่อระบายน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Painting",
+    "thai": "จิตรกรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Dining table",
+    "thai": "โต๊ะรับประทานอาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Alone time",
+    "thai": "เวลาอยู่คนเดียว",
     "phonetic": ""
   },
   {
@@ -265,228 +485,8 @@
     "phonetic": ""
   },
   {
-    "english": "Downtime",
-    "thai": "เวลาหยุดทำงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Me time",
-    "thai": "เวลาของฉัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Family time",
-    "thai": "เวลาครอบครัว",
-    "phonetic": ""
-  },
-  {
-    "english": "Social time",
-    "thai": "เวลาทางสังคม",
-    "phonetic": ""
-  },
-  {
-    "english": "Alone time",
-    "thai": "เวลาอยู่คนเดียว",
-    "phonetic": ""
-  },
-  {
-    "english": "Quiet time",
-    "thai": "เวลาเงียบสงบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Screen time",
-    "thai": "เวลาหน้าจอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Living room",
-    "thai": "ห้องนั่งเล่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Bedroom",
-    "thai": "ห้องนอน",
-    "phonetic": ""
-  },
-  {
-    "english": "Bathroom",
-    "thai": "ห้องน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Sofa",
-    "thai": "โซฟา",
-    "phonetic": ""
-  },
-  {
-    "english": "Table",
-    "thai": "โต๊ะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Chair",
-    "thai": "เก้าอี้",
-    "phonetic": ""
-  },
-  {
-    "english": "Bed",
-    "thai": "เตียง",
-    "phonetic": ""
-  },
-  {
-    "english": "Door",
-    "thai": "ประตู",
-    "phonetic": ""
-  },
-  {
-    "english": "Floor",
-    "thai": "พื้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Ceiling",
-    "thai": "เพดาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Wall",
-    "thai": "กำแพง",
-    "phonetic": ""
-  },
-  {
-    "english": "Light",
-    "thai": "แสงสว่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Lamp",
-    "thai": "โคมไฟ",
-    "phonetic": ""
-  },
-  {
     "english": "Television",
     "thai": "โทรทัศน์",
-    "phonetic": ""
-  },
-  {
-    "english": "Computer",
-    "thai": "คอมพิวเตอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Refrigerator",
-    "thai": "ตู้เย็น",
-    "phonetic": ""
-  },
-  {
-    "english": "Sink",
-    "thai": "จม",
-    "phonetic": ""
-  },
-  {
-    "english": "Faucet",
-    "thai": "ก๊อกน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Drain",
-    "thai": "ท่อระบายน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Counter",
-    "thai": "เคาน์เตอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Bookshelf",
-    "thai": "ชั้นวางหนังสือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Closet",
-    "thai": "ตู้เสื้อผ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Dresser",
-    "thai": "ตู้เสื้อผ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Nightstand",
-    "thai": "โต๊ะข้างเตียง",
-    "phonetic": ""
-  },
-  {
-    "english": "Coffee table",
-    "thai": "โต๊ะกาแฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "Dining table",
-    "thai": "โต๊ะรับประทานอาหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Rug",
-    "thai": "พรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Carpet",
-    "thai": "พรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Curtains",
-    "thai": "ผ้าม่าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Blinds",
-    "thai": "มู่ลี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Mirror",
-    "thai": "กระจกเงา",
-    "phonetic": ""
-  },
-  {
-    "english": "Painting",
-    "thai": "จิตรกรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Photograph",
-    "thai": "ภาพถ่าย",
-    "phonetic": ""
-  },
-  {
-    "english": "Vase",
-    "thai": "แจกัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Candle",
-    "thai": "เทียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Clock",
-    "thai": "นาฬิกา",
-    "phonetic": ""
-  },
-  {
-    "english": "Remote",
-    "thai": "ระยะไกล",
-    "phonetic": ""
-  },
-  {
-    "english": "Pillow",
-    "thai": "หมอน",
     "phonetic": ""
   },
   {
@@ -495,8 +495,8 @@
     "phonetic": ""
   },
   {
-    "english": "Towel",
-    "thai": "ผ้าขนหนู",
+    "english": "Mirror",
+    "thai": "กระจกเงา",
     "phonetic": ""
   }
 ]

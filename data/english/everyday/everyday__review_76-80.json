@@ -1,137 +1,7 @@
 [
   {
-    "english": "Climate change",
-    "thai": "การเปลี่ยนแปลงสภาพภูมิอากาศ",
-    "phonetic": ""
-  },
-  {
-    "english": "Global warming",
-    "thai": "ภาวะโลกร้อน",
-    "phonetic": ""
-  },
-  {
-    "english": "Greenhouse effect",
-    "thai": "ปรากฏการณ์เรือนกระจก",
-    "phonetic": ""
-  },
-  {
-    "english": "Carbon footprint",
-    "thai": "รอยเท้าคาร์บอน",
-    "phonetic": ""
-  },
-  {
-    "english": "Renewable energy",
-    "thai": "พลังงานหมุนเวียน",
-    "phonetic": ""
-  },
-  {
-    "english": "Solar power",
-    "thai": "พลังงานแสงอาทิตย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Wind power",
-    "thai": "พลังงานลม",
-    "phonetic": ""
-  },
-  {
-    "english": "Hydropower",
-    "thai": "พลังงานน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Geothermal energy",
-    "thai": "พลังงานความร้อนใต้พิภพ",
-    "phonetic": ""
-  },
-  {
-    "english": "Biomass",
-    "thai": "ชีวมวล",
-    "phonetic": ""
-  },
-  {
-    "english": "Fossil fuels",
-    "thai": "เชื้อเพลิงฟอสซิล",
-    "phonetic": ""
-  },
-  {
-    "english": "Coal",
-    "thai": "ถ่านหิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Oil",
-    "thai": "น้ำมัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Natural gas",
-    "thai": "ก๊าซธรรมชาติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Pollution",
-    "thai": "มลพิษ",
-    "phonetic": ""
-  },
-  {
-    "english": "Recycling",
-    "thai": "การรีไซเคิล",
-    "phonetic": ""
-  },
-  {
-    "english": "Composting",
-    "thai": "การทำปุ๋ยหมัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Conservation",
-    "thai": "การอนุรักษ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Sustainability",
-    "thai": "ความยั่งยืน",
-    "phonetic": ""
-  },
-  {
-    "english": "Biodiversity",
-    "thai": "ความหลากหลายทางชีวภาพ",
-    "phonetic": ""
-  },
-  {
-    "english": "Ecosystem",
-    "thai": "ระบบนิเวศ",
-    "phonetic": ""
-  },
-  {
-    "english": "Habitat",
-    "thai": "ที่อยู่อาศัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Food chain",
-    "thai": "ห่วงโซ่อาหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Predator",
-    "thai": "นักล่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Prey",
-    "thai": "เหยื่อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Herbivore",
-    "thai": "สัตว์กินพืช",
-    "phonetic": ""
-  },
-  {
-    "english": "Carnivore",
-    "thai": "สัตว์กินเนื้อ",
+    "english": "Producer",
+    "thai": "โปรดิวเซอร์",
     "phonetic": ""
   },
   {
@@ -140,33 +10,8 @@
     "phonetic": ""
   },
   {
-    "english": "Decomposer",
-    "thai": "ผู้ย่อยสลาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Producer",
-    "thai": "โปรดิวเซอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Extinction",
-    "thai": "การสูญพันธุ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Endangered species",
-    "thai": "สัตว์ใกล้สูญพันธุ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Invasive species",
-    "thai": "สายพันธุ์ต่างถิ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Native species",
-    "thai": "สายพันธุ์พื้นเมือง",
+    "english": "Natural gas",
+    "thai": "ก๊าซธรรมชาติ",
     "phonetic": ""
   },
   {
@@ -175,143 +20,8 @@
     "phonetic": ""
   },
   {
-    "english": "Indicator species",
-    "thai": "ชนิดตัวบ่งชี้",
-    "phonetic": ""
-  },
-  {
-    "english": "Umbrella species",
-    "thai": "พันธุ์ไม้ร่ม",
-    "phonetic": ""
-  },
-  {
-    "english": "Flagship species",
-    "thai": "สายพันธุ์เรือธง",
-    "phonetic": ""
-  },
-  {
-    "english": "Foundation species",
-    "thai": "สายพันธุ์พื้นฐาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Pioneer species",
-    "thai": "สายพันธุ์บุกเบิก",
-    "phonetic": ""
-  },
-  {
-    "english": "Nation",
-    "thai": "ชาติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Nationality",
-    "thai": "สัญชาติ",
-    "phonetic": ""
-  },
-  {
-    "english": "America",
-    "thai": "อเมริกา",
-    "phonetic": ""
-  },
-  {
-    "english": "American",
-    "thai": "อเมริกัน",
-    "phonetic": ""
-  },
-  {
-    "english": "China",
-    "thai": "จีน",
-    "phonetic": ""
-  },
-  {
-    "english": "Chinese",
-    "thai": "ชาวจีน",
-    "phonetic": ""
-  },
-  {
-    "english": "Japan",
-    "thai": "ประเทศญี่ปุ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Japanese",
-    "thai": "ญี่ปุ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Korea",
-    "thai": "เกาหลี",
-    "phonetic": ""
-  },
-  {
-    "english": "Korean",
-    "thai": "เกาหลี",
-    "phonetic": ""
-  },
-  {
-    "english": "Thailand",
-    "thai": "ประเทศไทย",
-    "phonetic": ""
-  },
-  {
-    "english": "Thai",
-    "thai": "แบบไทย",
-    "phonetic": ""
-  },
-  {
-    "english": "Vietnam",
-    "thai": "เวียดนาม",
-    "phonetic": ""
-  },
-  {
-    "english": "Vietnamese",
-    "thai": "เวียดนาม",
-    "phonetic": ""
-  },
-  {
-    "english": "France",
-    "thai": "ฝรั่งเศส",
-    "phonetic": ""
-  },
-  {
-    "english": "French",
-    "thai": "ภาษาฝรั่งเศส",
-    "phonetic": ""
-  },
-  {
-    "english": "Germany",
-    "thai": "เยอรมนี",
-    "phonetic": ""
-  },
-  {
-    "english": "German",
-    "thai": "ภาษาเยอรมัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Italy",
-    "thai": "อิตาลี",
-    "phonetic": ""
-  },
-  {
-    "english": "Italian",
-    "thai": "อิตาลี",
-    "phonetic": ""
-  },
-  {
-    "english": "Spain",
-    "thai": "สเปน",
-    "phonetic": ""
-  },
-  {
-    "english": "Spanish",
-    "thai": "ภาษาสเปน",
-    "phonetic": ""
-  },
-  {
-    "english": "Portugal",
-    "thai": "โปรตุเกส",
+    "english": "United Kingdom",
+    "thai": "สหราชอาณาจักร",
     "phonetic": ""
   },
   {
@@ -320,138 +30,18 @@
     "phonetic": ""
   },
   {
-    "english": "Brazil",
-    "thai": "บราซิล",
+    "english": "Pollution",
+    "thai": "มลพิษ",
     "phonetic": ""
   },
   {
-    "english": "Brazilian",
-    "thai": "บราซิล",
+    "english": "China",
+    "thai": "จีน",
     "phonetic": ""
   },
   {
-    "english": "Mexico",
-    "thai": "เม็กซิโก",
-    "phonetic": ""
-  },
-  {
-    "english": "Mexican",
-    "thai": "ชาวเม็กซิกัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Canada",
-    "thai": "แคนาดา",
-    "phonetic": ""
-  },
-  {
-    "english": "Canadian",
-    "thai": "ชาวแคนาดา",
-    "phonetic": ""
-  },
-  {
-    "english": "Australia",
-    "thai": "ออสเตรเลีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Australian",
-    "thai": "ชาวออสเตรเลีย",
-    "phonetic": ""
-  },
-  {
-    "english": "New Zealand",
-    "thai": "นิวซีแลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "New Zealander",
-    "thai": "ชาวนิวซีแลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "United Kingdom",
-    "thai": "สหราชอาณาจักร",
-    "phonetic": ""
-  },
-  {
-    "english": "British",
-    "thai": "ชาวอังกฤษ",
-    "phonetic": ""
-  },
-  {
-    "english": "Ireland",
-    "thai": "ไอร์แลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Irish",
-    "thai": "ไอริช",
-    "phonetic": ""
-  },
-  {
-    "english": "Russia",
-    "thai": "รัสเซีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Russian",
-    "thai": "รัสเซีย",
-    "phonetic": ""
-  },
-  {
-    "english": "India",
-    "thai": "อินเดีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Indian",
-    "thai": "ชาวอินเดีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Pakistan",
-    "thai": "ปากีสถาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Pakistani",
-    "thai": "ปากีสถาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Bangladesh",
-    "thai": "บังคลาเทศ",
-    "phonetic": ""
-  },
-  {
-    "english": "Bangladeshi",
-    "thai": "ชาวบังคลาเทศ",
-    "phonetic": ""
-  },
-  {
-    "english": "Nigeria",
-    "thai": "ไนจีเรีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Nigerian",
-    "thai": "ไนจีเรีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Egypt",
-    "thai": "อียิปต์",
-    "phonetic": ""
-  },
-  {
-    "english": "Egyptian",
-    "thai": "ชาวอียิปต์",
-    "phonetic": ""
-  },
-  {
-    "english": "South Africa",
-    "thai": "แอฟริกาใต้",
+    "english": "Carbon footprint",
+    "thai": "รอยเท้าคาร์บอน",
     "phonetic": ""
   },
   {
@@ -460,23 +50,18 @@
     "phonetic": ""
   },
   {
-    "english": "Kenya",
-    "thai": "เคนยา",
+    "english": "Habitat",
+    "thai": "ที่อยู่อาศัย",
     "phonetic": ""
   },
   {
-    "english": "Kenyan",
-    "thai": "ชาวเคนยา",
+    "english": "Brazilian",
+    "thai": "บราซิล",
     "phonetic": ""
   },
   {
-    "english": "Ethiopia",
-    "thai": "เอธิโอเปีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Ethiopian",
-    "thai": "ชาวเอธิโอเปีย",
+    "english": "Chinese",
+    "thai": "ชาวจีน",
     "phonetic": ""
   },
   {
@@ -485,8 +70,408 @@
     "phonetic": ""
   },
   {
+    "english": "Thai",
+    "thai": "แบบไทย",
+    "phonetic": ""
+  },
+  {
+    "english": "Decomposer",
+    "thai": "ผู้ย่อยสลาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Umbrella species",
+    "thai": "พันธุ์ไม้ร่ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Ethiopian",
+    "thai": "ชาวเอธิโอเปีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Japanese",
+    "thai": "ญี่ปุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Endangered species",
+    "thai": "สัตว์ใกล้สูญพันธุ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Thailand",
+    "thai": "ประเทศไทย",
+    "phonetic": ""
+  },
+  {
+    "english": "France",
+    "thai": "ฝรั่งเศส",
+    "phonetic": ""
+  },
+  {
+    "english": "Germany",
+    "thai": "เยอรมนี",
+    "phonetic": ""
+  },
+  {
+    "english": "Climate change",
+    "thai": "การเปลี่ยนแปลงสภาพภูมิอากาศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Bangladesh",
+    "thai": "บังคลาเทศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Egypt",
+    "thai": "อียิปต์",
+    "phonetic": ""
+  },
+  {
+    "english": "Solar power",
+    "thai": "พลังงานแสงอาทิตย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Global warming",
+    "thai": "ภาวะโลกร้อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Native species",
+    "thai": "พันธุ์พื้นเมือง",
+    "phonetic": ""
+  },
+  {
+    "english": "Tanzanian",
+    "thai": "แทนซาเนีย",
+    "phonetic": ""
+  },
+  {
+    "english": "South Africa",
+    "thai": "แอฟริกาใต้",
+    "phonetic": ""
+  },
+  {
+    "english": "Flagship species",
+    "thai": "สายพันธุ์เรือธง",
+    "phonetic": ""
+  },
+  {
+    "english": "Biomass",
+    "thai": "ชีวมวล",
+    "phonetic": ""
+  },
+  {
+    "english": "Canada",
+    "thai": "แคนาดา",
+    "phonetic": ""
+  },
+  {
+    "english": "Vietnamese",
+    "thai": "เวียดนาม",
+    "phonetic": ""
+  },
+  {
+    "english": "Hydropower",
+    "thai": "พลังงานน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Korean",
+    "thai": "เกาหลี",
+    "phonetic": ""
+  },
+  {
+    "english": "Geothermal energy",
+    "thai": "พลังงานความร้อนใต้พิภพ",
+    "phonetic": ""
+  },
+  {
+    "english": "British",
+    "thai": "ชาวอังกฤษ",
+    "phonetic": ""
+  },
+  {
+    "english": "Foundation species",
+    "thai": "สายพันธุ์พื้นฐาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Oil",
+    "thai": "น้ำมัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Italian",
+    "thai": "อิตาลี",
+    "phonetic": ""
+  },
+  {
+    "english": "Nation",
+    "thai": "ชาติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Kenyan",
+    "thai": "ชาวเคนยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Nigerian",
+    "thai": "ไนจีเรีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Coal",
+    "thai": "ถ่านหิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Sustainability",
+    "thai": "ความยั่งยืน",
+    "phonetic": ""
+  },
+  {
+    "english": "Brazil",
+    "thai": "บราซิล",
+    "phonetic": ""
+  },
+  {
+    "english": "German",
+    "thai": "ภาษาเยอรมัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Mexico",
+    "thai": "เม็กซิโก",
+    "phonetic": ""
+  },
+  {
+    "english": "Indian",
+    "thai": "ชาวอินเดีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Greenhouse effect",
+    "thai": "ปรากฏการณ์เรือนกระจก",
+    "phonetic": ""
+  },
+  {
+    "english": "Canadian",
+    "thai": "ชาวแคนาดา",
+    "phonetic": ""
+  },
+  {
+    "english": "Vietnam",
+    "thai": "เวียดนาม",
+    "phonetic": ""
+  },
+  {
+    "english": "Pioneer species",
+    "thai": "สายพันธุ์บุกเบิก",
+    "phonetic": ""
+  },
+  {
+    "english": "New Zealander",
+    "thai": "ชาวนิวซีแลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Prey",
+    "thai": "เหยื่อ",
+    "phonetic": ""
+  },
+  {
+    "english": "French",
+    "thai": "ภาษาฝรั่งเศส",
+    "phonetic": ""
+  },
+  {
+    "english": "Fossil fuels",
+    "thai": "เชื้อเพลิงฟอสซิล",
+    "phonetic": ""
+  },
+  {
+    "english": "American",
+    "thai": "อเมริกัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Portugal",
+    "thai": "โปรตุเกส",
+    "phonetic": ""
+  },
+  {
     "english": "Ghanaian",
     "thai": "ชาวกานา",
+    "phonetic": ""
+  },
+  {
+    "english": "Russia",
+    "thai": "รัสเซีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Composting",
+    "thai": "การทำปุ๋ยหมัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Ecosystem",
+    "thai": "ระบบนิเวศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Extinction",
+    "thai": "การสูญพันธุ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Mexican",
+    "thai": "ชาวเม็กซิกัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Italy",
+    "thai": "อิตาลี",
+    "phonetic": ""
+  },
+  {
+    "english": "India",
+    "thai": "อินเดีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Predator",
+    "thai": "นักล่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Biodiversity",
+    "thai": "ความหลากหลายทางชีวภาพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Japan",
+    "thai": "ประเทศญี่ปุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Korea",
+    "thai": "เกาหลี",
+    "phonetic": ""
+  },
+  {
+    "english": "Renewable energy",
+    "thai": "พลังงานหมุนเวียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Ireland",
+    "thai": "ไอร์แลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Spanish",
+    "thai": "ภาษาสเปน",
+    "phonetic": ""
+  },
+  {
+    "english": "Invasive species",
+    "thai": "สายพันธุ์ต่างถิ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Food chain",
+    "thai": "ห่วงโซ่อาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Kenya",
+    "thai": "เคนยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Carnivore",
+    "thai": "สัตว์กินเนื้อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Pakistani",
+    "thai": "ปากีสถาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Irish",
+    "thai": "ไอริช",
+    "phonetic": ""
+  },
+  {
+    "english": "Indicator species",
+    "thai": "ชนิดตัวบ่งชี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Australian",
+    "thai": "ชาวออสเตรเลีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Ethiopia",
+    "thai": "เอธิโอเปีย",
+    "phonetic": ""
+  },
+  {
+    "english": "America",
+    "thai": "อเมริกา",
+    "phonetic": ""
+  },
+  {
+    "english": "Wind power",
+    "thai": "พลังงานลม",
+    "phonetic": ""
+  },
+  {
+    "english": "Conservation",
+    "thai": "การอนุรักษ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Spain",
+    "thai": "สเปน",
+    "phonetic": ""
+  },
+  {
+    "english": "Bangladeshi",
+    "thai": "ชาวบังคลาเทศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Herbivore",
+    "thai": "สัตว์กินพืช",
+    "phonetic": ""
+  },
+  {
+    "english": "Australia",
+    "thai": "ออสเตรเลีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Nationality",
+    "thai": "สัญชาติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Nigeria",
+    "thai": "ไนจีเรีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Pakistan",
+    "thai": "ปากีสถาน",
     "phonetic": ""
   },
   {
@@ -495,8 +480,23 @@
     "phonetic": ""
   },
   {
-    "english": "Tanzanian",
-    "thai": "แทนซาเนีย",
+    "english": "Egyptian",
+    "thai": "ชาวอียิปต์",
+    "phonetic": ""
+  },
+  {
+    "english": "Russian",
+    "thai": "รัสเซีย",
+    "phonetic": ""
+  },
+  {
+    "english": "New Zealand",
+    "thai": "นิวซีแลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Recycling",
+    "thai": "การรีไซเคิล",
     "phonetic": ""
   }
 ]

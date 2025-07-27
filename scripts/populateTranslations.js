@@ -9,7 +9,8 @@ require('dotenv').config({ path: path.join(__dirname, '..', '.env') });
 const { Translate } = require('@google-cloud/translate').v2;
 
 // --- Configuration ---
-const lessonsFilePath = path.join(__dirname, '..', 'data', 'lessons.json');
+const dataDir = path.join(__dirname, '..', 'data');
+const manifestFilePath = path.join(dataDir, 'manifest.json');
 const API_KEY = process.env.GOOGLE_API_KEY;
 const CHUNK_SIZE = 100; // Google Translate API v2 has a limit of 128 segments per request.
 
@@ -27,18 +28,29 @@ const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 async function populateMissingTranslations() {
     try {
-        console.log("Reading lesson data...");
-        let lessonsData = JSON.parse(fs.readFileSync(lessonsFilePath, 'utf8'));
+        console.log("Reading manifest data...");
+        const manifest = JSON.parse(fs.readFileSync(manifestFilePath, 'utf8'));
 
         const wordsToTranslate = [];
-        // Find all cards with an English word but an empty Thai translation
-        for (const category in lessonsData.english) {
-            for (const lessonName in lessonsData.english[category]) {
-                lessonsData.english[category][lessonName].forEach(card => {
-                    if (card.english && !card.thai) {
-                        wordsToTranslate.push(card);
+        const allLessonFiles = [];
+
+        // Find all lesson files and words with missing translations
+        for (const language in manifest) {
+            if (Object.hasOwnProperty.call(manifest, language)) {
+                for (const categoryName in manifest[language]) {
+                    if (Object.hasOwnProperty.call(manifest[language], categoryName)) {
+                        manifest[language][categoryName].forEach(lessonInfo => {
+                            const lessonFilePath = path.join(dataDir, lessonInfo.file);
+                            allLessonFiles.push(lessonFilePath);
+                            const lessonData = JSON.parse(fs.readFileSync(lessonFilePath, 'utf8'));
+                            lessonData.forEach(card => {
+                                if (card.english && !card.thai) {
+                                    wordsToTranslate.push({ card, lessonFilePath });
+                                }
+                            });
+                        });
                     }
-                });
+                }
             }
         }
 
@@ -54,7 +66,7 @@ async function populateMissingTranslations() {
 
         for (let i = 0; i < wordsToTranslate.length; i += CHUNK_SIZE) {
             const chunk = wordsToTranslate.slice(i, i + CHUNK_SIZE);
-            const englishTextsInChunk = chunk.map(card => card.english);
+            const englishTextsInChunk = chunk.map(item => item.card.english);
 
             console.log(`\nTranslating chunk ${i / CHUNK_SIZE + 1} of ${totalChunks} (${chunk.length} words)...`);
 
@@ -63,8 +75,8 @@ async function populateMissingTranslations() {
 
             // The API returns an array of translations in the same order as the input
             translations.forEach((translation, index) => {
-                const card = chunk[index];
-                card.thai = translation;
+                const item = chunk[index];
+                item.card.thai = translation;
             });
 
             totalTranslated += chunk.length;
@@ -76,9 +88,22 @@ async function populateMissingTranslations() {
             }
         }
 
-        // Write the updated data back to the file
-        fs.writeFileSync(lessonsFilePath, JSON.stringify(lessonsData, null, 2), 'utf8');
-        console.log(`\nSuccessfully updated ${totalTranslated} translations in lessons.json!`);
+        // Write the updated data back to the individual lesson files
+        const updatedFiles = new Set();
+        wordsToTranslate.forEach(item => {
+            updatedFiles.add(item.lessonFilePath);
+        });
+
+        updatedFiles.forEach(filePath => {
+            const lessonData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+            const updatedLessonData = lessonData.map(card => {
+                const translatedItem = wordsToTranslate.find(item => item.card.english === card.english);
+                return translatedItem ? translatedItem.card : card;
+            });
+            fs.writeFileSync(filePath, JSON.stringify(updatedLessonData, null, 2), 'utf8');
+        });
+
+        console.log(`\nSuccessfully updated ${totalTranslated} translations in ${updatedFiles.size} lesson files!`);
 
     } catch (error) {
         console.error("Error populating translations:", error);

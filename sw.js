@@ -16,7 +16,7 @@ const urlsToCache = [
   '/src/utils/Constants.js',
   '/src/Router.js',
   '/data/manifest.json',
-  '/manifest.json'
+  '/app.webmanifest'
 ];
 
 // Install event - cache resources

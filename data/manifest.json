@@ -1057,16 +1057,16 @@
           "isReview": false
         },
         {
+          "name": "常用问候语: Review",
+          "name_th": "วลีทักทายทั่วไป: ทบทวน",
+          "file": "chinese/useful_phrases/useful_phrases__review_1-5.json",
+          "isReview": true
+        },
+        {
           "name": "旅行短语: Lesson 5",
           "name_th": "วลีสำหรับการเดินทาง: บทที่ 5",
           "file": "chinese/useful_phrases/______lesson_5.json",
           "isReview": false
-        },
-        {
-          "name": "Useful Phrases: Review 1-5",
-          "name_th": "ทบทวน: บทที่ 1-5",
-          "file": "chinese/useful_phrases/useful_phrases__review_1-5.json",
-          "isReview": true
         },
         {
           "name": "旅行短语: Lesson 6",
@@ -1093,16 +1093,16 @@
           "isReview": false
         },
         {
+          "name": "旅行短语: Review",
+          "name_th": "วลีสำหรับการเดินทาง: ทบทวน",
+          "file": "chinese/useful_phrases/useful_phrases__review_6-10.json",
+          "isReview": true
+        },
+        {
           "name": "购物短语: Lesson 10",
           "name_th": "วลีสำหรับการช้อปปิ้ง: บทที่ 10",
           "file": "chinese/useful_phrases/______lesson_10.json",
           "isReview": false
-        },
-        {
-          "name": "Useful Phrases: Review 6-10",
-          "name_th": "ทบทวน: บทที่ 6-10",
-          "file": "chinese/useful_phrases/useful_phrases__review_6-10.json",
-          "isReview": true
         },
         {
           "name": "购物短语: Lesson 11",
@@ -1123,6 +1123,12 @@
           "isReview": false
         },
         {
+          "name": "购物短语: Review",
+          "name_th": "วลีสำหรับการช้อปปิ้ง: ทบทวน",
+          "file": "chinese/useful_phrases/useful_phrases__review_11-15.json",
+          "isReview": true
+        },
+        {
           "name": "紧急短语: Lesson 14",
           "name_th": "วลีฉุกเฉิน: บทที่ 14",
           "file": "chinese/useful_phrases/______lesson_14.json",
@@ -1135,12 +1141,6 @@
           "isReview": false
         },
         {
-          "name": "Useful Phrases: Review 11-15",
-          "name_th": "ทบทวน: บทที่ 11-15",
-          "file": "chinese/useful_phrases/useful_phrases__review_11-15.json",
-          "isReview": true
-        },
-        {
           "name": "紧急短语: Lesson 16",
           "name_th": "วลีฉุกเฉิน: บทที่ 16",
           "file": "chinese/useful_phrases/______lesson_16.json",
@@ -1151,6 +1151,12 @@
           "name_th": "วลีฉุกเฉิน: บทที่ 17",
           "file": "chinese/useful_phrases/______lesson_17.json",
           "isReview": false
+        },
+        {
+          "name": "紧急短语: Review",
+          "name_th": "วลีฉุกเฉิน: ทบทวน",
+          "file": "chinese/useful_phrases/useful_phrases__review_16-20.json",
+          "isReview": true
         },
         {
           "name": "用餐短语: Lesson 18",
@@ -1171,8 +1177,8 @@
           "isReview": false
         },
         {
-          "name": "Useful Phrases: Review 16-20",
-          "name_th": "ทบทวน: บทที่ 16-20",
+          "name": "用餐短语: Review",
+          "name_th": "วลีสำหรับการรับประทานอาหาร: ทบทวน",
           "file": "chinese/useful_phrases/useful_phrases__review_16-20.json",
           "isReview": true
         }

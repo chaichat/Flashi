@@ -113,6 +113,26 @@
                 navigator.serviceWorker.register('sw.js')
                     .then((registration) => {
                         console.log('SW registered: ', registration);
+                        
+                        // Check for updates
+                        registration.addEventListener('updatefound', () => {
+                            console.log('New service worker installing...');
+                            const newWorker = registration.installing;
+                            
+                            newWorker.addEventListener('statechange', () => {
+                                if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                                    console.log('New content available, refreshing...');
+                                    // Automatically refresh the page to get new content
+                                    window.location.reload();
+                                }
+                            });
+                        });
+                        
+                        // Listen for controlling service worker changes
+                        navigator.serviceWorker.addEventListener('controllerchange', () => {
+                            console.log('Service worker controller changed, refreshing...');
+                            window.location.reload();
+                        });
                     })
                     .catch((registrationError) => {
                         console.log('SW registration failed: ', registrationError);

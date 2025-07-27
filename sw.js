@@ -1,4 +1,4 @@
-const CACHE_NAME = 'flashi-v1';
+const CACHE_NAME = 'flashi-v2';
 const urlsToCache = [
   '/',
   '/index.html',
@@ -22,6 +22,9 @@ const urlsToCache = [
 // Install event - cache resources
 self.addEventListener('install', (event) => {
   console.log('Service Worker installing...');
+  // Skip waiting to activate new service worker immediately
+  self.skipWaiting();
+  
   event.waitUntil(
     caches.open(CACHE_NAME)
       .then((cache) => {
@@ -37,6 +40,9 @@ self.addEventListener('install', (event) => {
 // Activate event - clean up old caches
 self.addEventListener('activate', (event) => {
   console.log('Service Worker activating...');
+  // Take control of all pages immediately
+  self.clients.claim();
+  
   event.waitUntil(
     caches.keys().then((cacheNames) => {
       return Promise.all(

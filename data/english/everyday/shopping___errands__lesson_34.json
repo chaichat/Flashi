@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Post office",
+    "thai": "ไปรษณีย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Mail",
+    "thai": "จดหมาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Package",
+    "thai": "พัสดุ",
+    "phonetic": ""
+  },
+  {
+    "english": "Envelope",
+    "thai": "ซองจดหมาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Stamp",
+    "thai": "แสตมป์",
+    "phonetic": ""
+  },
+  {
+    "english": "Address",
+    "thai": "ที่อยู่",
+    "phonetic": ""
+  },
+  {
+    "english": "Delivery",
+    "thai": "ส่งของ",
+    "phonetic": ""
+  },
+  {
+    "english": "Courier",
+    "thai": "บริการส่งด่วน",
+    "phonetic": ""
+  },
+  {
+    "english": "Express mail",
+    "thai": "ไปรษณีย์ด่วน",
+    "phonetic": ""
+  },
+  {
+    "english": "Registered mail",
+    "thai": "ไปรษณีย์ลงทะเบียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Mailbox",
+    "thai": "ตู้จดหมาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Postcard",
+    "thai": "โปสการ์ด",
+    "phonetic": ""
+  },
+  {
+    "english": "Sender",
+    "thai": "ผู้ส่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Recipient",
+    "thai": "ผู้รับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Tracking",
+    "thai": "ติดตาม",
+    "phonetic": ""
+  },
+  {
+    "english": "Postage",
+    "thai": "ค่าไปรษณีย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Zip code",
+    "thai": "รหัสไปรษณีย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Return",
+    "thai": "ส่งคืน",
+    "phonetic": ""
+  },
+  {
+    "english": "Priority",
+    "thai": "ลำดับความสำคัญ",
+    "phonetic": ""
+  },
+  {
+    "english": "Signature",
+    "thai": "ลายเซ็น",
+    "phonetic": ""
+  }
+]

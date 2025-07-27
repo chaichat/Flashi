@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Bank",
+    "thai": "ธนาคาร",
+    "phonetic": ""
+  },
+  {
+    "english": "ATM",
+    "thai": "เอทีเอ็ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Deposit",
+    "thai": "ฝากเงิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Withdraw",
+    "thai": "ถอนเงิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Account",
+    "thai": "บัญชี",
+    "phonetic": ""
+  },
+  {
+    "english": "Loan",
+    "thai": "เงินกู้",
+    "phonetic": ""
+  },
+  {
+    "english": "Debit card",
+    "thai": "บัตรเดบิต",
+    "phonetic": ""
+  },
+  {
+    "english": "Mortgage",
+    "thai": "จำนอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Insurance",
+    "thai": "ประกันภัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Investment",
+    "thai": "การลงทุน",
+    "phonetic": ""
+  },
+  {
+    "english": "Savings",
+    "thai": "เงินออม",
+    "phonetic": ""
+  },
+  {
+    "english": "Checking account",
+    "thai": "บัญชีกระแสรายวัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Transfer",
+    "thai": "โอนเงิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Balance",
+    "thai": "ยอดเงิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Interest",
+    "thai": "ดอกเบี้ย",
+    "phonetic": ""
+  },
+  {
+    "english": "Teller",
+    "thai": "พนักงานธนาคาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Statement",
+    "thai": "รายการธุรกรรม",
+    "phonetic": ""
+  },
+  {
+    "english": "PIN",
+    "thai": "รหัสผ่าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Fee",
+    "thai": "ค่าธรรมเนียม",
+    "phonetic": ""
+  },
+  {
+    "english": "Currency",
+    "thai": "สกุลเงิน",
+    "phonetic": ""
+  }
+]

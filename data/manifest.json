@@ -34,8 +34,8 @@
           "isReview": false
         },
         {
-          "name": "Everyday: Review 1-5",
-          "name_th": "ทบทวน: บทที่ 1-5",
+          "name": "Greetings & Socializing: Review",
+          "name_th": "ทักทายและสังคม: ทบทวน",
           "file": "english/everyday/everyday__review_16-20.json",
           "isReview": true
         },
@@ -70,8 +70,8 @@
           "isReview": false
         },
         {
-          "name": "Everyday: Review 6-10",
-          "name_th": "ทบทวน: บทที่ 6-10",
+          "name": "Food & Dining: Review",
+          "name_th": "อาหารและการรับประทานอาหาร: ทบทวน",
           "file": "english/everyday/everyday__review_21-25.json",
           "isReview": true
         },
@@ -106,8 +106,8 @@
           "isReview": false
         },
         {
-          "name": "Everyday: Review 11-15",
-          "name_th": "ทบทวน: บทที่ 11-15",
+          "name": "Travel & Transportation: Review",
+          "name_th": "การเดินทางและการคมนาคม: ทบทวน",
           "file": "english/everyday/everyday__review_26-30.json",
           "isReview": true
         },
@@ -142,8 +142,8 @@
           "isReview": false
         },
         {
-          "name": "Everyday: Review 16-20",
-          "name_th": "ทบทวน: บทที่ 16-20",
+          "name": "Shopping & Errands: Review",
+          "name_th": "ช้อปปิ้งและธุระ: ทบทวน",
           "file": "english/everyday/everyday__review_31-35.json",
           "isReview": true
         },
@@ -178,12 +178,6 @@
           "isReview": false
         },
         {
-          "name": "Everyday: Review 21-25",
-          "name_th": "ทบทวน: บทที่ 21-25",
-          "file": "english/everyday/everyday__review_1-5.json",
-          "isReview": true
-        },
-        {
           "name": "Business & Finance: Lesson 26",
           "name_th": "ธุรกิจและการเงิน: บทที่ 26",
           "file": "english/everyday/business___finance__lesson_6.json",
@@ -212,12 +206,6 @@
           "name_th": "ธุรกิจและการเงิน: บทที่ 30",
           "file": "english/everyday/business___finance__lesson_10.json",
           "isReview": false
-        },
-        {
-          "name": "Everyday: Review 26-30",
-          "name_th": "ทบทวน: บทที่ 26-30",
-          "file": "english/everyday/everyday__review_6-10.json",
-          "isReview": true
         },
         {
           "name": "Business & Finance: Lesson 31",
@@ -250,9 +238,9 @@
           "isReview": false
         },
         {
-          "name": "Everyday: Review 31-35",
-          "name_th": "ทบทวน: บทที่ 31-35",
-          "file": "english/everyday/everyday__review_11-15.json",
+          "name": "Business & Finance: Review",
+          "name_th": "ธุรกิจและการเงิน: ทบทวน",
+          "file": "english/everyday/everyday__review_1-5.json",
           "isReview": true
         },
         {
@@ -280,159 +268,171 @@
           "isReview": false
         },
         {
-          "name": "Daily Routines: Lesson 40",
-          "name_th": "กิจวัตรประจำวัน: บทที่ 40",
-          "file": "english/everyday/daily_routines__lesson_37.json",
+          "name": "Health & Wellness: Review",
+          "name_th": "สุขภาพและความเป็นอยู่ที่ดี: ทบทวน",
+          "file": "english/everyday/everyday__review_36-40.json",
+          "isReview": true
+        },
+        {
+          "name": "Body Parts: Lesson 40",
+          "name_th": "ส่วนต่างๆ ของร่างกาย: บทที่ 40",
+          "file": "english/everyday/body_parts__lesson_57.json",
           "isReview": false
         },
         {
-          "name": "Everyday: Review 36-40",
-          "name_th": "ทบทวน: บทที่ 36-40",
-          "file": "english/everyday/everyday__review_36-40.json",
+          "name": "Body Parts: Review",
+          "name_th": "ส่วนต่างๆ ของร่างกาย: ทบทวน",
+          "file": "english/everyday/everyday__review_56-60.json",
           "isReview": true
         },
         {
           "name": "Daily Routines: Lesson 41",
           "name_th": "กิจวัตรประจำวัน: บทที่ 41",
-          "file": "english/everyday/daily_routines__lesson_38.json",
+          "file": "english/everyday/daily_routines__lesson_37.json",
           "isReview": false
         },
         {
           "name": "Daily Routines: Lesson 42",
           "name_th": "กิจวัตรประจำวัน: บทที่ 42",
+          "file": "english/everyday/daily_routines__lesson_38.json",
+          "isReview": false
+        },
+        {
+          "name": "Daily Routines: Lesson 43",
+          "name_th": "กิจวัตรประจำวัน: บทที่ 43",
           "file": "english/everyday/daily_routines__lesson_39.json",
           "isReview": false
         },
         {
-          "name": "Around the House: Lesson 43",
-          "name_th": "รอบๆ บ้าน: บทที่ 43",
-          "file": "english/everyday/around_the_house__lesson_40.json",
-          "isReview": false
+          "name": "Daily Routines: Review",
+          "name_th": "กิจวัตรประจำวัน: ทบทวน",
+          "file": "english/everyday/everyday__review_41-45.json",
+          "isReview": true
         },
         {
           "name": "Around the House: Lesson 44",
           "name_th": "รอบๆ บ้าน: บทที่ 44",
-          "file": "english/everyday/around_the_house__lesson_41.json",
+          "file": "english/everyday/around_the_house__lesson_40.json",
           "isReview": false
         },
         {
           "name": "Around the House: Lesson 45",
           "name_th": "รอบๆ บ้าน: บทที่ 45",
-          "file": "english/everyday/around_the_house__lesson_42.json",
+          "file": "english/everyday/around_the_house__lesson_41.json",
           "isReview": false
-        },
-        {
-          "name": "Everyday: Review 41-45",
-          "name_th": "ทบทวน: บทที่ 41-45",
-          "file": "english/everyday/everyday__review_41-45.json",
-          "isReview": true
         },
         {
           "name": "Around the House: Lesson 46",
           "name_th": "รอบๆ บ้าน: บทที่ 46",
-          "file": "english/everyday/around_the_house__lesson_43.json",
+          "file": "english/everyday/around_the_house__lesson_42.json",
           "isReview": false
         },
         {
           "name": "Around the House: Lesson 47",
           "name_th": "รอบๆ บ้าน: บทที่ 47",
+          "file": "english/everyday/around_the_house__lesson_43.json",
+          "isReview": false
+        },
+        {
+          "name": "Around the House: Lesson 48",
+          "name_th": "รอบๆ บ้าน: บทที่ 48",
           "file": "english/everyday/around_the_house__lesson_44.json",
           "isReview": false
         },
         {
-          "name": "Weather: Lesson 48",
-          "name_th": "สภาพอากาศ: บทที่ 48",
-          "file": "english/everyday/weather__lesson_45.json",
-          "isReview": false
+          "name": "Around the House: Review",
+          "name_th": "รอบๆ บ้าน: ทบทวน",
+          "file": "english/everyday/everyday__review_46-50.json",
+          "isReview": true
         },
         {
           "name": "Weather: Lesson 49",
           "name_th": "สภาพอากาศ: บทที่ 49",
-          "file": "english/everyday/weather__lesson_46.json",
+          "file": "english/everyday/weather__lesson_45.json",
           "isReview": false
         },
         {
           "name": "Weather: Lesson 50",
           "name_th": "สภาพอากาศ: บทที่ 50",
-          "file": "english/everyday/weather__lesson_47.json",
+          "file": "english/everyday/weather__lesson_46.json",
           "isReview": false
-        },
-        {
-          "name": "Everyday: Review 46-50",
-          "name_th": "ทบทวน: บทที่ 46-50",
-          "file": "english/everyday/everyday__review_46-50.json",
-          "isReview": true
         },
         {
           "name": "Weather: Lesson 51",
           "name_th": "สภาพอากาศ: บทที่ 51",
+          "file": "english/everyday/weather__lesson_47.json",
+          "isReview": false
+        },
+        {
+          "name": "Weather: Lesson 52",
+          "name_th": "สภาพอากาศ: บทที่ 52",
           "file": "english/everyday/weather__lesson_48.json",
           "isReview": false
         },
         {
-          "name": "Hobbies & Interests: Lesson 52",
-          "name_th": "งานอดิเรกและความสนใจ: บทที่ 52",
-          "file": "english/everyday/hobbies___interests__lesson_49.json",
-          "isReview": false
+          "name": "Weather: Review",
+          "name_th": "สภาพอากาศ: ทบทวน",
+          "file": "english/everyday/everyday__review_51-55.json",
+          "isReview": true
         },
         {
           "name": "Hobbies & Interests: Lesson 53",
           "name_th": "งานอดิเรกและความสนใจ: บทที่ 53",
-          "file": "english/everyday/hobbies___interests__lesson_50.json",
+          "file": "english/everyday/hobbies___interests__lesson_49.json",
           "isReview": false
         },
         {
           "name": "Hobbies & Interests: Lesson 54",
           "name_th": "งานอดิเรกและความสนใจ: บทที่ 54",
+          "file": "english/everyday/hobbies___interests__lesson_50.json",
+          "isReview": false
+        },
+        {
+          "name": "Hobbies & Interests: Lesson 55",
+          "name_th": "งานอดิเรกและความสนใจ: บทที่ 55",
           "file": "english/everyday/hobbies___interests__lesson_51.json",
           "isReview": false
         },
         {
-          "name": "Emotions & Feelings: Lesson 55",
-          "name_th": "อารมณ์และความรู้สึก: บทที่ 55",
-          "file": "english/everyday/emotions___feelings__lesson_52.json",
-          "isReview": false
-        },
-        {
-          "name": "Everyday: Review 51-55",
-          "name_th": "ทบทวน: บทที่ 51-55",
-          "file": "english/everyday/everyday__review_51-55.json",
+          "name": "Hobbies & Interests: Review",
+          "name_th": "งานอดิเรกและความสนใจ: ทบทวน",
+          "file": "english/everyday/everyday__review_61-65.json",
           "isReview": true
         },
         {
           "name": "Emotions & Feelings: Lesson 56",
           "name_th": "อารมณ์และความรู้สึก: บทที่ 56",
-          "file": "english/everyday/emotions___feelings__lesson_53.json",
+          "file": "english/everyday/emotions___feelings__lesson_52.json",
           "isReview": false
         },
         {
           "name": "Emotions & Feelings: Lesson 57",
           "name_th": "อารมณ์และความรู้สึก: บทที่ 57",
-          "file": "english/everyday/emotions___feelings__lesson_54.json",
+          "file": "english/everyday/emotions___feelings__lesson_53.json",
           "isReview": false
         },
         {
           "name": "Emotions & Feelings: Lesson 58",
           "name_th": "อารมณ์และความรู้สึก: บทที่ 58",
-          "file": "english/everyday/emotions___feelings__lesson_55.json",
+          "file": "english/everyday/emotions___feelings__lesson_54.json",
           "isReview": false
         },
         {
           "name": "Emotions & Feelings: Lesson 59",
           "name_th": "อารมณ์และความรู้สึก: บทที่ 59",
+          "file": "english/everyday/emotions___feelings__lesson_55.json",
+          "isReview": false
+        },
+        {
+          "name": "Emotions & Feelings: Lesson 60",
+          "name_th": "อารมณ์และความรู้สึก: บทที่ 60",
           "file": "english/everyday/emotions___feelings__lesson_56.json",
           "isReview": false
         },
         {
-          "name": "Body Parts: Lesson 60",
-          "name_th": "ส่วนต่างๆ ของร่างกาย: บทที่ 60",
-          "file": "english/everyday/body_parts__lesson_57.json",
-          "isReview": false
-        },
-        {
-          "name": "Everyday: Review 56-60",
-          "name_th": "ทบทวน: บทที่ 56-60",
-          "file": "english/everyday/everyday__review_56-60.json",
+          "name": "Emotions & Feelings: Review",
+          "name_th": "อารมณ์และความรู้สึก: ทบทวน",
+          "file": "english/everyday/everyday__review_66-70.json",
           "isReview": true
         },
         {
@@ -460,16 +460,16 @@
           "isReview": false
         },
         {
+          "name": "Clothing & Accessories: Review",
+          "name_th": "เสื้อผ้าและเครื่องประดับ: ทบทวน",
+          "file": "english/everyday/everyday__review_71-75.json",
+          "isReview": true
+        },
+        {
           "name": "Colors & Shapes: Lesson 65",
           "name_th": "สีและรูปทรง: บทที่ 65",
           "file": "english/everyday/colors___shapes__lesson_65.json",
           "isReview": false
-        },
-        {
-          "name": "Everyday: Review 61-65",
-          "name_th": "ทบทวน: บทที่ 61-65",
-          "file": "english/everyday/everyday__review_61-65.json",
-          "isReview": true
         },
         {
           "name": "Colors & Shapes: Lesson 66",
@@ -496,16 +496,16 @@
           "isReview": false
         },
         {
+          "name": "Colors & Shapes: Review",
+          "name_th": "สีและรูปทรง: ทบทวน",
+          "file": "english/everyday/everyday__review_76-80.json",
+          "isReview": true
+        },
+        {
           "name": "Numbers & Time: Lesson 70",
           "name_th": "ตัวเลขและเวลา: บทที่ 70",
           "file": "english/everyday/numbers___time__lesson_70.json",
           "isReview": false
-        },
-        {
-          "name": "Everyday: Review 66-70",
-          "name_th": "ทบทวน: บทที่ 66-70",
-          "file": "english/everyday/everyday__review_66-70.json",
-          "isReview": true
         },
         {
           "name": "Numbers & Time: Lesson 71",
@@ -518,6 +518,12 @@
           "name_th": "ตัวเลขและเวลา: บทที่ 72",
           "file": "english/everyday/numbers___time__lesson_72.json",
           "isReview": false
+        },
+        {
+          "name": "Numbers & Time: Review",
+          "name_th": "ตัวเลขและเวลา: ทบทวน",
+          "file": "english/everyday/everyday__review_81-85.json",
+          "isReview": true
         },
         {
           "name": "Education: Lesson 73",
@@ -538,9 +544,9 @@
           "isReview": false
         },
         {
-          "name": "Everyday: Review 71-75",
-          "name_th": "ทบทวน: บทที่ 71-75",
-          "file": "english/everyday/everyday__review_71-75.json",
+          "name": "Education: Review",
+          "name_th": "การศึกษา: ทบทวน",
+          "file": "english/everyday/everyday__review_6-10.json",
           "isReview": true
         },
         {
@@ -554,6 +560,12 @@
           "name_th": "เทคโนโลยีและอินเทอร์เน็ต: บทที่ 77",
           "file": "english/everyday/technology___internet__lesson_77.json",
           "isReview": false
+        },
+        {
+          "name": "Technology & Internet: Review",
+          "name_th": "เทคโนโลยีและอินเทอร์เน็ต: ทบทวน",
+          "file": "english/everyday/everyday__review_11-15.json",
+          "isReview": true
         },
         {
           "name": "Nature & Environment: Lesson 78",
@@ -574,9 +586,9 @@
           "isReview": false
         },
         {
-          "name": "Everyday: Review 76-80",
-          "name_th": "ทบทวน: บทที่ 76-80",
-          "file": "english/everyday/everyday__review_76-80.json",
+          "name": "Nature & Environment: Review",
+          "name_th": "ธรรมชาติและสิ่งแวดล้อม: ทบทวน",
+          "file": "english/everyday/everyday__review_56-60.json",
           "isReview": true
         },
         {
@@ -610,9 +622,9 @@
           "isReview": false
         },
         {
-          "name": "Everyday: Review 81-85",
-          "name_th": "ทบทวน: บทที่ 81-85",
-          "file": "english/everyday/everyday__review_81-85.json",
+          "name": "Countries & Nationalities: Review",
+          "name_th": "ประเทศและสัญชาติ: ทบทวน",
+          "file": "english/everyday/everyday__review_61-65.json",
           "isReview": true
         },
         {
@@ -632,6 +644,12 @@
           "name_th": "ครอบครัวและความสัมพันธ์: บทที่ 88",
           "file": "english/everyday/family___relationships__lesson_88.json",
           "isReview": false
+        },
+        {
+          "name": "Family & Relationships: Review",
+          "name_th": "ครอบครัวและความสัมพันธ์: ทบทวน",
+          "file": "english/everyday/everyday__review_66-70.json",
+          "isReview": true
         }
       ]
     },

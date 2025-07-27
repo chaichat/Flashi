@@ -44,18 +44,18 @@ async function populateMissingTranslations() {
                                 const lessonData = JSON.parse(fs.readFileSync(lessonFilePath, 'utf8'));
                                 lessonData.forEach(card => {
                                     let textToTranslate = '';
-                                    let sourceField = '';
+                                    let sourceLang = '';
 
                                     if (language === 'english' && card.english && !card.thai) {
                                         textToTranslate = card.english;
-                                        sourceField = 'english';
+                                        sourceLang = 'en';
                                     } else if (language === 'chinese' && card.chinese && !card.thai) {
                                         textToTranslate = card.chinese;
-                                        sourceField = 'chinese';
+                                        sourceLang = 'zh';
                                     }
 
                                     if (textToTranslate) {
-                                        wordsToTranslate.push({ card, lessonFilePath, textToTranslate, sourceField });
+                                        wordsToTranslate.push({ card, lessonFilePath, textToTranslate, sourceLang });
                                     }
                                 });
                             });
@@ -72,61 +72,58 @@ async function populateMissingTranslations() {
 
         console.log(`Found ${wordsToTranslate.length} words to translate. Starting in chunks of ${CHUNK_SIZE}...`);
 
+        // Group words by lessonFilePath to write back efficiently
+        const updatedFilesMap = new Map();
+
+        // Helper to add/update card in map
+        const addUpdatedCard = (card, filePath) => {
+            if (!updatedFilesMap.has(filePath)) {
+                updatedFilesMap.set(filePath, {});
+            }
+            // Use a unique key for the card (e.g., its English or Chinese value)
+            const key = card.english || card.chinese;
+            updatedFilesMap.get(filePath)[key] = card;
+        };
+
         let totalTranslated = 0;
         const totalChunks = Math.ceil(wordsToTranslate.length / CHUNK_SIZE);
-
-        // Group words by lessonFilePath to write back efficiently
-        const translationsByFile = {};
 
         for (let i = 0; i < wordsToTranslate.length; i += CHUNK_SIZE) {
             const chunk = wordsToTranslate.slice(i, i + CHUNK_SIZE);
             const textsInChunk = chunk.map(item => item.textToTranslate);
+            const currentSourceLang = chunk[0].sourceLang; // Assuming all items in chunk have same sourceLang
 
-            console.log(`\nTranslating chunk ${i / CHUNK_SIZE + 1} of ${totalChunks} (${chunk.length} words)...`);
+            console.log(`\nTranslating chunk ${i / CHUNK_SIZE + 1} of ${totalChunks} (${chunk.length} words) from ${currentSourceLang} to ${targetLanguage}...`);
 
-            // Call the Google Translate API for the current chunk
-            let [translations] = await translate.translate(textsInChunk, targetLanguage);
+            let [translations] = await translate.translate(textsInChunk, { from: currentSourceLang, to: targetLanguage });
 
-            // The API returns an array of translations in the same order as the input
             translations.forEach((translation, index) => {
                 const item = chunk[index];
                 item.card.thai = translation;
-
-                // Store updated card in its respective file's collection
-                if (!translationsByFile[item.lessonFilePath]) {
-                    translationsByFile[item.lessonFilePath] = [];
-                }
-                translationsByFile[item.lessonFilePath].push(item.card);
+                addUpdatedCard(item.card, item.lessonFilePath);
             });
 
             totalTranslated += chunk.length;
             console.log(`...chunk translated. Total translated: ${totalTranslated}`);
 
-            // Add a small delay between chunks to be a good API citizen.
             if (i + CHUNK_SIZE < wordsToTranslate.length) {
                 await delay(500); // 500ms delay
             }
         }
 
         // Write the updated data back to the individual lesson files
-        for (const filePath in translationsByFile) {
-            if (Object.hasOwnProperty.call(translationsByFile, filePath)) {
-                const updatedCards = translationsByFile[filePath];
-                // Read the original file content to ensure we don't overwrite non-translated cards
-                const originalLessonData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-                const finalLessonData = originalLessonData.map(originalCard => {
-                    const key = originalCard.english || originalCard.chinese;
-                    return updatedCards[key] || originalCard;
-                });
-                fs.writeFileSync(filePath, JSON.stringify(finalLessonData, null, 2), 'utf8');
-            } else {
-                // Handle the case where filePath is not a direct property of translationsByFile
-                // This might happen if translationsByFile is a Map or has inherited properties
-                // For now, we'll just skip it, but in a real scenario, you might want to log or handle it differently.
-            }
+        for (const filePath of updatedFilesMap.keys()) {
+            const originalLessonData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+            const updatedCardsForFile = updatedFilesMap.get(filePath);
+
+            const finalLessonData = originalLessonData.map(originalCard => {
+                const key = originalCard.english || originalCard.chinese;
+                return updatedCardsForFile[key] || originalCard;
+            });
+            fs.writeFileSync(filePath, JSON.stringify(finalLessonData, null, 2), 'utf8');
         }
 
-        console.log(`\nSuccessfully updated ${totalTranslated} translations in ${Object.keys(translationsByFile).length} lesson files!`);
+        console.log(`\nSuccessfully updated ${totalTranslated} translations in ${updatedFilesMap.size} lesson files!`);
 
     } catch (error) {
         console.error("Error populating translations:", error);

@@ -1,102 +1,102 @@
 [
   {
     "english": "Operations",
-    "thai": "",
+    "thai": "การดำเนินงาน",
     "phonetic": ""
   },
   {
     "english": "Logistics",
-    "thai": "",
+    "thai": "โลจิสติกส์",
     "phonetic": ""
   },
   {
     "english": "Supply chain",
-    "thai": "",
+    "thai": "ห่วงโซ่อุปทาน",
     "phonetic": ""
   },
   {
     "english": "Procurement",
-    "thai": "",
+    "thai": "การจัดซื้อจัดจ้าง",
     "phonetic": ""
   },
   {
     "english": "Inventory",
-    "thai": "",
+    "thai": "รายการสิ่งของ",
     "phonetic": ""
   },
   {
     "english": "Warehouse",
-    "thai": "",
+    "thai": "คลังสินค้า",
     "phonetic": ""
   },
   {
     "english": "Distribution",
-    "thai": "",
+    "thai": "การกระจาย",
     "phonetic": ""
   },
   {
     "english": "Shipping",
-    "thai": "",
+    "thai": "การส่งสินค้า",
     "phonetic": ""
   },
   {
     "english": "Receiving",
-    "thai": "",
+    "thai": "การรับ",
     "phonetic": ""
   },
   {
     "english": "Control",
-    "thai": "",
+    "thai": "ควบคุม",
     "phonetic": ""
   },
   {
     "english": "Six Sigma",
-    "thai": "",
+    "thai": "ซิกซ์ซิกม่า",
     "phonetic": ""
   },
   {
     "english": "Lean",
-    "thai": "",
+    "thai": "เอียง",
     "phonetic": ""
   },
   {
     "english": "Kaizen",
-    "thai": "",
+    "thai": "ไคเซ็น",
     "phonetic": ""
   },
   {
     "english": "Kanban",
-    "thai": "",
+    "thai": "คัมบัง",
     "phonetic": ""
   },
   {
     "english": "Scrum",
-    "thai": "",
+    "thai": "สครัม",
     "phonetic": ""
   },
   {
     "english": "Agile",
-    "thai": "",
+    "thai": "คล่องตัว",
     "phonetic": ""
   },
   {
     "english": "Waterfall",
-    "thai": "",
+    "thai": "น้ำตก",
     "phonetic": ""
   },
   {
     "english": "Program",
-    "thai": "",
+    "thai": "โปรแกรม",
     "phonetic": ""
   },
   {
     "english": "Portfolio",
-    "thai": "",
+    "thai": "พอร์ตโฟลิโอ",
     "phonetic": ""
   },
   {
     "english": "Gantt",
-    "thai": "",
+    "thai": "แกนต์",
     "phonetic": ""
   }
 ]

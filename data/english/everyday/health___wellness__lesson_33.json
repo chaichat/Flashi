@@ -1,102 +1,102 @@
 [
   {
     "english": "Nurse",
-    "thai": "",
+    "thai": "พยาบาล",
     "phonetic": ""
   },
   {
     "english": "Patient",
-    "thai": "",
+    "thai": "อดทน",
     "phonetic": ""
   },
   {
     "english": "Appointment",
-    "thai": "",
+    "thai": "การนัดหมาย",
     "phonetic": ""
   },
   {
     "english": "Prescription",
-    "thai": "",
+    "thai": "ใบสั่งยา",
     "phonetic": ""
   },
   {
     "english": "Symptom",
-    "thai": "",
+    "thai": "อาการ",
     "phonetic": ""
   },
   {
     "english": "Injury",
-    "thai": "",
+    "thai": "บาดเจ็บ",
     "phonetic": ""
   },
   {
     "english": "Virus",
-    "thai": "",
+    "thai": "ไวรัส",
     "phonetic": ""
   },
   {
     "english": "Bacteria",
-    "thai": "",
+    "thai": "แบคทีเรีย",
     "phonetic": ""
   },
   {
     "english": "Infection",
-    "thai": "",
+    "thai": "การติดเชื้อ",
     "phonetic": ""
   },
   {
     "english": "Vaccine",
-    "thai": "",
+    "thai": "วัคซีน",
     "phonetic": ""
   },
   {
     "english": "Blood pressure",
-    "thai": "",
+    "thai": "ความดันโลหิต",
     "phonetic": ""
   },
   {
     "english": "Temperature",
-    "thai": "",
+    "thai": "อุณหภูมิ",
     "phonetic": ""
   },
   {
     "english": "X-ray",
-    "thai": "",
+    "thai": "เอ็กซ์เรย์",
     "phonetic": ""
   },
   {
     "english": "Ultrasound",
-    "thai": "",
+    "thai": "อัลตราซาวนด์",
     "phonetic": ""
   },
   {
     "english": "Surgery",
-    "thai": "",
+    "thai": "การผ่าตัด",
     "phonetic": ""
   },
   {
     "english": "Insurance",
-    "thai": "",
+    "thai": "ประกันภัย",
     "phonetic": ""
   },
   {
     "english": "First aid",
-    "thai": "",
+    "thai": "ปฐมพยาบาล",
     "phonetic": ""
   },
   {
     "english": "Bandage",
-    "thai": "",
+    "thai": "ผ้าพันแผล",
     "phonetic": ""
   },
   {
     "english": "Crutches",
-    "thai": "",
+    "thai": "ไม้ค้ำยัน",
     "phonetic": ""
   },
   {
     "english": "Wheelchair",
-    "thai": "",
+    "thai": "รถเข็น",
     "phonetic": ""
   }
 ]

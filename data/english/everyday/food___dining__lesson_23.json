@@ -1,102 +1,102 @@
 [
   {
     "english": "Reservation",
-    "thai": "",
+    "thai": "การจอง",
     "phonetic": ""
   },
   {
     "english": "Allergy",
-    "thai": "",
+    "thai": "โรคภูมิแพ้",
     "phonetic": ""
   },
   {
     "english": "Vegetarian",
-    "thai": "",
+    "thai": "มังสวิรัติ",
     "phonetic": ""
   },
   {
     "english": "Vegan",
-    "thai": "",
+    "thai": "มังสวิรัติ",
     "phonetic": ""
   },
   {
     "english": "Gluten-free",
-    "thai": "",
+    "thai": "ปราศจากกลูเตน",
     "phonetic": ""
   },
   {
     "english": "Hot",
-    "thai": "",
+    "thai": "ร้อน",
     "phonetic": ""
   },
   {
     "english": "Cold",
-    "thai": "",
+    "thai": "เย็น",
     "phonetic": ""
   },
   {
     "english": "Fresh",
-    "thai": "",
+    "thai": "สด",
     "phonetic": ""
   },
   {
     "english": "Stale",
-    "thai": "",
+    "thai": "เหม็นอับ",
     "phonetic": ""
   },
   {
     "english": "Ripe",
-    "thai": "",
+    "thai": "สุก",
     "phonetic": ""
   },
   {
     "english": "Raw",
-    "thai": "",
+    "thai": "ดิบ",
     "phonetic": ""
   },
   {
     "english": "Cooked",
-    "thai": "",
+    "thai": "ปรุงสุกแล้ว",
     "phonetic": ""
   },
   {
     "english": "Grilled",
-    "thai": "",
+    "thai": "ย่าง",
     "phonetic": ""
   },
   {
     "english": "Fried",
-    "thai": "",
+    "thai": "ทอด",
     "phonetic": ""
   },
   {
     "english": "Boiled",
-    "thai": "",
+    "thai": "ต้ม",
     "phonetic": ""
   },
   {
     "english": "Baked",
-    "thai": "",
+    "thai": "อบ",
     "phonetic": ""
   },
   {
     "english": "Roasted",
-    "thai": "",
+    "thai": "คั่ว",
     "phonetic": ""
   },
   {
     "english": "Steamed",
-    "thai": "",
+    "thai": "นึ่ง",
     "phonetic": ""
   },
   {
     "english": "Sauteed",
-    "thai": "",
+    "thai": "ผัด",
     "phonetic": ""
   },
   {
     "english": "Poached",
-    "thai": "",
+    "thai": "ลวก",
     "phonetic": ""
   }
 ]

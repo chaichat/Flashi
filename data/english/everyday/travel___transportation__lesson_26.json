@@ -1,102 +1,102 @@
 [
   {
     "english": "Airport",
-    "thai": "",
+    "thai": "สนามบิน",
     "phonetic": ""
   },
   {
     "english": "Train station",
-    "thai": "",
+    "thai": "สถานีรถไฟ",
     "phonetic": ""
   },
   {
     "english": "Bus stop",
-    "thai": "",
+    "thai": "ป้ายรถเมล์",
     "phonetic": ""
   },
   {
     "english": "Taxi",
-    "thai": "",
+    "thai": "แท็กซี่",
     "phonetic": ""
   },
   {
     "english": "Hotel",
-    "thai": "",
+    "thai": "โรงแรม",
     "phonetic": ""
   },
   {
     "english": "Ticket",
-    "thai": "",
+    "thai": "ตั๋ว",
     "phonetic": ""
   },
   {
     "english": "Passport",
-    "thai": "",
+    "thai": "หนังสือเดินทาง",
     "phonetic": ""
   },
   {
     "english": "Luggage",
-    "thai": "",
+    "thai": "กระเป๋าเดินทาง",
     "phonetic": ""
   },
   {
     "english": "Map",
-    "thai": "",
+    "thai": "แผนที่",
     "phonetic": ""
   },
   {
     "english": "Left",
-    "thai": "",
+    "thai": "ซ้าย",
     "phonetic": ""
   },
   {
     "english": "Right",
-    "thai": "",
+    "thai": "ขวา",
     "phonetic": ""
   },
   {
     "english": "Straight",
-    "thai": "",
+    "thai": "ตรง",
     "phonetic": ""
   },
   {
     "english": "North",
-    "thai": "",
+    "thai": "ทิศเหนือ",
     "phonetic": ""
   },
   {
     "english": "South",
-    "thai": "",
+    "thai": "ใต้",
     "phonetic": ""
   },
   {
     "english": "East",
-    "thai": "",
+    "thai": "ทิศตะวันออก",
     "phonetic": ""
   },
   {
     "english": "West",
-    "thai": "",
+    "thai": "ตะวันตก",
     "phonetic": ""
   },
   {
     "english": "Near",
-    "thai": "",
+    "thai": "ใกล้",
     "phonetic": ""
   },
   {
     "english": "Far",
-    "thai": "",
+    "thai": "ไกล",
     "phonetic": ""
   },
   {
     "english": "Car",
-    "thai": "",
+    "thai": "รถ",
     "phonetic": ""
   },
   {
     "english": "Bicycle",
-    "thai": "",
+    "thai": "จักรยาน",
     "phonetic": ""
   }
 ]

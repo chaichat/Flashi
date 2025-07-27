@@ -1,102 +1,102 @@
 [
   {
     "english": "Mother",
-    "thai": "",
+    "thai": "แม่",
     "phonetic": ""
   },
   {
     "english": "Father",
-    "thai": "",
+    "thai": "พ่อ",
     "phonetic": ""
   },
   {
     "english": "Parent",
-    "thai": "",
+    "thai": "พ่อแม่",
     "phonetic": ""
   },
   {
     "english": "Son",
-    "thai": "",
+    "thai": "ลูกชาย",
     "phonetic": ""
   },
   {
     "english": "Daughter",
-    "thai": "",
+    "thai": "ลูกสาว",
     "phonetic": ""
   },
   {
     "english": "Child",
-    "thai": "",
+    "thai": "เด็ก",
     "phonetic": ""
   },
   {
     "english": "Brother",
-    "thai": "",
+    "thai": "พี่ชาย",
     "phonetic": ""
   },
   {
     "english": "Sister",
-    "thai": "",
+    "thai": "น้องสาว",
     "phonetic": ""
   },
   {
     "english": "Sibling",
-    "thai": "",
+    "thai": "พี่น้อง",
     "phonetic": ""
   },
   {
     "english": "Grandmother",
-    "thai": "",
+    "thai": "ยาย",
     "phonetic": ""
   },
   {
     "english": "Grandfather",
-    "thai": "",
+    "thai": "ปู่",
     "phonetic": ""
   },
   {
     "english": "Grandparent",
-    "thai": "",
+    "thai": "ปู่ย่าตายาย",
     "phonetic": ""
   },
   {
     "english": "Aunt",
-    "thai": "",
+    "thai": "ป้า",
     "phonetic": ""
   },
   {
     "english": "Uncle",
-    "thai": "",
+    "thai": "ลุง",
     "phonetic": ""
   },
   {
     "english": "Cousin",
-    "thai": "",
+    "thai": "ลูกพี่ลูกน้อง",
     "phonetic": ""
   },
   {
     "english": "Niece",
-    "thai": "",
+    "thai": "หลานสาว",
     "phonetic": ""
   },
   {
     "english": "Nephew",
-    "thai": "",
+    "thai": "หลานชาย",
     "phonetic": ""
   },
   {
     "english": "Husband",
-    "thai": "",
+    "thai": "สามี",
     "phonetic": ""
   },
   {
     "english": "Wife",
-    "thai": "",
+    "thai": "ภรรยา",
     "phonetic": ""
   },
   {
     "english": "Spouse",
-    "thai": "",
+    "thai": "คู่สมรส",
     "phonetic": ""
   }
 ]

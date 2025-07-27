@@ -1,102 +1,102 @@
 [
   {
     "english": "Grocery",
-    "thai": "",
+    "thai": "ร้านขายของชำ",
     "phonetic": ""
   },
   {
     "english": "Aisle",
-    "thai": "",
+    "thai": "ทางเดิน",
     "phonetic": ""
   },
   {
     "english": "Cart",
-    "thai": "",
+    "thai": "รถเข็น",
     "phonetic": ""
   },
   {
     "english": "Basket",
-    "thai": "",
+    "thai": "ตะกร้า",
     "phonetic": ""
   },
   {
     "english": "Checkout",
-    "thai": "",
+    "thai": "เช็คเอาท์",
     "phonetic": ""
   },
   {
     "english": "Cashier",
-    "thai": "",
+    "thai": "แคชเชียร์",
     "phonetic": ""
   },
   {
     "english": "Coupon",
-    "thai": "",
+    "thai": "คูปอง",
     "phonetic": ""
   },
   {
     "english": "Organic",
-    "thai": "",
+    "thai": "ออร์แกนิก",
     "phonetic": ""
   },
   {
     "english": "Frozen",
-    "thai": "",
+    "thai": "แช่แข็ง",
     "phonetic": ""
   },
   {
     "english": "Canned",
-    "thai": "",
+    "thai": "กระป๋อง",
     "phonetic": ""
   },
   {
     "english": "Dairy",
-    "thai": "",
+    "thai": "ผลิตภัณฑ์นม",
     "phonetic": ""
   },
   {
     "english": "Produce",
-    "thai": "",
+    "thai": "ผลิต",
     "phonetic": ""
   },
   {
     "english": "Meat",
-    "thai": "",
+    "thai": "เนื้อ",
     "phonetic": ""
   },
   {
     "english": "Seafood",
-    "thai": "",
+    "thai": "อาหารทะเล",
     "phonetic": ""
   },
   {
     "english": "Bakery",
-    "thai": "",
+    "thai": "ร้านเบเกอรี่",
     "phonetic": ""
   },
   {
     "english": "Deli",
-    "thai": "",
+    "thai": "เดลี่",
     "phonetic": ""
   },
   {
     "english": "Snacks",
-    "thai": "",
+    "thai": "ของว่าง",
     "phonetic": ""
   },
   {
     "english": "Beverages",
-    "thai": "",
+    "thai": "เครื่องดื่ม",
     "phonetic": ""
   },
   {
     "english": "Alcohol",
-    "thai": "",
+    "thai": "แอลกอฮอล์",
     "phonetic": ""
   },
   {
     "english": "Non-alcoholic",
-    "thai": "",
+    "thai": "ไม่มีแอลกอฮอล์",
     "phonetic": ""
   }
 ]

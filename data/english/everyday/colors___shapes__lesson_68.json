@@ -1,102 +1,102 @@
 [
   {
     "english": "Shape",
-    "thai": "",
+    "thai": "รูปร่าง",
     "phonetic": ""
   },
   {
     "english": "Form",
-    "thai": "",
+    "thai": "รูปร่าง",
     "phonetic": ""
   },
   {
     "english": "Structure",
-    "thai": "",
+    "thai": "โครงสร้าง",
     "phonetic": ""
   },
   {
     "english": "Design",
-    "thai": "",
+    "thai": "ออกแบบ",
     "phonetic": ""
   },
   {
     "english": "Symmetry",
-    "thai": "",
+    "thai": "สมมาตร",
     "phonetic": ""
   },
   {
     "english": "Asymmetry",
-    "thai": "",
+    "thai": "ความไม่สมมาตร",
     "phonetic": ""
   },
   {
     "english": "Geometry",
-    "thai": "",
+    "thai": "เรขาคณิต",
     "phonetic": ""
   },
   {
     "english": "Dimension",
-    "thai": "",
+    "thai": "มิติ",
     "phonetic": ""
   },
   {
     "english": "Angle",
-    "thai": "",
+    "thai": "มุม",
     "phonetic": ""
   },
   {
     "english": "Point",
-    "thai": "",
+    "thai": "จุด",
     "phonetic": ""
   },
   {
     "english": "Edge",
-    "thai": "",
+    "thai": "ขอบ",
     "phonetic": ""
   },
   {
     "english": "Side",
-    "thai": "",
+    "thai": "ด้านข้าง",
     "phonetic": ""
   },
   {
     "english": "Corner",
-    "thai": "",
+    "thai": "มุม",
     "phonetic": ""
   },
   {
     "english": "Surface",
-    "thai": "",
+    "thai": "พื้นผิว",
     "phonetic": ""
   },
   {
     "english": "Area",
-    "thai": "",
+    "thai": "พื้นที่",
     "phonetic": ""
   },
   {
     "english": "Volume",
-    "thai": "",
+    "thai": "ปริมาณ",
     "phonetic": ""
   },
   {
     "english": "Perimeter",
-    "thai": "",
+    "thai": "ปริมณฑล",
     "phonetic": ""
   },
   {
     "english": "Circumference",
-    "thai": "",
+    "thai": "เส้นรอบวง",
     "phonetic": ""
   },
   {
     "english": "Radius",
-    "thai": "",
+    "thai": "รัศมี",
     "phonetic": ""
   },
   {
     "english": "Diameter",
-    "thai": "",
+    "thai": "เส้นผ่านศูนย์กลาง",
     "phonetic": ""
   }
 ]

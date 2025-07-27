@@ -1,102 +1,102 @@
 [
   {
     "english": "Booking",
-    "thai": "",
+    "thai": "การจอง",
     "phonetic": ""
   },
   {
     "english": "Confirmation",
-    "thai": "",
+    "thai": "การยืนยัน",
     "phonetic": ""
   },
   {
     "english": "Cancellation",
-    "thai": "",
+    "thai": "การยกเลิก",
     "phonetic": ""
   },
   {
     "english": "Vacancy",
-    "thai": "",
+    "thai": "ตำแหน่งงานว่าง",
     "phonetic": ""
   },
   {
     "english": "Room service",
-    "thai": "",
+    "thai": "บริการรูมเซอร์วิส",
     "phonetic": ""
   },
   {
     "english": "Concierge",
-    "thai": "",
+    "thai": "พนักงานต้อนรับ",
     "phonetic": ""
   },
   {
     "english": "Lobby",
-    "thai": "",
+    "thai": "ล็อบบี้",
     "phonetic": ""
   },
   {
     "english": "Elevator",
-    "thai": "",
+    "thai": "ลิฟต์",
     "phonetic": ""
   },
   {
     "english": "Stairs",
-    "thai": "",
+    "thai": "บันได",
     "phonetic": ""
   },
   {
     "english": "Keycard",
-    "thai": "",
+    "thai": "คีย์การ์ด",
     "phonetic": ""
   },
   {
     "english": "Reception",
-    "thai": "",
+    "thai": "แผนกต้อนรับ",
     "phonetic": ""
   },
   {
     "english": "Bellhop",
-    "thai": "",
+    "thai": "พนักงานยกกระเป๋า",
     "phonetic": ""
   },
   {
     "english": "Housekeeping",
-    "thai": "",
+    "thai": "การดูแลบ้าน",
     "phonetic": ""
   },
   {
     "english": "Minibar",
-    "thai": "",
+    "thai": "มินิบาร์",
     "phonetic": ""
   },
   {
     "english": "View",
-    "thai": "",
+    "thai": "ดู",
     "phonetic": ""
   },
   {
     "english": "Suite",
-    "thai": "",
+    "thai": "ห้องชุด",
     "phonetic": ""
   },
   {
     "english": "Single room",
-    "thai": "",
+    "thai": "ห้องเดี่ยว",
     "phonetic": ""
   },
   {
     "english": "Double room",
-    "thai": "",
+    "thai": "ห้องคู่",
     "phonetic": ""
   },
   {
     "english": "Twin room",
-    "thai": "",
+    "thai": "ห้องเตียงคู่",
     "phonetic": ""
   },
   {
     "english": "King",
-    "thai": "",
+    "thai": "กษัตริย์",
     "phonetic": ""
   }
 ]

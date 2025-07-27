@@ -1,102 +1,102 @@
 [
   {
     "english": "Information Technology",
-    "thai": "",
+    "thai": "เทคโนโลยีสารสนเทศ",
     "phonetic": ""
   },
   {
     "english": "Helpdesk",
-    "thai": "",
+    "thai": "ฝ่ายช่วยเหลือ",
     "phonetic": ""
   },
   {
     "english": "Support",
-    "thai": "",
+    "thai": "สนับสนุน",
     "phonetic": ""
   },
   {
     "english": "Network",
-    "thai": "",
+    "thai": "เครือข่าย",
     "phonetic": ""
   },
   {
     "english": "Server",
-    "thai": "",
+    "thai": "เซิร์ฟเวอร์",
     "phonetic": ""
   },
   {
     "english": "Database",
-    "thai": "",
+    "thai": "ฐานข้อมูล",
     "phonetic": ""
   },
   {
     "english": "Cloud",
-    "thai": "",
+    "thai": "คลาวด์",
     "phonetic": ""
   },
   {
     "english": "Software as a Service",
-    "thai": "",
+    "thai": "ซอฟต์แวร์เป็นบริการ",
     "phonetic": ""
   },
   {
     "english": "Platform as a Service",
-    "thai": "",
+    "thai": "แพลตฟอร์มในรูปแบบบริการ",
     "phonetic": ""
   },
   {
     "english": "Infrastructure as a Service",
-    "thai": "",
+    "thai": "โครงสร้างพื้นฐานในรูปแบบบริการ",
     "phonetic": ""
   },
   {
     "english": "Security",
-    "thai": "",
+    "thai": "ความปลอดภัย",
     "phonetic": ""
   },
   {
     "english": "Firewall",
-    "thai": "",
+    "thai": "ไฟร์วอลล์",
     "phonetic": ""
   },
   {
     "english": "Antivirus",
-    "thai": "",
+    "thai": "แอนตี้ไวรัส",
     "phonetic": ""
   },
   {
     "english": "Virtual Private Network",
-    "thai": "",
+    "thai": "เครือข่ายส่วนตัวเสมือน",
     "phonetic": ""
   },
   {
     "english": "Backup",
-    "thai": "",
+    "thai": "การสำรองข้อมูล",
     "phonetic": ""
   },
   {
     "english": "Recovery",
-    "thai": "",
+    "thai": "การกู้คืน",
     "phonetic": ""
   },
   {
     "english": "Disaster",
-    "thai": "",
+    "thai": "ภัยพิบัติ",
     "phonetic": ""
   },
   {
     "english": "Business continuity",
-    "thai": "",
+    "thai": "ความต่อเนื่องทางธุรกิจ",
     "phonetic": ""
   },
   {
     "english": "Hardware",
-    "thai": "",
+    "thai": "ฮาร์ดแวร์",
     "phonetic": ""
   },
   {
     "english": "Software",
-    "thai": "",
+    "thai": "ซอฟต์แวร์",
     "phonetic": ""
   }
 ]

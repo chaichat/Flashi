@@ -1,102 +1,102 @@
 [
   {
     "english": "Color",
-    "thai": "",
+    "thai": "สี",
     "phonetic": ""
   },
   {
     "english": "Hue",
-    "thai": "",
+    "thai": "เฉดสี",
     "phonetic": ""
   },
   {
     "english": "Tint",
-    "thai": "",
+    "thai": "ย้อมสี",
     "phonetic": ""
   },
   {
     "english": "Saturation",
-    "thai": "",
+    "thai": "ความอิ่มตัว",
     "phonetic": ""
   },
   {
     "english": "Brightness",
-    "thai": "",
+    "thai": "ความสว่าง",
     "phonetic": ""
   },
   {
     "english": "Contrast",
-    "thai": "",
+    "thai": "ตัดกัน",
     "phonetic": ""
   },
   {
     "english": "Dark",
-    "thai": "",
+    "thai": "มืด",
     "phonetic": ""
   },
   {
     "english": "Vibrant",
-    "thai": "",
+    "thai": "สดใส",
     "phonetic": ""
   },
   {
     "english": "Muted",
-    "thai": "",
+    "thai": "ปิดเสียง",
     "phonetic": ""
   },
   {
     "english": "Pastel",
-    "thai": "",
+    "thai": "สีพาสเทล",
     "phonetic": ""
   },
   {
     "english": "Neon",
-    "thai": "",
+    "thai": "นีออน",
     "phonetic": ""
   },
   {
     "english": "Primary",
-    "thai": "",
+    "thai": "หลัก",
     "phonetic": ""
   },
   {
     "english": "Secondary",
-    "thai": "",
+    "thai": "มัธยมศึกษาตอนปลาย",
     "phonetic": ""
   },
   {
     "english": "Tertiary",
-    "thai": "",
+    "thai": "ระดับอุดมศึกษา",
     "phonetic": ""
   },
   {
     "english": "Neutral",
-    "thai": "",
+    "thai": "เป็นกลาง",
     "phonetic": ""
   },
   {
     "english": "Monochromatic",
-    "thai": "",
+    "thai": "สีเดียว",
     "phonetic": ""
   },
   {
     "english": "Analogous",
-    "thai": "",
+    "thai": "คล้ายคลึงกัน",
     "phonetic": ""
   },
   {
     "english": "Complementary",
-    "thai": "",
+    "thai": "เสริม",
     "phonetic": ""
   },
   {
     "english": "Triadic",
-    "thai": "",
+    "thai": "ไตรแอดิก",
     "phonetic": ""
   },
   {
     "english": "Tetradic",
-    "thai": "",
+    "thai": "สี่เท่า",
     "phonetic": ""
   }
 ]

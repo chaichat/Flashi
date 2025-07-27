@@ -1,102 +1,102 @@
 [
   {
     "english": "Finance",
-    "thai": "",
+    "thai": "การเงิน",
     "phonetic": ""
   },
   {
     "english": "Accounting",
-    "thai": "",
+    "thai": "การบัญชี",
     "phonetic": ""
   },
   {
     "english": "Bookkeeping",
-    "thai": "",
+    "thai": "การทำบัญชี",
     "phonetic": ""
   },
   {
     "english": "Auditing",
-    "thai": "",
+    "thai": "การตรวจสอบบัญชี",
     "phonetic": ""
   },
   {
     "english": "Taxation",
-    "thai": "",
+    "thai": "การจัดเก็บภาษี",
     "phonetic": ""
   },
   {
     "english": "Payroll",
-    "thai": "",
+    "thai": "การจ่ายเงินเดือน",
     "phonetic": ""
   },
   {
     "english": "Budgeting",
-    "thai": "",
+    "thai": "การจัดทำงบประมาณ",
     "phonetic": ""
   },
   {
     "english": "Forecasting",
-    "thai": "",
+    "thai": "การพยากรณ์",
     "phonetic": ""
   },
   {
     "english": "Planning",
-    "thai": "",
+    "thai": "การวางแผน",
     "phonetic": ""
   },
   {
     "english": "Valuation",
-    "thai": "",
+    "thai": "การประเมินมูลค่า",
     "phonetic": ""
   },
   {
     "english": "Modeling",
-    "thai": "",
+    "thai": "การสร้างแบบจำลอง",
     "phonetic": ""
   },
   {
     "english": "Reporting",
-    "thai": "",
+    "thai": "การรายงาน",
     "phonetic": ""
   },
   {
     "english": "Compliance",
-    "thai": "",
+    "thai": "การปฏิบัติตาม",
     "phonetic": ""
   },
   {
     "english": "Regulation",
-    "thai": "",
+    "thai": "ระเบียบข้อบังคับ",
     "phonetic": ""
   },
   {
     "english": "Generally Accepted Accounting Principles",
-    "thai": "",
+    "thai": "หลักการบัญชีที่ยอมรับโดยทั่วไป",
     "phonetic": ""
   },
   {
     "english": "International Financial Reporting Standards",
-    "thai": "",
+    "thai": "มาตรฐานการรายงานทางการเงินระหว่างประเทศ",
     "phonetic": ""
   },
   {
     "english": "Sarbanes-Oxley",
-    "thai": "",
+    "thai": "ซาร์เบนส์-อ็อกซ์ลีย์",
     "phonetic": ""
   },
   {
     "english": "Internal",
-    "thai": "",
+    "thai": "ภายใน",
     "phonetic": ""
   },
   {
     "english": "External",
-    "thai": "",
+    "thai": "ภายนอก",
     "phonetic": ""
   },
   {
     "english": "Assurance",
-    "thai": "",
+    "thai": "การรับประกัน",
     "phonetic": ""
   }
 ]

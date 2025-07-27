@@ -143,6 +143,15 @@ class State {
         return false;
     }
 
+    previousCard() {
+        const currentIndex = this.getCardIndex();
+        if (currentIndex > 0) {
+            this.setCardIndex(currentIndex - 1);
+            return true;
+        }
+        return false;
+    }
+
     resetCardIndex() {
         this.setCardIndex(0);
     }

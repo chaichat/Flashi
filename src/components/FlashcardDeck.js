@@ -273,15 +273,39 @@ class FlashcardDeck {
 
             // Handle swipe
             if (Math.abs(diffX) > SWIPE_CONFIG.MIN_DISTANCE || velocity > SWIPE_CONFIG.MIN_VELOCITY) {
-                const direction = diffX > 0 ? 500 : -500;
-                const rotation = diffX > 0 ? 30 : -30;
-                DOMHelpers.setStyles(card, {
-                    transform: `translateX(${direction}px) rotate(${rotation}deg) translateZ(0)`
-                });
+                let shouldAnimate = false;
                 
-                setTimeout(() => {
-                    this.nextCard();
-                }, SWIPE_CONFIG.ANIMATION_DURATION);
+                if (diffX < 0) {
+                    // Swipe left - check if we can go to next card
+                    const currentIndex = this.state.getCardIndex();
+                    const deck = this.state.getCurrentDeck();
+                    shouldAnimate = currentIndex < deck.length - 1;
+                } else {
+                    // Swipe right - check if we can go to previous card
+                    const currentIndex = this.state.getCardIndex();
+                    shouldAnimate = currentIndex > 0;
+                }
+                
+                if (shouldAnimate) {
+                    const direction = diffX > 0 ? 500 : -500;
+                    const rotation = diffX > 0 ? 30 : -30;
+                    DOMHelpers.setStyles(card, {
+                        transform: `translateX(${direction}px) rotate(${rotation}deg) translateZ(0)`
+                    });
+                    
+                    setTimeout(() => {
+                        if (diffX < 0) {
+                            // Swipe left - go to next card
+                            this.nextCard();
+                        } else {
+                            // Swipe right - go to previous card
+                            this.previousCard();
+                        }
+                    }, SWIPE_CONFIG.ANIMATION_DURATION);
+                } else {
+                    // Can't navigate in that direction, snap back
+                    DOMHelpers.setStyles(card, { transform: '' });
+                }
             } else {
                 DOMHelpers.setStyles(card, { transform: '' });
             }
@@ -329,6 +353,12 @@ class FlashcardDeck {
             this.renderDeck();
         } else {
             this.showCompletionScreen();
+        }
+    }
+
+    previousCard() {
+        if (this.state.previousCard()) {
+            this.renderDeck();
         }
     }
 

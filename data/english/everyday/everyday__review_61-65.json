@@ -17,7 +17,7 @@
   {
     "english": "Orange",
     "thai": "ส้ม",
-    "phonetic": ""
+    "phonetic": "AWR-inj"
   },
   {
     "english": "Leather",
@@ -82,7 +82,7 @@
   {
     "english": "Brown",
     "thai": "สีน้ำตาล",
-    "phonetic": ""
+    "phonetic": "broun"
   },
   {
     "english": "Nylon",
@@ -157,7 +157,7 @@
   {
     "english": "Yellow",
     "thai": "สีเหลือง",
-    "phonetic": ""
+    "phonetic": "YEL-oh"
   },
   {
     "english": "Wetsuit",
@@ -177,12 +177,12 @@
   {
     "english": "Red",
     "thai": "สีแดง",
-    "phonetic": ""
+    "phonetic": "red"
   },
   {
     "english": "Black",
     "thai": "สีดำ",
-    "phonetic": ""
+    "phonetic": "blak"
   },
   {
     "english": "Oval",
@@ -197,7 +197,7 @@
   {
     "english": "White",
     "thai": "สีขาว",
-    "phonetic": ""
+    "phonetic": "hwahyt"
   },
   {
     "english": "Needle",
@@ -217,7 +217,7 @@
   {
     "english": "Blue",
     "thai": "สีฟ้า",
-    "phonetic": ""
+    "phonetic": "bloo"
   },
   {
     "english": "Cufflinks",
@@ -247,7 +247,7 @@
   {
     "english": "Green",
     "thai": "สีเขียว",
-    "phonetic": ""
+    "phonetic": "green"
   },
   {
     "english": "Bikini",
@@ -337,7 +337,7 @@
   {
     "english": "Purple",
     "thai": "สีม่วง",
-    "phonetic": ""
+    "phonetic": "PUR-puhl"
   },
   {
     "english": "Star",
@@ -487,7 +487,7 @@
   {
     "english": "Pink",
     "thai": "สีชมพู",
-    "phonetic": ""
+    "phonetic": "pingk"
   },
   {
     "english": "Tight",
@@ -497,6 +497,6 @@
   {
     "english": "Gray",
     "thai": "สีเทา",
-    "phonetic": ""
+    "phonetic": "grey"
   }
 ]

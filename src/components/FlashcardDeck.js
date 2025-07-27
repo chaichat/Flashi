@@ -160,7 +160,7 @@ class FlashcardDeck {
         
         const targetLang = currentLanguage === 'english' ? cardData.english : cardData.chinese;
         const phonetic = currentLanguage === 'english' ? cardData.phonetic : cardData.pinyin;
-        const phoneticHTML = phonetic ? `<p class="text-xl text-gray-500 mt-2">[${phonetic}]</p>` : '';
+        const phoneticHTML = phonetic && phonetic.trim() ? `<p class="text-xl text-gray-500 mt-2">[${phonetic}]</p>` : '';
 
         let topHalfHTML, bottomHalfHTML;
 
@@ -168,27 +168,32 @@ class FlashcardDeck {
             DOMHelpers.addClass(cardInner, CARD_CLASSES.LEARN_MODE_CARD.split(' ')[0]);
             topHalfHTML = `
                 <div class="${CARD_CLASSES.TOP_HALF} ${bgColor}">
-                    <h3 class="text-5xl font-bold text-gray-800/80 pointer-events-none">${targetLang}</h3>
+                    <div class="flex flex-col items-center">
+                        <h3 class="text-5xl font-bold text-gray-800/80 pointer-events-none">${targetLang}</h3>
+                        ${phoneticHTML}
+                    </div>
                 </div>
             `;
             bottomHalfHTML = `
                 <div class="${CARD_CLASSES.BOTTOM_HALF}">
                      <h4 class="text-3xl font-semibold text-blue-600">${cardData.thai}</h4>
-                     ${phoneticHTML}
                      <span class="mt-4 text-3xl">🔊</span>
                 </div>
             `;
         } else {
             topHalfHTML = `
                 <div class="${CARD_CLASSES.TOP_HALF} ${bgColor} hidden">
-                    <h3 class="text-5xl font-bold text-gray-800/80 pointer-events-none">${targetLang}</h3>
+                    <div class="flex flex-col items-center">
+                        <h3 class="text-5xl font-bold text-gray-800/80 pointer-events-none">${targetLang}</h3>
+                        ${phoneticHTML}
+                    </div>
                 </div>
             `;
             bottomHalfHTML = `
                  <div class="bottom-half w-full h-full flex flex-col justify-center items-center p-6">
                     <p class="text-5xl text-blue-600 font-bold">${cardData.thai}</p>
                     <div class="${CARD_CLASSES.REVEAL_CONTENT}">
-                        ${phoneticHTML}
+                        <span class="text-xl text-gray-500 mt-2">Tap to see answer</span>
                     </div>
                 </div>
             `;

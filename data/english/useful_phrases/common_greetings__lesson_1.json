@@ -2,7 +2,7 @@
   {
     "english": "Hello",
     "thai": "สวัสดี",
-    "phonetic": ""
+    "phonetic": "huh-LOH"
   },
   {
     "english": "How are you",
@@ -17,7 +17,7 @@
   {
     "english": "Thank you",
     "thai": "ขอบคุณ",
-    "phonetic": ""
+    "phonetic": "THANK yoo"
   },
   {
     "english": "You are welcome",
@@ -27,7 +27,7 @@
   {
     "english": "Excuse me",
     "thai": "ขออนุญาต",
-    "phonetic": ""
+    "phonetic": "ik-SKYOOZ mee"
   },
   {
     "english": "I am sorry",
@@ -37,17 +37,17 @@
   {
     "english": "Please",
     "thai": "โปรด",
-    "phonetic": ""
+    "phonetic": "pleez"
   },
   {
     "english": "Yes",
     "thai": "ใช่",
-    "phonetic": ""
+    "phonetic": "yes"
   },
   {
     "english": "No",
     "thai": "เลขที่",
-    "phonetic": ""
+    "phonetic": "noh"
   },
   {
     "english": "Maybe",
@@ -77,7 +77,7 @@
   {
     "english": "Goodbye",
     "thai": "ลาก่อน",
-    "phonetic": ""
+    "phonetic": "good-BAHY"
   },
   {
     "english": "See you later",

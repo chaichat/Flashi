@@ -22,7 +22,7 @@
   {
     "english": "Cold",
     "thai": "เย็น",
-    "phonetic": ""
+    "phonetic": "kohld"
   },
   {
     "english": "Seafood",
@@ -82,7 +82,7 @@
   {
     "english": "Lunch",
     "thai": "อาหารกลางวัน",
-    "phonetic": ""
+    "phonetic": "luhnch"
   },
   {
     "english": "Roasted",
@@ -97,7 +97,7 @@
   {
     "english": "Water",
     "thai": "น้ำ",
-    "phonetic": ""
+    "phonetic": "WAW-ter"
   },
   {
     "english": "Salt",
@@ -212,17 +212,17 @@
   {
     "english": "Breakfast",
     "thai": "อาหารเช้า",
-    "phonetic": ""
+    "phonetic": "BREK-fuhst"
   },
   {
     "english": "Dinner",
     "thai": "อาหารเย็น",
-    "phonetic": ""
+    "phonetic": "DIN-er"
   },
   {
     "english": "Menu",
     "thai": "เมนู",
-    "phonetic": ""
+    "phonetic": "MEN-yoo"
   },
   {
     "english": "Fruit",
@@ -262,7 +262,7 @@
   {
     "english": "Tea",
     "thai": "ชา",
-    "phonetic": ""
+    "phonetic": "tee"
   },
   {
     "english": "Baked",
@@ -282,7 +282,7 @@
   {
     "english": "Coffee",
     "thai": "กาแฟ",
-    "phonetic": ""
+    "phonetic": "KAW-fee"
   },
   {
     "english": "Allergy",
@@ -322,7 +322,7 @@
   {
     "english": "Restaurant",
     "thai": "ร้านอาหาร",
-    "phonetic": ""
+    "phonetic": "RES-ter-uhnt"
   },
   {
     "english": "Taste",
@@ -377,7 +377,7 @@
   {
     "english": "Bill",
     "thai": "ใบแจ้งหนี้",
-    "phonetic": ""
+    "phonetic": "bil"
   },
   {
     "english": "Side dish",
@@ -497,6 +497,6 @@
   {
     "english": "Hot",
     "thai": "ร้อน",
-    "phonetic": ""
+    "phonetic": "hot"
   }
 ]

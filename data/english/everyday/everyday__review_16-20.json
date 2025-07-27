@@ -102,7 +102,7 @@
   {
     "english": "Help",
     "thai": "ช่วย",
-    "phonetic": ""
+    "phonetic": "help"
   },
   {
     "english": "Accuse",
@@ -132,7 +132,7 @@
   {
     "english": "Please",
     "thai": "โปรด",
-    "phonetic": ""
+    "phonetic": "pleez"
   },
   {
     "english": "Surprise",
@@ -142,7 +142,7 @@
   {
     "english": "Thanks",
     "thai": "ขอบคุณ",
-    "phonetic": ""
+    "phonetic": "thanks"
   },
   {
     "english": "Truth",
@@ -177,7 +177,7 @@
   {
     "english": "Family",
     "thai": "ตระกูล",
-    "phonetic": ""
+    "phonetic": "FAM-uh-lee"
   },
   {
     "english": "Alone",
@@ -187,7 +187,7 @@
   {
     "english": "Yes",
     "thai": "ใช่",
-    "phonetic": ""
+    "phonetic": "yes"
   },
   {
     "english": "Doubt",
@@ -307,7 +307,7 @@
   {
     "english": "Goodbye",
     "thai": "ลาก่อน",
-    "phonetic": ""
+    "phonetic": "good-BAHY"
   },
   {
     "english": "Fact",
@@ -342,7 +342,7 @@
   {
     "english": "Sorry",
     "thai": "ขอโทษ",
-    "phonetic": ""
+    "phonetic": "SOR-ee"
   },
   {
     "english": "Compliment",
@@ -367,7 +367,7 @@
   {
     "english": "Hello",
     "thai": "สวัสดี",
-    "phonetic": ""
+    "phonetic": "huh-LOH"
   },
   {
     "english": "Neighbor",
@@ -392,7 +392,7 @@
   {
     "english": "Evening",
     "thai": "ตอนเย็น",
-    "phonetic": ""
+    "phonetic": "EEV-ning"
   },
   {
     "english": "Name",
@@ -427,7 +427,7 @@
   {
     "english": "Afternoon",
     "thai": "ตอนบ่าย",
-    "phonetic": ""
+    "phonetic": "af-ter-NOON"
   },
   {
     "english": "Belief",
@@ -442,7 +442,7 @@
   {
     "english": "Morning",
     "thai": "เช้า",
-    "phonetic": ""
+    "phonetic": "MAWR-ning"
   },
   {
     "english": "Idea",
@@ -452,7 +452,7 @@
   {
     "english": "No",
     "thai": "เลขที่",
-    "phonetic": ""
+    "phonetic": "noh"
   },
   {
     "english": "Question",
@@ -467,7 +467,7 @@
   {
     "english": "Friend",
     "thai": "เพื่อน",
-    "phonetic": ""
+    "phonetic": "frend"
   },
   {
     "english": "Suggestion",

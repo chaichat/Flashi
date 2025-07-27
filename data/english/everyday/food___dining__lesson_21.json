@@ -2,42 +2,42 @@
   {
     "english": "Restaurant",
     "thai": "ร้านอาหาร",
-    "phonetic": ""
+    "phonetic": "RES-ter-uhnt"
   },
   {
     "english": "Menu",
     "thai": "เมนู",
-    "phonetic": ""
+    "phonetic": "MEN-yoo"
   },
   {
     "english": "Breakfast",
     "thai": "อาหารเช้า",
-    "phonetic": ""
+    "phonetic": "BREK-fuhst"
   },
   {
     "english": "Lunch",
     "thai": "อาหารกลางวัน",
-    "phonetic": ""
+    "phonetic": "luhnch"
   },
   {
     "english": "Dinner",
     "thai": "อาหารเย็น",
-    "phonetic": ""
+    "phonetic": "DIN-er"
   },
   {
     "english": "Water",
     "thai": "น้ำ",
-    "phonetic": ""
+    "phonetic": "WAW-ter"
   },
   {
     "english": "Coffee",
     "thai": "กาแฟ",
-    "phonetic": ""
+    "phonetic": "KAW-fee"
   },
   {
     "english": "Tea",
     "thai": "ชา",
-    "phonetic": ""
+    "phonetic": "tee"
   },
   {
     "english": "Chicken",
@@ -77,7 +77,7 @@
   {
     "english": "Bill",
     "thai": "ใบแจ้งหนี้",
-    "phonetic": ""
+    "phonetic": "bil"
   },
   {
     "english": "Delicious",

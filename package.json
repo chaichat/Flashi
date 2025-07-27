@@ -11,6 +11,9 @@
     "word-lists": "node scripts/generateWordLists.js",
     "clean-list": "node scripts/cleanWordList.js",
     "phonetics": "node scripts/populatePhonetics.js",
+    "phonetics-modular": "node scripts/populateModularPhonetics.js",
+    "phonetics-english": "node scripts/populateEnglishPhonetics.js",
+    "phonetics-stats": "node scripts/populateEnglishPhonetics.js --stats",
     "reset-everyday": "node scripts/resetEverydayLessons.js"
   },
   "keywords": [],

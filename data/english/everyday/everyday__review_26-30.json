@@ -107,7 +107,7 @@
   {
     "english": "Car",
     "thai": "รถ",
-    "phonetic": ""
+    "phonetic": "kahr"
   },
   {
     "english": "Concierge",
@@ -137,17 +137,17 @@
   {
     "english": "Bus",
     "thai": "รสบัส",
-    "phonetic": ""
+    "phonetic": "buhs"
   },
   {
     "english": "Ticket",
     "thai": "ตั๋ว",
-    "phonetic": ""
+    "phonetic": "TIK-it"
   },
   {
     "english": "Flight",
     "thai": "เที่ยวบิน",
-    "phonetic": ""
+    "phonetic": "flahyt"
   },
   {
     "english": "Bicycle",
@@ -162,7 +162,7 @@
   {
     "english": "Passport",
     "thai": "หนังสือเดินทาง",
-    "phonetic": ""
+    "phonetic": "PAS-pawrt"
   },
   {
     "english": "Tunnel",
@@ -347,7 +347,7 @@
   {
     "english": "Train",
     "thai": "รถไฟ",
-    "phonetic": ""
+    "phonetic": "treyn"
   },
   {
     "english": "Housekeeping",
@@ -362,7 +362,7 @@
   {
     "english": "Airport",
     "thai": "สนามบิน",
-    "phonetic": ""
+    "phonetic": "AIR-pawrt"
   },
   {
     "english": "Museum",
@@ -372,7 +372,7 @@
   {
     "english": "Taxi",
     "thai": "แท็กซี่",
-    "phonetic": ""
+    "phonetic": "TAK-see"
   },
   {
     "english": "Left",
@@ -412,7 +412,7 @@
   {
     "english": "Luggage",
     "thai": "กระเป๋าเดินทาง",
-    "phonetic": ""
+    "phonetic": "LUHG-ij"
   },
   {
     "english": "Cancelled",
@@ -427,7 +427,7 @@
   {
     "english": "Hotel",
     "thai": "โรงแรม",
-    "phonetic": ""
+    "phonetic": "hoh-TEL"
   },
   {
     "english": "Country",

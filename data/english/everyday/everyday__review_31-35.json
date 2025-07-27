@@ -47,7 +47,7 @@
   {
     "english": "Healthy",
     "thai": "สุขภาพดี",
-    "phonetic": ""
+    "phonetic": "HEL-thee"
   },
   {
     "english": "Appointment",
@@ -122,7 +122,7 @@
   {
     "english": "Doctor",
     "thai": "หมอ",
-    "phonetic": ""
+    "phonetic": "DOK-ter"
   },
   {
     "english": "Bacteria",
@@ -417,7 +417,7 @@
   {
     "english": "Exercise",
     "thai": "ออกกำลังกาย",
-    "phonetic": ""
+    "phonetic": "EK-ser-sahyz"
   },
   {
     "english": "Theater",
@@ -442,12 +442,12 @@
   {
     "english": "Hospital",
     "thai": "โรงพยาบาล",
-    "phonetic": ""
+    "phonetic": "HOS-pi-tl"
   },
   {
     "english": "Pain",
     "thai": "ความเจ็บปวด",
-    "phonetic": ""
+    "phonetic": "peyn"
   },
   {
     "english": "Fats",
@@ -457,7 +457,7 @@
   {
     "english": "Medicine",
     "thai": "ยา",
-    "phonetic": ""
+    "phonetic": "MED-uh-sin"
   },
   {
     "english": "Vomiting",
@@ -477,7 +477,7 @@
   {
     "english": "Sick",
     "thai": "ป่วย",
-    "phonetic": ""
+    "phonetic": "sik"
   },
   {
     "english": "Tired",

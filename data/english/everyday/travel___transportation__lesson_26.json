@@ -2,7 +2,7 @@
   {
     "english": "Airport",
     "thai": "สนามบิน",
-    "phonetic": ""
+    "phonetic": "AIR-pawrt"
   },
   {
     "english": "Train station",
@@ -17,27 +17,27 @@
   {
     "english": "Taxi",
     "thai": "แท็กซี่",
-    "phonetic": ""
+    "phonetic": "TAK-see"
   },
   {
     "english": "Hotel",
     "thai": "โรงแรม",
-    "phonetic": ""
+    "phonetic": "hoh-TEL"
   },
   {
     "english": "Ticket",
     "thai": "ตั๋ว",
-    "phonetic": ""
+    "phonetic": "TIK-it"
   },
   {
     "english": "Passport",
     "thai": "หนังสือเดินทาง",
-    "phonetic": ""
+    "phonetic": "PAS-pawrt"
   },
   {
     "english": "Luggage",
     "thai": "กระเป๋าเดินทาง",
-    "phonetic": ""
+    "phonetic": "LUHG-ij"
   },
   {
     "english": "Map",
@@ -92,7 +92,7 @@
   {
     "english": "Car",
     "thai": "รถ",
-    "phonetic": ""
+    "phonetic": "kahr"
   },
   {
     "english": "Bicycle",

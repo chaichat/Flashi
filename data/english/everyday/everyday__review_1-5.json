@@ -17,17 +17,17 @@
   {
     "english": "Salary",
     "thai": "เงินเดือน",
-    "phonetic": ""
+    "phonetic": "SAL-uh-ree"
   },
   {
     "english": "Email",
     "thai": "อีเมล",
-    "phonetic": ""
+    "phonetic": "EE-mayl"
   },
   {
     "english": "Project",
     "thai": "โครงการ",
-    "phonetic": ""
+    "phonetic": "PROJ-ekt"
   },
   {
     "english": "Negotiation",
@@ -37,7 +37,7 @@
   {
     "english": "Presentation",
     "thai": "การนำเสนอ",
-    "phonetic": ""
+    "phonetic": "prez-uhn-TAY-shuhn"
   },
   {
     "english": "Sales",
@@ -52,12 +52,12 @@
   {
     "english": "Contract",
     "thai": "สัญญา",
-    "phonetic": ""
+    "phonetic": "KON-trakt"
   },
   {
     "english": "Payment",
     "thai": "การชำระเงิน",
-    "phonetic": ""
+    "phonetic": "PEY-muhnt"
   },
   {
     "english": "Asset",
@@ -72,7 +72,7 @@
   {
     "english": "Deadline",
     "thai": "กำหนดส่ง",
-    "phonetic": ""
+    "phonetic": "DED-lahyn"
   },
   {
     "english": "Market",
@@ -92,17 +92,17 @@
   {
     "english": "Meeting",
     "thai": "การประชุม",
-    "phonetic": ""
+    "phonetic": "MEE-ting"
   },
   {
     "english": "Colleague",
     "thai": "เพื่อนร่วมงาน",
-    "phonetic": ""
+    "phonetic": "KOL-eeg"
   },
   {
     "english": "Customer",
     "thai": "ลูกค้า",
-    "phonetic": ""
+    "phonetic": "KUHS-tuh-mer"
   },
   {
     "english": "Receipt",
@@ -127,7 +127,7 @@
   {
     "english": "Cost",
     "thai": "ค่าใช้จ่าย",
-    "phonetic": ""
+    "phonetic": "kawst"
   },
   {
     "english": "Representative",
@@ -142,7 +142,7 @@
   {
     "english": "Goal",
     "thai": "เป้าหมาย",
-    "phonetic": ""
+    "phonetic": "gohl"
   },
   {
     "english": "Employee",
@@ -152,7 +152,7 @@
   {
     "english": "Order",
     "thai": "คำสั่ง",
-    "phonetic": ""
+    "phonetic": "AWR-der"
   },
   {
     "english": "Feedback",
@@ -172,7 +172,7 @@
   {
     "english": "Manager",
     "thai": "ผู้จัดการ",
-    "phonetic": ""
+    "phonetic": "MAN-i-jer"
   },
   {
     "english": "Bank",
@@ -232,7 +232,7 @@
   {
     "english": "Team",
     "thai": "ทีม",
-    "phonetic": ""
+    "phonetic": "teem"
   },
   {
     "english": "Partner",
@@ -262,7 +262,7 @@
   {
     "english": "Office",
     "thai": "สำนักงาน",
-    "phonetic": ""
+    "phonetic": "AW-fis"
   },
   {
     "english": "Risk",
@@ -272,7 +272,7 @@
   {
     "english": "Task",
     "thai": "งาน",
-    "phonetic": ""
+    "phonetic": "task"
   },
   {
     "english": "Deal",
@@ -282,12 +282,12 @@
   {
     "english": "Invoice",
     "thai": "ใบแจ้งหนี้",
-    "phonetic": ""
+    "phonetic": "IN-vois"
   },
   {
     "english": "Report",
     "thai": "รายงาน",
-    "phonetic": ""
+    "phonetic": "ri-PORT"
   },
   {
     "english": "Specialist",
@@ -322,12 +322,12 @@
   {
     "english": "Phone",
     "thai": "โทรศัพท์",
-    "phonetic": ""
+    "phonetic": "fohn"
   },
   {
     "english": "Budget",
     "thai": "งบประมาณ",
-    "phonetic": ""
+    "phonetic": "BUHJ-it"
   },
   {
     "english": "Accountant",
@@ -347,7 +347,7 @@
   {
     "english": "Price",
     "thai": "ราคา",
-    "phonetic": ""
+    "phonetic": "prahys"
   },
   {
     "english": "Brand",
@@ -372,7 +372,7 @@
   {
     "english": "Client",
     "thai": "ลูกค้า",
-    "phonetic": ""
+    "phonetic": "KLAHY-uhnt"
   },
   {
     "english": "Commission",
@@ -387,7 +387,7 @@
   {
     "english": "Schedule",
     "thai": "กำหนดการ",
-    "phonetic": ""
+    "phonetic": "SKEJ-ool"
   },
   {
     "english": "Executive",
@@ -402,12 +402,12 @@
   {
     "english": "Business",
     "thai": "ธุรกิจ",
-    "phonetic": ""
+    "phonetic": "BIZ-nis"
   },
   {
     "english": "Computer",
     "thai": "คอมพิวเตอร์",
-    "phonetic": ""
+    "phonetic": "kuhm-PYOO-ter"
   },
   {
     "english": "Consultant",
@@ -497,6 +497,6 @@
   {
     "english": "Company",
     "thai": "บริษัท",
-    "phonetic": ""
+    "phonetic": "KUHM-puh-nee"
   }
 ]

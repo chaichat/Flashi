@@ -132,7 +132,7 @@ document.addEventListener('DOMContentLoaded', () => {
             button.className = "p-4 bg-white border-2 border-gray-200 rounded-xl text-center shadow-sm hover:shadow-md hover:border-blue-400 transition-all duration-200";
             button.innerHTML = `
                 <div class="text-3xl mb-2">📁</div>
-                <div class="font-semibold text-gray-700">${categoryName}</div>
+                <div class="font-semibold text-gray-700">${manifest[currentLanguage][categoryName].name_th || categoryName}</div>
             `;
             button.addEventListener('click', () => showLessonSelector(categoryName));
             categoryGrid.appendChild(button);
@@ -141,11 +141,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function showLessonSelector(categoryName) {
         currentCategory = categoryName;
-        currentCategoryLessons = manifest[currentLanguage][currentCategory];
+        currentCategoryLessons = manifest[currentLanguage][currentCategory].lessons;
         categorySelector.classList.add('hidden');
         flashcardContainer.classList.add('hidden');
         lessonSelector.classList.remove('hidden');
-        lessonCategoryTitle.textContent = currentCategory;
+        lessonCategoryTitle.textContent = manifest[currentLanguage][categoryName].name_th || categoryName;
         initLessonGrid();
     }
 
@@ -159,13 +159,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 button.className = "p-4 bg-yellow-100 border-2 border-yellow-300 rounded-xl text-center shadow-sm hover:shadow-md hover:border-yellow-500 transition-all duration-200";
                 button.innerHTML = `
                     <div class="text-3xl mb-2">⭐</div>
-                    <div class="font-semibold text-gray-700">${lessonInfo.name}</div>
+                    <div class="font-semibold text-gray-700">${lessonInfo.name_th}</div>
                 `;
             } else {
                 button.className = "p-4 bg-white border-2 border-gray-200 rounded-xl text-center shadow-sm hover:shadow-md hover:border-blue-400 transition-all duration-200";
                 button.innerHTML = `
                     <div class="text-3xl mb-2">📚</div>
-                    <div class="font-semibold text-gray-700">${lessonInfo.name}</div>
+                    <div class="font-semibold text-gray-700">${lessonInfo.name_th}</div>
                 `;
             }
             
@@ -180,7 +180,7 @@ document.addEventListener('DOMContentLoaded', () => {
         currentDeck = await loadLesson(lessonInfo.file);
         cardIndex = 0;
         
-        sectionTitle.textContent = lessonInfo.name;
+        sectionTitle.textContent = lessonInfo.name_th;
         lessonSelector.classList.add('hidden');
         flashcardContainer.classList.remove('hidden');
         

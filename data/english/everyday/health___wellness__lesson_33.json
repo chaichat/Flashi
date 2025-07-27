@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Nurse",
+    "thai": "พยาบาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Patient",
+    "thai": "อดทน",
+    "phonetic": ""
+  },
+  {
+    "english": "Appointment",
+    "thai": "การนัดหมาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Prescription",
+    "thai": "ใบสั่งยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Symptom",
+    "thai": "อาการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Injury",
+    "thai": "บาดเจ็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Virus",
+    "thai": "ไวรัส",
+    "phonetic": ""
+  },
+  {
+    "english": "Bacteria",
+    "thai": "แบคทีเรีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Infection",
+    "thai": "การติดเชื้อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Vaccine",
+    "thai": "วัคซีน",
+    "phonetic": ""
+  },
+  {
+    "english": "Blood pressure",
+    "thai": "ความดันโลหิต",
+    "phonetic": ""
+  },
+  {
+    "english": "Temperature",
+    "thai": "อุณหภูมิ",
+    "phonetic": ""
+  },
+  {
+    "english": "X-ray",
+    "thai": "เอ็กซ์เรย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Ultrasound",
+    "thai": "อัลตราซาวนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Surgery",
+    "thai": "การผ่าตัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Insurance",
+    "thai": "ประกันภัย",
+    "phonetic": ""
+  },
+  {
+    "english": "First aid",
+    "thai": "ปฐมพยาบาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Bandage",
+    "thai": "ผ้าพันแผล",
+    "phonetic": ""
+  },
+  {
+    "english": "Crutches",
+    "thai": "ไม้ค้ำยัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Wheelchair",
+    "thai": "รถเข็น",
+    "phonetic": ""
+  }
+]

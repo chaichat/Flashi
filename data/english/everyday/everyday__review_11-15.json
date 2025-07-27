@@ -1,27 +1,462 @@
 [
   {
-    "english": "Carry-on",
-    "thai": "สัมภาระถือขึ้นเครื่อง",
+    "english": "Shipping",
+    "thai": "การส่งสินค้า",
     "phonetic": ""
   },
   {
-    "english": "Bicycle",
-    "thai": "จักรยาน",
+    "english": "Helpdesk",
+    "thai": "ฝ่ายช่วยเหลือ",
     "phonetic": ""
   },
   {
-    "english": "Landmark",
-    "thai": "แลนด์มาร์ค",
+    "english": "Intellectual Property",
+    "thai": "ทรัพย์สินทางปัญญา",
     "phonetic": ""
   },
   {
-    "english": "On time",
-    "thai": "ตรงเวลา",
+    "english": "Infrastructure as a Service",
+    "thai": "โครงสร้างพื้นฐานในรูปแบบบริการ",
     "phonetic": ""
   },
   {
-    "english": "West",
-    "thai": "ตะวันตก",
+    "english": "Procurement",
+    "thai": "การจัดซื้อจัดจ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Support",
+    "thai": "สนับสนุน",
+    "phonetic": ""
+  },
+  {
+    "english": "Term sheet",
+    "thai": "ใบสรุปเงื่อนไข",
+    "phonetic": ""
+  },
+  {
+    "english": "Supply chain",
+    "thai": "ห่วงโซ่อุปทาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Gantt",
+    "thai": "แกนต์",
+    "phonetic": ""
+  },
+  {
+    "english": "Program",
+    "thai": "โปรแกรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Warehouse",
+    "thai": "คลังสินค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Entity",
+    "thai": "เอนทิตี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Inventory",
+    "thai": "รายการสิ่งของ",
+    "phonetic": ""
+  },
+  {
+    "english": "Headcount",
+    "thai": "จำนวนหัวหน้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Inclusion",
+    "thai": "การรวม",
+    "phonetic": ""
+  },
+  {
+    "english": "Letter of Intent",
+    "thai": "จดหมายแสดงเจตนา",
+    "phonetic": ""
+  },
+  {
+    "english": "Feasibility",
+    "thai": "ความเป็นไปได้",
+    "phonetic": ""
+  },
+  {
+    "english": "Database",
+    "thai": "ฐานข้อมูล",
+    "phonetic": ""
+  },
+  {
+    "english": "Onboarding",
+    "thai": "การออนบอร์ด",
+    "phonetic": ""
+  },
+  {
+    "english": "Backup",
+    "thai": "การสำรองข้อมูล",
+    "phonetic": ""
+  },
+  {
+    "english": "Disaster",
+    "thai": "ภัยพิบัติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Roadmap",
+    "thai": "แผนงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Firewall",
+    "thai": "ไฟร์วอลล์",
+    "phonetic": ""
+  },
+  {
+    "english": "Kanban",
+    "thai": "คัมบัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Patent",
+    "thai": "สิทธิบัตร",
+    "phonetic": ""
+  },
+  {
+    "english": "Recruiting",
+    "thai": "การสรรหาบุคลากร",
+    "phonetic": ""
+  },
+  {
+    "english": "Receiving",
+    "thai": "การรับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Logistics",
+    "thai": "โลจิสติกส์",
+    "phonetic": ""
+  },
+  {
+    "english": "Hardware",
+    "thai": "ฮาร์ดแวร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Network",
+    "thai": "เครือข่าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Technician",
+    "thai": "ช่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Governance",
+    "thai": "การกำกับดูแล",
+    "phonetic": ""
+  },
+  {
+    "english": "Alumni",
+    "thai": "ศิษย์เก่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Compensation",
+    "thai": "ค่าตอบแทน",
+    "phonetic": ""
+  },
+  {
+    "english": "Lean",
+    "thai": "เอียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Operations",
+    "thai": "การดำเนินงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Legal",
+    "thai": "ถูกกฎหมาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Control",
+    "thai": "ควบคุม",
+    "phonetic": ""
+  },
+  {
+    "english": "Experiment",
+    "thai": "การทดลอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Six Sigma",
+    "thai": "ซิกซ์ซิกม่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Arbitration",
+    "thai": "อนุญาโตตุลาการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Software",
+    "thai": "ซอฟต์แวร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Software as a Service",
+    "thai": "ซอฟต์แวร์เป็นบริการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Server",
+    "thai": "เซิร์ฟเวอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Virtual Private Network",
+    "thai": "เครือข่ายส่วนตัวเสมือน",
+    "phonetic": ""
+  },
+  {
+    "english": "Discovery",
+    "thai": "การค้นพบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Statement of Work",
+    "thai": "คำชี้แจงการทำงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Engagement",
+    "thai": "การว่าจ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Invention",
+    "thai": "สิ่งประดิษฐ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Mediation",
+    "thai": "การไกล่เกลี่ย",
+    "phonetic": ""
+  },
+  {
+    "english": "Trademark",
+    "thai": "เครื่องหมายการค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Master Service Agreement",
+    "thai": "ข้อตกลงการบริการหลัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Memorandum of Understanding",
+    "thai": "บันทึกความเข้าใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Audit",
+    "thai": "การตรวจสอบบัญชี",
+    "phonetic": ""
+  },
+  {
+    "english": "Copyright",
+    "thai": "ลิขสิทธิ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Test",
+    "thai": "ทดสอบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Non-Disclosure Agreement",
+    "thai": "ข้อตกลงการไม่เปิดเผยข้อมูล",
+    "phonetic": ""
+  },
+  {
+    "english": "Waterfall",
+    "thai": "น้ำตก",
+    "phonetic": ""
+  },
+  {
+    "english": "Litigation",
+    "thai": "การดำเนินคดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Scientist",
+    "thai": "นักวิทยาศาสตร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Publication",
+    "thai": "สิ่งพิมพ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Workforce",
+    "thai": "แรงงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Scalability",
+    "thai": "ความสามารถในการปรับขนาด",
+    "phonetic": ""
+  },
+  {
+    "english": "Development",
+    "thai": "การพัฒนา",
+    "phonetic": ""
+  },
+  {
+    "english": "Cloud",
+    "thai": "คลาวด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Due diligence",
+    "thai": "การตรวจสอบอย่างรอบคอบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Recovery",
+    "thai": "การกู้คืน",
+    "phonetic": ""
+  },
+  {
+    "english": "Relations",
+    "thai": "ความสัมพันธ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Trial",
+    "thai": "การทดลอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Viability",
+    "thai": "ความสามารถในการดำรงอยู่",
+    "phonetic": ""
+  },
+  {
+    "english": "Grant",
+    "thai": "ยินยอม",
+    "phonetic": ""
+  },
+  {
+    "english": "Portfolio",
+    "thai": "พอร์ตโฟลิโอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Equity",
+    "thai": "ทุน",
+    "phonetic": ""
+  },
+  {
+    "english": "Platform as a Service",
+    "thai": "แพลตฟอร์มในรูปแบบบริการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Funding",
+    "thai": "การจัดหาเงินทุน",
+    "phonetic": ""
+  },
+  {
+    "english": "Trade secret",
+    "thai": "ความลับทางการค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Kaizen",
+    "thai": "ไคเซ็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Agile",
+    "thai": "คล่องตัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Offboarding",
+    "thai": "การออกจากงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Jurisdiction",
+    "thai": "เขตอำนาจศาล",
+    "phonetic": ""
+  },
+  {
+    "english": "Information Technology",
+    "thai": "เทคโนโลยีสารสนเทศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Distribution",
+    "thai": "การกระจาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Antivirus",
+    "thai": "แอนตี้ไวรัส",
+    "phonetic": ""
+  },
+  {
+    "english": "Lab",
+    "thai": "แล็บ",
+    "phonetic": ""
+  },
+  {
+    "english": "Business continuity",
+    "thai": "ความต่อเนื่องทางธุรกิจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Performance",
+    "thai": "ผลงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Belonging",
+    "thai": "การเป็นเจ้าของ",
+    "phonetic": ""
+  },
+  {
+    "english": "Exit interview",
+    "thai": "สัมภาษณ์ออก",
+    "phonetic": ""
+  },
+  {
+    "english": "Research and Development",
+    "thai": "การวิจัยและพัฒนา",
+    "phonetic": ""
+  },
+  {
+    "english": "Benefits",
+    "thai": "ประโยชน์",
+    "phonetic": ""
+  },
+  {
+    "english": "Turnover",
+    "thai": "อัตราการหมุนเวียน",
+    "phonetic": ""
+  },
+  {
+    "english": "Pilot",
+    "thai": "นักบิน",
     "phonetic": ""
   },
   {
@@ -30,473 +465,38 @@
     "phonetic": ""
   },
   {
-    "english": "Bus stop",
-    "thai": "ป้ายรถเมล์",
+    "english": "Prototype",
+    "thai": "ต้นแบบ",
     "phonetic": ""
   },
   {
-    "english": "City",
-    "thai": "เมือง",
+    "english": "Research",
+    "thai": "วิจัย",
     "phonetic": ""
   },
   {
-    "english": "Country",
-    "thai": "ประเทศ",
+    "english": "Culture",
+    "thai": "วัฒนธรรม",
     "phonetic": ""
   },
   {
-    "english": "Street",
-    "thai": "ถนน",
+    "english": "Scrum",
+    "thai": "สครัม",
     "phonetic": ""
   },
   {
-    "english": "Rush hour",
-    "thai": "ชั่วโมงเร่งด่วน",
+    "english": "Diversity",
+    "thai": "ความหลากหลาย",
     "phonetic": ""
   },
   {
-    "english": "Twin room",
-    "thai": "ห้องเตียงคู่",
+    "english": "Training",
+    "thai": "การฝึกอบรม",
     "phonetic": ""
   },
   {
-    "english": "Traffic light",
-    "thai": "สัญญาณไฟจราจร",
-    "phonetic": ""
-  },
-  {
-    "english": "Gas station",
-    "thai": "ปั๊มน้ำมัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Continent",
-    "thai": "ทวีป",
-    "phonetic": ""
-  },
-  {
-    "english": "Intersection",
-    "thai": "จุดตัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Boarding pass",
-    "thai": "บัตรโดยสารขึ้นเครื่อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Far",
-    "thai": "ไกล",
-    "phonetic": ""
-  },
-  {
-    "english": "Departures",
-    "thai": "การออกเดินทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Customs",
-    "thai": "ศุลกากร",
-    "phonetic": ""
-  },
-  {
-    "english": "Window",
-    "thai": "หน้าต่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Airport",
-    "thai": "สนามบิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Train",
-    "thai": "รถไฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "East",
-    "thai": "ทิศตะวันออก",
-    "phonetic": ""
-  },
-  {
-    "english": "Bus",
-    "thai": "รสบัส",
-    "phonetic": ""
-  },
-  {
-    "english": "Check-in",
-    "thai": "เช็คอิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Hotel",
-    "thai": "โรงแรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Cancelled",
-    "thai": "ยกเลิก",
-    "phonetic": ""
-  },
-  {
-    "english": "Concierge",
-    "thai": "พนักงานต้อนรับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Booking",
-    "thai": "การจอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Map",
-    "thai": "แผนที่",
-    "phonetic": ""
-  },
-  {
-    "english": "Housekeeping",
-    "thai": "การดูแลบ้าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Tour",
-    "thai": "การท่องเที่ยว",
-    "phonetic": ""
-  },
-  {
-    "english": "Crosswalk",
-    "thai": "ทางม้าลาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Passport",
-    "thai": "หนังสือเดินทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Rental car",
-    "thai": "รถเช่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Speed limit",
-    "thai": "จำกัดความเร็ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Arrivals",
-    "thai": "การมาถึง",
-    "phonetic": ""
-  },
-  {
-    "english": "Keycard",
-    "thai": "คีย์การ์ด",
-    "phonetic": ""
-  },
-  {
-    "english": "Guide",
-    "thai": "แนะนำ",
-    "phonetic": ""
-  },
-  {
-    "english": "King",
-    "thai": "กษัตริย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Destination",
-    "thai": "ปลายทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Ride",
-    "thai": "ขี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Route",
-    "thai": "เส้นทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Car",
-    "thai": "รถ",
-    "phonetic": ""
-  },
-  {
-    "english": "Gallery",
-    "thai": "แกลเลอรี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Platform",
-    "thai": "แพลตฟอร์ม",
-    "phonetic": ""
-  },
-  {
-    "english": "View",
-    "thai": "ดู",
-    "phonetic": ""
-  },
-  {
-    "english": "Road",
-    "thai": "ถนน",
-    "phonetic": ""
-  },
-  {
-    "english": "Origin",
-    "thai": "ต้นทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Room service",
-    "thai": "บริการรูมเซอร์วิส",
-    "phonetic": ""
-  },
-  {
-    "english": "Sidewalk",
-    "thai": "ทางเท้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Schedule",
-    "thai": "กำหนดการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Stairs",
-    "thai": "บันได",
-    "phonetic": ""
-  },
-  {
-    "english": "Taxi",
-    "thai": "แท็กซี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Island",
-    "thai": "เกาะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Ticket",
-    "thai": "ตั๋ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Town",
-    "thai": "เมือง",
-    "phonetic": ""
-  },
-  {
-    "english": "Subway",
-    "thai": "รถไฟใต้ดิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Straight",
-    "thai": "ตรง",
-    "phonetic": ""
-  },
-  {
-    "english": "Park",
-    "thai": "สวน",
-    "phonetic": ""
-  },
-  {
-    "english": "Beach",
-    "thai": "ชายหาด",
-    "phonetic": ""
-  },
-  {
-    "english": "Left",
-    "thai": "ซ้าย",
-    "phonetic": ""
-  },
-  {
-    "english": "South",
-    "thai": "ใต้",
-    "phonetic": ""
-  },
-  {
-    "english": "Single room",
-    "thai": "ห้องเดี่ยว",
-    "phonetic": ""
-  },
-  {
-    "english": "Itinerary",
-    "thai": "กำหนดการเดินทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Lobby",
-    "thai": "ล็อบบี้",
-    "phonetic": ""
-  },
-  {
-    "english": "Elevator",
-    "thai": "ลิฟต์",
-    "phonetic": ""
-  },
-  {
-    "english": "Seat",
-    "thai": "ที่นั่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Global Positioning System",
-    "thai": "ระบบกำหนดตำแหน่งทั่วโลก",
-    "phonetic": ""
-  },
-  {
-    "english": "Traffic",
-    "thai": "การจราจร",
-    "phonetic": ""
-  },
-  {
-    "english": "Souvenir",
-    "thai": "ของที่ระลึก",
-    "phonetic": ""
-  },
-  {
-    "english": "Village",
-    "thai": "หมู่บ้าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Toll",
-    "thai": "ค่าผ่านทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Highway",
-    "thai": "ทางหลวง",
-    "phonetic": ""
-  },
-  {
-    "english": "Reception",
-    "thai": "แผนกต้อนรับ",
-    "phonetic": ""
-  },
-  {
-    "english": "Flight",
-    "thai": "เที่ยวบิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Gate",
-    "thai": "ประตู",
-    "phonetic": ""
-  },
-  {
-    "english": "Suite",
-    "thai": "ห้องชุด",
-    "phonetic": ""
-  },
-  {
-    "english": "Tunnel",
-    "thai": "อุโมงค์",
-    "phonetic": ""
-  },
-  {
-    "english": "Delay",
-    "thai": "ล่าช้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Museum",
-    "thai": "พิพิธภัณฑ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Transportation",
-    "thai": "การขนส่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Near",
-    "thai": "ใกล้",
-    "phonetic": ""
-  },
-  {
-    "english": "Minibar",
-    "thai": "มินิบาร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Cancellation",
-    "thai": "การยกเลิก",
-    "phonetic": ""
-  },
-  {
-    "english": "Bellhop",
-    "thai": "พนักงานยกกระเป๋า",
-    "phonetic": ""
-  },
-  {
-    "english": "Right",
-    "thai": "ขวา",
-    "phonetic": ""
-  },
-  {
-    "english": "Double room",
-    "thai": "ห้องคู่",
-    "phonetic": ""
-  },
-  {
-    "english": "Ferry",
-    "thai": "เรือข้ามฟาก",
-    "phonetic": ""
-  },
-  {
-    "english": "Parking",
-    "thai": "ที่จอดรถ",
-    "phonetic": ""
-  },
-  {
-    "english": "Train station",
-    "thai": "สถานีรถไฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "Mountain",
-    "thai": "ภูเขา",
-    "phonetic": ""
-  },
-  {
-    "english": "Bridge",
-    "thai": "สะพาน",
-    "phonetic": ""
-  },
-  {
-    "english": "License",
-    "thai": "ใบอนุญาต",
-    "phonetic": ""
-  },
-  {
-    "english": "Luggage",
-    "thai": "กระเป๋าเดินทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "North",
-    "thai": "ทิศเหนือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Confirmation",
-    "thai": "การยืนยัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Baggage",
-    "thai": "สัมภาระ",
-    "phonetic": ""
-  },
-  {
-    "english": "Vacancy",
-    "thai": "ตำแหน่งงานว่าง",
+    "english": "Talent",
+    "thai": "ความสามารถพิเศษ",
     "phonetic": ""
   }
 ]

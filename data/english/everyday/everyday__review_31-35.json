@@ -1,502 +1,502 @@
 [
   {
-    "english": "Mailbox",
-    "thai": "ตู้ไปรษณีย์",
+    "english": "Theater",
+    "thai": "โรงภาพยนตร์",
     "phonetic": ""
   },
   {
-    "english": "Fog",
-    "thai": "หมอก",
+    "english": "First aid",
+    "thai": "ปฐมพยาบาล",
     "phonetic": ""
   },
   {
-    "english": "Climate",
-    "thai": "ภูมิอากาศ",
+    "english": "Insurance",
+    "thai": "ประกันภัย",
     "phonetic": ""
   },
   {
-    "english": "Rainbow",
-    "thai": "รุ้ง",
+    "english": "Library",
+    "thai": "ห้องสมุด",
     "phonetic": ""
   },
   {
-    "english": "Downpour",
-    "thai": "ฝนตกหนัก",
+    "english": "Playground",
+    "thai": "สนามเด็กเล่น",
     "phonetic": ""
   },
   {
-    "english": "Warm",
-    "thai": "อบอุ่น",
+    "english": "Vision",
+    "thai": "วิสัยทัศน์",
     "phonetic": ""
   },
   {
-    "english": "Pruning",
-    "thai": "การตัดแต่งกิ่ง",
+    "english": "Gym",
+    "thai": "โรงยิม",
     "phonetic": ""
   },
   {
-    "english": "Hurricane",
-    "thai": "พายุเฮอริเคน",
+    "english": "Minerals",
+    "thai": "แร่ธาตุ",
     "phonetic": ""
   },
   {
-    "english": "Weeding",
-    "thai": "การกำจัดวัชพืช",
+    "english": "Spa",
+    "thai": "สปา",
     "phonetic": ""
   },
   {
-    "english": "Rainy",
-    "thai": "ฝนตก",
+    "english": "Sunscreen",
+    "thai": "ครีมกันแดด",
     "phonetic": ""
   },
   {
-    "english": "Season",
-    "thai": "ฤดูกาล",
+    "english": "Injury",
+    "thai": "บาดเจ็บ",
     "phonetic": ""
   },
   {
-    "english": "Humid",
-    "thai": "ชื้น",
+    "english": "Salon",
+    "thai": "ร้านเสริมสวย",
     "phonetic": ""
   },
   {
-    "english": "Watering",
-    "thai": "การรดน้ำ",
+    "english": "Medicine",
+    "thai": "ยา",
     "phonetic": ""
   },
   {
-    "english": "Dusk",
-    "thai": "พลบค่ำ",
+    "english": "Concert",
+    "thai": "คอนเสิร์ต",
     "phonetic": ""
   },
   {
-    "english": "Clear",
-    "thai": "ชัดเจน",
+    "english": "Aquarium",
+    "thai": "พิพิธภัณฑ์สัตว์น้ำ",
     "phonetic": ""
   },
   {
-    "english": "Windy",
-    "thai": "ลมแรง",
+    "english": "Heart",
+    "thai": "หัวใจ",
     "phonetic": ""
   },
   {
-    "english": "Sleet",
-    "thai": "ลูกเห็บ",
+    "english": "Vitamins",
+    "thai": "วิตามิน",
     "phonetic": ""
   },
   {
-    "english": "Mist",
-    "thai": "หมอก",
+    "english": "Fire",
+    "thai": "ไฟ",
     "phonetic": ""
   },
   {
-    "english": "Thunder",
-    "thai": "ฟ้าร้อง",
+    "english": "Prescription",
+    "thai": "ใบสั่งยา",
     "phonetic": ""
   },
   {
-    "english": "Sunrise",
-    "thai": "พระอาทิตย์ขึ้น",
+    "english": "Anxiety",
+    "thai": "ความวิตกกังวล",
     "phonetic": ""
   },
   {
-    "english": "Masonry",
-    "thai": "งานก่ออิฐ",
+    "english": "Contact lenses",
+    "thai": "คอนแทคเลนส์",
     "phonetic": ""
   },
   {
-    "english": "Sunny",
-    "thai": "แดดจัด",
+    "english": "Barber",
+    "thai": "ช่างตัดผม",
     "phonetic": ""
   },
   {
-    "english": "Twilight",
-    "thai": "พลบค่ำ",
+    "english": "Well",
+    "thai": "ดี",
     "phonetic": ""
   },
   {
-    "english": "Hail",
-    "thai": "ลูกเห็บ",
+    "english": "Meditation",
+    "thai": "การทำสมาธิ",
     "phonetic": ""
   },
   {
-    "english": "Tool",
-    "thai": "เครื่องมือ",
+    "english": "Symptom",
+    "thai": "อาการ",
     "phonetic": ""
   },
   {
-    "english": "Dusty",
-    "thai": "ดัสตี้",
+    "english": "Cavity",
+    "thai": "โพรง",
     "phonetic": ""
   },
   {
-    "english": "Gale",
-    "thai": "พายุ",
+    "english": "Skin",
+    "thai": "ผิว",
     "phonetic": ""
   },
   {
-    "english": "Drizzle",
-    "thai": "ฝนตกปรอยๆ",
+    "english": "Headache",
+    "thai": "ปวดศีรษะ",
     "phonetic": ""
   },
   {
-    "english": "Sauna",
-    "thai": "ซาวน่า",
+    "english": "Tailor",
+    "thai": "ช่างตัดเสื้อ",
     "phonetic": ""
   },
   {
-    "english": "Carpentry",
-    "thai": "งานช่างไม้",
+    "english": "Nausea",
+    "thai": "อาการคลื่นไส้",
     "phonetic": ""
   },
   {
-    "english": "Spring",
-    "thai": "ฤดูใบไม้ผลิ",
+    "english": "Diet",
+    "thai": "อาหาร",
     "phonetic": ""
   },
   {
-    "english": "Utensil",
-    "thai": "ภาชนะ",
+    "english": "Glasses",
+    "thai": "แว่นตา",
     "phonetic": ""
   },
   {
-    "english": "Ornament",
-    "thai": "เครื่องประดับ",
+    "english": "Cholesterol",
+    "thai": "คอเลสเตอรอล",
     "phonetic": ""
   },
   {
-    "english": "Cloudy",
-    "thai": "เมฆมาก",
+    "english": "Mental health",
+    "thai": "สุขภาพจิต",
     "phonetic": ""
   },
   {
-    "english": "Device",
-    "thai": "อุปกรณ์",
+    "english": "Vaccine",
+    "thai": "วัคซีน",
     "phonetic": ""
   },
   {
-    "english": "Overcast",
-    "thai": "มีเมฆมาก",
+    "english": "Self-care",
+    "thai": "การดูแลตนเอง",
     "phonetic": ""
   },
   {
-    "english": "Grout",
-    "thai": "ยาแนว",
+    "english": "Therapist",
+    "thai": "นักบำบัด",
     "phonetic": ""
   },
   {
-    "english": "Basement",
-    "thai": "ห้องใต้ดิน",
+    "english": "Appointment",
+    "thai": "การนัดหมาย",
     "phonetic": ""
   },
   {
-    "english": "Dawn",
-    "thai": "รุ่งอรุณ",
+    "english": "Surgery",
+    "thai": "การผ่าตัด",
     "phonetic": ""
   },
   {
-    "english": "Gadget",
-    "thai": "แกดเจ็ต",
+    "english": "Crutches",
+    "thai": "ไม้ค้ำยัน",
     "phonetic": ""
   },
   {
-    "english": "Balcony",
-    "thai": "ระเบียง",
+    "english": "Laundry",
+    "thai": "ซักรีด",
     "phonetic": ""
   },
   {
-    "english": "Storm",
-    "thai": "พายุ",
+    "english": "Infection",
+    "thai": "การติดเชื้อ",
     "phonetic": ""
   },
   {
-    "english": "Decor",
-    "thai": "การตกแต่ง",
+    "english": "Hydration",
+    "thai": "การเติมน้ำให้ร่างกาย",
     "phonetic": ""
   },
   {
-    "english": "Shed",
-    "thai": "โรงเก็บของ",
+    "english": "Sick",
+    "thai": "ป่วย",
     "phonetic": ""
   },
   {
-    "english": "Fence",
-    "thai": "รั้ว",
+    "english": "Rest",
+    "thai": "พักผ่อน",
     "phonetic": ""
   },
   {
-    "english": "Key",
-    "thai": "สำคัญ",
+    "english": "Dizzy",
+    "thai": "วิงเวียน",
     "phonetic": ""
   },
   {
-    "english": "Deck",
-    "thai": "ดาดฟ้า",
+    "english": "Virus",
+    "thai": "ไวรัส",
     "phonetic": ""
   },
   {
-    "english": "Tile",
-    "thai": "กระเบื้อง",
+    "english": "Stomachache",
+    "thai": "ปวดท้อง",
     "phonetic": ""
   },
   {
-    "english": "Gardening",
-    "thai": "การทำสวน",
+    "english": "Emergency",
+    "thai": "ภาวะฉุกเฉิน",
     "phonetic": ""
   },
   {
-    "english": "Paint",
-    "thai": "สี",
+    "english": "Healthy",
+    "thai": "สุขภาพดี",
     "phonetic": ""
   },
   {
-    "english": "Lightning",
-    "thai": "ฟ้าผ่า",
+    "english": "Pediatrician",
+    "thai": "กุมารแพทย์",
     "phonetic": ""
   },
   {
-    "english": "Maintain",
-    "thai": "บำรุงรักษา",
+    "english": "Nutrition",
+    "thai": "โภชนาการ",
     "phonetic": ""
   },
   {
-    "english": "Porch",
-    "thai": "ระเบียง",
+    "english": "Cardiologist",
+    "thai": "แพทย์โรคหัวใจ",
     "phonetic": ""
   },
   {
-    "english": "Chimney",
-    "thai": "ปล่องไฟ",
+    "english": "Fever",
+    "thai": "ไข้",
     "phonetic": ""
   },
   {
-    "english": "Breeze",
-    "thai": "สายลม",
+    "english": "Brush",
+    "thai": "แปรง",
     "phonetic": ""
   },
   {
-    "english": "Drought",
-    "thai": "ความแห้งแล้ง",
+    "english": "Hurt",
+    "thai": "เจ็บ",
     "phonetic": ""
   },
   {
-    "english": "Autumn",
-    "thai": "ฤดูใบไม้ร่วง",
+    "english": "Cough",
+    "thai": "ไอ",
     "phonetic": ""
   },
   {
-    "english": "Tornado",
-    "thai": "พายุทอร์นาโด",
+    "english": "Ultrasound",
+    "thai": "อัลตราซาวนด์",
     "phonetic": ""
   },
   {
-    "english": "Mess",
-    "thai": "ความยุ่งเหยิง",
+    "english": "Carbohydrates",
+    "thai": "คาร์โบไฮเดรต",
     "phonetic": ""
   },
   {
-    "english": "Plumbing",
-    "thai": "ประปา",
+    "english": "X-ray",
+    "thai": "เอ็กซ์เรย์",
     "phonetic": ""
   },
   {
-    "english": "Cool",
-    "thai": "เย็น",
+    "english": "Tired",
+    "thai": "เหนื่อย",
     "phonetic": ""
   },
   {
-    "english": "Lock",
-    "thai": "ล็อค",
+    "english": "Nurse",
+    "thai": "พยาบาล",
     "phonetic": ""
   },
   {
-    "english": "Dry",
-    "thai": "แห้ง",
+    "english": "Depression",
+    "thai": "ภาวะซึมเศร้า",
     "phonetic": ""
   },
   {
-    "english": "Winter",
-    "thai": "ฤดูหนาว",
+    "english": "Hospital",
+    "thai": "โรงพยาบาล",
     "phonetic": ""
   },
   {
-    "english": "Repair",
-    "thai": "ซ่อมแซม",
+    "english": "Yoga",
+    "thai": "โยคะ",
     "phonetic": ""
   },
   {
-    "english": "Decorate",
-    "thai": "ตกแต่ง",
+    "english": "Clinic",
+    "thai": "คลินิก",
     "phonetic": ""
   },
   {
-    "english": "Landscaping",
-    "thai": "การจัดภูมิทัศน์",
+    "english": "Dentist",
+    "thai": "ทันตแพทย์",
     "phonetic": ""
   },
   {
-    "english": "Blizzard",
-    "thai": "พายุหิมะ",
+    "english": "Gums",
+    "thai": "เหงือก",
     "phonetic": ""
   },
   {
-    "english": "Flood",
-    "thai": "น้ำท่วม",
+    "english": "Temperature",
+    "thai": "อุณหภูมิ",
     "phonetic": ""
   },
   {
-    "english": "Summer",
-    "thai": "ฤดูร้อน",
+    "english": "Dermatologist",
+    "thai": "แพทย์ผิวหนัง",
     "phonetic": ""
   },
   {
-    "english": "Garage",
-    "thai": "โรงรถ",
+    "english": "Optometrist",
+    "thai": "นักตรวจวัดสายตา",
     "phonetic": ""
   },
   {
-    "english": "Clutter",
-    "thai": "ถ่วง",
+    "english": "Patient",
+    "thai": "อดทน",
     "phonetic": ""
   },
   {
-    "english": "Patio",
-    "thai": "ลานบ้าน",
+    "english": "Garden",
+    "thai": "สวน",
     "phonetic": ""
   },
   {
-    "english": "Trinket",
-    "thai": "เครื่องประดับเล็กๆ น้อยๆ",
+    "english": "Counselor",
+    "thai": "ที่ปรึกษา",
     "phonetic": ""
   },
   {
-    "english": "Build",
-    "thai": "สร้าง",
+    "english": "Police",
+    "thai": "ตำรวจ",
     "phonetic": ""
   },
   {
-    "english": "Antique",
-    "thai": "โบราณ",
+    "english": "Floss",
+    "thai": "ไหมขัดฟัน",
     "phonetic": ""
   },
   {
-    "english": "Demolish",
-    "thai": "รื้อถอน",
+    "english": "Fats",
+    "thai": "ไขมัน",
     "phonetic": ""
   },
   {
-    "english": "Knick-knack",
-    "thai": "ของกระจุกกระจิก",
+    "english": "Courthouse",
+    "thai": "ศาล",
     "phonetic": ""
   },
   {
-    "english": "Heirloom",
-    "thai": "มรดกตกทอด",
+    "english": "Calories",
+    "thai": "แคลอรี่",
     "phonetic": ""
   },
   {
-    "english": "Driveway",
-    "thai": "ทางเข้ารถ",
+    "english": "Dry cleaner",
+    "thai": "ร้านซักแห้ง",
     "phonetic": ""
   },
   {
-    "english": "Dirty",
-    "thai": "สกปรก",
+    "english": "Doctor",
+    "thai": "หมอ",
     "phonetic": ""
   },
   {
-    "english": "Appliance",
-    "thai": "เครื่องใช้ไฟฟ้า",
+    "english": "Wheelchair",
+    "thai": "รถเข็น",
     "phonetic": ""
   },
   {
-    "english": "Pristine",
-    "thai": "บริสุทธิ์",
+    "english": "Zoo",
+    "thai": "ดี",
     "phonetic": ""
   },
   {
-    "english": "Doorknob",
-    "thai": "ลูกบิดประตู",
+    "english": "Vomiting",
+    "thai": "อาการอาเจียน",
     "phonetic": ""
   },
   {
-    "english": "Tidy",
-    "thai": "เรียบร้อย",
+    "english": "City hall",
+    "thai": "ศาลากลางจังหวัด",
     "phonetic": ""
   },
   {
-    "english": "Filthy",
-    "thai": "สกปรก",
+    "english": "Exercise",
+    "thai": "ออกกำลังกาย",
     "phonetic": ""
   },
   {
-    "english": "Pool",
-    "thai": "สระน้ำ",
+    "english": "Ambulance",
+    "thai": "รถพยาบาล",
     "phonetic": ""
   },
   {
-    "english": "Roof",
-    "thai": "หลังคา",
+    "english": "Bacteria",
+    "thai": "แบคทีเรีย",
     "phonetic": ""
   },
   {
-    "english": "Attic",
-    "thai": "ห้องใต้หลังคา",
+    "english": "Geriatrician",
+    "thai": "แพทย์ผู้เชี่ยวชาญด้านผู้สูงอายุ",
     "phonetic": ""
   },
   {
-    "english": "Furniture",
-    "thai": "เฟอร์นิเจอร์",
+    "english": "Diarrhea",
+    "thai": "ท้องเสีย",
     "phonetic": ""
   },
   {
-    "english": "Spotless",
-    "thai": "ไร้รอยด่างพร้อย",
+    "english": "Blood pressure",
+    "thai": "ความดันโลหิต",
     "phonetic": ""
   },
   {
-    "english": "Electrical",
-    "thai": "ไฟฟ้า",
+    "english": "Bandage",
+    "thai": "ผ้าพันแผล",
     "phonetic": ""
   },
   {
-    "english": "Yard",
-    "thai": "ลาน",
+    "english": "Mindfulness",
+    "thai": "สติสัมปชัญญะ",
     "phonetic": ""
   },
   {
-    "english": "Renovate",
-    "thai": "ปรับปรุงใหม่",
+    "english": "Toothache",
+    "thai": "อาการปวดฟัน",
     "phonetic": ""
   },
   {
-    "english": "Forecast",
-    "thai": "พยากรณ์",
+    "english": "Protein",
+    "thai": "โปรตีน",
     "phonetic": ""
   },
   {
-    "english": "Hot tub",
-    "thai": "อ่างน้ำร้อน",
+    "english": "Well-being",
+    "thai": "ความเป็นอยู่ที่ดี",
     "phonetic": ""
   },
   {
-    "english": "Wallpaper",
-    "thai": "วอลเปเปอร์",
+    "english": "Rash",
+    "thai": "ผื่น",
     "phonetic": ""
   },
   {
-    "english": "Snowy",
-    "thai": "สโนวี่",
+    "english": "Acne",
+    "thai": "สิว",
     "phonetic": ""
   },
   {
-    "english": "Mowing",
-    "thai": "การตัดหญ้า",
+    "english": "Stress",
+    "thai": "ความเครียด",
     "phonetic": ""
   },
   {
-    "english": "Sunset",
-    "thai": "พระอาทิตย์ตก",
+    "english": "Pain",
+    "thai": "ความเจ็บปวด",
     "phonetic": ""
   }
 ]

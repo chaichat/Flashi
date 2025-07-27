@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Destination",
+    "thai": "ปลายทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Origin",
+    "thai": "ต้นทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Itinerary",
+    "thai": "กำหนดการเดินทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Route",
+    "thai": "เส้นทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Tour",
+    "thai": "การท่องเที่ยว",
+    "phonetic": ""
+  },
+  {
+    "english": "Guide",
+    "thai": "แนะนำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Souvenir",
+    "thai": "ของที่ระลึก",
+    "phonetic": ""
+  },
+  {
+    "english": "Landmark",
+    "thai": "แลนด์มาร์ค",
+    "phonetic": ""
+  },
+  {
+    "english": "Museum",
+    "thai": "พิพิธภัณฑ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Gallery",
+    "thai": "แกลเลอรี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Park",
+    "thai": "สวน",
+    "phonetic": ""
+  },
+  {
+    "english": "Beach",
+    "thai": "ชายหาด",
+    "phonetic": ""
+  },
+  {
+    "english": "Mountain",
+    "thai": "ภูเขา",
+    "phonetic": ""
+  },
+  {
+    "english": "City",
+    "thai": "เมือง",
+    "phonetic": ""
+  },
+  {
+    "english": "Town",
+    "thai": "เมือง",
+    "phonetic": ""
+  },
+  {
+    "english": "Village",
+    "thai": "หมู่บ้าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Country",
+    "thai": "ประเทศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Continent",
+    "thai": "ทวีป",
+    "phonetic": ""
+  },
+  {
+    "english": "Island",
+    "thai": "เกาะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Peninsula",
+    "thai": "คาบสมุทร",
+    "phonetic": ""
+  }
+]

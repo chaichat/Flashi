@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Hello",
+    "thai": "สวัสดี",
+    "phonetic": ""
+  },
+  {
+    "english": "How are you",
+    "thai": "คุณเป็นอย่างไร",
+    "phonetic": ""
+  },
+  {
+    "english": "I am fine",
+    "thai": "ฉันสบายดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Thank you",
+    "thai": "ขอบคุณ",
+    "phonetic": ""
+  },
+  {
+    "english": "You are welcome",
+    "thai": "ยินดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Excuse me",
+    "thai": "ขออนุญาต",
+    "phonetic": ""
+  },
+  {
+    "english": "I am sorry",
+    "thai": "ฉันขอโทษ",
+    "phonetic": ""
+  },
+  {
+    "english": "Please",
+    "thai": "โปรด",
+    "phonetic": ""
+  },
+  {
+    "english": "Yes",
+    "thai": "ใช่",
+    "phonetic": ""
+  },
+  {
+    "english": "No",
+    "thai": "เลขที่",
+    "phonetic": ""
+  },
+  {
+    "english": "Maybe",
+    "thai": "อาจจะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Good morning",
+    "thai": "สวัสดีตอนเช้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Good afternoon",
+    "thai": "สวัสดีตอนบ่าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Good evening",
+    "thai": "สวัสดีตอนเย็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Good night",
+    "thai": "ราตรีสวัสดิ์",
+    "phonetic": ""
+  },
+  {
+    "english": "Goodbye",
+    "thai": "ลาก่อน",
+    "phonetic": ""
+  },
+  {
+    "english": "See you later",
+    "thai": "เจอกันใหม่นะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Take care",
+    "thai": "ดูแล",
+    "phonetic": ""
+  },
+  {
+    "english": "Have a good day",
+    "thai": "ขอให้เป็นวันที่ดี",
+    "phonetic": ""
+  },
+  {
+    "english": "Nice to meet you",
+    "thai": "ยินดีที่ได้รู้จัก",
+    "phonetic": ""
+  }
+]

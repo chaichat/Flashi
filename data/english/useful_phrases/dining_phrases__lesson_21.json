@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Breakfast is served from to",
+    "thai": "อาหารเช้าเสิร์ฟตั้งแต่",
+    "phonetic": ""
+  },
+  {
+    "english": "Lunch is served from to",
+    "thai": "อาหารกลางวันเสิร์ฟตั้งแต่",
+    "phonetic": ""
+  },
+  {
+    "english": "Dinner is served from to",
+    "thai": "อาหารเย็นเสิร์ฟตั้งแต่",
+    "phonetic": ""
+  },
+  {
+    "english": "What are your opening hours",
+    "thai": "เวลาเปิดทำการของคุณคืออะไร",
+    "phonetic": ""
+  },
+  {
+    "english": "What are your closing hours",
+    "thai": "เวลาปิดทำการของคุณคือกี่โมง",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have outdoor seating",
+    "thai": "คุณมีที่นั่งกลางแจ้งไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have private rooms",
+    "thai": "คุณมีห้องส่วนตัวไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have high chairs for babies",
+    "thai": "คุณมีเก้าอี้สูงสำหรับเด็กไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Is this restaurant child friendly",
+    "thai": "ร้านอาหารนี้เป็นมิตรกับเด็กไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have a dress code",
+    "thai": "คุณมีกฎการแต่งกายไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Is smoking allowed",
+    "thai": "อนุญาตให้สูบบุหรี่หรือไม่",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have vegetarian options",
+    "thai": "คุณมีตัวเลือกมังสวิรัติไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have vegan options",
+    "thai": "คุณมีตัวเลือกมังสวิรัติไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have gluten free options",
+    "thai": "คุณมีตัวเลือกแบบปลอดกลูเตนไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have halal options",
+    "thai": "คุณมีตัวเลือกฮาลาลไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have kosher options",
+    "thai": "คุณมีตัวเลือกโคเชอร์หรือไม่",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have a bar",
+    "thai": "คุณมีบาร์ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have a wine list",
+    "thai": "คุณมีรายการไวน์ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have a happy hour",
+    "thai": "คุณมีช่วงเวลาแห่งความสุขไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I bring my own wine",
+    "thai": "ฉันสามารถนำไวน์ของตัวเองมาได้ไหม",
+    "phonetic": ""
+  }
+]

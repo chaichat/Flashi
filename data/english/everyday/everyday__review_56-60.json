@@ -1,502 +1,502 @@
 [
   {
-    "english": "Zero-dimensional",
-    "thai": "มิติศูนย์",
+    "english": "Hope",
+    "thai": "หวัง",
     "phonetic": ""
   },
   {
-    "english": "Abstract",
-    "thai": "เชิงนามธรรม",
+    "english": "Anger",
+    "thai": "ความโกรธ",
     "phonetic": ""
   },
   {
-    "english": "One",
-    "thai": "หนึ่ง",
+    "english": "Love",
+    "thai": "รัก",
     "phonetic": ""
   },
   {
-    "english": "Geometric",
-    "thai": "รูปทรงเรขาคณิต",
+    "english": "Intestines",
+    "thai": "ลำไส้",
     "phonetic": ""
   },
   {
-    "english": "Nine",
-    "thai": "เก้า",
+    "english": "Arm",
+    "thai": "แขน",
     "phonetic": ""
   },
   {
-    "english": "Flat",
-    "thai": "แบน",
+    "english": "Sympathy",
+    "thai": "ความเห็นอกเห็นใจ",
     "phonetic": ""
   },
   {
-    "english": "Twenty",
-    "thai": "ยี่สิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Six",
-    "thai": "หก",
-    "phonetic": ""
-  },
-  {
-    "english": "Thirty",
-    "thai": "สามสิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Beige",
-    "thai": "สีเบจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Sixteen",
-    "thai": "สิบหก",
-    "phonetic": ""
-  },
-  {
-    "english": "Seven",
-    "thai": "เจ็ด",
-    "phonetic": ""
-  },
-  {
-    "english": "Maroon",
-    "thai": "สีน้ำตาลแดง",
-    "phonetic": ""
-  },
-  {
-    "english": "Cone",
-    "thai": "กรวย",
-    "phonetic": ""
-  },
-  {
-    "english": "Corner",
-    "thai": "มุม",
-    "phonetic": ""
-  },
-  {
-    "english": "Freeform",
-    "thai": "ฟรีฟอร์ม",
-    "phonetic": ""
-  },
-  {
-    "english": "Thrice",
-    "thai": "สามครั้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Third",
-    "thai": "ที่สาม",
-    "phonetic": ""
-  },
-  {
-    "english": "Eighteen",
-    "thai": "สิบแปด",
-    "phonetic": ""
-  },
-  {
-    "english": "Cylinder",
-    "thai": "กระบอกสูบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Thirteen",
-    "thai": "สิบสาม",
-    "phonetic": ""
-  },
-  {
-    "english": "Three",
-    "thai": "สาม",
-    "phonetic": ""
-  },
-  {
-    "english": "Curvilinear",
-    "thai": "เส้นโค้ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Angular",
-    "thai": "เชิงมุม",
-    "phonetic": ""
-  },
-  {
-    "english": "Gold",
-    "thai": "ทอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Eighty",
-    "thai": "แปดสิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Unbounded",
-    "thai": "ไร้ขอบเขต",
-    "phonetic": ""
-  },
-  {
-    "english": "Last",
-    "thai": "ล่าสุด",
-    "phonetic": ""
-  },
-  {
-    "english": "Ninety",
-    "thai": "เก้าสิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Infinite",
-    "thai": "อนันต์",
-    "phonetic": ""
-  },
-  {
-    "english": "Ten",
-    "thai": "สิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Five",
-    "thai": "ห้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Turquoise",
-    "thai": "สีฟ้าคราม",
-    "phonetic": ""
-  },
-  {
-    "english": "Three-dimensional",
-    "thai": "สามมิติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Cube",
-    "thai": "ลูกบาศก์",
-    "phonetic": ""
-  },
-  {
-    "english": "Fifth",
-    "thai": "ห้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Arrow",
-    "thai": "ลูกศร",
-    "phonetic": ""
-  },
-  {
-    "english": "Zigzag",
-    "thai": "ซิกแซก",
-    "phonetic": ""
-  },
-  {
-    "english": "Circumference",
-    "thai": "เส้นรอบวง",
-    "phonetic": ""
-  },
-  {
-    "english": "Navy",
-    "thai": "กองทัพเรือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Diameter",
-    "thai": "เส้นผ่านศูนย์กลาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Two-dimensional",
-    "thai": "สองมิติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Silver",
-    "thai": "เงิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Previous",
-    "thai": "ก่อนหน้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Fifty",
-    "thai": "ห้าสิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Two",
-    "thai": "สอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Forty",
-    "thai": "สี่สิบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Pyramid",
-    "thai": "พีระมิด",
-    "phonetic": ""
-  },
-  {
-    "english": "Geometry",
-    "thai": "เรขาคณิต",
-    "phonetic": ""
-  },
-  {
-    "english": "Continuous",
-    "thai": "ต่อเนื่อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Bronze",
-    "thai": "บรอนซ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Fifteen",
-    "thai": "สิบห้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Eleven",
-    "thai": "สิบเอ็ด",
-    "phonetic": ""
-  },
-  {
-    "english": "Sphere",
-    "thai": "ทรงกลม",
-    "phonetic": ""
-  },
-  {
-    "english": "Four",
-    "thai": "สี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Once",
-    "thai": "ครั้งหนึ่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Bounded",
-    "thai": "มีขอบเขต",
-    "phonetic": ""
-  },
-  {
-    "english": "Area",
-    "thai": "พื้นที่",
-    "phonetic": ""
-  },
-  {
-    "english": "Surface",
-    "thai": "พื้นผิว",
-    "phonetic": ""
-  },
-  {
-    "english": "Sharp",
-    "thai": "คม",
-    "phonetic": ""
-  },
-  {
-    "english": "Next",
-    "thai": "ต่อไป",
-    "phonetic": ""
-  },
-  {
-    "english": "Diagonal",
-    "thai": "แนวทแยงมุม",
-    "phonetic": ""
-  },
-  {
-    "english": "One-dimensional",
-    "thai": "มิติเดียว",
-    "phonetic": ""
-  },
-  {
-    "english": "Form",
+    "english": "Appearance",
     "thai": "รูปร่าง",
     "phonetic": ""
   },
   {
-    "english": "Linear",
-    "thai": "เชิงเส้น",
+    "english": "Wrist",
+    "thai": "ข้อมือ",
     "phonetic": ""
   },
   {
-    "english": "Volume",
-    "thai": "ปริมาณ",
+    "english": "Shock",
+    "thai": "ช็อก",
     "phonetic": ""
   },
   {
-    "english": "Finite",
-    "thai": "จำกัด",
+    "english": "Ribs",
+    "thai": "ซี่โครง",
     "phonetic": ""
   },
   {
-    "english": "Hexagon",
-    "thai": "หกเหลี่ยม",
+    "english": "Shame",
+    "thai": "ความอัปยศ",
     "phonetic": ""
   },
   {
-    "english": "Dimension",
-    "thai": "มิติ",
+    "english": "Compassion",
+    "thai": "ความเมตตา",
     "phonetic": ""
   },
   {
-    "english": "Fourteen",
-    "thai": "สิบสี่",
+    "english": "Hand",
+    "thai": "มือ",
     "phonetic": ""
   },
   {
-    "english": "Eight",
-    "thai": "แปด",
+    "english": "Cheek",
+    "thai": "แก้ม",
     "phonetic": ""
   },
   {
-    "english": "Twice",
-    "thai": "สองครั้ง",
+    "english": "Foot",
+    "thai": "เท้า",
     "phonetic": ""
   },
   {
-    "english": "First",
-    "thai": "อันดับแรก",
+    "english": "Tendon",
+    "thai": "เอ็น",
     "phonetic": ""
   },
   {
-    "english": "Twelve",
-    "thai": "สิบสอง",
+    "english": "Palm",
+    "thai": "ปาล์ม",
     "phonetic": ""
   },
   {
-    "english": "Cross",
-    "thai": "ข้าม",
+    "english": "Eye",
+    "thai": "ดวงตา",
     "phonetic": ""
   },
   {
-    "english": "Sixty",
-    "thai": "หกสิบ",
+    "english": "Guilt",
+    "thai": "ความรู้สึกผิด",
     "phonetic": ""
   },
   {
-    "english": "Angle",
-    "thai": "มุม",
+    "english": "Envy",
+    "thai": "อิจฉา",
     "phonetic": ""
   },
   {
-    "english": "Second",
-    "thai": "ที่สอง",
+    "english": "Hair",
+    "thai": "ผม",
     "phonetic": ""
   },
   {
-    "english": "Single",
-    "thai": "เดี่ยว",
+    "english": "Concussion",
+    "thai": "อาการกระทบกระเทือนทางสมอง",
     "phonetic": ""
   },
   {
-    "english": "Structure",
-    "thai": "โครงสร้าง",
+    "english": "Heel",
+    "thai": "ทั้งหมด",
     "phonetic": ""
   },
   {
-    "english": "Side",
-    "thai": "ด้านข้าง",
+    "english": "Thumb",
+    "thai": "นิ้วหัวแม่มือ",
     "phonetic": ""
   },
   {
-    "english": "Rounded",
-    "thai": "โค้งมน",
+    "english": "Trauma",
+    "thai": "บาดแผล",
     "phonetic": ""
   },
   {
-    "english": "Perimeter",
-    "thai": "ปริมณฑล",
+    "english": "Bruise",
+    "thai": "รอยฟกช้ำ",
     "phonetic": ""
   },
   {
-    "english": "Symmetry",
-    "thai": "สมมาตร",
+    "english": "Nerves",
+    "thai": "เส้นประสาท",
     "phonetic": ""
   },
   {
-    "english": "Nineteen",
-    "thai": "สิบเก้า",
+    "english": "Head",
+    "thai": "ศีรษะ",
     "phonetic": ""
   },
   {
-    "english": "Asymmetry",
-    "thai": "ความไม่สมมาตร",
+    "english": "Breath",
+    "thai": "ลมหายใจ",
     "phonetic": ""
   },
   {
-    "english": "Edge",
-    "thai": "ขอบ",
+    "english": "Hearing",
+    "thai": "การได้ยิน",
     "phonetic": ""
   },
   {
-    "english": "Double",
-    "thai": "สองเท่า",
+    "english": "Fracture",
+    "thai": "กระดูกหัก",
     "phonetic": ""
   },
   {
-    "english": "Seventeen",
-    "thai": "สิบเจ็ด",
+    "english": "Pelvis",
+    "thai": "กระดูกเชิงกราน",
     "phonetic": ""
   },
   {
-    "english": "Fourth",
-    "thai": "ที่สี่",
+    "english": "Tissue",
+    "thai": "เนื้อเยื่อ",
     "phonetic": ""
   },
   {
-    "english": "Hollow",
-    "thai": "กลวง",
+    "english": "Membrane",
+    "thai": "เยื่อหุ้มเซลล์",
     "phonetic": ""
   },
   {
-    "english": "Spiral",
-    "thai": "เกลียว",
+    "english": "Hate",
+    "thai": "เกลียด",
     "phonetic": ""
   },
   {
-    "english": "Radius",
-    "thai": "รัศมี",
+    "english": "Sense",
+    "thai": "ความรู้สึก",
     "phonetic": ""
   },
   {
-    "english": "Blunt",
-    "thai": "ทื่อ",
+    "english": "Disgust",
+    "thai": "ความรังเกียจ",
     "phonetic": ""
   },
   {
-    "english": "Seventy",
-    "thai": "เจ็ดสิบ",
+    "english": "Tongue",
+    "thai": "ลิ้น",
     "phonetic": ""
   },
   {
-    "english": "Shape",
-    "thai": "รูปร่าง",
+    "english": "Spine",
+    "thai": "กระดูกสันหลัง",
     "phonetic": ""
   },
   {
-    "english": "Octagon",
-    "thai": "แปดเหลี่ยม",
+    "english": "Ankle",
+    "thai": "ข้อเท้า",
     "phonetic": ""
   },
   {
-    "english": "Crescent",
-    "thai": "เสี้ยวพระจันทร์",
+    "english": "Lungs",
+    "thai": "ปอด",
     "phonetic": ""
   },
   {
-    "english": "Pentagon",
-    "thai": "เพนตากอน",
+    "english": "Posture",
+    "thai": "ท่าทาง",
     "phonetic": ""
   },
   {
-    "english": "Design",
-    "thai": "ออกแบบ",
+    "english": "Elbow",
+    "thai": "ข้อศอก",
+    "phonetic": ""
+  },
+  {
+    "english": "Brain",
+    "thai": "สมอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Eyelid",
+    "thai": "เปลือกตา",
+    "phonetic": ""
+  },
+  {
+    "english": "Joints",
+    "thai": "ข้อต่อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sprain",
+    "thai": "อาการเคล็ดขัดยอก",
+    "phonetic": ""
+  },
+  {
+    "english": "Ear",
+    "thai": "หู",
+    "phonetic": ""
+  },
+  {
+    "english": "Chest",
+    "thai": "หน้าอก",
+    "phonetic": ""
+  },
+  {
+    "english": "Chin",
+    "thai": "คาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Cell",
+    "thai": "เซลล์",
+    "phonetic": ""
+  },
+  {
+    "english": "Finger",
+    "thai": "นิ้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Knee",
+    "thai": "เข่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Waist",
+    "thai": "เอว",
+    "phonetic": ""
+  },
+  {
+    "english": "Pulse",
+    "thai": "ชีพจร",
+    "phonetic": ""
+  },
+  {
+    "english": "Fear",
+    "thai": "กลัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Skull",
+    "thai": "กะโหลกศีรษะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Jaw",
+    "thai": "ขากรรไกร",
+    "phonetic": ""
+  },
+  {
+    "english": "Tooth",
+    "thai": "ฟัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Courage",
+    "thai": "ความกล้าหาญ",
+    "phonetic": ""
+  },
+  {
+    "english": "Despair",
+    "thai": "ความสิ้นหวัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Desire",
+    "thai": "ความต้องการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Ligament",
+    "thai": "เอ็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Eyebrow",
+    "thai": "คิ้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Mouth",
+    "thai": "ปาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Smell",
+    "thai": "กลิ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Leg",
+    "thai": "ขา",
+    "phonetic": ""
+  },
+  {
+    "english": "Pride",
+    "thai": "ความภาคภูมิใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Cartilage",
+    "thai": "กระดูกอ่อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Lip",
+    "thai": "ลิป",
+    "phonetic": ""
+  },
+  {
+    "english": "Empathy",
+    "thai": "ความเข้าอกเข้าใจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Throat",
+    "thai": "คอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Complexion",
+    "thai": "ผิว",
+    "phonetic": ""
+  },
+  {
+    "english": "Gland",
+    "thai": "ต่อม",
+    "phonetic": ""
+  },
+  {
+    "english": "Body",
+    "thai": "ร่างกาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Neck",
+    "thai": "คอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Shoulder",
+    "thai": "ไหล่",
+    "phonetic": ""
+  },
+  {
+    "english": "Loneliness",
+    "thai": "ความเหงา",
+    "phonetic": ""
+  },
+  {
+    "english": "Back",
+    "thai": "กลับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Skeleton",
+    "thai": "โครงกระดูก",
+    "phonetic": ""
+  },
+  {
+    "english": "Sadness",
+    "thai": "ความเศร้าโศก",
+    "phonetic": ""
+  },
+  {
+    "english": "Nose",
+    "thai": "จมูก",
+    "phonetic": ""
+  },
+  {
+    "english": "Thigh",
+    "thai": "ต้นขา",
+    "phonetic": ""
+  },
+  {
+    "english": "Hip",
+    "thai": "สะโพก",
+    "phonetic": ""
+  },
+  {
+    "english": "Eyelash",
+    "thai": "ขนตา",
+    "phonetic": ""
+  },
+  {
+    "english": "Liver",
+    "thai": "ตับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Sight",
+    "thai": "ภาพ",
+    "phonetic": ""
+  },
+  {
+    "english": "Movement",
+    "thai": "ความเคลื่อนไหว",
+    "phonetic": ""
+  },
+  {
+    "english": "Kidneys",
+    "thai": "ไต",
+    "phonetic": ""
+  },
+  {
+    "english": "Organ",
+    "thai": "ออร์แกน",
+    "phonetic": ""
+  },
+  {
+    "english": "Touch",
+    "thai": "สัมผัส",
+    "phonetic": ""
+  },
+  {
+    "english": "Wound",
+    "thai": "แผล",
+    "phonetic": ""
+  },
+  {
+    "english": "Toe",
+    "thai": "แล้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Scar",
+    "thai": "แผลเป็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Anticipation",
+    "thai": "การคาดหวัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Stomach",
+    "thai": "ท้อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Face",
+    "thai": "ใบหน้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Forehead",
+    "thai": "หน้าผาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Jealousy",
+    "thai": "ความหึงหวง",
+    "phonetic": ""
+  },
+  {
+    "english": "Heartbeat",
+    "thai": "การเต้นของหัวใจ",
     "phonetic": ""
   }
 ]

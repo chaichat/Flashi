@@ -1,502 +1,502 @@
 [
   {
-    "english": "Remote",
-    "thai": "ระยะไกล",
+    "english": "Hotel",
+    "thai": "โรงแรม",
     "phonetic": ""
   },
   {
-    "english": "Saturday",
-    "thai": "วันเสาร์",
+    "english": "Taxi",
+    "thai": "แท็กซี่",
     "phonetic": ""
   },
   {
-    "english": "Hobby",
-    "thai": "งานอดิเรก",
+    "english": "North",
+    "thai": "ทิศเหนือ",
     "phonetic": ""
   },
   {
-    "english": "Alone time",
-    "thai": "เวลาอยู่คนเดียว",
+    "english": "Booking",
+    "thai": "การจอง",
     "phonetic": ""
   },
   {
-    "english": "Television",
-    "thai": "โทรทัศน์",
+    "english": "Road",
+    "thai": "ถนน",
     "phonetic": ""
   },
   {
-    "english": "Passion",
-    "thai": "ความหลงใหล",
+    "english": "Double room",
+    "thai": "ห้องคู่",
     "phonetic": ""
   },
   {
-    "english": "Thursday",
-    "thai": "วันพฤหัสบดี",
+    "english": "Ride",
+    "thai": "ขี่",
     "phonetic": ""
   },
   {
-    "english": "Clock",
-    "thai": "นาฬิกา",
+    "english": "City",
+    "thai": "เมือง",
     "phonetic": ""
   },
   {
-    "english": "Hurry",
-    "thai": "รีบ",
+    "english": "Check-in",
+    "thai": "เช็คอิน",
     "phonetic": ""
   },
   {
-    "english": "Pleasure",
-    "thai": "ความพึงพอใจ",
+    "english": "Suite",
+    "thai": "ห้องชุด",
     "phonetic": ""
   },
   {
-    "english": "Chair",
-    "thai": "เก้าอี้",
+    "english": "Passport",
+    "thai": "หนังสือเดินทาง",
     "phonetic": ""
   },
   {
-    "english": "Blanket",
-    "thai": "ผ้าห่ม",
+    "english": "Destination",
+    "thai": "ปลายทาง",
     "phonetic": ""
   },
   {
-    "english": "Pattern",
-    "thai": "ลวดลาย",
+    "english": "Straight",
+    "thai": "ตรง",
     "phonetic": ""
   },
   {
-    "english": "Bed",
-    "thai": "เตียง",
+    "english": "Mountain",
+    "thai": "ภูเขา",
     "phonetic": ""
   },
   {
-    "english": "Retirement",
-    "thai": "การเกษียณอายุ",
+    "english": "Toll",
+    "thai": "ค่าผ่านทาง",
     "phonetic": ""
   },
   {
-    "english": "Candle",
-    "thai": "เทียน",
+    "english": "Village",
+    "thai": "หมู่บ้าน",
     "phonetic": ""
   },
   {
-    "english": "Computer",
-    "thai": "คอมพิวเตอร์",
+    "english": "Street",
+    "thai": "ถนน",
     "phonetic": ""
   },
   {
-    "english": "Carpet",
-    "thai": "พรม",
+    "english": "Speed limit",
+    "thai": "จำกัดความเร็ว",
     "phonetic": ""
   },
   {
-    "english": "Routine",
-    "thai": "กิจวัตรประจำวัน",
+    "english": "Cancellation",
+    "thai": "การยกเลิก",
     "phonetic": ""
   },
   {
-    "english": "Cycle",
-    "thai": "วงจร",
+    "english": "Near",
+    "thai": "ใกล้",
     "phonetic": ""
   },
   {
-    "english": "Pace",
-    "thai": "ก้าว",
+    "english": "South",
+    "thai": "ใต้",
     "phonetic": ""
   },
   {
-    "english": "Early",
-    "thai": "แต่แรก",
+    "english": "Single room",
+    "thai": "ห้องเดี่ยว",
     "phonetic": ""
   },
   {
-    "english": "Curtains",
-    "thai": "ผ้าม่าน",
+    "english": "Museum",
+    "thai": "พิพิธภัณฑ์",
     "phonetic": ""
   },
   {
-    "english": "Repetition",
-    "thai": "การทำซ้ำ",
+    "english": "Minibar",
+    "thai": "มินิบาร์",
     "phonetic": ""
   },
   {
-    "english": "Weekday",
-    "thai": "วันธรรมดา",
+    "english": "Ticket",
+    "thai": "ตั๋ว",
     "phonetic": ""
   },
   {
-    "english": "Calendar",
-    "thai": "ปฏิทิน",
+    "english": "Tour",
+    "thai": "การท่องเที่ยว",
     "phonetic": ""
   },
   {
-    "english": "Amusement",
-    "thai": "ความบันเทิง",
+    "english": "East",
+    "thai": "ทิศตะวันออก",
     "phonetic": ""
   },
   {
-    "english": "Dining table",
-    "thai": "โต๊ะรับประทานอาหาร",
+    "english": "Sidewalk",
+    "thai": "ทางเท้า",
     "phonetic": ""
   },
   {
-    "english": "Tuesday",
-    "thai": "วันอังคาร",
+    "english": "Traffic light",
+    "thai": "สัญญาณไฟจราจร",
     "phonetic": ""
   },
   {
-    "english": "Task",
-    "thai": "งาน",
+    "english": "Parking",
+    "thai": "ที่จอดรถ",
     "phonetic": ""
   },
   {
-    "english": "Time off",
-    "thai": "เวลาว่าง",
+    "english": "Gallery",
+    "thai": "แกลเลอรี่",
     "phonetic": ""
   },
   {
-    "english": "Discipline",
-    "thai": "การลงโทษ",
+    "english": "Itinerary",
+    "thai": "กำหนดการเดินทาง",
     "phonetic": ""
   },
   {
-    "english": "Coffee table",
-    "thai": "โต๊ะกาแฟ",
-    "phonetic": ""
-  },
-  {
-    "english": "Friday",
-    "thai": "วันศุกร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Fun",
-    "thai": "สนุก",
-    "phonetic": ""
-  },
-  {
-    "english": "Consistency",
-    "thai": "ความสม่ำเสมอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Entertainment",
-    "thai": "ความบันเทิง",
-    "phonetic": ""
-  },
-  {
-    "english": "Focus",
-    "thai": "จุดสนใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Wednesday",
-    "thai": "วันพุธ",
-    "phonetic": ""
-  },
-  {
-    "english": "Tradition",
-    "thai": "ธรรมเนียม",
-    "phonetic": ""
-  },
-  {
-    "english": "Distraction",
-    "thai": "ความฟุ้งซ่าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Monday",
-    "thai": "วันจันทร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Sunday",
-    "thai": "วันอาทิตย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Vase",
-    "thai": "แจกัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Quiet time",
-    "thai": "เวลาเงียบสงบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Bedroom",
-    "thai": "ห้องนอน",
-    "phonetic": ""
-  },
-  {
-    "english": "Weekend",
-    "thai": "สุดสัปดาห์",
-    "phonetic": ""
-  },
-  {
-    "english": "Painting",
-    "thai": "จิตรกรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Living room",
-    "thai": "ห้องนั่งเล่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Me time",
-    "thai": "เวลาของฉัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Priority",
-    "thai": "ลำดับความสำคัญ",
-    "phonetic": ""
-  },
-  {
-    "english": "Tardy",
-    "thai": "อืด",
-    "phonetic": ""
-  },
-  {
-    "english": "Procrastination",
-    "thai": "การผัดวันประกันพรุ่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Free time",
-    "thai": "เวลาว่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Interest",
-    "thai": "ความสนใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Deadline",
-    "thai": "กำหนดส่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Wall",
-    "thai": "กำแพง",
-    "phonetic": ""
-  },
-  {
-    "english": "Lifestyle",
-    "thai": "ไลฟ์สไตล์",
-    "phonetic": ""
-  },
-  {
-    "english": "Joy",
-    "thai": "ความสุข",
-    "phonetic": ""
-  },
-  {
-    "english": "Dresser",
-    "thai": "ตู้เสื้อผ้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Punctual",
-    "thai": "ตรงต่อเวลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Recreation",
-    "thai": "สันทนาการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Habit",
-    "thai": "นิสัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Rush",
-    "thai": "รีบ",
-    "phonetic": ""
-  },
-  {
-    "english": "Reminder",
-    "thai": "คำเตือน",
-    "phonetic": ""
-  },
-  {
-    "english": "Project",
-    "thai": "โครงการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Custom",
-    "thai": "กำหนดเอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Sabbatical",
-    "thai": "การลาพักร้อน",
-    "phonetic": ""
-  },
-  {
-    "english": "Counter",
-    "thai": "เคาน์เตอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Downtime",
-    "thai": "เวลาหยุดทำงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Blinds",
-    "thai": "มู่ลี่",
-    "phonetic": ""
-  },
-  {
-    "english": "Rug",
-    "thai": "พรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Ceiling",
-    "thai": "เพดาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Faucet",
-    "thai": "ก๊อกน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Late",
-    "thai": "ช้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Family time",
-    "thai": "เวลาครอบครัว",
-    "phonetic": ""
-  },
-  {
-    "english": "Leave",
-    "thai": "ออกจาก",
-    "phonetic": ""
-  },
-  {
-    "english": "Agenda",
-    "thai": "กำหนดการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Rhythm",
-    "thai": "จังหวะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Leisure",
-    "thai": "เวลาว่าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Social time",
-    "thai": "เวลาทางสังคม",
-    "phonetic": ""
-  },
-  {
-    "english": "Bathroom",
-    "thai": "ห้องน้ำ",
-    "phonetic": ""
-  },
-  {
-    "english": "Pillow",
-    "thai": "หมอน",
-    "phonetic": ""
-  },
-  {
-    "english": "Sofa",
-    "thai": "โซฟา",
-    "phonetic": ""
-  },
-  {
-    "english": "Table",
-    "thai": "โต๊ะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Floor",
-    "thai": "พื้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Mirror",
-    "thai": "กระจกเงา",
-    "phonetic": ""
-  },
-  {
-    "english": "Towel",
-    "thai": "ผ้าขนหนู",
-    "phonetic": ""
-  },
-  {
-    "english": "Screen time",
-    "thai": "เวลาหน้าจอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Photograph",
-    "thai": "ภาพถ่าย",
-    "phonetic": ""
-  },
-  {
-    "english": "Nightstand",
-    "thai": "โต๊ะข้างเตียง",
-    "phonetic": ""
-  },
-  {
-    "english": "Refrigerator",
-    "thai": "ตู้เย็น",
-    "phonetic": ""
-  },
-  {
-    "english": "Bookshelf",
-    "thai": "ชั้นวางหนังสือ",
-    "phonetic": ""
-  },
-  {
-    "english": "Door",
+    "english": "Gate",
     "thai": "ประตู",
     "phonetic": ""
   },
   {
-    "english": "Closet",
-    "thai": "ตู้เสื้อผ้า",
+    "english": "Bicycle",
+    "thai": "จักรยาน",
     "phonetic": ""
   },
   {
-    "english": "Drain",
-    "thai": "ท่อระบายน้ำ",
+    "english": "Transportation",
+    "thai": "การขนส่ง",
     "phonetic": ""
   },
   {
-    "english": "Light",
-    "thai": "แสงสว่าง",
+    "english": "Gas station",
+    "thai": "ปั๊มน้ำมัน",
     "phonetic": ""
   },
   {
-    "english": "Lamp",
-    "thai": "โคมไฟ",
+    "english": "Crosswalk",
+    "thai": "ทางม้าลาย",
     "phonetic": ""
   },
   {
-    "english": "Sink",
-    "thai": "จม",
+    "english": "Beach",
+    "thai": "ชายหาด",
     "phonetic": ""
   },
   {
-    "english": "Pastime",
-    "thai": "งานอดิเรก",
+    "english": "Window",
+    "thai": "หน้าต่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "West",
+    "thai": "ตะวันตก",
+    "phonetic": ""
+  },
+  {
+    "english": "Left",
+    "thai": "ซ้าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Twin room",
+    "thai": "ห้องเตียงคู่",
+    "phonetic": ""
+  },
+  {
+    "english": "Checked",
+    "thai": "ตรวจสอบแล้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Rental car",
+    "thai": "รถเช่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Train",
+    "thai": "รถไฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Park",
+    "thai": "สวน",
+    "phonetic": ""
+  },
+  {
+    "english": "Bus",
+    "thai": "รสบัส",
+    "phonetic": ""
+  },
+  {
+    "english": "Delay",
+    "thai": "ล่าช้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Peninsula",
+    "thai": "คาบสมุทร",
+    "phonetic": ""
+  },
+  {
+    "english": "Guide",
+    "thai": "แนะนำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Origin",
+    "thai": "ต้นทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Flight",
+    "thai": "เที่ยวบิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Tunnel",
+    "thai": "อุโมงค์",
+    "phonetic": ""
+  },
+  {
+    "english": "Stairs",
+    "thai": "บันได",
+    "phonetic": ""
+  },
+  {
+    "english": "Bellhop",
+    "thai": "พนักงานยกกระเป๋า",
+    "phonetic": ""
+  },
+  {
+    "english": "Country",
+    "thai": "ประเทศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Reception",
+    "thai": "แผนกต้อนรับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Keycard",
+    "thai": "คีย์การ์ด",
+    "phonetic": ""
+  },
+  {
+    "english": "Luggage",
+    "thai": "กระเป๋าเดินทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Souvenir",
+    "thai": "ของที่ระลึก",
+    "phonetic": ""
+  },
+  {
+    "english": "Arrivals",
+    "thai": "การมาถึง",
+    "phonetic": ""
+  },
+  {
+    "english": "Ferry",
+    "thai": "เรือข้ามฟาก",
+    "phonetic": ""
+  },
+  {
+    "english": "On time",
+    "thai": "ตรงเวลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Route",
+    "thai": "เส้นทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Elevator",
+    "thai": "ลิฟต์",
+    "phonetic": ""
+  },
+  {
+    "english": "Baggage",
+    "thai": "สัมภาระ",
+    "phonetic": ""
+  },
+  {
+    "english": "Town",
+    "thai": "เมือง",
+    "phonetic": ""
+  },
+  {
+    "english": "Continent",
+    "thai": "ทวีป",
+    "phonetic": ""
+  },
+  {
+    "english": "Room service",
+    "thai": "บริการรูมเซอร์วิส",
+    "phonetic": ""
+  },
+  {
+    "english": "Landmark",
+    "thai": "แลนด์มาร์ค",
+    "phonetic": ""
+  },
+  {
+    "english": "Housekeeping",
+    "thai": "การดูแลบ้าน",
+    "phonetic": ""
+  },
+  {
+    "english": "Confirmation",
+    "thai": "การยืนยัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Bridge",
+    "thai": "สะพาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Bus stop",
+    "thai": "ป้ายรถเมล์",
+    "phonetic": ""
+  },
+  {
+    "english": "Intersection",
+    "thai": "จุดตัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Highway",
+    "thai": "ทางหลวง",
+    "phonetic": ""
+  },
+  {
+    "english": "Train station",
+    "thai": "สถานีรถไฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Lobby",
+    "thai": "ล็อบบี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Seat",
+    "thai": "ที่นั่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Global Positioning System",
+    "thai": "ระบบกำหนดตำแหน่งทั่วโลก",
+    "phonetic": ""
+  },
+  {
+    "english": "Car",
+    "thai": "รถ",
+    "phonetic": ""
+  },
+  {
+    "english": "Island",
+    "thai": "เกาะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Boarding pass",
+    "thai": "บัตรโดยสารขึ้นเครื่อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Map",
+    "thai": "แผนที่",
+    "phonetic": ""
+  },
+  {
+    "english": "Subway",
+    "thai": "รถไฟใต้ดิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Right",
+    "thai": "ขวา",
+    "phonetic": ""
+  },
+  {
+    "english": "Vacancy",
+    "thai": "ตำแหน่งงานว่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Traffic",
+    "thai": "การจราจร",
+    "phonetic": ""
+  },
+  {
+    "english": "Rush hour",
+    "thai": "ชั่วโมงเร่งด่วน",
+    "phonetic": ""
+  },
+  {
+    "english": "License",
+    "thai": "ใบอนุญาต",
+    "phonetic": ""
+  },
+  {
+    "english": "King",
+    "thai": "กษัตริย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Customs",
+    "thai": "ศุลกากร",
+    "phonetic": ""
+  },
+  {
+    "english": "Overhead",
+    "thai": "ค่าใช้จ่ายเหนือศีรษะ",
+    "phonetic": ""
+  },
+  {
+    "english": "Cancelled",
+    "thai": "ยกเลิก",
+    "phonetic": ""
+  },
+  {
+    "english": "View",
+    "thai": "ดู",
+    "phonetic": ""
+  },
+  {
+    "english": "Concierge",
+    "thai": "พนักงานต้อนรับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Airport",
+    "thai": "สนามบิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Departures",
+    "thai": "การออกเดินทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Carry-on",
+    "thai": "สัมภาระถือขึ้นเครื่อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Far",
+    "thai": "ไกล",
     "phonetic": ""
   }
 ]

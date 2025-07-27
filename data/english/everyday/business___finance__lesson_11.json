@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Operations",
+    "thai": "การดำเนินงาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Logistics",
+    "thai": "โลจิสติกส์",
+    "phonetic": ""
+  },
+  {
+    "english": "Supply chain",
+    "thai": "ห่วงโซ่อุปทาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Procurement",
+    "thai": "การจัดซื้อจัดจ้าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Inventory",
+    "thai": "รายการสิ่งของ",
+    "phonetic": ""
+  },
+  {
+    "english": "Warehouse",
+    "thai": "คลังสินค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Distribution",
+    "thai": "การกระจาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Shipping",
+    "thai": "การส่งสินค้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Receiving",
+    "thai": "การรับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Control",
+    "thai": "ควบคุม",
+    "phonetic": ""
+  },
+  {
+    "english": "Six Sigma",
+    "thai": "ซิกซ์ซิกม่า",
+    "phonetic": ""
+  },
+  {
+    "english": "Lean",
+    "thai": "เอียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Kaizen",
+    "thai": "ไคเซ็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Kanban",
+    "thai": "คัมบัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Scrum",
+    "thai": "สครัม",
+    "phonetic": ""
+  },
+  {
+    "english": "Agile",
+    "thai": "คล่องตัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Waterfall",
+    "thai": "น้ำตก",
+    "phonetic": ""
+  },
+  {
+    "english": "Program",
+    "thai": "โปรแกรม",
+    "phonetic": ""
+  },
+  {
+    "english": "Portfolio",
+    "thai": "พอร์ตโฟลิโอ",
+    "phonetic": ""
+  },
+  {
+    "english": "Gantt",
+    "thai": "แกนต์",
+    "phonetic": ""
+  }
+]

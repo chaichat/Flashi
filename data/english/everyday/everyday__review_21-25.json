@@ -1,502 +1,502 @@
 [
   {
-    "english": "Endurance",
-    "thai": "ความอดทน",
+    "english": "Alcohol",
+    "thai": "แอลกอฮอล์",
     "phonetic": ""
   },
   {
-    "english": "Prescription",
-    "thai": "ใบสั่งยา",
+    "english": "Stove",
+    "thai": "เตา",
     "phonetic": ""
   },
   {
-    "english": "Rash",
-    "thai": "ผื่น",
+    "english": "Roast",
+    "thai": "ย่าง",
     "phonetic": ""
   },
   {
-    "english": "Dishes",
+    "english": "Steamed",
+    "thai": "นึ่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Mix",
+    "thai": "ผสม",
+    "phonetic": ""
+  },
+  {
+    "english": "Chicken",
+    "thai": "ไก่",
+    "phonetic": ""
+  },
+  {
+    "english": "Appetizer",
+    "thai": "อาหารเรียกน้ำย่อย",
+    "phonetic": ""
+  },
+  {
+    "english": "Non-alcoholic",
+    "thai": "ไม่มีแอลกอฮอล์",
+    "phonetic": ""
+  },
+  {
+    "english": "Salt",
+    "thai": "เกลือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Chef",
+    "thai": "เชฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Fry",
+    "thai": "ทอด",
+    "phonetic": ""
+  },
+  {
+    "english": "Cart",
+    "thai": "รถเข็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Napkin",
+    "thai": "ผ้าเช็ดปาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Glass",
+    "thai": "กระจก",
+    "phonetic": ""
+  },
+  {
+    "english": "Bill",
+    "thai": "ใบแจ้งหนี้",
+    "phonetic": ""
+  },
+  {
+    "english": "Cashier",
+    "thai": "แคชเชียร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Sauteed",
+    "thai": "ผัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Bake",
+    "thai": "อบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Bakery",
+    "thai": "ร้านเบเกอรี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Menu",
+    "thai": "เมนู",
+    "phonetic": ""
+  },
+  {
+    "english": "Oven",
+    "thai": "เตาอบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Roasted",
+    "thai": "คั่ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Hot",
+    "thai": "ร้อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Serve",
+    "thai": "ให้บริการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Spoon",
+    "thai": "ช้อน",
+    "phonetic": ""
+  },
+  {
+    "english": "Dessert",
+    "thai": "ขนม",
+    "phonetic": ""
+  },
+  {
+    "english": "Aisle",
+    "thai": "ทางเดิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Fish",
+    "thai": "ปลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Spicy",
+    "thai": "เผ็ด",
+    "phonetic": ""
+  },
+  {
+    "english": "Sour",
+    "thai": "เปรี้ยว",
+    "phonetic": ""
+  },
+  {
+    "english": "Deli",
+    "thai": "เดลี่",
+    "phonetic": ""
+  },
+  {
+    "english": "Lunch",
+    "thai": "อาหารกลางวัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Raw",
+    "thai": "ดิบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Beef",
+    "thai": "เนื้อวัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Canned",
+    "thai": "กระป๋อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Main course",
+    "thai": "อาหารจานหลัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Breakfast",
+    "thai": "อาหารเช้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Stir",
+    "thai": "คน",
+    "phonetic": ""
+  },
+  {
+    "english": "Steam",
+    "thai": "ไอน้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Bread",
+    "thai": "ขนมปัง",
+    "phonetic": ""
+  },
+  {
+    "english": "Grill",
+    "thai": "ย่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Restaurant",
+    "thai": "ร้านอาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Fried",
+    "thai": "ทอด",
+    "phonetic": ""
+  },
+  {
+    "english": "Fresh",
+    "thai": "สด",
+    "phonetic": ""
+  },
+  {
+    "english": "Delicious",
+    "thai": "อร่อย",
+    "phonetic": ""
+  },
+  {
+    "english": "Organic",
+    "thai": "ออร์แกนิก",
+    "phonetic": ""
+  },
+  {
+    "english": "Soup",
+    "thai": "ซุป",
+    "phonetic": ""
+  },
+  {
+    "english": "Pepper",
+    "thai": "พริกไทย",
+    "phonetic": ""
+  },
+  {
+    "english": "Ingredients",
+    "thai": "วัตถุดิบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Salad",
+    "thai": "สลัด",
+    "phonetic": ""
+  },
+  {
+    "english": "Sweet",
+    "thai": "หวาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Fruit",
+    "thai": "ผลไม้",
+    "phonetic": ""
+  },
+  {
+    "english": "Bowl",
+    "thai": "ชาม",
+    "phonetic": ""
+  },
+  {
+    "english": "Tea",
+    "thai": "ชา",
+    "phonetic": ""
+  },
+  {
+    "english": "Cooked",
+    "thai": "ปรุงสุกแล้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Pour",
+    "thai": "สำหรับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Cookbook",
+    "thai": "หนังสือตำราอาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Water",
+    "thai": "น้ำ",
+    "phonetic": ""
+  },
+  {
+    "english": "Poached",
+    "thai": "ลวก",
+    "phonetic": ""
+  },
+  {
+    "english": "Gluten-free",
+    "thai": "ปราศจากกลูเตน",
+    "phonetic": ""
+  },
+  {
+    "english": "Recipe",
+    "thai": "สูตรอาหาร",
+    "phonetic": ""
+  },
+  {
+    "english": "Meat",
+    "thai": "เนื้อ",
+    "phonetic": ""
+  },
+  {
+    "english": "Reservation",
+    "thai": "การจอง",
+    "phonetic": ""
+  },
+  {
+    "english": "Dinner",
+    "thai": "อาหารเย็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Baked",
+    "thai": "อบ",
+    "phonetic": ""
+  },
+  {
+    "english": "Vegan",
+    "thai": "มังสวิรัติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Grilled",
+    "thai": "ย่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Vegetarian",
+    "thai": "มังสวิรัติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Cold",
+    "thai": "เย็น",
+    "phonetic": ""
+  },
+  {
+    "english": "Microwave",
+    "thai": "ไมโครเวฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Basket",
+    "thai": "ตะกร้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Chop",
+    "thai": "สับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Boiled",
+    "thai": "ต้ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Waiter",
+    "thai": "บริกร",
+    "phonetic": ""
+  },
+  {
+    "english": "Knife",
+    "thai": "มีด",
+    "phonetic": ""
+  },
+  {
+    "english": "Coffee",
+    "thai": "กาแฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Taste",
+    "thai": "รสชาติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Seafood",
+    "thai": "อาหารทะเล",
+    "phonetic": ""
+  },
+  {
+    "english": "Boil",
+    "thai": "ต้ม",
+    "phonetic": ""
+  },
+  {
+    "english": "Stale",
+    "thai": "เหม็นอับ",
+    "phonetic": ""
+  },
+  {
+    "english": "Produce",
+    "thai": "ผลิต",
+    "phonetic": ""
+  },
+  {
+    "english": "Slice",
+    "thai": "ชิ้น",
+    "phonetic": ""
+  },
+  {
+    "english": "Plate",
     "thai": "จาน",
     "phonetic": ""
   },
   {
-    "english": "Journal",
-    "thai": "วารสาร",
+    "english": "Side dish",
+    "thai": "เครื่องเคียง",
     "phonetic": ""
   },
   {
-    "english": "Anxiety",
-    "thai": "ความวิตกกังวล",
+    "english": "Vegetables",
+    "thai": "ผัก",
     "phonetic": ""
   },
   {
-    "english": "Bandage",
-    "thai": "ผ้าพันแผล",
+    "english": "Checkout",
+    "thai": "เช็คเอาท์",
     "phonetic": ""
   },
   {
-    "english": "Plan",
-    "thai": "วางแผน",
+    "english": "Kitchen",
+    "thai": "ครัว",
     "phonetic": ""
   },
   {
-    "english": "Protein",
-    "thai": "โปรตีน",
+    "english": "Ripe",
+    "thai": "สุก",
     "phonetic": ""
   },
   {
-    "english": "Geriatrician",
-    "thai": "แพทย์ผู้เชี่ยวชาญด้านผู้สูงอายุ",
+    "english": "Pork",
+    "thai": "เนื้อหมู",
     "phonetic": ""
   },
   {
-    "english": "Calories",
-    "thai": "แคลอรี่",
+    "english": "Butter",
+    "thai": "เนย",
     "phonetic": ""
   },
   {
-    "english": "Weightlifting",
-    "thai": "ยกน้ำหนัก",
+    "english": "Allergy",
+    "thai": "โรคภูมิแพ้",
     "phonetic": ""
   },
   {
-    "english": "Stretching",
-    "thai": "การยืดกล้ามเนื้อ",
+    "english": "Fork",
+    "thai": "ส้อม",
     "phonetic": ""
   },
   {
-    "english": "Gymnastics",
-    "thai": "ยิมนาสติก",
+    "english": "Beverages",
+    "thai": "เครื่องดื่ม",
     "phonetic": ""
   },
   {
-    "english": "Virus",
-    "thai": "ไวรัส",
+    "english": "Snacks",
+    "thai": "ของว่าง",
     "phonetic": ""
   },
   {
-    "english": "Nap",
-    "thai": "งีบหลับ",
+    "english": "Sugar",
+    "thai": "น้ำตาล",
     "phonetic": ""
   },
   {
-    "english": "Cardiologist",
-    "thai": "แพทย์โรคหัวใจ",
+    "english": "Coupon",
+    "thai": "คูปอง",
     "phonetic": ""
   },
   {
-    "english": "List",
-    "thai": "รายการ",
+    "english": "Dairy",
+    "thai": "ผลิตภัณฑ์นม",
     "phonetic": ""
   },
   {
-    "english": "Infection",
-    "thai": "การติดเชื้อ",
+    "english": "Frozen",
+    "thai": "แช่แข็ง",
     "phonetic": ""
   },
   {
-    "english": "Cat",
-    "thai": "แมว",
+    "english": "Waitress",
+    "thai": "พนักงานเสิร์ฟ",
     "phonetic": ""
   },
   {
-    "english": "Appointment",
-    "thai": "การนัดหมาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Nutrition",
-    "thai": "โภชนาการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Review",
-    "thai": "ทบทวน",
-    "phonetic": ""
-  },
-  {
-    "english": "Mindfulness",
-    "thai": "สติสัมปชัญญะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Diet",
-    "thai": "อาหาร",
-    "phonetic": ""
-  },
-  {
-    "english": "Meditation",
-    "thai": "การทำสมาธิ",
-    "phonetic": ""
-  },
-  {
-    "english": "Patient",
-    "thai": "อดทน",
-    "phonetic": ""
-  },
-  {
-    "english": "Hydration",
-    "thai": "การเติมน้ำให้ร่างกาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Speed",
-    "thai": "ความเร็ว",
-    "phonetic": ""
-  },
-  {
-    "english": "Blood pressure",
-    "thai": "ความดันโลหิต",
-    "phonetic": ""
-  },
-  {
-    "english": "Athletics",
-    "thai": "กรีฑา",
-    "phonetic": ""
-  },
-  {
-    "english": "Meditate",
-    "thai": "นั่งสมาธิ",
-    "phonetic": ""
-  },
-  {
-    "english": "Insurance",
-    "thai": "ประกันภัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Commute",
-    "thai": "การเดินทาง",
-    "phonetic": ""
-  },
-  {
-    "english": "Recovery",
-    "thai": "การกู้คืน",
-    "phonetic": ""
-  },
-  {
-    "english": "Goals",
-    "thai": "เป้าหมาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Toothache",
-    "thai": "อาการปวดฟัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Ultrasound",
-    "thai": "อัลตราซาวนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Self-care",
-    "thai": "การดูแลตนเอง",
-    "phonetic": ""
-  },
-  {
-    "english": "Glasses",
-    "thai": "แว่นตา",
-    "phonetic": ""
-  },
-  {
-    "english": "Minerals",
-    "thai": "แร่ธาตุ",
-    "phonetic": ""
-  },
-  {
-    "english": "Vitamins",
-    "thai": "วิตามิน",
-    "phonetic": ""
-  },
-  {
-    "english": "Calisthenics",
-    "thai": "การออกกำลังกายแบบคาลิสเธนิกส์",
-    "phonetic": ""
-  },
-  {
-    "english": "Cardio",
-    "thai": "คาร์ดิโอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Gums",
-    "thai": "เหงือก",
-    "phonetic": ""
-  },
-  {
-    "english": "Warm-up",
-    "thai": "การวอร์มอัพ",
-    "phonetic": ""
-  },
-  {
-    "english": "Depression",
-    "thai": "ภาวะซึมเศร้า",
-    "phonetic": ""
-  },
-  {
-    "english": "Symptom",
-    "thai": "อาการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Nurse",
-    "thai": "พยาบาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Acne",
-    "thai": "สิว",
-    "phonetic": ""
-  },
-  {
-    "english": "Cavity",
-    "thai": "โพรง",
-    "phonetic": ""
-  },
-  {
-    "english": "Floss",
-    "thai": "ไหมขัดฟัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Surgery",
-    "thai": "การผ่าตัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Dog",
-    "thai": "สุนัข",
-    "phonetic": ""
-  },
-  {
-    "english": "X-ray",
-    "thai": "เอ็กซ์เรย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Injury",
-    "thai": "บาดเจ็บ",
-    "phonetic": ""
-  },
-  {
-    "english": "Yoga",
-    "thai": "โยคะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Sunscreen",
-    "thai": "ครีมกันแดด",
-    "phonetic": ""
-  },
-  {
-    "english": "Mental health",
-    "thai": "สุขภาพจิต",
-    "phonetic": ""
-  },
-  {
-    "english": "Brush",
-    "thai": "แปรง",
-    "phonetic": ""
-  },
-  {
-    "english": "Temperature",
-    "thai": "อุณหภูมิ",
-    "phonetic": ""
-  },
-  {
-    "english": "Optometrist",
-    "thai": "นักตรวจวัดสายตา",
-    "phonetic": ""
-  },
-  {
-    "english": "Bacteria",
-    "thai": "แบคทีเรีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Vaccine",
-    "thai": "วัคซีน",
-    "phonetic": ""
-  },
-  {
-    "english": "Stress",
-    "thai": "ความเครียด",
-    "phonetic": ""
-  },
-  {
-    "english": "Counselor",
-    "thai": "ที่ปรึกษา",
-    "phonetic": ""
-  },
-  {
-    "english": "Homework",
-    "thai": "การบ้าน",
-    "phonetic": ""
-  },
-  {
-    "english": "Well-being",
-    "thai": "ความเป็นอยู่ที่ดี",
-    "phonetic": ""
-  },
-  {
-    "english": "Vision",
-    "thai": "วิสัยทัศน์",
-    "phonetic": ""
-  },
-  {
-    "english": "Skin",
-    "thai": "ผิว",
-    "phonetic": ""
-  },
-  {
-    "english": "Crutches",
-    "thai": "ไม้ค้ำยัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Cool-down",
-    "thai": "การผ่อนคลาย",
-    "phonetic": ""
-  },
-  {
-    "english": "First aid",
-    "thai": "ปฐมพยาบาล",
-    "phonetic": ""
-  },
-  {
-    "english": "Dentist",
-    "thai": "ทันตแพทย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Heart",
-    "thai": "หัวใจ",
-    "phonetic": ""
-  },
-  {
-    "english": "Balance",
-    "thai": "สมดุล",
-    "phonetic": ""
-  },
-  {
-    "english": "Contact lenses",
-    "thai": "คอนแทคเลนส์",
-    "phonetic": ""
-  },
-  {
-    "english": "Therapist",
-    "thai": "นักบำบัด",
-    "phonetic": ""
-  },
-  {
-    "english": "Clean",
-    "thai": "ทำความสะอาด",
-    "phonetic": ""
-  },
-  {
-    "english": "Carbohydrates",
-    "thai": "คาร์โบไฮเดรต",
-    "phonetic": ""
-  },
-  {
-    "english": "Siesta",
-    "thai": "นอนพักกลางวัน",
-    "phonetic": ""
-  },
-  {
-    "english": "Email",
-    "thai": "อีเมล",
-    "phonetic": ""
-  },
-  {
-    "english": "Aerobics",
-    "thai": "แอโรบิก",
-    "phonetic": ""
-  },
-  {
-    "english": "Bills",
-    "thai": "บิล",
-    "phonetic": ""
-  },
-  {
-    "english": "Pilates",
-    "thai": "พิลาทิส",
-    "phonetic": ""
-  },
-  {
-    "english": "Strength",
-    "thai": "ความแข็งแกร่ง",
-    "phonetic": ""
-  },
-  {
-    "english": "Unwind",
-    "thai": "คลี่คลาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Trash",
-    "thai": "ขยะ",
-    "phonetic": ""
-  },
-  {
-    "english": "Cholesterol",
-    "thai": "คอเลสเตอรอล",
-    "phonetic": ""
-  },
-  {
-    "english": "Flexibility",
-    "thai": "ความยืดหยุ่น",
-    "phonetic": ""
-  },
-  {
-    "english": "Dermatologist",
-    "thai": "แพทย์ผิวหนัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Break",
-    "thai": "หยุดพัก",
-    "phonetic": ""
-  },
-  {
-    "english": "Power",
-    "thai": "พลัง",
-    "phonetic": ""
-  },
-  {
-    "english": "Agility",
-    "thai": "ความคล่องตัว",
-    "phonetic": ""
-  },
-  {
-    "english": "Plants",
-    "thai": "พืช",
-    "phonetic": ""
-  },
-  {
-    "english": "Weakness",
-    "thai": "ความอ่อนแอ",
-    "phonetic": ""
-  },
-  {
-    "english": "Stamina",
-    "thai": "ความอดทน",
-    "phonetic": ""
-  },
-  {
-    "english": "Pediatrician",
-    "thai": "กุมารแพทย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Coordination",
-    "thai": "การประสานงาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Fats",
-    "thai": "ไขมัน",
+    "english": "Grocery",
+    "thai": "ร้านขายของชำ",
     "phonetic": ""
   }
 ]

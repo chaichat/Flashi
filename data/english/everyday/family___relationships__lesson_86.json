@@ -1,102 +1,102 @@
 [
   {
-    "english": "Buddy",
-    "thai": "เพื่อน",
+    "english": "Mother",
+    "thai": "แม่",
     "phonetic": ""
   },
   {
-    "english": "Pal",
-    "thai": "เพื่อน",
+    "english": "Father",
+    "thai": "พ่อ",
     "phonetic": ""
   },
   {
-    "english": "Mate",
-    "thai": "ความตาย",
+    "english": "Parent",
+    "thai": "พ่อแม่",
     "phonetic": ""
   },
   {
-    "english": "Chum",
-    "thai": "ถือ",
+    "english": "Son",
+    "thai": "ลูกชาย",
     "phonetic": ""
   },
   {
-    "english": "Companion",
-    "thai": "เพื่อนร่วมทาง",
+    "english": "Daughter",
+    "thai": "ลูกสาว",
     "phonetic": ""
   },
   {
-    "english": "Confidant",
-    "thai": "ที่ปรึกษา",
+    "english": "Child",
+    "thai": "เด็ก",
     "phonetic": ""
   },
   {
-    "english": "Ally",
-    "thai": "พันธมิตร",
+    "english": "Brother",
+    "thai": "พี่ชาย",
     "phonetic": ""
   },
   {
-    "english": "Acquaintance",
-    "thai": "คนรู้จัก",
+    "english": "Sister",
+    "thai": "น้องสาว",
     "phonetic": ""
   },
   {
-    "english": "Enemy",
-    "thai": "ศัตรู",
+    "english": "Sibling",
+    "thai": "พี่น้อง",
     "phonetic": ""
   },
   {
-    "english": "Rival",
-    "thai": "คู่แข่ง",
+    "english": "Grandmother",
+    "thai": "ยาย",
     "phonetic": ""
   },
   {
-    "english": "Opponent",
-    "thai": "คู่ต่อสู้",
+    "english": "Grandfather",
+    "thai": "ปู่",
     "phonetic": ""
   },
   {
-    "english": "Adversary",
-    "thai": "ศัตรู",
+    "english": "Grandparent",
+    "thai": "ปู่ย่าตายาย",
     "phonetic": ""
   },
   {
-    "english": "Foe",
-    "thai": "ศัตรู",
+    "english": "Aunt",
+    "thai": "ป้า",
     "phonetic": ""
   },
   {
-    "english": "Nemesis",
-    "thai": "เนเมซิส",
+    "english": "Uncle",
+    "thai": "ลุง",
     "phonetic": ""
   },
   {
-    "english": "Competitor",
-    "thai": "คู่แข่ง",
+    "english": "Cousin",
+    "thai": "ลูกพี่ลูกน้อง",
     "phonetic": ""
   },
   {
-    "english": "Contender",
-    "thai": "ผู้ท้าชิง",
+    "english": "Niece",
+    "thai": "หลานสาว",
     "phonetic": ""
   },
   {
-    "english": "Challenger",
-    "thai": "ชาเลนเจอร์",
+    "english": "Nephew",
+    "thai": "หลานชาย",
     "phonetic": ""
   },
   {
-    "english": "Victor",
-    "thai": "วิกเตอร์",
+    "english": "Husband",
+    "thai": "สามี",
     "phonetic": ""
   },
   {
-    "english": "Loser",
-    "thai": "คนขี้แพ้",
+    "english": "Wife",
+    "thai": "ภรรยา",
     "phonetic": ""
   },
   {
-    "english": "Winner",
-    "thai": "ผู้ชนะ",
+    "english": "Spouse",
+    "thai": "คู่สมรส",
     "phonetic": ""
   }
 ]

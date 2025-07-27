@@ -1,7 +1,12 @@
 [
   {
-    "english": "Girlfriend",
-    "thai": "แฟน",
+    "english": "Nation",
+    "thai": "ชาติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Bolivia",
+    "thai": "โบลิเวีย",
     "phonetic": ""
   },
   {
@@ -10,38 +15,23 @@
     "phonetic": ""
   },
   {
-    "english": "Guyana",
-    "thai": "กายอานา",
+    "english": "Australia",
+    "thai": "ออสเตรเลีย",
     "phonetic": ""
   },
   {
-    "english": "Daughter",
-    "thai": "ลูกสาว",
+    "english": "Korean",
+    "thai": "เกาหลี",
     "phonetic": ""
   },
   {
-    "english": "Austria",
-    "thai": "ออสเตรีย",
+    "english": "Guyanese",
+    "thai": "ชาวกายอานา",
     "phonetic": ""
   },
   {
-    "english": "Colombian",
-    "thai": "ชาวโคลอมเบีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Child",
-    "thai": "เด็ก",
-    "phonetic": ""
-  },
-  {
-    "english": "Netherlands",
-    "thai": "เนเธอร์แลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Chilean",
-    "thai": "ชิลี",
+    "english": "Japan",
+    "thai": "ประเทศญี่ปุ่น",
     "phonetic": ""
   },
   {
@@ -50,113 +40,13 @@
     "phonetic": ""
   },
   {
-    "english": "Denmark",
-    "thai": "เดนมาร์ก",
+    "english": "Irish",
+    "thai": "ไอริช",
     "phonetic": ""
   },
   {
-    "english": "Belgium",
-    "thai": "เบลเยียม",
-    "phonetic": ""
-  },
-  {
-    "english": "Venezuela",
-    "thai": "เวเนซุเอลา",
-    "phonetic": ""
-  },
-  {
-    "english": "Son",
-    "thai": "ลูกชาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Fiancée",
-    "thai": "คู่หมั้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Peru",
-    "thai": "เปรู",
-    "phonetic": ""
-  },
-  {
-    "english": "Uruguay",
-    "thai": "อุรุกวัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Descendant",
-    "thai": "ลูกหลาน",
-    "phonetic": ""
-  },
-  {
-    "english": "Cousin",
-    "thai": "ลูกพี่ลูกน้อง",
-    "phonetic": ""
-  },
-  {
-    "english": "Goddaughter",
-    "thai": "ลูกสาวบุญธรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Grandfather",
-    "thai": "ปู่",
-    "phonetic": ""
-  },
-  {
-    "english": "Argentinian",
-    "thai": "ชาวอาร์เจนตินา",
-    "phonetic": ""
-  },
-  {
-    "english": "Mother",
-    "thai": "แม่",
-    "phonetic": ""
-  },
-  {
-    "english": "Engagement",
-    "thai": "การว่าจ้าง",
-    "phonetic": ""
-  },
-  {
-    "english": "Partner",
-    "thai": "พันธมิตร",
-    "phonetic": ""
-  },
-  {
-    "english": "Stepsister",
-    "thai": "พี่เลี้ยง",
-    "phonetic": ""
-  },
-  {
-    "english": "Bolivian",
-    "thai": "ชาวโบลิเวีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Switzerland",
-    "thai": "สวิตเซอร์แลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Lineage",
-    "thai": "เชื้อสาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Danish",
-    "thai": "เดนมาร์ก",
-    "phonetic": ""
-  },
-  {
-    "english": "Belgian",
-    "thai": "เบลเยียม",
-    "phonetic": ""
-  },
-  {
-    "english": "Generation",
-    "thai": "รุ่น",
+    "english": "French",
+    "thai": "ภาษาฝรั่งเศส",
     "phonetic": ""
   },
   {
@@ -165,73 +55,58 @@
     "phonetic": ""
   },
   {
-    "english": "Norwegian",
+    "english": "Switzerland",
+    "thai": "สวิตเซอร์แลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Luxembourg",
+    "thai": "ลักเซมเบิร์ก",
+    "phonetic": ""
+  },
+  {
+    "english": "Norway",
     "thai": "นอร์เวย์",
     "phonetic": ""
   },
   {
-    "english": "Will",
-    "thai": "จะ",
+    "english": "Colombian",
+    "thai": "ชาวโคลอมเบีย",
     "phonetic": ""
   },
   {
-    "english": "Heiress",
-    "thai": "ทายาทหญิง",
+    "english": "Ghanaian",
+    "thai": "ชาวกานา",
     "phonetic": ""
   },
   {
-    "english": "Progeny",
-    "thai": "ลูกหลาน",
+    "english": "Chilean",
+    "thai": "ชิลี",
     "phonetic": ""
   },
   {
-    "english": "Brother",
-    "thai": "พี่ชาย",
+    "english": "Vietnamese",
+    "thai": "เวียดนาม",
     "phonetic": ""
   },
   {
-    "english": "Sibling",
-    "thai": "พี่น้อง",
+    "english": "Venezuelan",
+    "thai": "ชาวเวเนซุเอลา",
     "phonetic": ""
   },
   {
-    "english": "Offspring",
-    "thai": "ลูกหลาน",
+    "english": "Ghana",
+    "thai": "กานา",
     "phonetic": ""
   },
   {
-    "english": "Pedigree",
-    "thai": "สายเลือด",
+    "english": "Colombia",
+    "thai": "โคลอมเบีย",
     "phonetic": ""
   },
   {
-    "english": "Stepmother",
-    "thai": "แม่เลี้ยง",
-    "phonetic": ""
-  },
-  {
-    "english": "Inheritance",
-    "thai": "มรดก",
-    "phonetic": ""
-  },
-  {
-    "english": "Uruguayan",
-    "thai": "ชาวอุรุกวัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Father",
-    "thai": "พ่อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Grandparent",
-    "thai": "ปู่ย่าตายาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Marriage",
-    "thai": "การแต่งงาน",
+    "english": "Ethiopian",
+    "thai": "ชาวเอธิโอเปีย",
     "phonetic": ""
   },
   {
@@ -245,8 +120,68 @@
     "phonetic": ""
   },
   {
-    "english": "Swiss",
-    "thai": "สวิส",
+    "english": "Uruguay",
+    "thai": "อุรุกวัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Tanzania",
+    "thai": "แทนซาเนีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Argentinian",
+    "thai": "ชาวอาร์เจนตินา",
+    "phonetic": ""
+  },
+  {
+    "english": "Peru",
+    "thai": "เปรู",
+    "phonetic": ""
+  },
+  {
+    "english": "British",
+    "thai": "ชาวอังกฤษ",
+    "phonetic": ""
+  },
+  {
+    "english": "Ethiopia",
+    "thai": "เอธิโอเปีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Thai",
+    "thai": "แบบไทย",
+    "phonetic": ""
+  },
+  {
+    "english": "Russia",
+    "thai": "รัสเซีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Venezuela",
+    "thai": "เวเนซุเอลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Portugal",
+    "thai": "โปรตุเกส",
+    "phonetic": ""
+  },
+  {
+    "english": "Mexico",
+    "thai": "เม็กซิโก",
+    "phonetic": ""
+  },
+  {
+    "english": "Bolivian",
+    "thai": "ชาวโบลิเวีย",
+    "phonetic": ""
+  },
+  {
+    "english": "France",
+    "thai": "ฝรั่งเศส",
     "phonetic": ""
   },
   {
@@ -255,143 +190,13 @@
     "phonetic": ""
   },
   {
-    "english": "Wedding",
-    "thai": "งานแต่งงาน",
+    "english": "China",
+    "thai": "จีน",
     "phonetic": ""
   },
   {
-    "english": "Testament",
-    "thai": "พินัยกรรม",
-    "phonetic": ""
-  },
-  {
-    "english": "Luxembourgish",
-    "thai": "ลักเซมเบิร์ก",
-    "phonetic": ""
-  },
-  {
-    "english": "Divorce",
-    "thai": "หย่า",
-    "phonetic": ""
-  },
-  {
-    "english": "Anniversary",
-    "thai": "วันครบรอบปี",
-    "phonetic": ""
-  },
-  {
-    "english": "Godfather",
-    "thai": "เจ้าพ่อ",
-    "phonetic": ""
-  },
-  {
-    "english": "Honeymoon",
-    "thai": "ฮันนีมูน",
-    "phonetic": ""
-  },
-  {
-    "english": "Grandmother",
-    "thai": "ยาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Dating",
-    "thai": "การออกเดท",
-    "phonetic": ""
-  },
-  {
-    "english": "Nephew",
-    "thai": "หลานชาย",
-    "phonetic": ""
-  },
-  {
-    "english": "Friendship",
-    "thai": "มิตรภาพ",
-    "phonetic": ""
-  },
-  {
-    "english": "Colombia",
-    "thai": "โคลอมเบีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Godmother",
-    "thai": "แม่ทูนหัว",
-    "phonetic": ""
-  },
-  {
-    "english": "Kinship",
-    "thai": "ความเป็นเครือญาติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Ecuador",
-    "thai": "เอกวาดอร์",
-    "phonetic": ""
-  },
-  {
-    "english": "Fiancé",
-    "thai": "คู่หมั้น",
-    "phonetic": ""
-  },
-  {
-    "english": "Venezuelan",
-    "thai": "ชาวเวเนซุเอลา",
-    "phonetic": ""
-  },
-  {
-    "english": "In-laws",
-    "thai": "ญาติฝ่ายสามี/ภรรยา",
-    "phonetic": ""
-  },
-  {
-    "english": "Sister",
-    "thai": "น้องสาว",
-    "phonetic": ""
-  },
-  {
-    "english": "Legacy",
-    "thai": "มรดก",
-    "phonetic": ""
-  },
-  {
-    "english": "Uncle",
-    "thai": "ลุง",
-    "phonetic": ""
-  },
-  {
-    "english": "Chile",
-    "thai": "ชิลี",
-    "phonetic": ""
-  },
-  {
-    "english": "Norway",
-    "thai": "นอร์เวย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Bolivia",
-    "thai": "โบลิเวีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Relationship",
-    "thai": "ความสัมพันธ์",
-    "phonetic": ""
-  },
-  {
-    "english": "Stepbrother",
-    "thai": "พี่ชายต่างแม่",
-    "phonetic": ""
-  },
-  {
-    "english": "Relative",
-    "thai": "ญาติ",
-    "phonetic": ""
-  },
-  {
-    "english": "Luxembourg",
-    "thai": "ลักเซมเบิร์ก",
+    "english": "Spanish",
+    "thai": "ภาษาสเปน",
     "phonetic": ""
   },
   {
@@ -400,48 +205,8 @@
     "phonetic": ""
   },
   {
-    "english": "Stepfather",
-    "thai": "พ่อเลี้ยง",
-    "phonetic": ""
-  },
-  {
-    "english": "Executor",
-    "thai": "ผู้ดำเนินการ",
-    "phonetic": ""
-  },
-  {
-    "english": "Icelandic",
-    "thai": "ไอซ์แลนด์",
-    "phonetic": ""
-  },
-  {
-    "english": "Guyanese",
-    "thai": "ชาวกายอานา",
-    "phonetic": ""
-  },
-  {
-    "english": "Paraguayan",
-    "thai": "ปารากวัย",
-    "phonetic": ""
-  },
-  {
-    "english": "Estate",
-    "thai": "อสังหาริมทรัพย์",
-    "phonetic": ""
-  },
-  {
-    "english": "Parent",
-    "thai": "พ่อแม่",
-    "phonetic": ""
-  },
-  {
-    "english": "Austrian",
-    "thai": "ออสเตรีย",
-    "phonetic": ""
-  },
-  {
-    "english": "Ancestor",
-    "thai": "บรรพบุรุษ",
+    "english": "Vietnam",
+    "thai": "เวียดนาม",
     "phonetic": ""
   },
   {
@@ -450,8 +215,143 @@
     "phonetic": ""
   },
   {
+    "english": "Pakistani",
+    "thai": "ปากีสถาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Pakistan",
+    "thai": "ปากีสถาน",
+    "phonetic": ""
+  },
+  {
+    "english": "Kenyan",
+    "thai": "ชาวเคนยา",
+    "phonetic": ""
+  },
+  {
+    "english": "Spain",
+    "thai": "สเปน",
+    "phonetic": ""
+  },
+  {
+    "english": "Denmark",
+    "thai": "เดนมาร์ก",
+    "phonetic": ""
+  },
+  {
+    "english": "India",
+    "thai": "อินเดีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Portuguese",
+    "thai": "โปรตุเกส",
+    "phonetic": ""
+  },
+  {
     "english": "Finland",
     "thai": "ฟินแลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Netherlands",
+    "thai": "เนเธอร์แลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Egypt",
+    "thai": "อียิปต์",
+    "phonetic": ""
+  },
+  {
+    "english": "Danish",
+    "thai": "เดนมาร์ก",
+    "phonetic": ""
+  },
+  {
+    "english": "Italy",
+    "thai": "อิตาลี",
+    "phonetic": ""
+  },
+  {
+    "english": "Ireland",
+    "thai": "ไอร์แลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "New Zealander",
+    "thai": "ชาวนิวซีแลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Germany",
+    "thai": "เยอรมนี",
+    "phonetic": ""
+  },
+  {
+    "english": "Bangladeshi",
+    "thai": "ชาวบังคลาเทศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Nigeria",
+    "thai": "ไนจีเรีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Austria",
+    "thai": "ออสเตรีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Bangladesh",
+    "thai": "บังคลาเทศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Korea",
+    "thai": "เกาหลี",
+    "phonetic": ""
+  },
+  {
+    "english": "Canada",
+    "thai": "แคนาดา",
+    "phonetic": ""
+  },
+  {
+    "english": "Austrian",
+    "thai": "ออสเตรีย",
+    "phonetic": ""
+  },
+  {
+    "english": "New Zealand",
+    "thai": "นิวซีแลนด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Belgium",
+    "thai": "เบลเยียม",
+    "phonetic": ""
+  },
+  {
+    "english": "Uruguayan",
+    "thai": "ชาวอุรุกวัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Belgian",
+    "thai": "เบลเยียม",
+    "phonetic": ""
+  },
+  {
+    "english": "Chinese",
+    "thai": "ชาวจีน",
+    "phonetic": ""
+  },
+  {
+    "english": "Paraguayan",
+    "thai": "ปารากวัย",
     "phonetic": ""
   },
   {
@@ -460,43 +360,143 @@
     "phonetic": ""
   },
   {
-    "english": "Wife",
-    "thai": "ภรรยา",
+    "english": "Ecuador",
+    "thai": "เอกวาดอร์",
     "phonetic": ""
   },
   {
-    "english": "Heir",
-    "thai": "ทายาท",
+    "english": "Tanzanian",
+    "thai": "แทนซาเนีย",
     "phonetic": ""
   },
   {
-    "english": "Husband",
-    "thai": "สามี",
+    "english": "Guyana",
+    "thai": "กายอานา",
     "phonetic": ""
   },
   {
-    "english": "Boyfriend",
-    "thai": "แฟน",
+    "english": "Icelandic",
+    "thai": "ไอซ์แลนด์",
     "phonetic": ""
   },
   {
-    "english": "Aunt",
-    "thai": "ป้า",
+    "english": "Kenya",
+    "thai": "เคนยา",
     "phonetic": ""
   },
   {
-    "english": "Niece",
-    "thai": "หลานสาว",
+    "english": "South African",
+    "thai": "แอฟริกาใต้",
     "phonetic": ""
   },
   {
-    "english": "Spouse",
-    "thai": "คู่สมรส",
+    "english": "Mexican",
+    "thai": "ชาวเม็กซิกัน",
     "phonetic": ""
   },
   {
-    "english": "Godson",
-    "thai": "กอดซัน",
+    "english": "United Kingdom",
+    "thai": "สหราชอาณาจักร",
+    "phonetic": ""
+  },
+  {
+    "english": "Swiss",
+    "thai": "สวิส",
+    "phonetic": ""
+  },
+  {
+    "english": "Norwegian",
+    "thai": "นอร์เวย์",
+    "phonetic": ""
+  },
+  {
+    "english": "Indian",
+    "thai": "ชาวอินเดีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Italian",
+    "thai": "อิตาลี",
+    "phonetic": ""
+  },
+  {
+    "english": "Thailand",
+    "thai": "ประเทศไทย",
+    "phonetic": ""
+  },
+  {
+    "english": "South Africa",
+    "thai": "แอฟริกาใต้",
+    "phonetic": ""
+  },
+  {
+    "english": "Russian",
+    "thai": "รัสเซีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Australian",
+    "thai": "ชาวออสเตรเลีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Chile",
+    "thai": "ชิลี",
+    "phonetic": ""
+  },
+  {
+    "english": "German",
+    "thai": "ภาษาเยอรมัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Luxembourgish",
+    "thai": "ลักเซมเบิร์ก",
+    "phonetic": ""
+  },
+  {
+    "english": "Japanese",
+    "thai": "ญี่ปุ่น",
+    "phonetic": ""
+  },
+  {
+    "english": "Brazil",
+    "thai": "บราซิล",
+    "phonetic": ""
+  },
+  {
+    "english": "Nationality",
+    "thai": "สัญชาติ",
+    "phonetic": ""
+  },
+  {
+    "english": "America",
+    "thai": "อเมริกา",
+    "phonetic": ""
+  },
+  {
+    "english": "Nigerian",
+    "thai": "ไนจีเรีย",
+    "phonetic": ""
+  },
+  {
+    "english": "Egyptian",
+    "thai": "ชาวอียิปต์",
+    "phonetic": ""
+  },
+  {
+    "english": "Canadian",
+    "thai": "ชาวแคนาดา",
+    "phonetic": ""
+  },
+  {
+    "english": "American",
+    "thai": "อเมริกัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Brazilian",
+    "thai": "บราซิล",
     "phonetic": ""
   }
 ]

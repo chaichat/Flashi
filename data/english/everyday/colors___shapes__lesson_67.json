@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Color",
+    "thai": "สี",
+    "phonetic": ""
+  },
+  {
+    "english": "Hue",
+    "thai": "เฉดสี",
+    "phonetic": ""
+  },
+  {
+    "english": "Tint",
+    "thai": "ย้อมสี",
+    "phonetic": ""
+  },
+  {
+    "english": "Saturation",
+    "thai": "ความอิ่มตัว",
+    "phonetic": ""
+  },
+  {
+    "english": "Brightness",
+    "thai": "ความสว่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Contrast",
+    "thai": "ตัดกัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Dark",
+    "thai": "มืด",
+    "phonetic": ""
+  },
+  {
+    "english": "Vibrant",
+    "thai": "สดใส",
+    "phonetic": ""
+  },
+  {
+    "english": "Muted",
+    "thai": "ปิดเสียง",
+    "phonetic": ""
+  },
+  {
+    "english": "Pastel",
+    "thai": "สีพาสเทล",
+    "phonetic": ""
+  },
+  {
+    "english": "Neon",
+    "thai": "นีออน",
+    "phonetic": ""
+  },
+  {
+    "english": "Primary",
+    "thai": "หลัก",
+    "phonetic": ""
+  },
+  {
+    "english": "Secondary",
+    "thai": "มัธยมศึกษาตอนปลาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Tertiary",
+    "thai": "ระดับอุดมศึกษา",
+    "phonetic": ""
+  },
+  {
+    "english": "Neutral",
+    "thai": "เป็นกลาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Monochromatic",
+    "thai": "สีเดียว",
+    "phonetic": ""
+  },
+  {
+    "english": "Analogous",
+    "thai": "คล้ายคลึงกัน",
+    "phonetic": ""
+  },
+  {
+    "english": "Complementary",
+    "thai": "เสริม",
+    "phonetic": ""
+  },
+  {
+    "english": "Triadic",
+    "thai": "ไตรแอดิก",
+    "phonetic": ""
+  },
+  {
+    "english": "Tetradic",
+    "thai": "สี่เท่า",
+    "phonetic": ""
+  }
+]

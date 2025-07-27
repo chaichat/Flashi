@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Is this on sale",
+    "thai": "นี่ลดราคาอยู่ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "What is the discount",
+    "thai": "ส่วนลดคืออะไร",
+    "phonetic": ""
+  },
+  {
+    "english": "Is there a special offer",
+    "thai": "มีข้อเสนอพิเศษไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "When does the sale end",
+    "thai": "การขายสิ้นสุดเมื่อไร",
+    "phonetic": ""
+  },
+  {
+    "english": "Is this a new arrival",
+    "thai": "นี่เป็นผู้มาใหม่ใช่ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Is this a best seller",
+    "thai": "นี่เป็นสินค้าขายดีไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Is this a limited edition",
+    "thai": "นี่เป็นรุ่นลิมิเต็ดอิดิชั่นใช่ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I bargain",
+    "thai": "ฉันสามารถต่อรองได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Can you give me a better price",
+    "thai": "คุณให้ราคาที่ดีกว่านี้ให้ฉันได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I will pay in cash",
+    "thai": "ฉันจะจ่ายเป็นเงินสด",
+    "phonetic": ""
+  },
+  {
+    "english": "I will pay by card",
+    "thai": "ฉันจะจ่ายด้วยบัตร",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I pay with my phone",
+    "thai": "ฉันสามารถชำระเงินด้วยโทรศัพท์ของฉันได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "Do you have a receipt",
+    "thai": "คุณมีใบเสร็จไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "I lost my receipt",
+    "thai": "ฉันทำใบเสร็จหาย",
+    "phonetic": ""
+  },
+  {
+    "english": "Can I exchange this",
+    "thai": "ฉันสามารถแลกเปลี่ยนสิ่งนี้ได้ไหม",
+    "phonetic": ""
+  },
+  {
+    "english": "It is too expensive",
+    "thai": "มันแพงเกินไป",
+    "phonetic": ""
+  },
+  {
+    "english": "It is too cheap",
+    "thai": "มันถูกเกินไป",
+    "phonetic": ""
+  },
+  {
+    "english": "It is just right",
+    "thai": "มันก็พอดีเลย",
+    "phonetic": ""
+  },
+  {
+    "english": "I love it",
+    "thai": "ฉันรักมัน",
+    "phonetic": ""
+  },
+  {
+    "english": "I hate it",
+    "thai": "ฉันเกลียดมัน",
+    "phonetic": ""
+  }
+]

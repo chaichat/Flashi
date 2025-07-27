@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Flight",
+    "thai": "เที่ยวบิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Train",
+    "thai": "รถไฟ",
+    "phonetic": ""
+  },
+  {
+    "english": "Bus",
+    "thai": "รสบัส",
+    "phonetic": ""
+  },
+  {
+    "english": "Subway",
+    "thai": "รถไฟใต้ดิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Ferry",
+    "thai": "เรือข้ามฟาก",
+    "phonetic": ""
+  },
+  {
+    "english": "Gate",
+    "thai": "ประตู",
+    "phonetic": ""
+  },
+  {
+    "english": "Seat",
+    "thai": "ที่นั่ง",
+    "phonetic": ""
+  },
+  {
+    "english": "Window",
+    "thai": "หน้าต่าง",
+    "phonetic": ""
+  },
+  {
+    "english": "Boarding pass",
+    "thai": "บัตรโดยสารขึ้นเครื่อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Check-in",
+    "thai": "เช็คอิน",
+    "phonetic": ""
+  },
+  {
+    "english": "Customs",
+    "thai": "ศุลกากร",
+    "phonetic": ""
+  },
+  {
+    "english": "Arrivals",
+    "thai": "การมาถึง",
+    "phonetic": ""
+  },
+  {
+    "english": "Departures",
+    "thai": "การออกเดินทาง",
+    "phonetic": ""
+  },
+  {
+    "english": "Delay",
+    "thai": "ล่าช้า",
+    "phonetic": ""
+  },
+  {
+    "english": "Cancelled",
+    "thai": "ยกเลิก",
+    "phonetic": ""
+  },
+  {
+    "english": "On time",
+    "thai": "ตรงเวลา",
+    "phonetic": ""
+  },
+  {
+    "english": "Baggage",
+    "thai": "สัมภาระ",
+    "phonetic": ""
+  },
+  {
+    "english": "Carry-on",
+    "thai": "สัมภาระถือขึ้นเครื่อง",
+    "phonetic": ""
+  },
+  {
+    "english": "Checked",
+    "thai": "ตรวจสอบแล้ว",
+    "phonetic": ""
+  },
+  {
+    "english": "Overhead",
+    "thai": "ค่าใช้จ่ายเหนือศีรษะ",
+    "phonetic": ""
+  }
+]

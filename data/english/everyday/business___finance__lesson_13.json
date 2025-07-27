@@ -1,0 +1,102 @@
+[
+  {
+    "english": "Information Technology",
+    "thai": "เทคโนโลยีสารสนเทศ",
+    "phonetic": ""
+  },
+  {
+    "english": "Helpdesk",
+    "thai": "ฝ่ายช่วยเหลือ",
+    "phonetic": ""
+  },
+  {
+    "english": "Support",
+    "thai": "สนับสนุน",
+    "phonetic": ""
+  },
+  {
+    "english": "Network",
+    "thai": "เครือข่าย",
+    "phonetic": ""
+  },
+  {
+    "english": "Server",
+    "thai": "เซิร์ฟเวอร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Database",
+    "thai": "ฐานข้อมูล",
+    "phonetic": ""
+  },
+  {
+    "english": "Cloud",
+    "thai": "คลาวด์",
+    "phonetic": ""
+  },
+  {
+    "english": "Software as a Service",
+    "thai": "ซอฟต์แวร์เป็นบริการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Platform as a Service",
+    "thai": "แพลตฟอร์มในรูปแบบบริการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Infrastructure as a Service",
+    "thai": "โครงสร้างพื้นฐานในรูปแบบบริการ",
+    "phonetic": ""
+  },
+  {
+    "english": "Security",
+    "thai": "ความปลอดภัย",
+    "phonetic": ""
+  },
+  {
+    "english": "Firewall",
+    "thai": "ไฟร์วอลล์",
+    "phonetic": ""
+  },
+  {
+    "english": "Antivirus",
+    "thai": "แอนตี้ไวรัส",
+    "phonetic": ""
+  },
+  {
+    "english": "Virtual Private Network",
+    "thai": "เครือข่ายส่วนตัวเสมือน",
+    "phonetic": ""
+  },
+  {
+    "english": "Backup",
+    "thai": "การสำรองข้อมูล",
+    "phonetic": ""
+  },
+  {
+    "english": "Recovery",
+    "thai": "การกู้คืน",
+    "phonetic": ""
+  },
+  {
+    "english": "Disaster",
+    "thai": "ภัยพิบัติ",
+    "phonetic": ""
+  },
+  {
+    "english": "Business continuity",
+    "thai": "ความต่อเนื่องทางธุรกิจ",
+    "phonetic": ""
+  },
+  {
+    "english": "Hardware",
+    "thai": "ฮาร์ดแวร์",
+    "phonetic": ""
+  },
+  {
+    "english": "Software",
+    "thai": "ซอฟต์แวร์",
+    "phonetic": ""
+  }
+]

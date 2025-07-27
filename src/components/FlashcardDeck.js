@@ -273,16 +273,14 @@ class FlashcardDeck {
 
             // Handle swipe
             if (Math.abs(diffX) > SWIPE_CONFIG.MIN_DISTANCE || velocity > SWIPE_CONFIG.MIN_VELOCITY) {
+                const currentIndex = this.state.getCardIndex();
                 let shouldAnimate = false;
                 
                 if (diffX < 0) {
-                    // Swipe left - check if we can go to next card
-                    const currentIndex = this.state.getCardIndex();
-                    const deck = this.state.getCurrentDeck();
-                    shouldAnimate = currentIndex < deck.length - 1;
+                    // Swipe left - always allow animation (even on last card to show completion)
+                    shouldAnimate = true;
                 } else {
                     // Swipe right - check if we can go to previous card
-                    const currentIndex = this.state.getCardIndex();
                     shouldAnimate = currentIndex > 0;
                 }
                 
@@ -295,7 +293,7 @@ class FlashcardDeck {
                     
                     setTimeout(() => {
                         if (diffX < 0) {
-                            // Swipe left - go to next card
+                            // Swipe left - go to next card or show completion
                             this.nextCard();
                         } else {
                             // Swipe right - go to previous card
